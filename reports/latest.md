@@ -1,10 +1,10 @@
 # LLM YouTube Landscape Tracker
 
-Generated at: `2026-05-09T17:49:26.821117+00:00`
+Generated at: `2026-05-09T18:22:32.319729+00:00`
 
 ## Summary
 
-- Total videos: **75**
+- Total videos: **76**
 - Analyzed videos: **10**
 
 ## Top Topics

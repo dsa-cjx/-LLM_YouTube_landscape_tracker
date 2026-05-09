@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-05-09T17:49:26.817332+00:00",
+  "generated_at": "2026-05-09T18:22:32.315954+00:00",
   "stats": {
-    "total_videos": 75,
+    "total_videos": 76,
     "analyzed_videos": 10,
     "channels": [
+      [
+        "Matthew Berman",
+        16
+      ],
       [
         "Two Minute Papers",
         15
       ],
       [
         "Stanford Online",
-        15
-      ],
-      [
-        "Matthew Berman",
         15
       ],
       [
@@ -93,6 +93,19 @@
     ]
   },
   "items": [
+    {
+      "video_id": "1a_k48eco2c",
+      "title": "AI is taking over video games",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=1a_k48eco2c",
+      "published": "2026-05-09T18:04:22+00:00",
+      "summary": "Okay now we're in the actual end game. DeepMind (Google) just invested heavily into Eve Online... they want to analyze player behavior and bake human logic into their AI models!! This is the PERFECT playground for research to excel in: long horizon planning with examples from humans who actually care about what they're doing: market timing, war, strategy, scamming, etc. The leap forward from this is INSANE and it's amazing to see what Google decided they need and how they are decided to go about getting it. Maybe I need to log into Eve Online... #ai #future #tech #llm\n\nFollow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "4nQnhjimB4Y",
       "title": "OpenAI's GPT 5.5 Instant: The Good, The Bad And The Insane",
