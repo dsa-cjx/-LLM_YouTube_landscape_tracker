@@ -1,0 +1,38 @@
+topics:
+  - LLM benchmarks
+  - model comparison
+  - reasoning models
+  - AI agents
+  - RAG
+  - fine-tuning
+  - prompt engineering
+  - multimodal models
+  - open-source models
+  - coding agents
+  - AI safety
+  - AI regulation
+  - developer tools
+  - enterprise AI
+  - model evaluation
+  - synthetic data
+  - AI hardware
+  - robotics and embodied AI
+  - long-context models
+  - voice assistants
+
+signals:
+  - new_model
+  - new_product
+  - new_framework
+  - benchmark_result
+  - funding_or_business
+  - tutorial
+  - research_breakthrough
+  - market_trend
+  - open_source_release
+  - infrastructure_update
+
+importance_levels:
+  - low
+  - medium
+  - high

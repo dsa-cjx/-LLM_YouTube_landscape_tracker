@@ -1,0 +1,20 @@
+channels:
+  - name: AI Explained
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw
+    category: AI Analysis
+
+  - name: Matthew Berman
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA
+    category: AI Tools
+
+  - name: Two Minute Papers
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg
+    category: AI Research
+
+  - name: Yannic Kilcher
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew
+    category: AI Research
+
+  - name: Stanford Online
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCBa5G_ESCn8Yd4vw5U-gIcg
+    category: Education

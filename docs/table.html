@@ -1,0 +1,1366 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LLM YouTube Landscape Tracker — Concise Table</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f6f7fb;
+      color: #111827;
+    }
+
+    header {
+      padding: 36px 28px;
+      background: linear-gradient(135deg, #111827, #312e81);
+      color: white;
+    }
+
+    header h1 {
+      margin: 0 0 10px;
+      font-size: 42px;
+      letter-spacing: -0.04em;
+    }
+
+    header p {
+      margin: 0;
+      max-width: 1100px;
+      color: #d1d5db;
+      line-height: 1.6;
+      font-size: 17px;
+    }
+
+    main {
+      max-width: 1800px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(180px, 1fr));
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+
+    .metric {
+      background: white;
+      border: 1px solid #e5e7eb;
+      border-radius: 16px;
+      padding: 18px;
+      box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
+    }
+
+    .metric span {
+      display: block;
+      color: #6b7280;
+      font-size: 13px;
+      margin-bottom: 6px;
+    }
+
+    .metric strong {
+      font-size: 30px;
+    }
+
+    .note {
+      background: #fffbeb;
+      border: 1px solid #fde68a;
+      color: #92400e;
+      padding: 14px 16px;
+      border-radius: 14px;
+      margin-bottom: 20px;
+      line-height: 1.6;
+    }
+
+    .channels {
+      color: #6b7280;
+      margin-bottom: 20px;
+      line-height: 1.6;
+    }
+
+    .table-wrap {
+      overflow-x: auto;
+      background: white;
+      border: 1px solid #e5e7eb;
+      border-radius: 18px;
+      box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
+    }
+
+    table {
+      width: 100%;
+      min-width: 1700px;
+      border-collapse: collapse;
+    }
+
+    th,
+    td {
+      padding: 12px 14px;
+      border-bottom: 1px solid #e5e7eb;
+      text-align: left;
+      vertical-align: top;
+      font-size: 14px;
+      line-height: 1.45;
+    }
+
+    th {
+      background: #f9fafb;
+      color: #374151;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      position: sticky;
+      top: 0;
+      z-index: 2;
+    }
+
+    .title {
+      font-weight: 800;
+      max-width: 260px;
+    }
+
+    .tag {
+      display: inline-block;
+      margin: 2px;
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: #eef2ff;
+      color: #3730a3;
+      font-size: 12px;
+      white-space: nowrap;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 5px 9px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 800;
+      white-space: nowrap;
+    }
+
+    .badge.ok {
+      background: #dcfce7;
+      color: #166534;
+    }
+
+    .badge.pending {
+      background: #fee2e2;
+      color: #991b1b;
+    }
+
+    a {
+      color: #2563eb;
+      text-decoration: none;
+      font-weight: 800;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 900px) {
+      .metrics {
+        grid-template-columns: 1fr;
+      }
+
+      header h1 {
+        font-size: 30px;
+      }
+
+      main {
+        padding: 14px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>LLM YouTube Landscape Tracker — Concise Table</h1>
+    <p>
+      A concise table categorising LLM-related YouTube videos by speaker, topic, transcript-grounded summary,
+      source status, and relationship to other tracked AI channels.
+    </p>
+  </header>
+
+  <main>
+    <section class="metrics">
+      <div class="metric">
+        <span>Total videos</span>
+        <strong>75</strong>
+      </div>
+      <div class="metric">
+        <span>Transcript OK</span>
+        <strong>10</strong>
+      </div>
+      <div class="metric">
+        <span>Transcript-based analyses</span>
+        <strong>10</strong>
+      </div>
+      <div class="metric">
+        <span>Last generated</span>
+        <strong style="font-size: 16px;">2026-05-09T17:49:26</strong>
+      </div>
+    </section>
+
+    <div class="note">
+      Methodology: Videos are collected from YouTube RSS feeds. LLM summaries are shown only for rows with available captions/transcripts and successful analysis.
+      Rows without reliable transcript-based analysis are marked as pending or unavailable instead of being summarized from titles or thumbnails alone.
+    </div>
+
+    <div class="channels">
+      <strong>Channel coverage:</strong> Two Minute Papers: 15, Stanford Online: 15, Matthew Berman: 15, AI Explained: 15, Yannic Kilcher: 15
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Channel</th>
+            <th>Speaker</th>
+            <th>Video</th>
+            <th>Topics</th>
+            <th>Transcript-grounded summary</th>
+            <th>Channel angle</th>
+            <th>Relation to other channels</th>
+            <th>Source</th>
+            <th>Score</th>
+            <th>Evidence</th>
+            <th>Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+        <tr>
+          <td>2026-05-08</td>
+          <td>Two Minute Papers</td>
+          <td>channel host</td>
+          <td class="title">OpenAI&#x27;s GPT 5.5 Instant: The Good, The Bad And The Insane</td>
+          <td><span class="tag">AI agents</span><span class="tag">model comparison</span><span class="tag">AI safety</span></td>
+          <td>本视频介绍了OpenAI的GPT 5.5 Instant的优缺点及其影响。</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge ok">captions/transcript + LLM</span></td>
+          <td>8 / high</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=4nQnhjimB4Y" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-07</td>
+          <td>Stanford Online</td>
+          <td>channel host</td>
+          <td class="title">Stanford CS153 Frontier Systems | Nikhyl Singhal from Skip on Product Management in the AI Era</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>Education</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=BQrJ4lHAjhc" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-07</td>
+          <td>Matthew Berman</td>
+          <td>channel host</td>
+          <td class="title">GPT-Realtime-2, Directionally Bad and Agent Memory</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Tools</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=g31LEVJyGQI" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-07</td>
+          <td>Matthew Berman</td>
+          <td>channel host</td>
+          <td class="title">The Anthropic Situation is INSANE</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Tools</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=Gtt-xnzoIDc" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-07</td>
+          <td>Matthew Berman</td>
+          <td>channel host</td>
+          <td class="title">Everyone&#x27;s holding their laptops open</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Tools</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=SGg9jNrWmOQ" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-07</td>
+          <td>Matthew Berman</td>
+          <td>channel host</td>
+          <td class="title">How to Generate those AI videos</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Tools</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=P3jYJutGqWs" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-06</td>
+          <td>Stanford Online</td>
+          <td>channel host</td>
+          <td class="title">Stanford CS153 Frontier Systems | Amit Jain from Luma AI on Unified Intelligence Systems</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>Education</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=6nUl_w5W9Wk" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-06</td>
+          <td>Matthew Berman</td>
+          <td>channel host</td>
+          <td class="title">Anthropic x SpaceX!!!!</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Tools</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=fa3mUy9DHcs" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-06</td>
+          <td>Matthew Berman</td>
+          <td>channel host</td>
+          <td class="title">Anthropic scares me.</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Tools</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=gSeXcfDybHo" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-06</td>
+          <td>Two Minute Papers</td>
+          <td>channel host</td>
+          <td class="title">DeepSeek V4 AI Beats Billion Dollar Systems…For Free</td>
+          <td><span class="tag">open-source models</span><span class="tag">model comparison</span></td>
+          <td>DeepSeek V4在性能上超越了价值十亿的系统，且免费提供。</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge ok">captions/transcript + LLM</span></td>
+          <td>8 / high</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=p7K3xfViWCE" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-04</td>
+          <td>Stanford Online</td>
+          <td>channel host</td>
+          <td class="title">Stanford Online AI Programs Top Questions: When and How to Enroll in Online AI Courses</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>Education</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=knX-ekyjxF4" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-04</td>
+          <td>Stanford Online</td>
+          <td>channel host</td>
+          <td class="title">Stanford Online AI Programs Top Questions: Enrolling in Online Courses vs Self Study</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>Education</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=NLS7gtdcElQ" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-04</td>
+          <td>Stanford Online</td>
+          <td>channel host</td>
+          <td class="title">Stanford Online AI Programs Top Questions: What&#x27;s the Learning Experience Like?</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>Education</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=1U-dyBiwDBw" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-04</td>
+          <td>Stanford Online</td>
+          <td>channel host</td>
+          <td class="title">Stanford Online AI Programs Top Questions: Ready to Start? Preparing for Success</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>Education</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=5p2D-p7AMC0" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-04</td>
+          <td>Stanford Online</td>
+          <td>channel host</td>
+          <td class="title">Stanford Online AI Programs Top Questions: Choosing Your AI Program and Getting Started</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>Education</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=GUC6kQZf0A8" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-04</td>
+          <td>Stanford Online</td>
+          <td>channel host</td>
+          <td class="title">Stanford Online AI Programs Top Questions: Graduate vs Professional - Which Is Right for You?</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>Education</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=Cv7uVstoCW8" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-04</td>
+          <td>Stanford Online</td>
+          <td>channel host</td>
+          <td class="title">Stanford CS153 Frontier Systems | Andreas Blattmann from Black Forest Labs on Visual Intelligence</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>Education</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=CBaLU0dDEY8" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-04</td>
+          <td>Stanford Online</td>
+          <td>channel host</td>
+          <td class="title">Stanford CS153 Frontier Systems | Mati Staniszewski from ElevenLabs on The Future of Voice Systems</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>Education</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=vfF011ko89o" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-04</td>
+          <td>Stanford Online</td>
+          <td>channel host</td>
+          <td class="title">Stanford&#x27;s Code in Place Info Session with Mehran Sahami</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>Education</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=smSp11lXLJI" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-03</td>
+          <td>Matthew Berman</td>
+          <td>channel host</td>
+          <td class="title">Next MOST IMPORTANT App Ever</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Tools</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=Co6Z0K6-aI0" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-03</td>
+          <td>Two Minute Papers</td>
+          <td>channel host</td>
+          <td class="title">NVIDIA&#x27;s New AI Turns One Photo Into A World That Never Breaks</td>
+          <td><span class="tag">AI agents</span></td>
+          <td>这段视频介绍了NVIDIA的新AI，它能将一张照片转换为一个不会破裂的世界。</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge ok">captions/transcript + LLM</span></td>
+          <td>8 / high</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=eCw33snvoNI" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-02</td>
+          <td>Matthew Berman</td>
+          <td>channel host</td>
+          <td class="title">What is an AI Agent?</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Tools</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=sVbifq89aS0" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-01</td>
+          <td>Matthew Berman</td>
+          <td>channel host</td>
+          <td class="title">Why AI Is Brilliant and Stupid</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Tools</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=pngC-TH8M0U" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-01</td>
+          <td>Matthew Berman</td>
+          <td>channel host</td>
+          <td class="title">Baiting AI [LIVE]</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Tools</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=IX9Qd8xb8xY" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-05-01</td>
+          <td>Two Minute Papers</td>
+          <td>channel host</td>
+          <td class="title">Sakana AI’s God Simulator Is Brilliant</td>
+          <td><span class="tag">AI agents</span></td>
+          <td>该视频讨论了Sakana AI的神模拟器及其创新之处。</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge ok">captions/transcript + LLM</span></td>
+          <td>6 / medium</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=QzZ4VwDHAT4" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-30</td>
+          <td>Stanford Online</td>
+          <td>channel host</td>
+          <td class="title">Stanford CS153 Frontier Systems | Anjney Midha from AMP PBC on Frontier Systems</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>Education</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=O5PfU_uDhS0" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-30</td>
+          <td>Stanford Online</td>
+          <td>channel host</td>
+          <td class="title">Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 9: Scaling Laws</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>Education</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=Q15rhEWZPQ4" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-30</td>
+          <td>Stanford Online</td>
+          <td>channel host</td>
+          <td class="title">Stanford Robotics Seminar ENGR319 | Spring 2026 | Ingredientsfor Long-Horizon Robot Autonomy</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>Education</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=xvLTAm2cecY" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-29</td>
+          <td>Matthew Berman</td>
+          <td>channel host</td>
+          <td class="title">Deepseek is a Problem</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Tools</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=epzzALZ8oYo" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-29</td>
+          <td>Stanford Online</td>
+          <td>channel host</td>
+          <td class="title">Stanford CS547 HCI Seminar | Spring 2026 | Observing the User Experience in 2026</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>Education</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=QZ61wToFILM" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-28</td>
+          <td>Two Minute Papers</td>
+          <td>channel host</td>
+          <td class="title">Solved: The Bug That Haunted AI Video For Years</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>该视频讨论了一个长期困扰AI研究的错误。</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge ok">captions/transcript + LLM</span></td>
+          <td>5 / medium</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=yzajLZXh9JU" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-28</td>
+          <td>Matthew Berman</td>
+          <td>channel host</td>
+          <td class="title">Worst AI Reddit Take</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Tools</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=H1OsV7FnhZc" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-27</td>
+          <td>Matthew Berman</td>
+          <td>channel host</td>
+          <td class="title">China Takes Over</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Tools</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=cVqdbXlmXqs" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-25</td>
+          <td>Two Minute Papers</td>
+          <td>channel host</td>
+          <td class="title">NVIDIA&#x27;s New AI Broke My Brain</td>
+          <td><span class="tag">AI agents</span><span class="tag">multimodal models</span></td>
+          <td>这段视频介绍了NVIDIA的新AI模型及其对理念的挑战。</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge ok">captions/transcript + LLM</span></td>
+          <td>8 / high</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=Xf_v62TQOx4" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-25</td>
+          <td>Matthew Berman</td>
+          <td>channel host</td>
+          <td class="title">My Honest Thoughts about Deepseek</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Tools</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=UV1WDNe4J5w" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-24</td>
+          <td>AI Explained</td>
+          <td>channel host</td>
+          <td class="title">GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Analysis</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=jz0rNhfAKo8" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-24</td>
+          <td>Matthew Berman</td>
+          <td>channel host</td>
+          <td class="title">Google&#x27;s in a CRAZY position</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Tools</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=rYisztODPSY" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-17</td>
+          <td>AI Explained</td>
+          <td>channel host</td>
+          <td class="title">Claude Opus 4.7 - A New Frontier, in Performance … and Drama</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Analysis</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=QVJcdfkRpH8" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-16</td>
+          <td>Two Minute Papers</td>
+          <td>channel host</td>
+          <td class="title">DeepMind’s New AI: A Gift To Humanity</td>
+          <td><span class="tag">multimodal models</span><span class="tag">fine-tuning</span></td>
+          <td>DeepMind推出了新的AI模型Gemma，具有潜在的革命性影响。</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge ok">captions/transcript + LLM</span></td>
+          <td>8 / high</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=Sk9tvyRSCgY" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-14</td>
+          <td>Two Minute Papers</td>
+          <td>channel host</td>
+          <td class="title">Anthropic’s New AI Solves Problems…By Cheating</td>
+          <td><span class="tag">LLM benchmarks</span><span class="tag">model comparison</span><span class="tag">AI safety</span></td>
+          <td>本视频讨论了Anthropic最新AI模型的表现及其在基准测试中的潜在问题。</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge ok">captions/transcript + LLM</span></td>
+          <td>8 / high</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=Ersv1ogj7Jo" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-11</td>
+          <td>Two Minute Papers</td>
+          <td>channel host</td>
+          <td class="title">NVIDIA’s New AI Shouldn’t Work…But It Does</td>
+          <td><span class="tag">multimodal models</span></td>
+          <td>这段视频探讨了NVIDIA的新AI模型的意外性能。</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge ok">captions/transcript + LLM</span></td>
+          <td>8 / high</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=mFSFvKquXwI" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-08</td>
+          <td>AI Explained</td>
+          <td>channel host</td>
+          <td class="title">Claude Mythos: Highlights from 244-page Release</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Analysis</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=txx6ec6MLNY" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-07</td>
+          <td>Two Minute Papers</td>
+          <td>channel host</td>
+          <td class="title">NVIDIA’s New AI Just Changed Everything</td>
+          <td><span class="tag">AI agents</span><span class="tag">reasoning models</span><span class="tag">prompt engineering</span></td>
+          <td>NVIDIA发布了Nemotron 3 Super，这是一种新型模型，旨在提升智能体的推理能力。</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge ok">captions/transcript + LLM</span></td>
+          <td>8 / high</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=ZQAz_HrUq68" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-04-01</td>
+          <td>Two Minute Papers</td>
+          <td>channel host</td>
+          <td class="title">Google’s New AI Just Broke My Brain</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=7YVrb3-ABYE" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-03-27</td>
+          <td>Two Minute Papers</td>
+          <td>channel host</td>
+          <td class="title">DeepMind’s New AI Just Changed Science Forever</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=Io_GqmbNBbY" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-03-26</td>
+          <td>AI Explained</td>
+          <td>channel host</td>
+          <td class="title">Two AI Models Set to “stir government urgency”, But Will This Challenge Undo Them?</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Analysis</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=s4tptozUJ8Y" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-03-26</td>
+          <td>Two Minute Papers</td>
+          <td>channel host</td>
+          <td class="title">The Algorithm That Made Me Cry</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=XL5bq8DRn64" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-03-24</td>
+          <td>Two Minute Papers</td>
+          <td>channel host</td>
+          <td class="title">DeepSeek Just Fixed One Of The Biggest Problems With AI</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=DmtoVnTkQnM" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-03-12</td>
+          <td>Two Minute Papers</td>
+          <td>channel host</td>
+          <td class="title">This Physics Breakthrough Looks Impossible</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=RDQ4vHAPNls" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-03-06</td>
+          <td>Yannic Kilcher</td>
+          <td>channel host</td>
+          <td class="title">I BUILT A FULLY AUTOMATIC MANSPLAINER</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=xHi8PUIVyoo" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-03-06</td>
+          <td>AI Explained</td>
+          <td>channel host</td>
+          <td class="title">What the New ChatGPT 5.4 Means for the World</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Analysis</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=zizoDORjmlQ" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-02-27</td>
+          <td>AI Explained</td>
+          <td>channel host</td>
+          <td class="title">Deadline Day for Autonomous AI Weapons &amp; Mass Surveillance</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Analysis</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=Cru804JMjPI" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-02-20</td>
+          <td>AI Explained</td>
+          <td>channel host</td>
+          <td class="title">Gemini 3.1 Pro and the Downfall of Benchmarks: Welcome to the Vibe Era of AI</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Analysis</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=2_DPnzoiHaY" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-02-06</td>
+          <td>AI Explained</td>
+          <td>channel host</td>
+          <td class="title">The Two Best AI Models/Enemies Just Got Released Simultaneously</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Analysis</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=1PxEziv5XIU" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-01-28</td>
+          <td>AI Explained</td>
+          <td>channel host</td>
+          <td class="title">Claude AI Co-founder Publishes 4 Big Claims about Near Future: Breakdown</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Analysis</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=Iar4yweKGoI" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2026-01-14</td>
+          <td>AI Explained</td>
+          <td>channel host</td>
+          <td class="title">Anthropic: Our AI just created a tool that can ‘automate all white collar work’, Me:</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Analysis</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=wYs6HWZ2FdM" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-12-29</td>
+          <td>Yannic Kilcher</td>
+          <td>channel host</td>
+          <td class="title">Traditional X-Mas Stream</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=Dr6jw-WAd9E" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-12-28</td>
+          <td>Yannic Kilcher</td>
+          <td>channel host</td>
+          <td class="title">Traditional Holiday Live Stream</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">transcript status: disabled</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=DNajvkqfobY" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-12-27</td>
+          <td>Yannic Kilcher</td>
+          <td>channel host</td>
+          <td class="title">TiDAR: Think in Diffusion, Talk in Autoregression (Paper Analysis)</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=taCVT5vDAk0" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-12-23</td>
+          <td>AI Explained</td>
+          <td>channel host</td>
+          <td class="title">What the Freakiness of 2025 in AI Tells Us About 2026</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Analysis</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=FMMpUO1uAYk" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-12-19</td>
+          <td>AI Explained</td>
+          <td>channel host</td>
+          <td class="title">Gemini Exponential, Demis Hassabis&#x27; ‘Proto-AGI’ coming, but …</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Analysis</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=WHqaF4jbUYU" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-12-14</td>
+          <td>Yannic Kilcher</td>
+          <td>channel host</td>
+          <td class="title">Titans: Learning to Memorize at Test Time (Paper Analysis)</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=v67plFw1nMw" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-12-12</td>
+          <td>AI Explained</td>
+          <td>channel host</td>
+          <td class="title">GPT 5.2: OpenAI Strikes Back</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Analysis</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=4p73Uu_jZ10" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-12-05</td>
+          <td>AI Explained</td>
+          <td>channel host</td>
+          <td class="title">You Are Being Told Contradictory Things About AI</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Analysis</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=iO844izo9kw" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-11-20</td>
+          <td>AI Explained</td>
+          <td>channel host</td>
+          <td class="title">Nano Banana Pro: But Did You Catch These 10 Details?</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Analysis</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=9hv4nr_46Ao" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-11-01</td>
+          <td>Yannic Kilcher</td>
+          <td>channel host</td>
+          <td class="title">[Paper Analysis] The Free Transformer (and some Variational Autoencoder stuff)</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=Nao16-6l6dQ" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-10-19</td>
+          <td>Yannic Kilcher</td>
+          <td>channel host</td>
+          <td class="title">[Video Response] What Cloudflare&#x27;s code mode misses about MCP and tool calling</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=0bpYCxv2qhw" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-10-11</td>
+          <td>Yannic Kilcher</td>
+          <td>channel host</td>
+          <td class="title">[Paper Analysis] On the Theoretical Limitations of Embedding-Based Retrieval (Warning: Rant)</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=zKohTkN0Fyk" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-08-09</td>
+          <td>Yannic Kilcher</td>
+          <td>channel host</td>
+          <td class="title">AGI is not coming!</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=hkAH7-u7t5k" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-07-23</td>
+          <td>Yannic Kilcher</td>
+          <td>channel host</td>
+          <td class="title">Context Rot: How Increasing Input Tokens Impacts LLM Performance (Paper Analysis)</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=hpC4qjWu_aY" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-07-19</td>
+          <td>Yannic Kilcher</td>
+          <td>channel host</td>
+          <td class="title">Energy-Based Transformers are Scalable Learners and Thinkers (Paper Review)</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=RAEy3JZmIaA" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-05-03</td>
+          <td>Yannic Kilcher</td>
+          <td>channel host</td>
+          <td class="title">On the Biology of a Large Language Model (Part 2)</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=V71AJoYAtBQ" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-04-05</td>
+          <td>Yannic Kilcher</td>
+          <td>channel host</td>
+          <td class="title">On the Biology of a Large Language Model (Part 1)</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=mU3g2YPKlsA" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2025-01-26</td>
+          <td>Yannic Kilcher</td>
+          <td>channel host</td>
+          <td class="title">[GRPO Explained] DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=bAWV_yrqx4w" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        <tr>
+          <td>2024-12-27</td>
+          <td>Yannic Kilcher</td>
+          <td>channel host</td>
+          <td class="title">Traditional Holiday Live Stream</td>
+          <td><span class="tag">pending transcript analysis</span></td>
+          <td>No transcript-based analysis available yet.</td>
+          <td>AI Research</td>
+          <td>Pending transcript-based comparison.</td>
+          <td><span class="badge pending">captions unavailable</span></td>
+          <td>unanalyzed</td>
+          <td></td>
+          <td><a href="https://www.youtube.com/watch?v=R3nQ7pGXJcA" target="_blank" rel="noopener noreferrer">Watch</a></td>
+        </tr>
+        
+        </tbody>
+      </table>
+    </div>
+  </main>
+</body>
+</html>
