@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T13:17:15.091136+00:00",
+  "generated_at": "2026-05-10T19:02:56.821377+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -45,12 +45,12 @@
     },
     {
       "video_id": "4nQnhjimB4Y",
-      "title": "OpenAI's GPT 5.5 Instant: The Good, The Bad And The Insane",
+      "title": "OpenAI's ChatGPT 5.5 Instant: The Good, The Bad And The Insane",
       "channel": "Two Minute Papers",
       "channel_category": "AI Research",
       "url": "https://www.youtube.com/watch?v=4nQnhjimB4Y",
       "published": "2026-05-08T16:46:30+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 GPT 5.5 Instant:\nhttps://deploymentsafety.openai.com/gpt-5-5-instant/introduction\nhttps://openai.com/index/gpt-5-5-instant/\n\nClassifiers paper: https://arxiv.org/pdf/2501.18837\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 GPT 5.5 Instant:\nhttps://deploymentsafety.openai.com/gpt-5-5-instant/introduction\nhttps://openai.com/index/gpt-5-5-instant/\n\nClassifiers paper: https://arxiv.org/pdf/2501.18837\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\n#chatgpt",
       "transcript_status": "error",
       "transcript_language": null,
       "analysis_status": null,
