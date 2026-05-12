@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-12T14:24:22.130535+00:00",
+  "generated_at": "2026-05-12T19:51:48.644750+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,45 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "q4rDAu9ggKU",
+      "title": "The AI Bubble just Popped?",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=q4rDAu9ggKU",
+      "published": "2026-05-12T19:07:46+00:00",
+      "summary": "Get started with Greptile today https://greptile.com/go/berman\n14 Day Free Trial!\n\nDownload The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams\nhttps://x.com/darpunn/status/2052913661447217490\nhttps://x.com/StockMKTNewz/status/2053642952459591689\nhttps://x.com/rohindhar/status/2052754399638995084/photo/1\nhttps://www.morganstanley.com/atwork/articles/companies-staying-private-longer",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "5H3LGJSyaHM",
+      "title": "this is really bad...",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=5H3LGJSyaHM",
+      "published": "2026-05-12T17:24:09+00:00",
+      "summary": "Download The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "wisccQYTRQc",
+      "title": "Stanford CS153 Frontier Systems | Scott Nolan from General Matter on Energy Bottlenecks",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=wisccQYTRQc",
+      "published": "2026-05-12T16:59:41+00:00",
+      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn a CS153 Frontier Systems lecture, the class zooms out from AI model labs to examine energy and electricity as upstream bottlenecks to compute and data center growth, intensified since ChatGPT’s 2022 breakout and renewed enterprise demand after Claude 4.6. \n\nGuest Scott Nolan, CEO of General Matter, argues that uptime requirements and turbine shortages make baseload power crucial, pushing hyperscalers toward nuclear for its low carbon emissions and safety record. He explains nuclear’s fuel supply chain and identifies uranium enrichment as the key missing U.S. capability, with the U.S. holding under 0.1% enrichment market share and relying on Europe and Russia. Nolan describes founding General Matter in 2024, winning a $900M DOE contract, building a Kentucky facility, and hiring toward hundreds to thousands of roles.\n\nGuest Speaker:\nScott Nolan is the co-founder and CEO of General Matter, a company working to reshore U.S. uranium enrichment capabilities and revive American nuclear fuel production. He founded General Matter after spending over a year searching for an American enrichment company to invest in and finding none existed. General Matter is sometimes described as the third in a trilogy of companies incubated at Founders Fund, following Palantir and Anduril. He is also a Partner at Founders Fund (since 2011), where he focuses on companies rearchitecting industries — usually with hard engineering at the foundation. He works with mission-driven founders across biotech, crypto, energy, infrastructure, manufacturing, and transportation, including Synthego, Collective Health, Modern Animal, Branch, Nubank, and others. Prior to Founders Fund, he was an early employee at SpaceX, where he helped develop the Merlin and Draco propulsion systems used on the Falcon and Dragon vehicles and was responsible for the Dragon capsule's thermal and environmental subsystems. After SpaceX, he spent time at Bain & Company, evaluating potential investments and driving portfolio company strategy for private equity clients. He also previously worked as a Systems Engineer at Boeing. He serves on the boards of ISEE, Collective Health, Invisibly, and Synthego, and previously served as a Board Observer at Ayar Labs.\n\nFollow the playlist: https://youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA&amp;si=DOJ5amlyRdyMJBhG",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "r3x_w3tEmB4",
       "title": "Stanford Robotics Seminar ENGR319 | Spring 2026 | Unlocking Autonomous Medical Robotics",
@@ -259,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=knX-ekyjxF4",
       "published": "2026-05-04T23:19:28+00:00",
       "summary": "When and how can you enroll in a Stanford Online AI course? Watch this short video to learn about the application process, enrollment periods, and flexibility offered.\n\n📩 Get started today: stanford.io/ai\n\nExplore Stanford Online AI Programs:\n🎓 AI Graduate Program: https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate\n💼 AI Professional Program: https://online.stanford.edu/programs/artificial-intelligence-professional-program\n\n#StanfordOnline #ArtificialIntelligence #AIEducation #OnlineLearning #LearningCommunity #MachineLearning\n\nView the playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rP_-KE8fzo9ss9CI7TzwEkd",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=NLS7gtdcElQ",
       "published": "2026-05-04T23:18:04+00:00",
       "summary": "Why enroll in a Stanford Online AI course when you can watch the lectures at no cost on our YouTube channel? Watch this short video to learn about the four main benefits of enrolling in a Stanford Online AI graduate or professional education course.\n\n📩 Get started today: stanford.io/ai\n\nExplore Stanford Online AI Programs:\n🎓 AI Graduate Program: https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate\n💼 AI Professional Program: https://online.stanford.edu/programs/artificial-intelligence-professional-program\n\n#StanfordOnline #ArtificialIntelligence #AIEducation #OnlineLearning #LearningCommunity #MachineLearning\n\nView the playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rP_-KE8fzo9ss9CI7TzwEkd",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=1U-dyBiwDBw",
       "published": "2026-05-04T23:16:50+00:00",
       "summary": "Curious what it's really like to learn AI at Stanford Online? This video takes you inside the learning experience—from the support you'll receive to the community you'll join. Discover what sets Stanford's AI programs apart from other online options, and learn how you'll be supported throughout your learning journey.\n\n📩 Get started today: stanford.io/ai\n\nKey takeaways:\n✓ Why choose Stanford's structured programs over self-study\n✓ The types of support available to you as a learner\n✓ How you'll connect and collaborate with peers in your courses\n✓ What makes the Stanford Online learning experience unique\n\nExplore Stanford Online AI Programs:\n🎓 AI Graduate Program: https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate\n💼 AI Professional Program: https://online.stanford.edu/programs/artificial-intelligence-professional-program\n\n#StanfordOnline #ArtificialIntelligence #AIEducation #OnlineLearning #LearningCommunity #MachineLearning\n\nView the playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rP_-KE8fzo9ss9CI7TzwEkd",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -324,19 +363,6 @@
       "url": "https://www.youtube.com/watch?v=Cv7uVstoCW8",
       "published": "2026-05-04T23:12:08+00:00",
       "summary": "Trying to decide between Stanford Online's AI Graduate Program and AI Professional Program? You're not alone. This video breaks down the key differences to help you choose the right path for your AI education.\n\n📩 Get more info today: stanford.io/ai\n\nIn this video, we answer the most common questions about Stanford Online's two AI programs so you can make an informed decision about which one is right for you.\n\nKey takeaways:\n✓ The core differences between AI Graduate and AI Professional Programs\n✓ How Stanford Online's AI programs compare to other options available today\n✓ When and how to enroll in each program\n✓ What opportunities await after completing your certificate\n\nWhether you're looking to advance your technical skills, transition into AI, or pursue graduate-level study, this guide will help you choose your path.\n\nLearn more details about our AI Programs:\n🎓 AI Graduate Program: https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate\n💼 AI Professional Program: https://online.stanford.edu/programs/artificial-intelligence-professional-program\n\n🌟 Learn about grades, units, and continuing education unit equivalents:\nhttps://online.stanford.edu/grades-and-units\n\n#StanfordOnline #ArtificialIntelligence #AIEducation #MachineLearning #GraduatePrograms #ProfessionalDevelopment\n\nView the playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rP_-KE8fzo9ss9CI7TzwEkd",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "CBaLU0dDEY8",
-      "title": "Stanford CS153 Frontier Systems | Andreas Blattmann from Black Forest Labs on Visual Intelligence",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=CBaLU0dDEY8",
-      "published": "2026-05-04T19:45:56+00:00",
-      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn this CS153 “Frontier Systems” session, Anjney Midha welcomes Andreas Blattmann, co-founder of Black Forest Labs and co-creator of Stable Diffusion, for a discussion on the visual intelligence frontier and how frontier AI “factories” scale. \n\nBlattmann recounts his path from mechanical engineering to a Heidelberg PhD lab, developing latent diffusion to train image generators efficiently and enabling Stable Diffusion’s 2022 release. They contrast earlier unimodal content-creation models with today’s push toward unified multimodal systems spanning images, video, and audio, plus action prediction for computer use and robotics, emphasizing observation and interaction loops.\n\nUsing Flux as a case study, they cover pre-training, mid-training, post-training, distillation for speed, customer feedback driving image editing and character consistency, and why open weights enable customization. They also discuss Self Flow for multimodal alignment, safety guardrails, EU compliance, data labeling strategies, diffusion vs autoregressive tradeoffs, and skepticism about explicit 3D representations.\n\nGuest Speaker:\nAndreas Blattmann is the co-founder of Black Forest Labs (BFL), the German generative AI startup behind the FLUX text-to-image foundation model, backed by Andreessen Horowitz and other major venture firms. Before founding BFL, he was a generative AI researcher at LMU Munich, NVIDIA, and Stability AI, where he made significant contributions to image and video generation. He is a co-inventor of Latent Diffusion, the generative modeling technique that produced the open-source text-to-image system Stable Diffusion (which he co-developed) and now powers cutting-edge models, including FLUX, Midjourney, and OpenAI's DALL-E 3, with applications extending into audio generation and medical imaging. His academic publications have amassed over 22,000 citations. He was named to Capital Magazin's Top 40 Under 40 in Germany in 2024.\n\nFollow the playlist: https://youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA&amp;si=DOJ5amlyRdyMJBhG",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -460,19 +486,6 @@
       "analysis": null
     },
     {
-      "video_id": "cVqdbXlmXqs",
-      "title": "China Takes Over",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=cVqdbXlmXqs",
-      "published": "2026-04-27T21:07:30+00:00",
-      "summary": "Follow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "Xf_v62TQOx4",
       "title": "NVIDIA's New AI Broke My Brain",
       "channel": "Two Minute Papers",
@@ -480,19 +493,6 @@
       "url": "https://www.youtube.com/watch?v=Xf_v62TQOx4",
       "published": "2026-04-25T17:09:47+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper  is available here:\nhttps://nvlabs.github.io/GEAR-SONIC/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\n#nvidia",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "UV1WDNe4J5w",
-      "title": "My Honest Thoughts about Deepseek",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=UV1WDNe4J5w",
-      "published": "2026-04-25T16:30:55+00:00",
-      "summary": "Deepseek v4 is here and it's a little too impressive...\n\nDownload The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nDownload The Subtle Art of Not Being Replaced 👇🏼\nhttp://bit.ly/3WLNzdV\n\nDownload Humanities Last Prompt Engineering Guide 👇🏼\nhttps://bit.ly/4kFhajz\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nDiscover The Best AI Tools👇🏼\nhttps://tools.forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLink:\nhttps://api-docs.deepseek.com/news/news260424",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
