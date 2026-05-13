@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T14:32:45.995650+00:00",
+  "generated_at": "2026-05-13T19:54:02.852748+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,45 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "hAzhVloGkOw",
+      "title": "I'm terrified of this...",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=hAzhVloGkOw",
+      "published": "2026-05-13T18:50:08+00:00",
+      "summary": "Try Genspark with free credits available on signup! https://bit.ly/4sI4VXm\n\nDownload The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/NewsFromGoogle/status/2054187628702888435\nhttps://x.com/IntCyberDigest/status/2054166749998661659\nhttps://x.com/AikidoSecurity/status/2053990513280475405\nhttps://x.com/SocketSecurity/status/2054048025081737446\nhttps://x.com/feross/status/2038831826987614567\nhttps://x.com/rauchg/status/2045995362499076169\nhttps://vercel.com/kb/bulletin/vercel-april-2026-security-incident\nhttps://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access\nhttps://x.com/MatthewBerman/status/2041654853378961700?referrer=grok-com\nhttps://red.anthropic.com/2026/mythos-preview/\nhttps://x.com/OpenAI/status/2053939702110269822",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "tsQB0n0YV3k",
+      "title": "Stanford CS153 Frontier Systems | Jensen Huang from NVIDIA on the Compute Behind Intelligence",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=tsQB0n0YV3k",
+      "published": "2026-05-13T16:58:43+00:00",
+      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn a CS153 Frontier Systems lecture, the class hosts Jensen Huang, CEO of NVIDIA, who argues computing is being reinvented for the first time in 64 years as software shifts from prerecorded execution to real-time generation, with NVIDIA's extreme co-design across chips, compilers, networks, and systems delivering a million-fold speedup over the past decade versus Moore's Law's 100x. \n\nHe walks through the architectural logic of Hopper (pre-training), Grace Blackwell NVLink72 (inference and decode), Vera Rubin (agents), and the upcoming Feynman generation built for swarms of agents and sub-agents, while pushing back on MFU as a misleading metric in favor of tokens-per-watt and real evals. \n\nHuang also defends open models like Nemotron, BioNemo, and Alpamayo as essential for safety, transparency, and democratizing AI across underserved languages and scientific domains, and forecasts compute energy demand growing roughly a thousandfold, making this the strongest market moment in history to invest in sustainable energy and grid upgrades. \n\nGuest Speaker:\nJensen Huang founded NVIDIA in 1993 and has served since its inception as president, chief executive officer, and a member of the board of directors.\n\nSince its founding, NVIDIA has pioneered accelerated computing. The company’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, and ignited the era of modern AI. NVIDIA is now driving the platform shift of accelerated computing and generative AI, transforming the world's largest industries and profoundly impacting society.\n\nHuang has been elected to the National Academy of Engineering and in 2026 was appointed to the President’s Council of Advisors on Science and Technology. He is a recipient of the Semiconductor Industry Association’s highest honor, the Robert N. Noyce Award; the IEEE Founder’s Medal; the Dr. Morris Chang Exemplary Leadership Award; and honorary doctorate degrees from Taiwan’s National Chiao Tung University, National Taiwan University, Oregon State University, Huazhong University of Science and Technology, and Linköping University. He has been named the world’s best CEO by Fortune, the Economist, and Brand Finance, as well as one of TIME magazine’s 100 most influential people.\n\nPrior to founding NVIDIA, Huang worked at LSI Logic and Advanced Micro Devices. He holds a BSEE degree from Oregon State University and an MSEE degree from Stanford University.\n\nFollow the playlist: https://youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA&amp;si=DOJ5amlyRdyMJBhG",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "4wC8hnQawiA",
+      "title": "NVIDIA New AI Is An Efficiency Monster",
+      "channel": "Two Minute Papers",
+      "channel_category": "AI Research",
+      "url": "https://www.youtube.com/watch?v=4wC8hnQawiA",
+      "published": "2026-05-13T16:07:20+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2604.24954\nhttps://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model/\nhttps://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\n#nvidia",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "mR2Rh9RtyR4",
       "title": "Turns out, HTML is King",
@@ -259,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=6nUl_w5W9Wk",
       "published": "2026-05-06T21:07:28+00:00",
       "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn week three of CS153, the instructor hosts Amit Jain from Luma to discuss “Unified Intelligence Systems” as a follow-up to a prior lecture on visual intelligence. Jain recounts his Apple work on LiDAR for projects including Titan and Vision Pro, and how early exploration of generative models and differentiable 3D led to founding Luma with an initial focus on large-scale 3D capture.\n\nLuma then shifted to generative video in 2023 to leverage the scale of internet video data, releasing the Dream Machine model in March 2024 and rapidly reaching millions of users, while building preference-based feedback loops and human annotation pipelines. Jain explains Luma’s multimodal AI factory—pretraining, post-training, deployment, and reinforcement learning—its security constraints for studio clients, and a move toward unified transformer architectures that jointly reason across text, images, video, and audio to enable end-to-end creative and professional workflows.\n\nGuest speaker:\nAmit Jain is the CEO and co-founder of Luma AI, a research lab developing multimodal foundation models aimed at \"unified intelligence.\" Under his leadership, Luma has scaled from a 3D-capture pioneer into a leader in generative video, raising a $900M Series C following the success of its Dream Machine and Ray video-reasoning models. By 2026, he has steered the company into large-scale infrastructure projects including Project Halo — a 2-gigawatt AI supercluster — to build the next generation of \"world models\" capable of simulating physical reality. He founded Luma in 2022 from Apple, where he was a Systems and Machine Learning Engineer. At Apple, he led development of the Passthrough feature for Apple Vision Pro and was instrumental in integrating the first LiDAR sensors into the iPhone — foundational work for modern spatial computing. His background also includes physics and mathematical simulation.\n\nFollow the playlist: https://youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA&amp;si=DOJ5amlyRdyMJBhG",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=fa3mUy9DHcs",
       "published": "2026-05-06T18:36:03+00:00",
       "summary": "Download The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=gSeXcfDybHo",
       "published": "2026-05-06T18:27:08+00:00",
       "summary": "Stop managing infrastructure and start building: do.co/forwardfutureai \n\nDownload The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -369,19 +408,6 @@
       "analysis": null
     },
     {
-      "video_id": "Cv7uVstoCW8",
-      "title": "Stanford Online AI Programs Top Questions: Graduate vs Professional - Which Is Right for You?",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=Cv7uVstoCW8",
-      "published": "2026-05-04T23:12:08+00:00",
-      "summary": "Trying to decide between Stanford Online's AI Graduate Program and AI Professional Program? You're not alone. This video breaks down the key differences to help you choose the right path for your AI education.\n\n📩 Get more info today: stanford.io/ai\n\nIn this video, we answer the most common questions about Stanford Online's two AI programs so you can make an informed decision about which one is right for you.\n\nKey takeaways:\n✓ The core differences between AI Graduate and AI Professional Programs\n✓ How Stanford Online's AI programs compare to other options available today\n✓ When and how to enroll in each program\n✓ What opportunities await after completing your certificate\n\nWhether you're looking to advance your technical skills, transition into AI, or pursue graduate-level study, this guide will help you choose your path.\n\nLearn more details about our AI Programs:\n🎓 AI Graduate Program: https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate\n💼 AI Professional Program: https://online.stanford.edu/programs/artificial-intelligence-professional-program\n\n🌟 Learn about grades, units, and continuing education unit equivalents:\nhttps://online.stanford.edu/grades-and-units\n\n#StanfordOnline #ArtificialIntelligence #AIEducation #MachineLearning #GraduatePrograms #ProfessionalDevelopment\n\nView the playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rP_-KE8fzo9ss9CI7TzwEkd",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "Co6Z0K6-aI0",
       "title": "Next MOST IMPORTANT App Ever",
       "channel": "Matthew Berman",
@@ -454,19 +480,6 @@
       "url": "https://www.youtube.com/watch?v=QzZ4VwDHAT4",
       "published": "2026-05-01T16:43:34+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Try it out! The paper is available here:\nhttps://pub.sakana.ai/digital-ecosystem/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "epzzALZ8oYo",
-      "title": "Deepseek is a Problem",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=epzzALZ8oYo",
-      "published": "2026-04-29T23:53:48+00:00",
-      "summary": "Check out Zapier MCP https://bit.ly/3QGTz87\nSign up for their Webinar https://bit.ly/3P80Dds\n\nDownload The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nDownload The Subtle Art of Not Being Replaced 👇🏼\nhttp://bit.ly/3WLNzdV\n\nDownload Humanities Last Prompt Engineering Guide 👇🏼\nhttps://bit.ly/4kFhajz\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nDiscover The Best AI Tools👇🏼\nhttps://tools.forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 Intro\n0:21 The real issue\n1:11 What is open-source?\n1:53 US AI business model is broken\n2:57 How China is winning\n5:27 Sponsor\n6:51 USA's open-source landscape\n9:40 Building on Deepseek?\n12:20 What about AGI/ASI?\n13:55 Why Deepseek is a problem\n14:51 Solutions",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -649,19 +662,6 @@
       "url": "https://www.youtube.com/watch?v=DmtoVnTkQnM",
       "published": "2026-03-24T15:17:49+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The #DeepSeek paper is available here:\nhttps://github.com/deepseek-ai/Engram\nhttps://arxiv.org/abs/2601.07372\n\nLarry Wheels comment in this video:\nhttps://www.youtube.com/watch?v=7SM816P5G9s&amp;lc=Ugz7yiDrr_8YD7w8gaN4AaABAg\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "RDQ4vHAPNls",
-      "title": "This Physics Breakthrough Looks Impossible",
-      "channel": "Two Minute Papers",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=RDQ4vHAPNls",
-      "published": "2026-03-12T18:16:27+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://xuan-li.github.io/pdf/publications/li2024dynamicduo.pdf\n\nSources:\nhttps://www.youtube.com/watch?v=CfEg7fucVYg\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
