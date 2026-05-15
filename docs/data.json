@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T08:48:36.698891+00:00",
+  "generated_at": "2026-05-15T14:06:02.912912+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -31,8 +31,21 @@
   },
   "items": [
     {
+      "video_id": "5-7PJLCw8JA",
+      "title": "$400,000 from Claude Code",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=5-7PJLCw8JA",
+      "published": "2026-05-15T13:00:14+00:00",
+      "summary": "Follow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
       "video_id": "ak6fQ2Yjwy0",
-      "title": "Anthropic on USA vs China",
+      "title": "We only have 2 years...",
       "channel": "Matthew Berman",
       "channel_category": "AI Tools",
       "url": "https://www.youtube.com/watch?v=ak6fQ2Yjwy0",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=Gtt-xnzoIDc",
       "published": "2026-05-07T18:58:55+00:00",
       "summary": "Try Higgsfield yourself - connect it to Claude in 30s: https://shorturl.at/DNBoF\n\nDownload The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/claudeai/status/2052060691893227611\nhttps://x.com/xai/status/2052060350770515978\nhttps://x.com/elonmusk/status/2052069691372478511\nhttps://x.com/elonmusk/status/2031449322190229894\nhttps://x.com/elonmusk/status/2027294561467613256\nhttps://x.com/elonmusk/status/2026052687423562228\nhttps://x.com/elonmusk/status/2026053980917465388\nhttps://x.com/elonmusk/status/2022752939421421761",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -454,19 +467,6 @@
       "url": "https://www.youtube.com/watch?v=eCw33snvoNI",
       "published": "2026-05-03T17:02:48+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://research.nvidia.com/labs/sil/projects/lyra2/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\n#nvidia",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "sVbifq89aS0",
-      "title": "What is an AI Agent?",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=sVbifq89aS0",
-      "published": "2026-05-02T17:17:21+00:00",
-      "summary": "Supercharge your Agent: https://bit.ly/4w1yqG1\n\nFollow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
