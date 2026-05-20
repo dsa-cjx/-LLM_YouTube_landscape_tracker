@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T15:18:23.279849+00:00",
+  "generated_at": "2026-05-20T20:13:46.742030+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -13,11 +13,11 @@
         15
       ],
       [
-        "Two Minute Papers",
+        "AI Explained",
         15
       ],
       [
-        "AI Explained",
+        "Two Minute Papers",
         15
       ],
       [
@@ -30,6 +30,97 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "3W36pd50Wqw",
+      "title": "Stanford Robotics Seminar ENGR319 | Spring 2026 | Integrated Learning and Planning",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=3W36pd50Wqw",
+      "published": "2026-05-20T19:34:06+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 8, 2026\nThis seminar covers: \n• Integrated learning and planning with neuro-symbolic concepts\n• A general learning and reasoning framework based on neuro-symbolic concepts\n• Systems that leverage neuro-symbolic concepts demonstrate superior data efficiency, enable agents to reason and plan more quickly, and achieve strong generalization in novel situations and for novel goals\n\nFollow along with the seminar schedule, visit: https://stanfordasl.github.io/robotics_seminar/\n\nJiayuan Mao is a Member of Technical Staff at Amazon Frontier AI & Robotics, and an incoming assistant professor at the University of Pennsylvania.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "IB7IW6zX-H0",
+      "title": "Google CEO: Agents, Open Source, Race to AGI, Cybersecurity, Chips, China",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=IB7IW6zX-H0",
+      "published": "2026-05-20T18:55:27+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai/newsletter\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n00:00 - Intro\n00:41 - Sundar on AI agents replacing parts of the internet\n03:10 - How Google thinks about trusting AI agents\n05:00 - Will agents kill the “raw internet”?\n08:01 - AI cyberattacks and Google’s defense strategy\n10:42 - Should dangerous cyber AI models be held back?\n12:21 - The threshold for releasing powerful AI\n13:15 - Why Google won’t open-source a frontier model\n15:03 - The business problem with open-source AI\n17:10 - Should American companies use Chinese AI models?\n19:02 - The risk of building on China’s AI ecosystem\n20:41 - Why Google cares so much about cheap, fast AI models\n23:31 - Sundar on self-improving AI and the race to AGI\n26:17 - Google’s compute situation\n27:45 - Google has more AI demand than compute\n28:51 - Google’s biggest bottleneck: power, data centers, chips, and memory\n30:04 - Closing",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "dI8pLC1BLSM",
+      "title": "Stanford Robotics Seminar ENGR319 | Spring 2026 | Interactive Autonomy",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=dI8pLC1BLSM",
+      "published": "2026-05-20T18:34:27+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 1, 2026\nThis seminar covers: \n• Learning and control for multi-agent interactions\n• Game-theoretic planning and control for robots\n• Learning in interactive domains, including imitation learning and reinforcement learning\n\nFollow along with the seminar schedule, visit: https://stanfordasl.github.io/robotics_seminar/\n\nNegar Mehr is an assistant professor in the Mechanical Engineering Department at the University of California at Berkeley. She runs the ICON Lab.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "dJtHauhRasc",
+      "title": "Stanford CS25: Transformers United V6 I Distinct Modes of Generalization from Parameters and Context",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=dJtHauhRasc",
+      "published": "2026-05-20T18:02:54+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 7, 2026\nThis seminar covers: \n•  Two methods for teaching information to language models: training (updating parameters) or in-context learning (providing information in prompts)\n• Striking differences in the types of generalization that models make when they learn information via these two routes\n• Three different strategies that can help bridge the gap, based on data augmentation, retrieval, and RL\n\nFollow along with the seminar schedule. Visit: https://web.stanford.edu/class/cs25/\n\nGuest Speaker: Andrew Lampinen (Anthropic)\n\nInstructors: \n• Steven Feng,  Stanford Computer Science PhD student and NSERC PGS-D scholar\n• Karan P. Singh, Electrical Engineering PhD student and NSF Graduate Research Fellow in the Stanford Translational AI Lab\n• Michael C. Frank, Benjamin Scott Crocker Professor of Human Biology Director, Symbolic Systems Program\n• Christopher Manning, Thomas M. Siebel Professor in Machine Learning, Professor of Linguistics and of Computer Science, Co-Founder and Senior Fellow of the Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "Lri2LNYtERM",
+      "title": "Stanford CS153 Frontier Systems | The AI Native Company: How One Founder Becomes a 1000x Engineer",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=Lri2LNYtERM",
+      "published": "2026-05-20T17:36:41+00:00",
+      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn a CS153 Frontier Systems lecture, the class shifts from upstream bottlenecks like power and compute to the capital and company-formation layer, framing YC's 2010s introduction of the SAFE as a standardization moment for venture capital comparable to the buildout of the electrical grid. \n\nGuests Garry Tan, CEO of Y Combinator, and General Partner Diana Hu argue that agentic coding, unlocked by Claude 4.5 in late 2025, has collapsed the unit of production: Tan recounts rebuilding his old startup Posterous in five days on a $200 Claude Max plan and shipping his open-source GStack and GBrain projects to over 100,000 GitHub stars. They walk through agentic primitives — skills, resolvers, Skillify, evals, and a three-layer memory system — and map them onto company structure, with skills as employees, resolvers as the org chart, and CheckResolvable as audit and compliance. Hu closes by arguing AI-native companies run as closed-loop systems with one or two million dollars in revenue per employee, citing YC portfolio companies Salient, Happy Robot, and Reducto as forward-deployed examples and pointing to white space across back office, finance, and customer service for one-person frontier companies.\n\nGarry Tan is president and CEO of Y Combinator and a General Partner. He was a partner at Y Combinator from 2011 to 2015, where he built key parts of the YC experience for founders including Bookface and the Demo Day website. Garry is the co-founder of Initialized Capital and Posterous (YC S08), a blog platform acquired by Twitter, and prior to that, he was an early designer and engineering manager at Palantir (NYSE:PLTR), where he designed the company logo. Garry holds a BS in Computer Systems Engineering from Stanford.\n\nDiana Hu is a General Partner at YC. She was co-founder and CTO of Escher Reality (YC S17), an Augmented Reality Backend company that was acquired by Niantic (makers of Pokémon Go). At Niantic, she was the head of the AR platform. Previously, she led data science at OnCue TV that was sold to Verizon. Originally from Chile, Diana graduated from Carnegie Mellon University with a BS and MS in Electrical and Computer Engineering with a focus in computer vision and machine learning.\n\nFollow the playlist: https://youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA&amp;si=DOJ5amlyRdyMJBhG",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "Q_UxyEepuQA",
+      "title": "Stanford CS547 HCI Seminar | Spring 2026 | HCI and Human-Centered AI for Digital Health",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=Q_UxyEepuQA",
+      "published": "2026-05-20T17:32:28+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 8, 2026\nThis lecture covers:\n•  HCI issues related to the design, evaluation, and deployment of AI-enabled systems in digital health\n•  How \"easy to implement\" AI engineering decisions that are usually default parameters in Python machine learning code can have dramatic effects on the user experience of patients and clinicians\n•  How the choice of evaluation metrics to optimize for can affect downstream user experience\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nDr. Peter Washington, PI of the UCSF TECH Lab (techlab.ucsf.edu), is an Assistant Professor in the Division of Clinical Informatics and Digital Transformation (DoC-IT) in the Department of Medicine at the University of California, San Francisco (UCSF).",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "o_av1b9rs2g",
+      "title": "Two Rival Bets on AGI: Google I/O Highlights",
+      "channel": "AI Explained",
+      "channel_category": "AI Analysis",
+      "url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+      "published": "2026-05-20T16:50:34+00:00",
+      "summary": "The biggest Google AI push of the year, but what is the bigger story? Why is Google pursuing a different fork in the road than OpenAI or Anthropic? \n\nhttps://assemblyai.com/aiexplained\n\nWhat does Gemini 3.5 Flash mean for the near-term future of AI? Plus the highlights from a provocative new paper on AI, 8 key moments you may have missed, and the signal from 5+ hours of AI lab interviews.\n\n\n\nCheck out my free app, code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:38 - Vibes and Google Goal\n02:18 - Omni, again?\n06:57 - Taking the same road\n07:44 - Gemini 3 Flash\n12:37 - Pitching on Cost?\n13:55 - Agentic Task Search\n14:30 - 1-shot OS but jagged, negation paper\n20:02 - The Karpathy Moonshot \n\nMostafa Deghani Interview: https://www.youtube.com/watch?v=Bo19sXssYXI\n\nNegation Neglect Paper: https://arxiv.org/pdf/2605.13829\n\nGemini 3.5 Flash Headline Scores: https://deepmind.google/models/model-cards/gemini-3-5-flash/\n\nSors original AGI Path: https://www.theguardian.com/commentisfree/2024/feb/24/openai-video-generation-tool-sora-babies-ai-artificial-intelligence\n\nHassabis Helped Set-up Anthropic: https://archive.fo/20260519070857/https://www.ft.com/content/8f2a529e-7a1b-4d8e-95be-338d0c4c98f5\n\nIntelligence to Output Speed: https://artificialanalysis.ai/models?intelligence-comparison=intelligence-vs-output-speed#intelligence\n\nVibeCodeBench + Finance Agent: https://www.vals.ai/home\n\nOpenAI Needs Ads: https://archive.ph/20260409123153/https://www.reuters.com/business/media-telecom/openai-projects-25-billion-ad-revenue-this-year-100-billion-by-2030-axios-2026-04-09/\n\nAnthropic Core Views: https://www.anthropic.com/news/core-views-on-ai-safety\n\nKarpathy Move: https://x.com/karpathy/status/2056753169888334312\nhttps://www.axios.com/2026/05/19/anthropic-openai-karpathy-andrej-claude\n\nRecursive Self-Improvement: https://www.patreon.com/posts/ineffably-smart-156866417\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "-qm0ln33G24",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 13: Data (Sources, Datasets)",
@@ -207,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=5H3LGJSyaHM",
       "published": "2026-05-12T19:45:08+00:00",
       "summary": "Download The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -220,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=q4rDAu9ggKU",
       "published": "2026-05-12T19:07:46+00:00",
       "summary": "Get started with Greptile today https://greptile.com/go/berman\n14 Day Free Trial!\n\nDownload The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams\nhttps://x.com/darpunn/status/2052913661447217490\nhttps://x.com/StockMKTNewz/status/2053642952459591689\nhttps://x.com/rohindhar/status/2052754399638995084/photo/1\nhttps://www.morganstanley.com/atwork/articles/companies-staying-private-longer",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -233,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=wisccQYTRQc",
       "published": "2026-05-12T16:59:41+00:00",
       "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn a CS153 Frontier Systems lecture, the class zooms out from AI model labs to examine energy and electricity as upstream bottlenecks to compute and data center growth, intensified since ChatGPT’s 2022 breakout and renewed enterprise demand after Claude 4.6. \n\nGuest Scott Nolan, CEO of General Matter, argues that uptime requirements and turbine shortages make baseload power crucial, pushing hyperscalers toward nuclear for its low carbon emissions and safety record. He explains nuclear’s fuel supply chain and identifies uranium enrichment as the key missing U.S. capability, with the U.S. holding under 0.1% enrichment market share and relying on Europe and Russia. Nolan describes founding General Matter in 2024, winning a $900M DOE contract, building a Kentucky facility, and hiring toward hundreds to thousands of roles.\n\nGuest Speaker:\nScott Nolan is the co-founder and CEO of General Matter, a company working to reshore U.S. uranium enrichment capabilities and revive American nuclear fuel production. He founded General Matter after spending over a year searching for an American enrichment company to invest in and finding none existed. General Matter is sometimes described as the third in a trilogy of companies incubated at Founders Fund, following Palantir and Anduril. He is also a Partner at Founders Fund (since 2011), where he focuses on companies rearchitecting industries — usually with hard engineering at the foundation. He works with mission-driven founders across biotech, crypto, energy, infrastructure, manufacturing, and transportation, including Synthego, Collective Health, Modern Animal, Branch, Nubank, and others. Prior to Founders Fund, he was an early employee at SpaceX, where he helped develop the Merlin and Draco propulsion systems used on the Falcon and Dragon vehicles and was responsible for the Dragon capsule's thermal and environmental subsystems. After SpaceX, he spent time at Bain & Company, evaluating potential investments and driving portfolio company strategy for private equity clients. He also previously worked as a Systems Engineer at Boeing. He serves on the boards of ISEE, Collective Health, Invisibly, and Synthego, and previously served as a Board Observer at Ayar Labs.\n\nFollow the playlist: https://youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA&amp;si=DOJ5amlyRdyMJBhG",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -246,7 +337,7 @@
       "url": "https://www.youtube.com/watch?v=r3x_w3tEmB4",
       "published": "2026-05-12T00:09:11+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nApril 24, 2026\nThis seminar covers: \n• Research on enabling greater surgical autonomy through the lens of robot learning\n• Recent work on human-robot teaming using humanoid systems, examining the limitations of the current state of the art and the opportunities ahead for research and deployment\n\nFollow along with the seminar schedule, visit: https://stanfordasl.github.io/robotics_seminar/\n\nMichael Yip is an Associate Professor of Electrical and Computer Engineering at UC San Diego.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -259,7 +350,7 @@
       "url": "https://www.youtube.com/watch?v=EfM546A79aM",
       "published": "2026-05-11T23:57:49+00:00",
       "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs336-language-modeling-scratch\n\nFollow along with the course schedule and syllabus, visit: https://cs336.stanford.edu/\n\nPercy Liang\nProfessor of Computer Science (and courtesy in Statistics)\n\nTatsunori Hashimoto\nAssistant Professor of Computer Science\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +363,7 @@
       "url": "https://www.youtube.com/watch?v=HpFdSlMeXzQ",
       "published": "2026-05-11T23:30:52+00:00",
       "summary": "Learn more details about this course: https://online.stanford.edu/courses/cme296-diffusion-and-large-vision-models\n\nTo follow along with the course schedule and syllabus, visit: https://cme296.stanford.edu/syllabus/\n\nChapters:\n00:00:00 Introduction\n00:05:26 Objective\n00:09:58 Convolutions, filters\n00:14:44 Receptive field\n00:17:14 Pooling\n00:19:06 U-Net\n00:27:52 Timestep representation\n00:30:31 Class label representation\n00:33:21 Timeline of U-Net models\n00:35:43 Diffusion Transformer (DiT)\n00:48:08 Adaptive layer normalization (adaLN)\n01:02:30 DiT end-to-end example\n01:12:57 Multimodal DiT (MM-DiT)\n01:23:33 Qwen-Image, Z-Image, FLUX.1\n01:24:27 Timeline of DiT models\n01:25:25 Absolute position embeddings\n01:38:48 Rotary position embeddings (RoPE)\n01:39:59 2D RoPE variants\n\nFor more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nAfshine Amidi is an Adjunct Lecturer at Stanford University.\n\nShervine Amidi is an Adjunct Lecturer at Stanford University.\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,32 +376,6 @@
       "url": "https://www.youtube.com/watch?v=e_H_tkpCAK4",
       "published": "2026-05-11T23:15:52+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nApril 30, 2026\nThis seminar covers: \n•  Recent progress in pretraining algorithm design for large language models (LLMs), emphasizing the role of data ordering, reasoning-centric data integration, and reinforcement-based objectives in shaping model capability.\n• The introduction of a two-phase pretraining framework that formalizes strategies for data selection, blending, and sequencing\n• A demonstration that front-loading reasoning-rich data during pretraining yields persistent gains in reasoning accuracy that post-training alone cannot reproduce\n\nFollow along with the seminar schedule. Visit: https://web.stanford.edu/class/cs25/\n\nGuest Speaker: Shrimai Prabhumoye (Mistral AI, prev. NVIDIA)\n\nInstructors: \n• Steven Feng,  Stanford Computer Science PhD student and NSERC PGS-D scholar\n• Karan P. Singh, Electrical Engineering PhD student and NSF Graduate Research Fellow in the Stanford Translational AI Lab\n• Michael C. Frank, Benjamin Scott Crocker Professor of Human Biology Director, Symbolic Systems Program\n• Christopher Manning, Thomas M. Siebel Professor in Machine Learning, Professor of Linguistics and of Computer Science, Co-Founder and Senior Fellow of the Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "I5BKi32IEa8",
-      "title": "Stanford CS25: Transformers United V6 I The Ultra-Scale Talk: Scaling Training to Thousands of GPUs",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=I5BKi32IEa8",
-      "published": "2026-05-11T23:10:04+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nApril 23, 2026\nThis seminar covers: \n• The practicalities of ultra-scale training\n• How 5D parallelism makes it possible to stretch a single run across massive GPU clusters\n• How Mixture-of-Experts architectures introduce new scaling dimensions and stability challenges, and the performance tuning and communication patterns that drive throughput\n\nFollow along with the seminar schedule. Visit: https://web.stanford.edu/class/cs25/\n\nGuest Speaker: Nouamane Tazi (Hugging Face)\n\nInstructors: \n• Steven Feng,  Stanford Computer Science PhD student and NSERC PGS-D scholar\n• Karan P. Singh, Electrical Engineering PhD student and NSF Graduate Research Fellow in the Stanford Translational AI Lab\n• Michael C. Frank, Benjamin Scott Crocker Professor of Human Biology Director, Symbolic Systems Program\n• Christopher Manning, Thomas M. Siebel Professor in Machine Learning, Professor of Linguistics and of Computer Science, Co-Founder and Senior Fellow of the Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "B8NvdfssGac",
-      "title": "Stanford CS153 Frontier Systems | Ben Horowitz from a16z on Venture Capital Systems, Network Effects",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=B8NvdfssGac",
-      "published": "2026-05-11T19:56:12+00:00",
-      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nAnjney Midha welcomes Ben Horowitz, rewinding to the 2009 founding of Andreessen Horowitz as a venture capital “systems” innovation. Horowitz explains building a better product for entrepreneurs, scaling VC for a world with far more breakout tech companies, centralizing control while sharing economics to enable reorgs, and splitting into small groups for truth-seeking investment conversations. He describes early credibility via the Skype buyout, then bootstrapping a network-effect firm by reinvesting fees into relationships, including an HP Enterprise Briefing Center hack to meet major corporations.\n\nThey discuss AI changing moats by making capital and compute decisive, the importance of culture as shared actions and decisive leadership, updated VC bottlenecks like electricity, saying no to AI-driven LBOs, career advice for students, political engagement for tech policy, and memorable pitches like Databricks.\n\nGuest Speaker:\nBen Horowitz is the co-founder and general partner at the venture capital firm Andreessen Horowitz (a16z), founded with Marc Andreessen in 2009. He is the author of the New York Times bestsellers The Hard Thing About Hard Things and What You Do Is Who You Are. He created the a16z Cultural Leadership Fund, which connects cultural leaders to top technology companies and works to bring more young African Americans into the tech industry. Prior to a16z, he was cofounder and CEO of Opsware (formerly Loudcloud), which was acquired by Hewlett-Packard for $1.6 billion in 2007, after which he served as VP and GM of Business Technology Optimization for Software at HP. Earlier, he was VP and GM of America Online's E-commerce Platform division, where he oversaw the Shop@AOL service, and previously ran several product divisions at Netscape Communications. He began his career as an engineer at Silicon Graphics in 1990. He holds a B.A. in Computer Science from Columbia University and an M.S. in Computer Science from UCLA. Born in London and raised in Berkeley, California, he lives in Las Vegas with his wife Felicia Wiley Horowitz.\n\nFollow the playlist: https://youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA&amp;si=DOJ5amlyRdyMJBhG",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -337,19 +402,6 @@
       "url": "https://www.youtube.com/watch?v=4nQnhjimB4Y",
       "published": "2026-05-08T16:46:30+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 GPT 5.5 Instant:\nhttps://deploymentsafety.openai.com/gpt-5-5-instant/introduction\nhttps://openai.com/index/gpt-5-5-instant/\n\nClassifiers paper: https://arxiv.org/pdf/2501.18837\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\n#chatgpt",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "BQrJ4lHAjhc",
-      "title": "Stanford CS153 Frontier Systems | Nikhyl Singhal from Skip on Product Management in the AI Era",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=BQrJ4lHAjhc",
-      "published": "2026-05-07T20:58:42+00:00",
-      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn a CS153 guest lecture, Professor Mike Abbott shifts from technical topics to product, tracing how software moved from PRD-driven project management to founder-led consumer product building, and arguing AI is blurring the boundaries between design, engineering, and product. \n\nNikhyl Singhal shares his background founding companies and leading product at Google, Meta, and Credit Karma, then explains four company phases—finding product-market fit, post-fit process and coordination, hypergrowth scale-and-expand, and late-stage reinvention—each requiring different product skills.\n\nHe reflects on Google Hangouts as a lesson in solving real customer problems and iterating quickly. Singhal describes The Skip, a curated community and coaching effort focused on careers, and discusses AI’s impact: less value in information-moving PM work, more demand and pay for hands-on product builders with judgment, flatter orgs, anxiety from layoffs, and heightened risk for non-technical middle managers.\n\nGuest Speaker:\nNikhyl Singhal is the founder of Skip (a community and coaching service for senior product leaders) and a three-time founder, CPO, and product executive with experience at Meta, Google, and Credit Karma. At Meta, he served as VP of Product, overseeing teams building messaging, groups, stories, and the main Facebook feed. Previously, he was Chief Product Officer at Credit Karma, where he led product management and design, scaled communications and operations as the company quadrupled headcount, and sponsored three acquisitions. At Google, he served as Product Leader for all real-time communication products, including launching and growing Hangouts (Google's video, voice, and text messaging solution pre-installed in Android and Gmail), and managing Photos across Google+, Android, Drive, and Picasa, plus helping launch Hangouts on Air on YouTube. He co-founded three startups, including SayNow (acquired by Google) and Cast Iron Systems (acquired by IBM). He now runs Skip Coach and hosts The Skip podcast and newsletter, having coached hundreds of product leaders. He has helped scale four top-100 mobile apps: Facebook feed, Credit Karma, Google Hangouts, and Google Photos.\n\nFollow the playlist: https://youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA&amp;si=DOJ5amlyRdyMJBhG",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -408,32 +460,6 @@
       "analysis": null
     },
     {
-      "video_id": "6nUl_w5W9Wk",
-      "title": "Stanford CS153 Frontier Systems | Amit Jain from Luma AI on Unified Intelligence Systems",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=6nUl_w5W9Wk",
-      "published": "2026-05-06T21:07:28+00:00",
-      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn week three of CS153, the instructor hosts Amit Jain from Luma to discuss “Unified Intelligence Systems” as a follow-up to a prior lecture on visual intelligence. Jain recounts his Apple work on LiDAR for projects including Titan and Vision Pro, and how early exploration of generative models and differentiable 3D led to founding Luma with an initial focus on large-scale 3D capture.\n\nLuma then shifted to generative video in 2023 to leverage the scale of internet video data, releasing the Dream Machine model in March 2024 and rapidly reaching millions of users, while building preference-based feedback loops and human annotation pipelines. Jain explains Luma’s multimodal AI factory—pretraining, post-training, deployment, and reinforcement learning—its security constraints for studio clients, and a move toward unified transformer architectures that jointly reason across text, images, video, and audio to enable end-to-end creative and professional workflows.\n\nGuest speaker:\nAmit Jain is the CEO and co-founder of Luma AI, a research lab developing multimodal foundation models aimed at \"unified intelligence.\" Under his leadership, Luma has scaled from a 3D-capture pioneer into a leader in generative video, raising a $900M Series C following the success of its Dream Machine and Ray video-reasoning models. By 2026, he has steered the company into large-scale infrastructure projects including Project Halo — a 2-gigawatt AI supercluster — to build the next generation of \"world models\" capable of simulating physical reality. He founded Luma in 2022 from Apple, where he was a Systems and Machine Learning Engineer. At Apple, he led development of the Passthrough feature for Apple Vision Pro and was instrumental in integrating the first LiDAR sensors into the iPhone — foundational work for modern spatial computing. His background also includes physics and mathematical simulation.\n\nFollow the playlist: https://youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA&amp;si=DOJ5amlyRdyMJBhG",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "fa3mUy9DHcs",
-      "title": "Anthropic x SpaceX!!!!",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=fa3mUy9DHcs",
-      "published": "2026-05-06T18:36:03+00:00",
-      "summary": "Download The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "p7K3xfViWCE",
       "title": "DeepSeek V4 AI Beats Billion Dollar Systems…For Free",
       "channel": "Two Minute Papers",
@@ -441,19 +467,6 @@
       "url": "https://www.youtube.com/watch?v=p7K3xfViWCE",
       "published": "2026-05-06T16:07:54+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Check out DeepSeek here:\nhttps://www.deepseek.com/en/\n\nDeepSeek Engram: https://youtu.be/DmtoVnTkQnM\n\nSources:\nhttps://www.wikihow.com/Write-a-Book-Summary\nhttps://cmosshoptalk.com/2022/01/18/does-your-novel-need-a-table-of-contents/\nhttps://www.book-editing.com/why-book-indexing/\nhttps://x.com/awnihannun/status/2023462412092059679/video/1\nhttps://x.com/khalidwarsa/status/2050039745204380084\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "knX-ekyjxF4",
-      "title": "Stanford Online AI Programs Top Questions: When and How to Enroll in Online AI Courses",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=knX-ekyjxF4",
-      "published": "2026-05-04T23:19:28+00:00",
-      "summary": "When and how can you enroll in a Stanford Online AI course? Watch this short video to learn about the application process, enrollment periods, and flexibility offered.\n\n📩 Get started today: stanford.io/ai\n\nExplore Stanford Online AI Programs:\n🎓 AI Graduate Program: https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate\n💼 AI Professional Program: https://online.stanford.edu/programs/artificial-intelligence-professional-program\n\n#StanfordOnline #ArtificialIntelligence #AIEducation #OnlineLearning #LearningCommunity #MachineLearning\n\nView the playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rP_-KE8fzo9ss9CI7TzwEkd",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -857,19 +870,6 @@
       "url": "https://www.youtube.com/watch?v=iO844izo9kw",
       "published": "2025-12-05T16:54:07+00:00",
       "summary": "With headlines of an imminent job apocalypse, code red for ChatGPT and recursive self-improvement, at the same time as Anthropic's CEO yesterday saying we know how to scale to AGI, and Gemini 3 DeepThink out today, it is easy to get lost among the narratives and counter-narratives. So here are both, plus the facts behind them, for you to decide.\n\n\nhttps://epoch.ai/ai-explained-datacenters\n\nEpoch AI is the sponsor of today’s video, and my views, and those expressed in this video, do not necessarily reflect Epoch AI’s views in any way.\n\n\nChapters: \n00:00 - Introduction\n00:42 - Job Apocalypse?\n01:45 - Scaling to AGI\n04:15 - Recursive Self-Improvement Needed, or Not\n09:57 - OpenAI Code Red vs Gemini 3 DeepThink vs Claude Opus 4.5\n13:27 - DeepSeek Speciale vs Mistral Large v3\n16:45 - Claude Soul Document\n\nhttps://lmcouncil.ai/\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nGuardian Interview: https://www.theguardian.com/technology/ng-interactive/2025/dec/02/jared-kaplan-artificial-intelligence-train-itself\n\nMIT Study on Jobs/Tasks: https://iceberg.mit.edu/report.pdf\nvs https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html\n\nAmodei on Scaling: https://www.youtube.com/watch?v=FEj7wAjwQIk\nClaude Soul Document: https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document\n\nCapabilities Original Stance: https://www.anthropic.com/news/core-views-on-ai-safety\n\nIlya Interview: https://www.dwarkesh.com/p/ilya-sutskever-2\n\nRicursive Intelligence: https://x.com/RicursiveAI/status/1995932204703346946\n\nEconomist Worker Usage of GenAI: https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening#selection-1409.94-1413.42\n\nMistral v3 Large: https://docs.mistral.ai/models/mistral-large-3-25-12\n\nCompute Slowdown Paper: https://joel-becker.com/images/publications/forecasting_time_horizon_under_compute_slowdown.pdf\nhttps://x.com/joel_bkr/status/1993023436541903155\n\nMETR Chart: https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/\n\nhttps://www.theinformation.com/articles/openais-350-billion-computing-cost-problem?rc=sy0ihq\n\nOpenAI Code Red: https://www.anthropic.com/news/core-views-on-ai-safety\nRocket Company: https://www.independent.co.uk/news/world/americas/sam-altman-rocket-elon-musk-spacex-b2878351.html\n\nDeepSeek Paper: https://arxiv.org/html/2512.02556v1\n\nDeepSeek Crowdstrike CCP: https://www.crowdstrike.com/en-us/blog/crowdstrike-researchers-identify-hidden-vulnerabilities-ai-coded-software/\n\nhttps://simple-bench.com/\n\nPatreon Post: https://www.patreon.com/c/aiexplained/posts\n\nRobot: https://x.com/jloganolson/status/1985850115379351799\n\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "9hv4nr_46Ao",
-      "title": "Nano Banana Pro: But Did You Catch These 10 Details?",
-      "channel": "AI Explained",
-      "channel_category": "AI Analysis",
-      "url": "https://www.youtube.com/watch?v=9hv4nr_46Ao",
-      "published": "2025-11-20T21:25:20+00:00",
-      "summary": "Nano Banana Pro is no incremental upgrade. From double exposures to almost (!) perfect infographics, comic strips, to pricing, benchmarks and more, I go through 10 facets of the new, model you won’t get just from reading the headlines. Definitely worth watching before you use it for work…\n\nhttp://assemblyai.com/aiexplained\n\n\n\n\nNano Pro also available on my solo-made app (Pro Tier): https://lmcouncil.ai\nand at ....https://aistudio.google.com/prompts/new_chat\n\n\n\nRelease: https://blog.google/technology/ai/nano-banana-pro/\nhttps://blog.google/products/gemini/prompting-tips-nano-banana-pro/\nhttps://blog.google/technology/developers/gemini-3-pro-image-developers/\nSynth: https://x.com/demishassabis/status/1991526272435122375\n\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
