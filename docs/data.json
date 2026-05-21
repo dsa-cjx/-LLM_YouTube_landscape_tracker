@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-21T15:24:21.950399+00:00",
+  "generated_at": "2026-05-21T19:52:37.006120+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "tk9lt-9x8mE",
+      "title": "Composer 2.5 and I INTERVIEWED THE CEO OF ALPHABET",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=tk9lt-9x8mE",
+      "published": "2026-05-21T19:49:20+00:00",
+      "summary": "Download The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "Td2TaMWNUtA",
+      "title": "This is absolutely CRAZY",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=Td2TaMWNUtA",
+      "published": "2026-05-21T19:43:02+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/VhFuFJJs\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "ODj7ndsKnts",
       "title": "Stanford MS&E435 | Spring 2026 | Economics of Generative AI",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=tsQB0n0YV3k",
       "published": "2026-05-13T16:58:43+00:00",
       "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn a CS153 Frontier Systems lecture, the class hosts Jensen Huang, CEO of NVIDIA, who argues computing is being reinvented for the first time in 64 years as software shifts from prerecorded execution to real-time generation, with NVIDIA's extreme co-design across chips, compilers, networks, and systems delivering a million-fold speedup over the past decade versus Moore's Law's 100x. \n\nHe walks through the architectural logic of Hopper (pre-training), Grace Blackwell NVLink72 (inference and decode), Vera Rubin (agents), and the upcoming Feynman generation built for swarms of agents and sub-agents, while pushing back on MFU as a misleading metric in favor of tokens-per-watt and real evals. \n\nHuang also defends open models like Nemotron, BioNemo, and Alpamayo as essential for safety, transparency, and democratizing AI across underserved languages and scientific domains, and forecasts compute energy demand growing roughly a thousandfold, making this the strongest market moment in history to invest in sustainable energy and grid upgrades. \n\nGuest Speaker:\nJensen Huang founded NVIDIA in 1993 and has served since its inception as president, chief executive officer, and a member of the board of directors.\n\nSince its founding, NVIDIA has pioneered accelerated computing. The company’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, and ignited the era of modern AI. NVIDIA is now driving the platform shift of accelerated computing and generative AI, transforming the world's largest industries and profoundly impacting society.\n\nHuang has been elected to the National Academy of Engineering and in 2026 was appointed to the President’s Council of Advisors on Science and Technology. He is a recipient of the Semiconductor Industry Association’s highest honor, the Robert N. Noyce Award; the IEEE Founder’s Medal; the Dr. Morris Chang Exemplary Leadership Award; and honorary doctorate degrees from Taiwan’s National Chiao Tung University, National Taiwan University, Oregon State University, Huazhong University of Science and Technology, and Linköping University. He has been named the world’s best CEO by Fortune, the Economist, and Brand Finance, as well as one of TIME magazine’s 100 most influential people.\n\nPrior to founding NVIDIA, Huang worked at LSI Logic and Advanced Micro Devices. He holds a BSEE degree from Oregon State University and an MSEE degree from Stanford University.\n\nFollow the playlist: https://youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA&amp;si=DOJ5amlyRdyMJBhG",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=4wC8hnQawiA",
       "published": "2026-05-13T16:07:20+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2604.24954\nhttps://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model/\nhttps://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\n#nvidia",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -428,32 +454,6 @@
       "url": "https://www.youtube.com/watch?v=Gtt-xnzoIDc",
       "published": "2026-05-07T18:58:55+00:00",
       "summary": "Try Higgsfield yourself - connect it to Claude in 30s: https://shorturl.at/DNBoF\n\nDownload The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/claudeai/status/2052060691893227611\nhttps://x.com/xai/status/2052060350770515978\nhttps://x.com/elonmusk/status/2052069691372478511\nhttps://x.com/elonmusk/status/2031449322190229894\nhttps://x.com/elonmusk/status/2027294561467613256\nhttps://x.com/elonmusk/status/2026052687423562228\nhttps://x.com/elonmusk/status/2026053980917465388\nhttps://x.com/elonmusk/status/2022752939421421761",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "SGg9jNrWmOQ",
-      "title": "Everyone's holding their laptops open",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=SGg9jNrWmOQ",
-      "published": "2026-05-07T18:33:16+00:00",
-      "summary": "Follow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "P3jYJutGqWs",
-      "title": "How to Generate those AI videos",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=P3jYJutGqWs",
-      "published": "2026-05-07T15:31:27+00:00",
-      "summary": "Try it yourself – connect Higgsfield to your Claude in 30 seconds: https://shorturl.at/K9PUo \n\nHiggsfield MCP is super easy to use actually. It feels like now is the time to try AI content creation BECAUSE it's easy and more and more people will jump on board soon enough.\n\nFollow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
