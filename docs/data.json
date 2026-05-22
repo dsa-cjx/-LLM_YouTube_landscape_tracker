@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-05-22T14:37:39.704449+00:00",
+  "generated_at": "2026-05-22T19:43:41.263861+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Stanford Online",
+        15
+      ],
       [
         "Two Minute Papers",
         15
       ],
       [
         "Matthew Berman",
-        15
-      ],
-      [
-        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "LRGX-gTegVA",
+      "title": "Stanford MS&E435 Economics of the AI Supercycle | Spring 2026 | Enterprise Internal Knowledge",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=LRGX-gTegVA",
+      "published": "2026-05-22T19:09:47+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nThis seminar covers intelligence and unlocking enterprise internal knowledge.\n\nGuest speaker: Yash Patil, CEO of Applied Compute\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "LpXhy2iiaQE",
       "title": "DeepSeek’s New AI Is A Game Changer",
@@ -71,12 +84,12 @@
     },
     {
       "video_id": "ODj7ndsKnts",
-      "title": "Stanford MS&E435 | Spring 2026 | Economics of Generative AI",
+      "title": "Stanford MS&E435 Economics of the AI Supercycle | Spring 2026 | Economics of Generative AI",
       "channel": "Stanford Online",
       "channel_category": "Education",
       "url": "https://www.youtube.com/watch?v=ODj7ndsKnts",
       "published": "2026-05-20T23:00:39+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nAI is the biggest technology supercycle since the PC, Internet, and Mobile. MS&amp;E435 is a seminar that unpacks the economics at each layer of the AI stack. Each week, we learn from a practitioner with a unique vantage point across the stack.\n\nInstructor:\nApoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
       "transcript_status": "error",
       "transcript_language": null,
       "analysis_status": null,
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=cLuoF9nZwKE",
       "published": "2026-05-14T19:56:47+00:00",
       "summary": "Follow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -402,19 +415,6 @@
       "url": "https://www.youtube.com/watch?v=EfM546A79aM",
       "published": "2026-05-11T23:57:49+00:00",
       "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs336-language-modeling-scratch\n\nFollow along with the course schedule and syllabus, visit: https://cs336.stanford.edu/\n\nPercy Liang\nProfessor of Computer Science (and courtesy in Statistics)\n\nTatsunori Hashimoto\nAssistant Professor of Computer Science\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "HpFdSlMeXzQ",
-      "title": "Stanford CME296 Diffusion & Large Vision Models | Spring 2026 | Lecture 5 - Architectures",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=HpFdSlMeXzQ",
-      "published": "2026-05-11T23:30:52+00:00",
-      "summary": "Learn more details about this course: https://online.stanford.edu/courses/cme296-diffusion-and-large-vision-models\n\nTo follow along with the course schedule and syllabus, visit: https://cme296.stanford.edu/syllabus/\n\nChapters:\n00:00:00 Introduction\n00:05:26 Objective\n00:09:58 Convolutions, filters\n00:14:44 Receptive field\n00:17:14 Pooling\n00:19:06 U-Net\n00:27:52 Timestep representation\n00:30:31 Class label representation\n00:33:21 Timeline of U-Net models\n00:35:43 Diffusion Transformer (DiT)\n00:48:08 Adaptive layer normalization (adaLN)\n01:02:30 DiT end-to-end example\n01:12:57 Multimodal DiT (MM-DiT)\n01:23:33 Qwen-Image, Z-Image, FLUX.1\n01:24:27 Timeline of DiT models\n01:25:25 Absolute position embeddings\n01:38:48 Rotary position embeddings (RoPE)\n01:39:59 2D RoPE variants\n\nFor more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nAfshine Amidi is an Adjunct Lecturer at Stanford University.\n\nShervine Amidi is an Adjunct Lecturer at Stanford University.\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
