@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T15:25:20.733789+00:00",
+  "generated_at": "2026-05-26T20:08:38.632406+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -9,11 +9,11 @@
         15
       ],
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "kIvvzCR5NjA",
+      "title": "Google DeepMind CEO Likes Hard Questions",
+      "channel": "Two Minute Papers",
+      "channel_category": "AI Research",
+      "url": "https://www.youtube.com/watch?v=kIvvzCR5NjA",
+      "published": "2026-05-26T17:35:28+00:00",
+      "summary": "Full video: https://youtu.be/huAwz_BR8WM\n#shorts",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "GBISeUYMzoU",
+      "title": "Cursor just beat EVERYONE.",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=GBISeUYMzoU",
+      "published": "2026-05-26T16:40:27+00:00",
+      "summary": "If scale is your next challenge check out DigitalOcean: do.co/forwardfutureai \n\nDownload The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "huAwz_BR8WM",
       "title": "DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=NksViNo3n08",
       "published": "2026-05-15T17:51:10+00:00",
       "summary": "Download The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=5-7PJLCw8JA",
       "published": "2026-05-15T13:00:14+00:00",
       "summary": "Follow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -473,19 +499,6 @@
       "analysis": null
     },
     {
-      "video_id": "Gtt-xnzoIDc",
-      "title": "The Anthropic Situation is INSANE",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=Gtt-xnzoIDc",
-      "published": "2026-05-07T18:58:55+00:00",
-      "summary": "Try Higgsfield yourself - connect it to Claude in 30s: https://shorturl.at/DNBoF\n\nDownload The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/claudeai/status/2052060691893227611\nhttps://x.com/xai/status/2052060350770515978\nhttps://x.com/elonmusk/status/2052069691372478511\nhttps://x.com/elonmusk/status/2031449322190229894\nhttps://x.com/elonmusk/status/2027294561467613256\nhttps://x.com/elonmusk/status/2026052687423562228\nhttps://x.com/elonmusk/status/2026053980917465388\nhttps://x.com/elonmusk/status/2022752939421421761",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "p7K3xfViWCE",
       "title": "DeepSeek V4 AI Beats Billion Dollar Systems…For Free",
       "channel": "Two Minute Papers",
@@ -649,19 +662,6 @@
       "url": "https://www.youtube.com/watch?v=7YVrb3-ABYE",
       "published": "2026-04-01T14:21:33+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The TurboQuant paper is available here:\nhttps://arxiv.org/abs/2504.19874\n\nReproductions: \nhttps://github.com/tonbistudio/turboquant-pytorch\nhttps://www.reddit.com/r/LocalLLM/comments/1s6edoi/turboquant_implementation/\nhttps://www.reddit.com/r/LocalLLaMA/comments/1s73yby/implemented_turboquant_in_python_over_weekend/\nhttps://x.com/AlicanKiraz0/status/2038245538865275274\nI'll note that I have found several reproductions and benchmarks with all kinds of results, so take each of these as just one data point, not definitive yet (thanks for the feedback Alon Torres). Some later tests even better at KV-cache compression!\n\nKV-cache source: https://huggingface.co/blog/not-lain/kv-caching\n\nReviews and criticisms of the paper:\nhttps://openreview.net/forum?id=tO3ASKZlok\nhttps://x.com/gaoj0017/status/2037532673812443214\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "Io_GqmbNBbY",
-      "title": "DeepMind’s New AI Just Changed Science Forever",
-      "channel": "Two Minute Papers",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=Io_GqmbNBbY",
-      "published": "2026-03-27T16:00:57+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2602.10177\n\nSource:\nhttps://www.youtube.com/watch?v=6evUpgCHtOQ\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
