@@ -1,9 +1,13 @@
 {
-  "generated_at": "2026-05-29T09:53:20.408617+00:00",
+  "generated_at": "2026-05-29T15:28:47.268932+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "AI Explained",
+        15
+      ],
       [
         "Matthew Berman",
         15
@@ -17,10 +21,6 @@
         15
       ],
       [
-        "AI Explained",
-        15
-      ],
-      [
         "Yannic Kilcher",
         15
       ]
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "aJvP3nXWkwM",
+      "title": "New Claude Opus 4.8: 15 Things You May’ve Missed",
+      "channel": "AI Explained",
+      "channel_category": "AI Analysis",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "published": "2026-05-29T15:07:35+00:00",
+      "summary": "The ‘best’ generally available AI model just dropped, but there is plenty I bet you missed about what it is, how it performs, and what the release tells us. 15 highlights from the 244 page system card, plus private testing, leader interview and more.\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:49 - Mythos in Weeks\n01:49 - Adaptive not necessary\n02:26 - Honesty?\n04:37 - Flagging Uncertainty\n04:57 - Benchmarks\n08:54 - Mythos will be even better\n10:30 - Business skillz\n11:15 - Model Welfare\n12:16 - Cyber Comparable\n13:10 - Misalignment Concerns\n16:22 - Meta Inabilities\n17:58 - Code flagging\n18:34 - Go to sleep\n18:50 - Fast Mode\n20:21 - Dynamic Workflows\n\n\nOpus 4.8 Paper: https://cdn.sanity.io/files/4zrzovbb/website/c886650a2e96fc0925c805a1a7ca77314ccbf4a6.pdf\n\nRelease: https://www.anthropic.com/news/claude-opus-4-8\n\nChips: https://www.theinformation.com/articles/anthropic-talks-use-microsofts-ai-chips?rc=sy0ihq\nhttps://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services\nhttps://www.anthropic.com/news/higher-limits-spacex\n\nPatreon Vid: https://www.patreon.com/posts/re-up-anthropics-159289449\n\nGDPVal: https://artificialanalysis.ai/evaluations/omniscience\nhttps://arxiv.org/abs/2510.04374\n\nAmodei Technical Debt: https://www.youtube.com/watch?v=7xco5Qd2Oo8\n\nDynamic Workflows: https://x.com/ClaudeDevs/status/2060044853279617150\nhttps://x.com/_catwu/status/2060054180379689074/photo/1\nhttps://claude.com/blog/introducing-dynamic-workflows-in-claude-code\n\nhttps://simple-bench.com/\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "t3uBGhpii6w",
       "title": "Anthropic just dropped Opus 4.8... (WOAH)",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=3W36pd50Wqw",
       "published": "2026-05-20T19:34:06+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 8, 2026\nThis seminar covers: \n• Integrated learning and planning with neuro-symbolic concepts\n• A general learning and reasoning framework based on neuro-symbolic concepts\n• Systems that leverage neuro-symbolic concepts demonstrate superior data efficiency, enable agents to reason and plan more quickly, and achieve strong generalization in novel situations and for novel goals\n\nFollow along with the seminar schedule, visit: https://stanfordasl.github.io/robotics_seminar/\n\nJiayuan Mao is a Member of Technical Staff at Amazon Frontier AI & Robotics, and an incoming assistant professor at the University of Pennsylvania.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -857,19 +870,6 @@
       "url": "https://www.youtube.com/watch?v=4p73Uu_jZ10",
       "published": "2025-12-12T16:24:49+00:00",
       "summary": "Full GPT-5.2 breakdown - did OpenAI reclaim the crown? A story of tokens, time and cost, plus 9 details you wouldn’t get just from reading the headlines.\n\nhttps://www.youtube.com/@eightythousandhours\n\n\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\nhttps://lmcouncil.ai\n\nChapters:\n00:00 - Introduction\n00:55 - Better than Human @ Professional Tasks?\n04:42 - Test time Compute\n07:05 - Benchmark Selection\n09:32 - Simple Results + council comparison\n13:01 - Long Context\n13:52 - Self-Improvement\n15:00 - 10 Years + New Models\n\nRelease Page: https://openai.com/index/introducing-gpt-5-2/\n\nGPT 5.2 Benchmark Comparison: https://www.reddit.com/r/singularity/comments/1pka1y9/gpt52_all_20_benchmarks_rankings_and_pricing/\nhttps://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/gemini_3_table_final_HLE_Tools_on.gif\nhttps://lmcouncil.ai/benchmarks\n\nCharxiv: https://charxiv.github.io/#leaderboard\n\nGDPval: https://arxiv.org/pdf/2510.04374\nMy vid: https://www.youtube.com/watch?v=oK5LxMaROSA\n\nKilpatrick: https://x.com/OfficialLoganK/status/1999270402712023158/photo/1\n\nNoam Brown: https://x.com/polynoamial/status/1999189845164667132\n\nNew Model in New Year: https://www.theinformation.com/articles/openai-developing-garlic-model-counter-googles-recent-gains?rc=sy0ihq\n\n10 Years of OpenAI: https://openai.com/index/ten-years/\n\nGPQA: https://x.com/idavidrein/status/1841265634170278063\n\nARC-AGI 1-2: https://arcprize.org/arc-agi/2/\n\nSunday Robotics: https://x.com/tonyzzhao/status/1991204839578300813\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/\n\n\nhttps://lmcouncil.ai",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "iO844izo9kw",
-      "title": "You Are Being Told Contradictory Things About AI",
-      "channel": "AI Explained",
-      "channel_category": "AI Analysis",
-      "url": "https://www.youtube.com/watch?v=iO844izo9kw",
-      "published": "2025-12-05T16:54:07+00:00",
-      "summary": "With headlines of an imminent job apocalypse, code red for ChatGPT and recursive self-improvement, at the same time as Anthropic's CEO yesterday saying we know how to scale to AGI, and Gemini 3 DeepThink out today, it is easy to get lost among the narratives and counter-narratives. So here are both, plus the facts behind them, for you to decide.\n\n\nhttps://epoch.ai/ai-explained-datacenters\n\nEpoch AI is the sponsor of today’s video, and my views, and those expressed in this video, do not necessarily reflect Epoch AI’s views in any way.\n\n\nChapters: \n00:00 - Introduction\n00:42 - Job Apocalypse?\n01:45 - Scaling to AGI\n04:15 - Recursive Self-Improvement Needed, or Not\n09:57 - OpenAI Code Red vs Gemini 3 DeepThink vs Claude Opus 4.5\n13:27 - DeepSeek Speciale vs Mistral Large v3\n16:45 - Claude Soul Document\n\nhttps://lmcouncil.ai/\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nGuardian Interview: https://www.theguardian.com/technology/ng-interactive/2025/dec/02/jared-kaplan-artificial-intelligence-train-itself\n\nMIT Study on Jobs/Tasks: https://iceberg.mit.edu/report.pdf\nvs https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html\n\nAmodei on Scaling: https://www.youtube.com/watch?v=FEj7wAjwQIk\nClaude Soul Document: https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document\n\nCapabilities Original Stance: https://www.anthropic.com/news/core-views-on-ai-safety\n\nIlya Interview: https://www.dwarkesh.com/p/ilya-sutskever-2\n\nRicursive Intelligence: https://x.com/RicursiveAI/status/1995932204703346946\n\nEconomist Worker Usage of GenAI: https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening#selection-1409.94-1413.42\n\nMistral v3 Large: https://docs.mistral.ai/models/mistral-large-3-25-12\n\nCompute Slowdown Paper: https://joel-becker.com/images/publications/forecasting_time_horizon_under_compute_slowdown.pdf\nhttps://x.com/joel_bkr/status/1993023436541903155\n\nMETR Chart: https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/\n\nhttps://www.theinformation.com/articles/openais-350-billion-computing-cost-problem?rc=sy0ihq\n\nOpenAI Code Red: https://www.anthropic.com/news/core-views-on-ai-safety\nRocket Company: https://www.independent.co.uk/news/world/americas/sam-altman-rocket-elon-musk-spacex-b2878351.html\n\nDeepSeek Paper: https://arxiv.org/html/2512.02556v1\n\nDeepSeek Crowdstrike CCP: https://www.crowdstrike.com/en-us/blog/crowdstrike-researchers-identify-hidden-vulnerabilities-ai-coded-software/\n\nhttps://simple-bench.com/\n\nPatreon Post: https://www.patreon.com/c/aiexplained/posts\n\nRobot: https://x.com/jloganolson/status/1985850115379351799\n\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
