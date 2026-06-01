@@ -1,9 +1,13 @@
 {
-  "generated_at": "2026-05-31T19:16:21.748392+00:00",
+  "generated_at": "2026-06-01T03:59:49.315175+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Two Minute Papers",
+        15
+      ],
       [
         "Matthew Berman",
         15
@@ -17,10 +21,6 @@
         15
       ],
       [
-        "Two Minute Papers",
-        15
-      ],
-      [
         "Yannic Kilcher",
         15
       ]
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "vsKH3oPwss4",
+      "title": "Feynman vs. Einstein vs. Newton: Who Wins? 🧠🤔 #physics #ai #science #feynman #research",
+      "channel": "Two Minute Papers",
+      "channel_category": "AI Research",
+      "url": "https://www.youtube.com/watch?v=vsKH3oPwss4",
+      "published": "2026-06-01T00:16:21+00:00",
+      "summary": "Check the pinned comment for the link to the full interview. In this quick clip, we explore which legendary scientist ranks higher among the experts. It's a fun debate that leads into an even bigger discussion about AI's role in future scientific breakthroughs. You won't want to miss the full deep dive with Demis Hassabis! ⚡️",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "IYN2jfJHJd4",
       "title": "Self Improving AI actually solves everything",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=tk9lt-9x8mE",
       "published": "2026-05-21T19:49:20+00:00",
       "summary": "Download The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -662,19 +675,6 @@
       "url": "https://www.youtube.com/watch?v=ZQAz_HrUq68",
       "published": "2026-04-07T17:38:09+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The #NVIDIA paper on Nemotron 3 Super is available here:\nhttps://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Super-Technical-Report.pdf\nhttps://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "7YVrb3-ABYE",
-      "title": "Google’s New AI Just Broke My Brain",
-      "channel": "Two Minute Papers",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=7YVrb3-ABYE",
-      "published": "2026-04-01T14:21:33+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The TurboQuant paper is available here:\nhttps://arxiv.org/abs/2504.19874\n\nReproductions: \nhttps://github.com/tonbistudio/turboquant-pytorch\nhttps://www.reddit.com/r/LocalLLM/comments/1s6edoi/turboquant_implementation/\nhttps://www.reddit.com/r/LocalLLaMA/comments/1s73yby/implemented_turboquant_in_python_over_weekend/\nhttps://x.com/AlicanKiraz0/status/2038245538865275274\nI'll note that I have found several reproductions and benchmarks with all kinds of results, so take each of these as just one data point, not definitive yet (thanks for the feedback Alon Torres). Some later tests even better at KV-cache compression!\n\nKV-cache source: https://huggingface.co/blog/not-lain/kv-caching\n\nReviews and criticisms of the paper:\nhttps://openreview.net/forum?id=tO3ASKZlok\nhttps://x.com/gaoj0017/status/2037532673812443214\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
