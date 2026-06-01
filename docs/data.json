@@ -1,9 +1,13 @@
 {
-  "generated_at": "2026-06-01T17:37:44.434620+00:00",
+  "generated_at": "2026-06-01T21:32:13.887927+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Stanford Online",
+        15
+      ],
       [
         "Two Minute Papers",
         15
@@ -17,10 +21,6 @@
         15
       ],
       [
-        "Stanford Online",
-        15
-      ],
-      [
         "Yannic Kilcher",
         15
       ]
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "oyLUvz9nR6E",
+      "title": "Stanford CME296 Diffusion & Large Vision Models | Spring 2026 | Lecture 8 - Trending Topics",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=oyLUvz9nR6E",
+      "published": "2026-06-01T20:25:31+00:00",
+      "summary": "Learn more details about this course: https://online.stanford.edu/courses/cme296-diffusion-and-large-vision-models\n\nTo follow along with the course schedule and syllabus, visit: https://cme296.stanford.edu/syllabus/\n\nChapters:\n00:00:00 Introduction\n00:01:38 Diffusion\n00:05:23 Score matching\n00:13:02 Flow matching\n00:19:04 Latent space and guidance\n00:25:11 Image generation architectures\n00:29:47 Model training\n00:37:23 Evaluation\n00:44:28 State-of-the-art models\n00:55:03 Video generation models\n01:12:51 Image editing\n01:20:35 Diffusion for LLMs\n01:38:54 Closing thoughts\n\nFor more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nAfshine Amidi is an Adjunct Lecturer at Stanford University.\n\nShervine Amidi is an Adjunct Lecturer at Stanford University.\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "yz6I23VRbdg",
       "title": "What Happens After A 1,000,000x AI Compute Leap? | Jeff Dean",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=huAwz_BR8WM",
       "published": "2026-05-25T17:49:30+00:00",
       "summary": "Thank you to Google DeepMind for the invite. 🙏\n\n❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\n00:00 Intro\n00:40 Gemini Health Scans and Gemma 4\n01:30 AI as a Brainstorming Partner\n02:30 Second Order Nobel\n03:15 DeepMind Co-Scientist\n05:00 Curing All Diseases\n06:30 Exponential Growth in Drug Discovery \n07:45 Regulatory Bottlenecks \n09:45 Accelerating Clinical Trials \n11:15 EVE Online Partnership\n13:15 The Einstein Test\n15:30 Recursive Self-Improvement\n18:15 Lightning Round\n19:30 The Badge of Honor\n20:10 Behind the Scenes",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -415,19 +428,6 @@
       "url": "https://www.youtube.com/watch?v=Lri2LNYtERM",
       "published": "2026-05-20T17:36:41+00:00",
       "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn a CS153 Frontier Systems lecture, the class shifts from upstream bottlenecks like power and compute to the capital and company-formation layer, framing YC's 2010s introduction of the SAFE as a standardization moment for venture capital comparable to the buildout of the electrical grid. \n\nGuests Garry Tan, CEO of Y Combinator, and General Partner Diana Hu argue that agentic coding, unlocked by Claude 4.5 in late 2025, has collapsed the unit of production: Tan recounts rebuilding his old startup Posterous in five days on a $200 Claude Max plan and shipping his open-source GStack and GBrain projects to over 100,000 GitHub stars. They walk through agentic primitives — skills, resolvers, Skillify, evals, and a three-layer memory system — and map them onto company structure, with skills as employees, resolvers as the org chart, and CheckResolvable as audit and compliance. Hu closes by arguing AI-native companies run as closed-loop systems with one or two million dollars in revenue per employee, citing YC portfolio companies Salient, Happy Robot, and Reducto as forward-deployed examples and pointing to white space across back office, finance, and customer service for one-person frontier companies.\n\nGarry Tan is president and CEO of Y Combinator and a General Partner. He was a partner at Y Combinator from 2011 to 2015, where he built key parts of the YC experience for founders including Bookface and the Demo Day website. Garry is the co-founder of Initialized Capital and Posterous (YC S08), a blog platform acquired by Twitter, and prior to that, he was an early designer and engineering manager at Palantir (NYSE:PLTR), where he designed the company logo. Garry holds a BS in Computer Systems Engineering from Stanford.\n\nDiana Hu is a General Partner at YC. She was co-founder and CTO of Escher Reality (YC S17), an Augmented Reality Backend company that was acquired by Niantic (makers of Pokémon Go). At Niantic, she was the head of the AR platform. Previously, she led data science at OnCue TV that was sold to Verizon. Originally from Chile, Diana graduated from Carnegie Mellon University with a BS and MS in Electrical and Computer Engineering with a focus in computer vision and machine learning.\n\nFollow the playlist: https://youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA&amp;si=DOJ5amlyRdyMJBhG",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "Q_UxyEepuQA",
-      "title": "Stanford CS547 HCI Seminar | Spring 2026 | HCI and Human-Centered AI for Digital Health",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=Q_UxyEepuQA",
-      "published": "2026-05-20T17:32:28+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 8, 2026\nThis lecture covers:\n•  HCI issues related to the design, evaluation, and deployment of AI-enabled systems in digital health\n•  How \"easy to implement\" AI engineering decisions that are usually default parameters in Python machine learning code can have dramatic effects on the user experience of patients and clinicians\n•  How the choice of evaluation metrics to optimize for can affect downstream user experience\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nDr. Peter Washington, PI of the UCSF TECH Lab (techlab.ucsf.edu), is an Assistant Professor in the Division of Clinical Informatics and Digital Transformation (DoC-IT) in the Department of Medicine at the University of California, San Francisco (UCSF).",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
