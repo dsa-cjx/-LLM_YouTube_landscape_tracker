@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-02T16:23:25.865370+00:00",
+  "generated_at": "2026-06-02T20:48:01.611144+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Matthew Berman",
+        15
+      ],
       [
         "Two Minute Papers",
         15
       ],
       [
         "Stanford Online",
-        15
-      ],
-      [
-        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "gyXjvzMDV7s",
+      "title": "Is AI actually helping?",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=gyXjvzMDV7s",
+      "published": "2026-06-02T18:15:20+00:00",
+      "summary": "Supercharge your AI withZapier: https://bit.ly/4fm7ivj\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "MOviZKtFeHM",
       "title": "A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=kIvvzCR5NjA",
       "published": "2026-05-26T17:35:28+00:00",
       "summary": "Full video: https://youtu.be/huAwz_BR8WM\n#shorts",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -506,19 +519,6 @@
       "url": "https://www.youtube.com/watch?v=ak6fQ2Yjwy0",
       "published": "2026-05-15T01:10:31+00:00",
       "summary": "Tell your agents to use this: https://here.now/r/matthewberman\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 Intro\n0:51 Summary\n5:32 Sponsor\n7:02 Summary (cont.)\n15:32 The imperatives of staying ahead\n25:27 The Mythos Preview wake-up call\n27:08 Four fronts of the competition\n31:32 The state of the competition\n37:29 Ensuring democracies lead\n\nSources:\nhttps://www.anthropic.com/research/2028-ai-leadership\nhttps://www.anthropic.com/news/detecting-and-preventing-distillation-attacks\nhttps://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "cLuoF9nZwKE",
-      "title": "Robot sets the sorting record",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=cLuoF9nZwKE",
-      "published": "2026-05-14T19:56:47+00:00",
-      "summary": "Follow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
