@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T16:47:22.821063+00:00",
+  "generated_at": "2026-06-03T20:54:59.452504+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -31,6 +31,19 @@
   },
   "items": [
     {
+      "video_id": "iz7elwbqZVI",
+      "title": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
+      "channel": "Two Minute Papers",
+      "channel_category": "AI Research",
+      "url": "https://www.youtube.com/watch?v=iz7elwbqZVI",
+      "published": "2026-06-03T17:00:19+00:00",
+      "summary": "",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
       "video_id": "ypL7kUiw_LM",
       "title": "Claude Opus 4.8: Lying Machine No More?",
       "channel": "Two Minute Papers",
@@ -58,7 +71,7 @@
     },
     {
       "video_id": "gyXjvzMDV7s",
-      "title": "Is AI actually helping?",
+      "title": "i guess they were wrong...",
       "channel": "Matthew Berman",
       "channel_category": "AI Tools",
       "url": "https://www.youtube.com/watch?v=gyXjvzMDV7s",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=jFdH7n6BAl0",
       "published": "2026-05-27T21:47:29+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 14, 2026\nThis seminar covers: \n• An introduction to general-purpose AI systems from Google DeepMind designed to accelerate scientific discovery and democratize medical expertise\n• First, the AI co-scientist, a multi-agent Gemini-based system, assists researchers by systematically generating and refining novel hypotheses for complex scientific challenges\n• Secondly, the AI co-physician, AMIE, aims to give doctors superpowers and make medical expertise universally accessible\n\nFollow along with the seminar schedule. Visit: https://web.stanford.edu/class/cs25/\n\nGuest Speaker: Vivek Natarajan (DeepMind)\n\nInstructors: \n• Steven Feng,  Stanford Computer Science PhD student and NSERC PGS-D scholar\n• Karan P. Singh, Electrical Engineering PhD student and NSF Graduate Research Fellow in the Stanford Translational AI Lab\n• Michael C. Frank, Benjamin Scott Crocker Professor of Human Biology Director, Symbolic Systems Program\n• Christopher Manning, Thomas M. Siebel Professor in Machine Learning, Professor of Linguistics and of Computer Science, Co-Founder and Senior Fellow of the Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -649,19 +662,6 @@
       "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
       "published": "2026-04-17T18:07:46+00:00",
       "summary": "Claude Opus 4.7 just dropped, but behind every headline lies a deeper story. From a bonanza of benchmarks, to seeing the fruits of one of the biggest mega-projects in US history, to sneaky Mythos disclaimers, to Anthropic admitting compute restraints and, forcing lower capability of Opus 4.7. Where the new model falls behind Gemini but ahead of GPT 5.4, plus why some users are furious at Anthropic. Ending with a 9-year animus, that still affects AI today…\n\nhttps://assemblyai.com/aiexplained\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:58 - Benchmarks\n05:21 - Market Share + Compute Problems\n08:12 - Mythos Exclusives\n12:56 - User Frustration + Claude Code Updates\n14:03 - Brockman Amodei Rivalry\n17:40 - OpenAI vs Anthropic Approach to Code\n\nClaude 4.7 Opus Release Notes: https://www.anthropic.com/news/claude-opus-4-7\nvs Mythos: https://pbs.twimg.com/media/HGCGugrXUAAKcHp?format=jpg&amp;name=medium\n\n232-page System Card: https://cdn.sanity.io/files/4zrzovbb/website/037f06850df7fbe871e206dad004c3db5fd50340.pdf\n\nARC-AGI 2: https://x.com/arcprize/status/2044834615417053305/photo/1\n\nParseBench: https://x.com/jerryjliu0/status/2044902620746363016/photo/1\n\nGDPVal: https://artificialanalysis.ai/evaluations/gdpval-aa\n\nVidoc Security Replication: https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models\n\nBoris Cherny Settings: https://x.com/Hesamation/status/2043016923961577516/photo/2\n\nUser Frustration: https://x.com/RileyRalmuto/status/2044836116189069660\n\nVibeCode Bench: https://x.com/ValsAI/status/2044791415524471099/photo/1\n\nVerge Memo: https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic\n\n5.4 Cyber: ​​https://openai.com/index/scaling-trusted-access-for-cyber-defense/\n\nData Centers in Absolute $: https://x.com/finmoorhouse/status/2044933442236776794/photo/1\n\n…in % of GDP: https://pbs.twimg.com/media/HGEN8FGWQAAN7Np?format=jpg&amp;name=4096x4096\n\nWSJ Exclusive: https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde\n\nBrockman Interview: https://www.youtube.com/watch?v=J6vYvk7R190\n\n$1T Valuation: https://x.com/StefanFSchubert/status/2045039686997967082\n\nEmotions: https://www.patreon.com/c/aiexplained/posts\n\nhttps://lmcouncil.ai/benchmarks\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "Sk9tvyRSCgY",
-      "title": "DeepMind’s New AI: A Gift To Humanity",
-      "channel": "Two Minute Papers",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=Sk9tvyRSCgY",
-      "published": "2026-04-16T17:44:48+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nLinks:\nhttps://deepmind.google/models/gemma/gemma-4/\nhttps://ai.google.dev/gemma/docs/core/model_card_4\n\nFine tuning with Matt Mireles: https://x.com/mattmireles/status/2041606508220489786\n\nOther sources:\nhttps://x.com/googlegemma/status/2041256042882105666?s=46\nhttps://x.com/nakazakifam/status/2041286410930446370\nhttps://x.com/measure_plan/status/2039815699695104343\nhttps://x.com/maddiedreese/status/2041677327604838685?s=46\nhttps://x.com/steipete/status/2042615534567457102?s=46\nhttps://x.com/maziyarpanahi/status/2042592050940449260?s=46\nhttps://x.com/adrgrondin/status/2041962263507083340?s=46\nhttps://x.com/evgeniymikholap/status/2041104232648950170\nhttps://www.youtube.com/watch?v=u4ydH-QvPeg\nhttps://www.reddit.com/r/learnmachinelearning/comments/1sjs14m/implementing_gemma_3_and_sliding_window_attention/\nhttps://www.reddit.com/r/Anthropic/comments/1lxhmb4/claude_ban_for_no_reason/\nhttps://www.tldrlegal.com/license/apache-license-2-0-apache-2-0\nhttps://x.com/MaziyarPanahi/status/2043675576452706814\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
