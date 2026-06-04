@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-04T14:59:10.896169+00:00",
+  "generated_at": "2026-06-04T20:08:27.582941+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Two Minute Papers",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Two Minute Papers",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "a56T6OQtwEg",
+      "title": "Anthopic did a thing...",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=a56T6OQtwEg",
+      "published": "2026-06-04T19:03:39+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "iz7elwbqZVI",
       "title": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
@@ -76,7 +89,7 @@
       "channel_category": "AI Tools",
       "url": "https://www.youtube.com/watch?v=gyXjvzMDV7s",
       "published": "2026-06-02T18:15:20+00:00",
-      "summary": "Supercharge your AI withZapier: https://bit.ly/4fm7ivj\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "summary": "Supercharge your AI with Zapier: https://bit.ly/4fm7ivj\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": "error",
       "transcript_language": null,
       "analysis_status": null,
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=4k53z3Ysjg0",
       "published": "2026-05-27T22:06:06+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nThis seminar covers infrastructure and a capstone case on a frontier lab.\n\nFollow along with the course schedule: https://mse435.stanford.edu/\n\nGuest Speaker: Sachin Katti, Head of Industrial Computer, OpenAI\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -318,7 +331,7 @@
     },
     {
       "video_id": "6LwQ8RbU9as",
-      "title": "Finally a good benchmark (DeepSWE)",
+      "title": "DeepSWE just changed the benchmark game...",
       "channel": "Matthew Berman",
       "channel_category": "AI Tools",
       "url": "https://www.youtube.com/watch?v=6LwQ8RbU9as",
@@ -409,7 +422,7 @@
     },
     {
       "video_id": "Td2TaMWNUtA",
-      "title": "This is absolutely CRAZY",
+      "title": "This made me sad.",
       "channel": "Matthew Berman",
       "channel_category": "AI Tools",
       "url": "https://www.youtube.com/watch?v=Td2TaMWNUtA",
@@ -532,19 +545,6 @@
       "url": "https://www.youtube.com/watch?v=NksViNo3n08",
       "published": "2026-05-15T17:51:10+00:00",
       "summary": "Download The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "5-7PJLCw8JA",
-      "title": "$400,000 from Claude Code",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=5-7PJLCw8JA",
-      "published": "2026-05-15T13:00:14+00:00",
-      "summary": "Follow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
