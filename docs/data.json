@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-04T20:08:27.582941+00:00",
+  "generated_at": "2026-06-05T03:40:44.001726+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Stanford Online",
+        15
+      ],
       [
         "Matthew Berman",
         15
       ],
       [
         "Two Minute Papers",
-        15
-      ],
-      [
-        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,71 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "8hohrUYuyx4",
+      "title": "Stanford Robotics Seminar ENGR319 | Spring 2026 | Leveraging Geometry in Robot Learning",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=8hohrUYuyx4",
+      "published": "2026-06-04T22:17:04+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 22, 2026\nModel Matters: Leveraging Geometry in Robot Learning\n\nThis seminar covers: \n• How to leverage geometric structural priors in robot learning\n• A summary of recent work on this topic \n• Predictions about the future\n\nFollow along with the seminar schedule: https://stanfordasl.github.io/robotics_seminar/\n\nRobert Platt is an associate professor in the Khoury College of Computer Sciences at Northeastern University.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "NDdc39KYqDU",
+      "title": "Stanford CS25: Transformers United V6 I From Language Models to Native Multimodal Intelligence",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=NDdc39KYqDU",
+      "published": "2026-06-04T21:51:12+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 21, 2026\nThis seminar covers: \n• The evolution from language models to native multimodal systems\n• Focus on the architectural and training principles that transfer from the LLM paradigm\n• Challenges introduced by multimodal learning\n• The building blocks of modern multimodal LLMs, including modality representations, autoregressive modeling, and reasoning capabilities inherited from strong language models\n• Emerging directions in multimodal architecture design, including sparsity and modality specialization\n\nFollow along with the seminar schedule. Visit: https://web.stanford.edu/class/cs25/\n\nGuest Speaker: Victoria Lin (Thinking Machines)\n\nInstructors: \n• Steven Feng,  Stanford Computer Science PhD student and NSERC PGS-D scholar\n• Karan P. Singh, Electrical Engineering PhD student and NSF Graduate Research Fellow in the Stanford Translational AI Lab\n• Michael C. Frank, Benjamin Scott Crocker Professor of Human Biology Director, Symbolic Systems Program\n• Christopher Manning, Thomas M. Siebel Professor in Machine Learning, Professor of Linguistics and of Computer Science, Co-Founder and Senior Fellow of the Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "ZUdIsRZhWXI",
+      "title": "Stanford CS25: Transformers United V6 I Serving Transformers: Lessons from the Trenches",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=ZUdIsRZhWXI",
+      "published": "2026-06-04T21:45:52+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 28, 2026\nServing Transformers: Lessons from the Trenches of Production Inference\n\nThis seminar covers insights, lessons, and gnarly scars from serving transformer model inferences at the scale of thousands of GPUs.\n\nFollow along with the seminar schedule. Visit: https://web.stanford.edu/class/cs25/\n\nGuest Speaker: Charles Frye (Modal)\n\nInstructors: \n• Steven Feng,  Stanford Computer Science PhD student and NSERC PGS-D scholar\n• Karan P. Singh, Electrical Engineering PhD student and NSF Graduate Research Fellow in the Stanford Translational AI Lab\n• Michael C. Frank, Benjamin Scott Crocker Professor of Human Biology Director, Symbolic Systems Program\n• Christopher Manning, Thomas M. Siebel Professor in Machine Learning, Professor of Linguistics and of Computer Science, Co-Founder and Senior Fellow of the Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "26FtD08ZpOU",
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 17: Alignment - Multimodality",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=26FtD08ZpOU",
+      "published": "2026-06-04T21:29:14+00:00",
+      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs336-language-modeling-scratch\n\nFollow along with the course schedule and syllabus: https://cs336.stanford.edu/\n\nPercy Liang\nProfessor of Computer Science (and courtesy in Statistics)\n\nTatsunori Hashimoto\nAssistant Professor of Computer Science\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "RGh9kL8hVgQ",
+      "title": "It's like AI insurance",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=RGh9kL8hVgQ",
+      "published": "2026-06-04T21:06:16+00:00",
+      "summary": "Follow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "a56T6OQtwEg",
       "title": "Anthopic did a thing...",
@@ -233,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=iNaRBp4T57Q",
       "published": "2026-05-28T16:36:42+00:00",
       "summary": "Learn more details about this course: https://online.stanford.edu/courses/cme296-diffusion-and-large-vision-models\n\nTo follow along with the course schedule and syllabus, visit: https://cme296.stanford.edu/syllabus/\n\nChapters:\n00:00:00 Introduction\n00:05:19 Motivation\n00:10:48 Human ratings\n00:19:43 Elo rating system\n00:26:37 Reference-free metrics\n00:29:15 Fréchet inception distance (FID)\n00:42:30 CLIPScore\n00:44:51 PickScore\n00:45:41 Reference-based metrics\n00:48:07 Mean squared error (MSE)\n00:49:36 Peak signal-to-noise ratio (PSNR)\n00:51:54 Structural similarity (SSIM)\n01:01:09 Perceptual similarity (LPIPS)\n01:05:03 Multimodal LLMs\n01:13:10 Faithfulness evaluation (TIFA)\n01:17:29 Visual question answering score (VQA)\n01:24:40 MLLM-as-a-Judge\n01:34:17 Benchmarks\n\nFor more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nAfshine Amidi is an Adjunct Lecturer at Stanford University.\n\nShervine Amidi is an Adjunct Lecturer at Stanford University.\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -246,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=g50FHC-PzK8",
       "published": "2026-05-28T16:20:02+00:00",
       "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn a CS153 Frontier Systems lecture, Joe Sullivan, a veteran security leader who built security teams at Facebook, Uber, and Cloudflare, walks the class through his career at the intersection of government and technology — from federal prosecutor in the 1990s through eBay/PayPal, Facebook, Uber, and Cloudflare — and uses his own criminal prosecution as the central case study.\n\n In 2016, Uber paid researchers $100,000 through what Sullivan's team treated as a bug bounty after they accessed an old AWS database; legal signed off and the CEO approved, but in 2020 Sullivan was personally charged with obstruction of justice for the company's failure to disclose the incident to regulators. He lost at trial in 2022 after the judge instructed the jury that companies cannot retroactively authorize access, but at sentencing in 2023 the judge declared \"it wasn't a cover-up\" and gave him three years' probation instead of the prison time prosecutors sought — buoyed by over 200 letters of support from the security community. \n\nFrom this story he draws his core theme: leadership in modern tech requires resilience and a bias toward transparency (he contrasts Uber's 2016 approach with Cloudflare's reflex to write a blog post the moment an incident hits), and he closes with a wide-ranging Q&amp;A on vibe-coding security risks, the shift from data-loss to operational-resilience threats like the Jaguar Land Rover ransomware attack, Anthropic's cyber model rollout, quantum cryptography, executive protection, and the growing case for proactive government action against ransomware gangs.\n\nJoe Sullivan is the CEO of Joe Sullivan Security LLC, advising companies, leading security projects, and mentoring leaders. He also leads Ukraine Friends, a nonprofit aiding children in war zones. A former federal cybercrime prosecutor, Joe worked on safety and security at eBay and PayPal, then went on to lead security at Facebook, Uber, and Cloudflare. He also served on President Obama’s Commission on Enhancing National Cybersecurity.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -258,8 +323,8 @@
       "channel_category": "Education",
       "url": "https://www.youtube.com/watch?v=dIFAi87Ws4E",
       "published": "2026-05-27T22:59:37+00:00",
-      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs336-language-modeling-scratch\n\nFollow along with the course schedule and syllabus, visit: https://cs336.stanford.edu/\n\nPercy Liang\nProfessor of Computer Science (and courtesy in Statistics)\n\nTatsunori Hashimoto\nAssistant Professor of Computer Science\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV",
-      "transcript_status": "error",
+      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs336-language-modeling-scratch\n\nFollow along with the course schedule and syllabus: https://cs336.stanford.edu/\n\nPercy Liang\nProfessor of Computer Science (and courtesy in Statistics)\n\nTatsunori Hashimoto\nAssistant Professor of Computer Science\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +337,7 @@
       "url": "https://www.youtube.com/watch?v=2oH6PWPrYFo",
       "published": "2026-05-27T22:54:00+00:00",
       "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs336-language-modeling-scratch\n\nThis lecture covers mid/post-training (SFT/RLHF).\n\nFollow along with the course schedule and syllabus, visit: https://cs336.stanford.edu/\n\nPercy Liang\nProfessor of Computer Science (and courtesy in Statistics)\n\nTatsunori Hashimoto\nAssistant Professor of Computer Science\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +350,7 @@
       "url": "https://www.youtube.com/watch?v=5sxHosTLPF8",
       "published": "2026-05-27T22:36:07+00:00",
       "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs336-language-modeling-scratch\n\nThis lecture covers data (filtering, deduplication, mixing, and synthetic data).\n\nFollow along with the course schedule and syllabus, visit: https://cs336.stanford.edu/\n\nPercy Liang\nProfessor of Computer Science (and courtesy in Statistics)\n\nTatsunori Hashimoto\nAssistant Professor of Computer Science\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -447,19 +512,6 @@
       "analysis": null
     },
     {
-      "video_id": "3W36pd50Wqw",
-      "title": "Stanford Robotics Seminar ENGR319 | Spring 2026 | Integrated Learning and Planning",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=3W36pd50Wqw",
-      "published": "2026-05-20T19:34:06+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 8, 2026\nThis seminar covers: \n• Integrated learning and planning with neuro-symbolic concepts\n• A general learning and reasoning framework based on neuro-symbolic concepts\n• Systems that leverage neuro-symbolic concepts demonstrate superior data efficiency, enable agents to reason and plan more quickly, and achieve strong generalization in novel situations and for novel goals\n\nFollow along with the seminar schedule, visit: https://stanfordasl.github.io/robotics_seminar/\n\nJiayuan Mao is a Member of Technical Staff at Amazon Frontier AI & Robotics, and an incoming assistant professor at the University of Pennsylvania.",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "IB7IW6zX-H0",
       "title": "Google CEO: Agents, Open Source, Race to AGI, Cybersecurity, Chips, China",
       "channel": "Matthew Berman",
@@ -467,45 +519,6 @@
       "url": "https://www.youtube.com/watch?v=IB7IW6zX-H0",
       "published": "2026-05-20T18:55:27+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai/newsletter\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n00:00 - Intro\n00:41 - Sundar on AI agents replacing parts of the internet\n03:10 - How Google thinks about trusting AI agents\n05:00 - Will agents kill the “raw internet”?\n08:01 - AI cyberattacks and Google’s defense strategy\n10:42 - Should dangerous cyber AI models be held back?\n12:21 - The threshold for releasing powerful AI\n13:15 - Why Google won’t open-source a frontier model\n15:03 - The business problem with open-source AI\n17:10 - Should American companies use Chinese AI models?\n19:02 - The risk of building on China’s AI ecosystem\n20:41 - Why Google cares so much about cheap, fast AI models\n23:31 - Sundar on self-improving AI and the race to AGI\n26:17 - Google’s compute situation\n27:45 - Google has more AI demand than compute\n28:51 - Google’s biggest bottleneck: power, data centers, chips, and memory\n30:04 - Closing",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "dI8pLC1BLSM",
-      "title": "Stanford Robotics Seminar ENGR319 | Spring 2026 | Interactive Autonomy",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=dI8pLC1BLSM",
-      "published": "2026-05-20T18:34:27+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 1, 2026\nThis seminar covers: \n• Learning and control for multi-agent interactions\n• Game-theoretic planning and control for robots\n• Learning in interactive domains, including imitation learning and reinforcement learning\n\nFollow along with the seminar schedule, visit: https://stanfordasl.github.io/robotics_seminar/\n\nNegar Mehr is an assistant professor in the Mechanical Engineering Department at the University of California at Berkeley. She runs the ICON Lab.",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "dJtHauhRasc",
-      "title": "Stanford CS25: Transformers United V6 I Distinct Modes of Generalization from Parameters and Context",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=dJtHauhRasc",
-      "published": "2026-05-20T18:02:54+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 7, 2026\nThis seminar covers: \n• Two methods for teaching information to language models: training (updating parameters) or in-context learning (providing information in prompts)\n• Striking differences in the types of generalization that models make when they learn information via these two routes\n• Three different strategies that can help bridge the gap, based on data augmentation, retrieval, and RL\n\nFollow along with the seminar schedule. Visit: https://web.stanford.edu/class/cs25/\n\nGuest Speaker: Andrew Lampinen (Anthropic)\n\nInstructors: \n• Steven Feng,  Stanford Computer Science PhD student and NSERC PGS-D scholar\n• Karan P. Singh, Electrical Engineering PhD student and NSF Graduate Research Fellow in the Stanford Translational AI Lab\n• Michael C. Frank, Benjamin Scott Crocker Professor of Human Biology Director, Symbolic Systems Program\n• Christopher Manning, Thomas M. Siebel Professor in Machine Learning, Professor of Linguistics and of Computer Science, Co-Founder and Senior Fellow of the Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "Lri2LNYtERM",
-      "title": "Stanford CS153 Frontier Systems | The AI Native Company: How One Founder Becomes a 1000x Engineer",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=Lri2LNYtERM",
-      "published": "2026-05-20T17:36:41+00:00",
-      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn a CS153 Frontier Systems lecture, the class shifts from upstream bottlenecks like power and compute to the capital and company-formation layer, framing YC's 2010s introduction of the SAFE as a standardization moment for venture capital comparable to the buildout of the electrical grid. \n\nGuests Garry Tan, CEO of Y Combinator, and General Partner Diana Hu argue that agentic coding, unlocked by Claude 4.5 in late 2025, has collapsed the unit of production: Tan recounts rebuilding his old startup Posterous in five days on a $200 Claude Max plan and shipping his open-source GStack and GBrain projects to over 100,000 GitHub stars. They walk through agentic primitives — skills, resolvers, Skillify, evals, and a three-layer memory system — and map them onto company structure, with skills as employees, resolvers as the org chart, and CheckResolvable as audit and compliance. Hu closes by arguing AI-native companies run as closed-loop systems with one or two million dollars in revenue per employee, citing YC portfolio companies Salient, Happy Robot, and Reducto as forward-deployed examples and pointing to white space across back office, finance, and customer service for one-person frontier companies.\n\nGarry Tan is president and CEO of Y Combinator and a General Partner. He was a partner at Y Combinator from 2011 to 2015, where he built key parts of the YC experience for founders including Bookface and the Demo Day website. Garry is the co-founder of Initialized Capital and Posterous (YC S08), a blog platform acquired by Twitter, and prior to that, he was an early designer and engineering manager at Palantir (NYSE:PLTR), where he designed the company logo. Garry holds a BS in Computer Systems Engineering from Stanford.\n\nDiana Hu is a General Partner at YC. She was co-founder and CTO of Escher Reality (YC S17), an Augmented Reality Backend company that was acquired by Niantic (makers of Pokémon Go). At Niantic, she was the head of the AR platform. Previously, she led data science at OnCue TV that was sold to Verizon. Originally from Chile, Diana graduated from Carnegie Mellon University with a BS and MS in Electrical and Computer Engineering with a focus in computer vision and machine learning.\n\nFollow the playlist: https://youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA&amp;si=DOJ5amlyRdyMJBhG",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -532,19 +545,6 @@
       "url": "https://www.youtube.com/watch?v=IMHqGNLLoxo",
       "published": "2026-05-18T16:30:38+00:00",
       "summary": "Follow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "NksViNo3n08",
-      "title": "anthropic vs. openai",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=NksViNo3n08",
-      "published": "2026-05-15T17:51:10+00:00",
-      "summary": "Download The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
