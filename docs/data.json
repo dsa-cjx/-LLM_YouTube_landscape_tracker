@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T19:53:39.923875+00:00",
+  "generated_at": "2026-06-06T03:25:12.435387+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Two Minute Papers",
+        "Stanford Online",
         15
       ],
       [
@@ -13,7 +13,7 @@
         15
       ],
       [
-        "Stanford Online",
+        "Two Minute Papers",
         15
       ],
       [
@@ -30,6 +30,58 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "WwWjH9ynx9U",
+      "title": "Stanford CS547 HCI Seminar | Spring 2026 | The Modern Motivators of Play",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=WwWjH9ynx9U",
+      "published": "2026-06-05T22:12:29+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nApril 24, 2026\nThis lecture covers:\n•  The six classic and three modern motivators of play\n•  How to use them to adapt your app and game design techniques to find new markets and new communities to address\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nCheryl Platz is a game developer, designer, and author of The Game Development Strategy Guide: Crafting Modern Video Games That Thrive.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "Qh7Oxvo5sJI",
+      "title": "Stanford MS&E435 Economics of the AI Supercycle | Spring 2026 | Applications, Applied AI",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=Qh7Oxvo5sJI",
+      "published": "2026-06-05T21:33:53+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nThis seminar covers applications, applied AI, and agent monetization.\n\nFollow along with the course schedule: https://mse435.stanford.edu/\n\nGuest Speaker: Tuhin Srivastava, Founder / CEO, Baseten\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "9EEm4iMAF5s",
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Guest Lecture: Dan Fu",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=9EEm4iMAF5s",
+      "published": "2026-06-05T21:19:48+00:00",
+      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs336-language-modeling-scratch\n\nFollow along with the course schedule and syllabus: https://cs336.stanford.edu/\n\nPercy Liang\nProfessor of Computer Science (and courtesy in Statistics)\n\nTatsunori Hashimoto\nAssistant Professor of Computer Science\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "ny6g0zyTuzY",
+      "title": "$1,300,000 in TOKENS",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=ny6g0zyTuzY",
+      "published": "2026-06-05T19:52:13+00:00",
+      "summary": "Follow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "Dkqzqw8rxXI",
       "title": "DeepMind’s New AI Found A Strange New Way To Think",
@@ -246,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=vsKH3oPwss4",
       "published": "2026-06-01T00:16:21+00:00",
       "summary": "Check the pinned comment for the link to the full interview. In this quick clip, we explore which legendary scientist ranks higher among the experts. It's a fun debate that leads into an even bigger discussion about AI's role in future scientific breakthroughs. You won't want to miss the full deep dive with Demis Hassabis! ⚡️",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -259,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=IYN2jfJHJd4",
       "published": "2026-05-29T19:09:21+00:00",
       "summary": "Try Pioneer for FREE: https://tinyurl.com/24thzrdp\n\nFollow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=HoMvCjnpAJ8",
       "published": "2026-05-29T17:03:37+00:00",
       "summary": "Get started with Higgsfield Supercomputer: https://tinyurl.com/4tbd99ut\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +337,7 @@
       "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
       "published": "2026-05-29T15:07:35+00:00",
       "summary": "The ‘best’ generally available AI model just dropped, but there is plenty I bet you missed about what it is, how it performs, and what the release tells us. 15 highlights from the 244 page system card, plus private testing, leader interview and more.\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:49 - Mythos in Weeks\n01:49 - Adaptive not necessary\n02:26 - Honesty?\n04:37 - Flagging Uncertainty\n04:57 - Benchmarks\n08:54 - Mythos will be even better\n10:30 - Business skillz\n11:15 - Model Welfare\n12:16 - Cyber Comparable\n13:10 - Misalignment Concerns\n16:22 - Meta Inabilities\n17:58 - Code flagging\n18:34 - Go to sleep\n18:50 - Fast Mode\n20:21 - Dynamic Workflows\n\n\nOpus 4.8 Paper: https://cdn.sanity.io/files/4zrzovbb/website/c886650a2e96fc0925c805a1a7ca77314ccbf4a6.pdf\n\nRelease: https://www.anthropic.com/news/claude-opus-4-8\n\nChips: https://www.theinformation.com/articles/anthropic-talks-use-microsofts-ai-chips?rc=sy0ihq\nhttps://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services\nhttps://www.anthropic.com/news/higher-limits-spacex\n\nPatreon Vid: https://www.patreon.com/posts/re-up-anthropics-159289449\n\nGDPVal: https://artificialanalysis.ai/evaluations/omniscience\nhttps://arxiv.org/abs/2510.04374\n\nAmodei Technical Debt: https://www.youtube.com/watch?v=7xco5Qd2Oo8\n\nDynamic Workflows: https://x.com/ClaudeDevs/status/2060044853279617150\nhttps://x.com/_catwu/status/2060054180379689074/photo/1\nhttps://claude.com/blog/introducing-dynamic-workflows-in-claude-code\n\nhttps://simple-bench.com/\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -408,19 +460,6 @@
       "analysis": null
     },
     {
-      "video_id": "VeTqsCpcDgg",
-      "title": "Stanford CS153 Frontier Systems | The Discipline of Delivering Value per Gigawatt",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=VeTqsCpcDgg",
-      "published": "2026-05-27T21:15:42+00:00",
-      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn a CS153 Frontier Systems lecture, the class returns to the upstream infrastructure stack with Amin Vahdat, who leads Google's internal compute infrastructure and the TPU program powering Gemini, framing his nearly 30-year career as the discipline of building reliable, balanced supercomputers at a planetary scale. Vahdat argues the industry is over-fixated on gigawatts and flops as headline metrics: at roughly $40 to $50 billion per gigawatt, the question that matters is value delivered per dollar, measured in happy daily active users and paying enterprise customers, not raw capacity.\n\nHe walks through the three constraints that govern utility. Reliability, where moving from 99 percent to 99.9 percent uptime closes a 3.65-day annual gap, and where Frontier Labs are newly willing to trade five-nines for double the capacity. System balance, invoking Amdahl's 1967 law that every million instructions per second needs a megabyte per second of I/O, now stretched across 100,000-node synchronous training jobs where a single failed node halts the entire computation. And procurement lead times of two to three years for net-new gigawatts, where land permitting, utility contracts, and 20-year take-or-pay power agreements have replaced the slack capacity that once let hyperscalers ask for ten megawatts on a handshake.\n\nHe details Google's optical circuit switch architecture, which uses 136 MEMS-controlled mirrors per chip to programmatically rewire the 3D torus topology connecting TPU racks, allowing failed racks to be virtually swapped in seconds and bandwidth redirected to distant storage clusters for the duration of a five-hour Borg job. Vahdat closes on responsibility: data centers should be a net uplift to local grids and communities, citing Google's choice to accept 10 percent worse power efficiency in water-scarce regions and its gigawatt-scale demand response program that returns capacity to utilities during peak residential load.\n\nAmin Vahdat is a Fellow and Chief Technologist for AI Infrastructure at Google, where his team is responsible for delivering industry-leading infrastructure which spans custom silicon, data centers, network, and supply chain and operations. This infrastructure serves Alphabet, Google and the world, and Artificial Intelligence technologies that empower ML developers and solve customers’ most pressing business challenges. In the past, he was Vice President and General Manager for Google's compute, storage, and network hardware and software infrastructure. Until 2019, he was the Technical Lead and Vice President for the Networking organization at Google.\n\nBefore joining Google, Amin was the Science Applications International Corporation (SAIC) Professor of Computer Science and Engineering at UC San Diego (UCSD). He received his doctorate from the University of California Berkeley in computer science, and is a Fellow of the Association for Computing Machinery (ACM).\n\nAmin has been recognized with a number of awards, including the National Science Foundation (NSF) CAREER award, the UC Berkeley Distinguished EECS Alumni Award, the Alfred P. Sloan Fellowship, the Association for Computing Machinery's SIGCOMM Networking Systems Award, and the Duke University David and Janet Vaughn Teaching Award. Amin was awarded the SIGCOMM lifetime achievement award for his contributions to data center and wide area networks. He was inducted into the National Academy of Engineering in 2023 for his contributions to the design and implementation of datacenter and planet-scale networks that power cloud computer systems.\n\nFollow the playlist: https://youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA&amp;si=DOJ5amlyRdyMJBhG",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "6LwQ8RbU9as",
       "title": "DeepSWE just changed the benchmark game...",
       "channel": "Matthew Berman",
@@ -473,19 +512,6 @@
       "analysis": null
     },
     {
-      "video_id": "LRGX-gTegVA",
-      "title": "Stanford MS&E435 Economics of the AI Supercycle | Spring 2026 | Enterprise Internal Knowledge",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=LRGX-gTegVA",
-      "published": "2026-05-22T19:09:47+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nThis seminar covers intelligence and unlocking enterprise internal knowledge.\n\nFollow along with the course schedule: https://mse435.stanford.edu/\n\nGuest speaker: Yash Patil, CEO of Applied Compute\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "LpXhy2iiaQE",
       "title": "DeepSeek’s New AI Is A Game Changer",
       "channel": "Two Minute Papers",
@@ -519,32 +545,6 @@
       "url": "https://www.youtube.com/watch?v=Td2TaMWNUtA",
       "published": "2026-05-21T19:43:02+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/VhFuFJJs\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "ODj7ndsKnts",
-      "title": "Stanford MS&E435 Economics of the AI Supercycle | Spring 2026 | Economics of Generative AI",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=ODj7ndsKnts",
-      "published": "2026-05-20T23:00:39+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nFollow along with the course schedule: https://mse435.stanford.edu/\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "IB7IW6zX-H0",
-      "title": "Google CEO: Agents, Open Source, Race to AGI, Cybersecurity, Chips, China",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=IB7IW6zX-H0",
-      "published": "2026-05-20T18:55:27+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai/newsletter\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n00:00 - Intro\n00:41 - Sundar on AI agents replacing parts of the internet\n03:10 - How Google thinks about trusting AI agents\n05:00 - Will agents kill the “raw internet”?\n08:01 - AI cyberattacks and Google’s defense strategy\n10:42 - Should dangerous cyber AI models be held back?\n12:21 - The threshold for releasing powerful AI\n13:15 - Why Google won’t open-source a frontier model\n15:03 - The business problem with open-source AI\n17:10 - Should American companies use Chinese AI models?\n19:02 - The risk of building on China’s AI ecosystem\n20:41 - Why Google cares so much about cheap, fast AI models\n23:31 - Sundar on self-improving AI and the race to AGI\n26:17 - Google’s compute situation\n27:45 - Google has more AI demand than compute\n28:51 - Google’s biggest bottleneck: power, data centers, chips, and memory\n30:04 - Closing",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
