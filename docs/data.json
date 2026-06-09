@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T14:49:43.089791+00:00",
+  "generated_at": "2026-06-09T20:06:23.330393+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "e-4xG1U7M70",
+      "title": "MYTHOS is LIVE!!!!",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=e-4xG1U7M70",
+      "published": "2026-06-09T19:17:39+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "GaiZvDn_Viw",
+      "title": "Every time I think I've caught up with the AI news...",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=GaiZvDn_Viw",
+      "published": "2026-06-09T15:38:51+00:00",
+      "summary": "Follow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "dMrm2jAyrKM",
       "title": "Only the best are using them...",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=gyXjvzMDV7s",
       "published": "2026-06-02T18:15:20+00:00",
       "summary": "Supercharge your AI with Zapier: https://bit.ly/4fm7ivj\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=MOviZKtFeHM",
       "published": "2026-06-02T07:13:59+00:00",
       "summary": "Check the pinned comment for the link to the full interview. We're discussing whether a \"second order Nobel\" prize is on the horizon for AI-driven science. With over 3 million researchers already using AlphaFold, the real-world impact is already historic. Hear what the experts think about what comes next for scientific discovery! 🔬",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -499,19 +525,6 @@
       "analysis": null
     },
     {
-      "video_id": "6LwQ8RbU9as",
-      "title": "DeepSWE just changed the benchmark game...",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=6LwQ8RbU9as",
-      "published": "2026-05-27T16:03:45+00:00",
-      "summary": "Check out HeyGen to create your own free avatar: https://tinyurl.com/6y9b4nkk\nFor HyperFrames, visit: https://hyperframes.heygen.com/quickstart\n\nDownload The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://deepswe.datacurve.ai/blog\nhttps://x.com/theo/status/2059352130289651925",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "kIvvzCR5NjA",
       "title": "Google DeepMind CEO Loves Hard Questions 🙂",
       "channel": "Two Minute Papers",
@@ -519,19 +532,6 @@
       "url": "https://www.youtube.com/watch?v=kIvvzCR5NjA",
       "published": "2026-05-26T17:35:28+00:00",
       "summary": "Full video: https://youtu.be/huAwz_BR8WM\n#shorts",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "GBISeUYMzoU",
-      "title": "Cursor just beat EVERYONE.",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=GBISeUYMzoU",
-      "published": "2026-05-26T16:40:27+00:00",
-      "summary": "If scale is your next challenge check out DigitalOcean: do.co/forwardfutureai \n\nDownload The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
