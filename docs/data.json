@@ -1,9 +1,13 @@
 {
-  "generated_at": "2026-06-10T15:33:10.262813+00:00",
+  "generated_at": "2026-06-10T20:29:13.211627+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "AI Explained",
+        15
+      ],
       [
         "Matthew Berman",
         15
@@ -17,10 +21,6 @@
         15
       ],
       [
-        "AI Explained",
-        15
-      ],
-      [
         "Yannic Kilcher",
         15
       ]
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "haK1KoQWm18",
+      "title": "Claude Fable 5 - Full 319 page Breakdown",
+      "channel": "AI Explained",
+      "channel_category": "AI Analysis",
+      "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+      "published": "2026-06-10T18:43:12+00:00",
+      "summary": "Fable 5 is out - and it’s good, very good. But beyond the splashy demos, I want to bring you the 20+ nuggets from the 319 page system card, which I read in full, all day, plus benchmarks you may not have noticed. \n\nhttps://assemblyai.com/aiexplained\n\nPlus two worrying trends inside the ‘mind’ of Claude, how OpenAI counter, and the transformer inventor’s warning.\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:06 - Blocks + Better Models\n02:42 - Fable 5 Upgrade over Mythos Preview\n04:49 - ML Acceleration Bombshell\n07:11 - No RSI yet\n07:41 - Bio-capable\n14:51 - Creative Writing … no\n17:23 - Does need bug-checks\n18:57 - OpenAI Response\n19:23 - Benchmark Bonanza\n28:06 - Chain of Thought worrying trend\n\nFable 5 Release: https://www.anthropic.com/news/claude-fable-5-mythos-5\n\nSystem Card: https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\n\nIntelligence Explosion: https://www.patreon.com/posts/anthropic-charts-160231656\n\nAnnotated: https://x.com/Miles_Brundage/status/2064500190523113816/photo/1\n\nOpenAI Counter: https://x.com/thsottiaux/status/2064572118264913923\nhttps://x.com/thsottiaux/status/2043177597434306699\n\nDouble Lifespan: https://darioamodei.com/essay/machines-of-loving-grace\n\nAutomationBench: https://zapier.com/benchmarks\nVending Bench: https://x.com/andonlabs/status/2064429817530085804\nCritPt: https://critpt.com/\nRiemann Bench: https://surgehq.ai/leaderboards/riemann-bench\nGDPVal: https://artificialanalysis.ai/evaluations/gdpval-aa\nBluePrint Bench 2: https://andonlabs.com/evals/blueprint-bench-2\nMCP Atlas: https://labs.scale.com/leaderboard/mcp_atlas\nFutureSim: https://x.com/nikhilchandak29/status/2064676801440358774\n\nRoon Stun Lock: https://x.com/tszzl/status/2064454617568874669\n\nNoam Brown Inference Ceiling: https://x.com/polynoamial/status/2064210146558136827\n\nIsochronic Chart: https://isochronic-passage-chart.netlify.app/#nyc\nRose Tavern: https://claude.ai/public/artifacts/2295bebe-77e6-43e2-ae94-0fe49e9a776b\nRedwall Game: https://redwall-mossflower.surge.sh/\n\nRisk Report: https://www-cdn.anthropic.com/097c63b5fe7dd8b14866e1f15bb1910ec713658a.pdf\n\nTransformer Inventor Warning: https://x.com/tszzl/status/2064563986914554125\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "GclDWye2kgk",
+      "title": "Supercomputer is the next level of AI video generation",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=GclDWye2kgk",
+      "published": "2026-06-10T17:10:35+00:00",
+      "summary": "Try it yourself! Get started with Higgsfield Supercomputer: https://tinyurl.com/54t8nn8f\n\nFollow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "Ou-0vjl6FZo",
       "title": "MYTHOS MYTHOS MYTHOS",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=a56T6OQtwEg",
       "published": "2026-06-04T19:03:39+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=iz7elwbqZVI",
       "published": "2026-06-03T17:00:19+00:00",
       "summary": "",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -402,19 +428,6 @@
       "url": "https://www.youtube.com/watch?v=IYN2jfJHJd4",
       "published": "2026-05-29T19:09:21+00:00",
       "summary": "Try Pioneer for FREE: https://tinyurl.com/24thzrdp\n\nFollow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "HoMvCjnpAJ8",
-      "title": "Breaking Down the Pope's AI Essay",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=HoMvCjnpAJ8",
-      "published": "2026-05-29T17:03:37+00:00",
-      "summary": "Get started with Higgsfield Supercomputer: https://tinyurl.com/4tbd99ut\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -857,19 +870,6 @@
       "url": "https://www.youtube.com/watch?v=v67plFw1nMw",
       "published": "2025-12-14T16:22:15+00:00",
       "summary": "Paper: https://arxiv.org/abs/2501.00663\n\nAbstract:\nOver more than a decade there has been an extensive research effort on how to effectively utilize recurrent models and attention. While recurrent models aim to compress the data into a fixed-size memory (called hidden state), attention allows attending to the entire context window, capturing the direct dependencies of all tokens. This more accurate modeling of dependencies, however, comes with a quadratic cost, limiting the model to a fixed-length context. We present a new neural long-term memory module that learns to memorize historical context and helps attention to attend to the current context while utilizing long past information. We show that this neural memory has the advantage of fast parallelizable training while maintaining a fast inference. From a memory perspective, we argue that attention due to its limited context but accurate dependency modeling performs as a short-term memory, while neural memory due to its ability to memorize the data, acts as a long-term, more persistent, memory. Based on these two modules, we introduce a new family of architectures, called Titans, and present three variants to address how one can effectively incorporate memory into this architecture. Our experimental results on language modeling, common-sense reasoning, genomics, and time series tasks show that Titans are more effective than Transformers and recent modern linear recurrent models. They further can effectively scale to larger than 2M context window size with higher accuracy in needle-in-haystack tasks compared to baselines.\n\nAuthors: Ali Behrouz, Peilin Zhong, Vahab Mirrokni\n\nLinks:\nHomepage: https://ykilcher.com\nMerch: https://ykilcher.com/merch\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nLinkedIn: https://www.linkedin.com/in/ykilcher\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "4p73Uu_jZ10",
-      "title": "GPT 5.2: OpenAI Strikes Back",
-      "channel": "AI Explained",
-      "channel_category": "AI Analysis",
-      "url": "https://www.youtube.com/watch?v=4p73Uu_jZ10",
-      "published": "2025-12-12T16:24:49+00:00",
-      "summary": "Full GPT-5.2 breakdown - did OpenAI reclaim the crown? A story of tokens, time and cost, plus 9 details you wouldn’t get just from reading the headlines.\n\nhttps://www.youtube.com/@eightythousandhours\n\n\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\nhttps://lmcouncil.ai\n\nChapters:\n00:00 - Introduction\n00:55 - Better than Human @ Professional Tasks?\n04:42 - Test time Compute\n07:05 - Benchmark Selection\n09:32 - Simple Results + council comparison\n13:01 - Long Context\n13:52 - Self-Improvement\n15:00 - 10 Years + New Models\n\nRelease Page: https://openai.com/index/introducing-gpt-5-2/\n\nGPT 5.2 Benchmark Comparison: https://www.reddit.com/r/singularity/comments/1pka1y9/gpt52_all_20_benchmarks_rankings_and_pricing/\nhttps://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/gemini_3_table_final_HLE_Tools_on.gif\nhttps://lmcouncil.ai/benchmarks\n\nCharxiv: https://charxiv.github.io/#leaderboard\n\nGDPval: https://arxiv.org/pdf/2510.04374\nMy vid: https://www.youtube.com/watch?v=oK5LxMaROSA\n\nKilpatrick: https://x.com/OfficialLoganK/status/1999270402712023158/photo/1\n\nNoam Brown: https://x.com/polynoamial/status/1999189845164667132\n\nNew Model in New Year: https://www.theinformation.com/articles/openai-developing-garlic-model-counter-googles-recent-gains?rc=sy0ihq\n\n10 Years of OpenAI: https://openai.com/index/ten-years/\n\nGPQA: https://x.com/idavidrein/status/1841265634170278063\n\nARC-AGI 1-2: https://arcprize.org/arc-agi/2/\n\nSunday Robotics: https://x.com/tonyzzhao/status/1991204839578300813\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/\n\n\nhttps://lmcouncil.ai",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
