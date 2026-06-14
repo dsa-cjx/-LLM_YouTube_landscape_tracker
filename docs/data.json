@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T14:01:17.755434+00:00",
+  "generated_at": "2026-06-14T19:25:37.937174+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
+        "Two Minute Papers",
         15
       ],
       [
@@ -13,7 +13,7 @@
         15
       ],
       [
-        "Two Minute Papers",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "zJvN8PDX1is",
+      "title": "NVIDIA's New Free Al - A Gift To All Of Us",
+      "channel": "Two Minute Papers",
+      "channel_category": "AI Research",
+      "url": "https://www.youtube.com/watch?v=zJvN8PDX1is",
+      "published": "2026-06-14T15:27:17+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Nemotron 3 Ultra paper is available here:\nhttps://research.nvidia.com/labs/nemotron/Nemotron-3-Ultra/\n\nFree Rendering course and source code:\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nThumbnail design: https://felicia.hu\n\n#nvidia",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "Qj71N0tBzRo",
+      "title": "Claude Fable Blocked - 11 Quiet Details on What’s Next",
+      "channel": "AI Explained",
+      "channel_category": "AI Analysis",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "published": "2026-06-14T14:52:27+00:00",
+      "summary": "Claude Fable 5 banned, but what’s the bigger story. We go through 11 under-reported details, so you have the context to see what’s coming next for your use of AI. From whether the ban will last, what the possible motives are, what the model can actually do, and some wild over-extrapolations going on.\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:51 - Came from an Anthropic Investor ‘and other tech leaders’\n01:47 - Govt pressured by CEOs like Jamie Dimon\n03:01 - ‘Already decided’\n04:02 - Prompt Injection Robustness Comparison\n05:15 - Wellness?\n06:36 - “Overreach”\n08:17 - Anthropic Did Admit it would cause Difficulty\n09:32 - 90 Minutes\n10:02 - Equity Absence \n10:31 - Lobbying and OpenAI\n\n‘Already Decided’ - https://www.theinformation.com/articles/amazons-jassy-raised-concerns-anthropic-model-trump-crackdown?rc=sy0ihq\n\nNot for Other Models: https://www.theinformation.com/briefings/u-s-government-unlikely-extend-anthropic-export-control-ai-companies?rc=sy0ihq\n\n90 Minutes: https://archive.fo/20260614001605/https://www.politico.com/news/2026/06/13/inside-the-whirlwind-24-hours-that-led-the-white-house-to-slap-export-controls-on-anthropic-00961519#selection-807.1-807.219\n\nAnthropic Statement: https://www.anthropic.com/news/fable-mythos-access\n\nLife Comes at you Fast: https://x.com/etbrooking/status/2065638276388495742\n\nAnthropic Deputy CISO: https://x.com/TheTranscript_/status/2065883670053847324\n\nHegseth Gloat: https://x.com/PeteHegseth/status/2065897156226015690\n\nRoon Speculation: https://x.com/tszzl/status/2065939227167392147\n\nMythos System Card: https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\n\nSachs Statement: https://x.com/DavidSacks/status/2065853007619588171\n\n\nOpenAI Lobbying: https://thehill.com/policy/technology/5912720-altman-openai-get-bogged-down-in-political-spending-fight/\n\nAbsent from Equity Talks: https://finance.yahoo.com/sectors/technology/articles/trump-ai-ownership-plan-could-131053732.html\n\nPliny Jaibreak: https://x.com/elder_plinius/status/2064776322979676227\n\nFusion: https://x.com/OpenRouter/status/2065856871215329545\n\nhttps://lmcouncil.ai \n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "xvfz3gXVYNI",
       "title": "WTF is going on?!",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=XzUB8_gj6xM",
       "published": "2026-06-05T13:59:18+00:00",
       "summary": "Tired of choosing between complexity and limitations? Check out DigitalOcean: do.co/forwardfutureai\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=8hohrUYuyx4",
       "published": "2026-06-04T22:17:04+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 22, 2026\nModel Matters: Leveraging Geometry in Robot Learning\n\nThis seminar covers: \n• How to leverage geometric structural priors in robot learning\n• A summary of recent work on this topic \n• Predictions about the future\n\nFollow along with the seminar schedule: https://stanfordasl.github.io/robotics_seminar/\n\nRobert Platt is an associate professor in the Khoury College of Computer Sciences at Northeastern University.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -642,19 +668,6 @@
       "analysis": null
     },
     {
-      "video_id": "QzZ4VwDHAT4",
-      "title": "Sakana AI’s God Simulator Is Brilliant",
-      "channel": "Two Minute Papers",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=QzZ4VwDHAT4",
-      "published": "2026-05-01T16:43:34+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Try it out! The paper is available here:\nhttps://pub.sakana.ai/digital-ecosystem/\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "jz0rNhfAKo8",
       "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
       "channel": "AI Explained",
@@ -844,19 +857,6 @@
       "url": "https://www.youtube.com/watch?v=FMMpUO1uAYk",
       "published": "2025-12-23T17:40:58+00:00",
       "summary": "It’s probably not possible to satisfactorily condense a 12 month’s worth of weird progress in AI, as well as predictions for the year to come, into one video. But I’m gonna try anyway because it has been a very strange time.\n\nhttp://matsprogram.org/s26-aie\n\n\nMy new app! https://lmcouncil.ai\n\n\nPatreon Interview: https://www.patreon.com/posts/robot-in-your-27-146376094\n\nChapters:\n00:00 - Introduction\n00:34 - Reasoning Models … and limits\n02:54 - A playable world\n03:36 - Realism\n03:50 - AI Slop gone mainstream\n05:03 - DolphinGemma\n05:39 - Public Mood\n07:34 - AI Enlisted\n08:30 - GPT-5\n11:05 - Open Weight not out\n13:00 - METR Breakout\n17:30 - VASA-1\n18:28 - Lateral Productivity\n20:15 - 1 or 1000 benchmarks needed?\n24:54 - Continual Learning + Altman on Superintelligence\n28:08 - Automated Information Discovery ft AlphaEvolve\n\n\nHassabis on Generality: https://x.com/demishassabis/status/2003097405026193809\nhttps://www.youtube.com/watch?v=PqVbypvxDto\n\nGemini 3: https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/gemini_3_table_final_HLE_Tools_on.gif\nReasoning Trade-offs: https://arxiv.org/pdf/2504.13837\n\nDolphinGemma: https://blog.google/technology/ai/dolphingemma/?s=09\n\nGenie 3: https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/\n\nMETR Time Horizon: https://arxiv.org/pdf/2503.14499\nhttps://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/\nFlaws: https://x.com/ShashwatGoel7/status/2002369517499105443\nhttps://shash42.substack.com/p/how-to-game-the-metr-plot\nhttps://x.com/METR_Evals/status/2002203627377574113\n\nGPT-5 - Altman phd in everything: https://edition.cnn.com/2025/08/14/business/chatgpt-rollout-problems\n\nhttps://simple-bench.com/\n\nAI Slop: https://www.youtube.com/watch?v=I_3vxoJDD9k\nhttps://www.theguardian.com/technology/2025/dec/16/boost-for-artists-in-ai-copyright-battle-as-only-3-per-cent-back-uk-active-opt-out-plan\n\nSurvey: https://x.com/SearchlightInst/status/2001057144842387920/photo/1\n\nNvidia Nemotron: https://x.com/percyliang/status/2000608134205985169\n\nOpenAI Compute Flywheel: https://x.com/OpenAI/status/2001363007209914399/photo/1\nAltman Interview: https://www.youtube.com/watch?v=2P27Ef-LLuQ\n\nAI in Govt: https://x.com/jdcmedlock/status/1939814516503847259\n\nBenchmark Gaming: https://techcrunch.com/2025/04/07/meta-exec-denies-the-company-artificially-boosted-llama-4s-benchmark-scores/\n\nAlphaEvolve: https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/\nhttps://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=\nContinual Learning: https://abehrouz.github.io/files/NL.pdf\n\nJob Risk: https://archive.ph/20250708204527/https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic\n\nGPT4o: https://x.com/AISafetyMemes/status/1916889492172013989\n\nVasa-1: https://www.microsoft.com/en-us/research/project/vasa-1/\n\nThree Views: https://www.lesswrong.com/posts/K2D45BNxnZjdpSX2j/ai-timelines\nTuring Test: https://x.com/tunguz/status/1907185471211422147\n\nKarpathy Year in Review: https://karpathy.bearblog.dev/year-in-review-2025/\n\nLLM Brainrot: https://arxiv.org/pdf/2510.13928\n\nLateral Productivity: https://www.aisi.gov.uk/frontier-ai-trends-report\n\nEmotional Quotient: https://arxiv.org/pdf/2511.08394\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/\n\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\n\n\nReasoning Models would boost results but not change paradigm\nGenie 3 makes the world playable (literally, in the case of yesterday’s news)\nDolphinDecoding\nVeo 3.1 / Sora 2 / Nano Banana Pro / Elevenlabs Voice/Music\nBut AI slop everywhere\nPublic attitude very mixed (Hassabis)\nAI gets enlisted in government, but too early to tell jobs/productivity impact\nGPT 5 underwhelms but steady gain in coding/users/HLE (strange that it has to explain its future revenue)\nChinese models in dogged pursuit (not quite made it to my top 4/council). And soon Nvidia? Not Meta for now but SAM amazing\nMETR continues but will be misinterpreted\n\nAnd 5 Points about 2026\n\nVasa wrong but … \nLateral Productivity + safety report, extends to robotics (Patreon mention/freaky robot clip)\nBenchmark analogy (AI-2027/lesswrong charts), Amodei (codex report suggests not) and Sutskever (but recanted) and Altman (phd) were former, Altman not anymore (but must watch out for brain rot), and we can’t even decide how general we are … Hassabis/Yann debate\nInformation Progress analogy (still 2-3 years more of exquisite compression (Deepthink) and on next phase there are …\n…examples already, Alphas (will it reduce the human bottleneck?) + Emotional Quotient",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "WHqaF4jbUYU",
-      "title": "Gemini Exponential, Demis Hassabis' ‘Proto-AGI’ coming, but …",
-      "channel": "AI Explained",
-      "channel_category": "AI Analysis",
-      "url": "https://www.youtube.com/watch?v=WHqaF4jbUYU",
-      "published": "2025-12-19T16:32:52+00:00",
-      "summary": "The condensed highlights of hours of AI lab leader interviews, last-48-hour model releases, Gemini 3 Flash insights (plus it’s hidden flaw), Hassabis’ ‘proto-AGI’ and much more…\n\nhttps://matsprogram.org/apply?utm_source=ai-explained&amp;utm_medium=youtube&amp;utm_campaign=s26  \n\nAlso, do check out my new app: https://lmcouncil.ai\n\nChapters: \n00:00 - Introduction\n00:50 - Results\n02:44 - But… the Flaw\n04:49 - So Benchmarks are fake? No\n07:37 - Spatial Reasoning + Hassabis\n10:06 - Proto-AGI\n12:07 - Minimal AGI\n15:07 - Compute Slowdown\n17:56 - New Data Paradigm\n\nGemini 3 Flash: https://deepmind.google/models/gemini/flash/\n\nHassabis Interview: https://www.youtube.com/watch?v=PqVbypvxDto\nLegg Interview: https://www.youtube.com/watch?v=l3u_FAv33G0\nPre-training Lead Interview: https://www.youtube.com/watch?v=cNGDAqFXvew\nAltman Interview: https://www.youtube.com/watch?v=2P27Ef-LLuQ\nBrockman Video: https://x.com/OpenAI/status/2001336514786017417\nPost-Training Reveal: https://x.com/OfficialLoganK/status/2001742530472534442\n\nHallucinations Paper: https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf\nPatreon Hallucinations Vid: https://www.patreon.com/posts/blockers-to-and-139264812\nAA-Omniscience Benchmark: https://artificialanalysis.ai/evaluations/omniscience\nhttps://arxiv.org/pdf/2511.13029\n\n\nlmcouncil.ai/benchmarks \nhttps://simple-bench.com/\nhttps://x.com/scaling01/status/1999620587744813205\n\n5.2 Codex Drop: https://cdn.openai.com/pdf/ac7c37ae-7f4c-4442-b741-2eabdeaf77e0/oai_5_2_Codex.pdf\n\nOpenAI Compute Trend: https://www.theinformation.com/articles/openais-350-billion-computing-cost-problem?rc=sy0ihq\n\nCramer Tweet/Response: https://x.com/BorisMPower/status/2001440650210976018\n\nOpenAI Valuation: ​​https://www.theinformation.com/articles/openai-discussed-raising-tens-billions-valuation-around-750-billion?rc=sy0ihq\n\nIndian Data: https://www.reuters.com/world/india/with-freebies-openai-google-vie-indian-users-training-data-2025-12-17/\n\nTheInformation Data: https://x.com/theinformation/status/2001421225751351778\n\nGenie 3: https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/\nSima 2: https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/\nVeo 3.1: https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/\n\nMETR: https://metr.org/blohttps://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/2025-03-19-measuring-ai-ability-to-complete-long-tasks/\n\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
