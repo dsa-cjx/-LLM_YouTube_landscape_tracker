@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-16T16:50:24.910597+00:00",
+  "generated_at": "2026-06-16T20:49:33.317247+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Matthew Berman",
+        15
+      ],
       [
         "Two Minute Papers",
         15
       ],
       [
         "Stanford Online",
-        15
-      ],
-      [
-        "Matthew Berman",
         15
       ],
       [
@@ -31,8 +31,21 @@
   },
   "items": [
     {
+      "video_id": "byr-_swPgsE",
+      "title": "Fable 5 is GONE",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=byr-_swPgsE",
+      "published": "2026-06-16T19:48:21+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
       "video_id": "l72ufA-4SzE",
-      "title": "Claude AI Knows More Than It Tells You",
+      "title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
       "channel": "Two Minute Papers",
       "channel_category": "AI Research",
       "url": "https://www.youtube.com/watch?v=l72ufA-4SzE",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=WwWjH9ynx9U",
       "published": "2026-06-05T22:12:29+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nApril 24, 2026\nThis lecture covers:\n•  The six classic and three modern motivators of play\n•  How to use them to adapt your app and game design techniques to find new markets and new communities to address\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nCheryl Platz is a game developer, designer, and author of The Game Development Strategy Guide: Crafting Modern Video Games That Thrive.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -402,19 +415,6 @@
       "url": "https://www.youtube.com/watch?v=26FtD08ZpOU",
       "published": "2026-06-04T21:29:14+00:00",
       "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs336-language-modeling-scratch\n\nFollow along with the course schedule and syllabus: https://cs336.stanford.edu/\n\nPercy Liang\nProfessor of Computer Science (and courtesy in Statistics)\n\nTatsunori Hashimoto\nAssistant Professor of Computer Science\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "RGh9kL8hVgQ",
-      "title": "It's like AI insurance",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=RGh9kL8hVgQ",
-      "published": "2026-06-04T21:06:16+00:00",
-      "summary": "Follow me ► x.com/matthewberman\nInstagram ► https://www.instagram.com/matthewberman_ai\n\nMedia/Sponsorship Inquiries ► https://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
