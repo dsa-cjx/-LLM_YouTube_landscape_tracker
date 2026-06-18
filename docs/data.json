@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-18T15:22:19.381640+00:00",
+  "generated_at": "2026-06-18T20:24:47.505428+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "wwfJlSF34n8",
+      "title": "I figured out the best way to vibe code",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=wwfJlSF34n8",
+      "published": "2026-06-18T17:44:06+00:00",
+      "summary": "Try Greptile Free for 14 days https://www.greptile.com/go/berman\n\nLoop Library: https://signals.forwardfuture.ai/loop-library/\nShout out to here.now for hosting the Loop Library. \nFree, instant web hosting for agents: https://here.now/r/signals\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 Intro\n0:25 Coding Tools\n3:46 Skills\n4:44 Sponsor\n6:20 Skills (cont.)\n8:28 Automations\n11:29 Loops\n15:20 Best Practices\n16:27 Cloud vs Local\n22:16 Multi-model\n24:19 Merging & Deploying Problem",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "GcCGzfKdCd0",
       "title": "Stanford MS&E435 Economics of the AI Supercycle | Spring 2026 | Building AI Factories",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=udS9osDCJKo",
       "published": "2026-06-06T18:03:35+00:00",
       "summary": "Check out Perplexity Computer: https://www.perplexity.ai/products/computer \n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -363,19 +376,6 @@
       "url": "https://www.youtube.com/watch?v=Dkqzqw8rxXI",
       "published": "2026-06-05T15:50:26+00:00",
       "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://github.com/google-deepmind/alphaproof-nexus-results\nhttps://arxiv.org/html/2605.22763v1\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "XzUB8_gj6xM",
-      "title": "It’s starting…",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=XzUB8_gj6xM",
-      "published": "2026-06-05T13:59:18+00:00",
-      "summary": "Tired of choosing between complexity and limitations? Check out DigitalOcean: do.co/forwardfutureai\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
