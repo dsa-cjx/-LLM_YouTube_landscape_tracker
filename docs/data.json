@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T19:46:22.829717+00:00",
+  "generated_at": "2026-06-27T03:22:35.313880+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "eEdOqSmkZy0",
+      "title": "I can't believe this happened...",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=eEdOqSmkZy0",
+      "published": "2026-06-26T21:26:32+00:00",
+      "summary": "This is really disappointing...\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "iG3lW8GslXs",
+      "title": "I AM SO MAD",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=iG3lW8GslXs",
+      "published": "2026-06-26T20:04:33+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "rg9oHMXzLl0",
       "title": "GPT 5.6 is officially NOT BANNED (even worse)",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=F_7M4Hc-usM",
       "published": "2026-06-15T17:58:40+00:00",
       "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn a CS153 Frontier Systems lecture, OpenAI CEO Sam Altman returned to Stanford — where he taught the iconic CS183 How to Start a Startup in 2014 — to reflect on how radically the startup playbook has changed in the AI era, noting that a founder can now accomplish with tokens what once required a hundred-person engineering team.\n\nDrawing on his core empirical conviction that scale reliably produces emergent properties beyond what consensus expects, Altman walked through the origin stories of both ChatGPT (a research demo that went unexpectedly viral, triggering a five-day \"good emergency\" that forced OpenAI to build a company and product simultaneously) and Codex (the coding bet that predated ChatGPT and finally hit its inflection point with 5.5), arguing that the current pre-training/post-training/RL pipeline will likely require a fundamental rewrite — one he expects AI itself to design. He framed intelligence as a nascent utility analogous to electricity, wrestling with how to make that concept legible to the world the way early power companies sold \"light at night\" rather than electricity itself, and warned that the most important unresolved fork ahead is whether this technology gets democratized broadly or concentrates in a handful of companies — a risk he put at roughly 20% probability, and one he argued is more dangerous than most safety concerns. \n\nHe closed by flagging compute shortage as an underappreciated live crisis, suggesting that as long as AI keeps improving, demand will structurally outpace supply, and urging students to consider working on inference infrastructure as one of the most underleveraged bets in the field.\n\nSam Altman is the co-founder and CEO of OpenAI, the AI research and deployment company behind ChatGPT. He helped launch OpenAI in 2015 with the goal of ensuring artificial general intelligence benefits all of humanity. Before OpenAI, Sam served as president of Y Combinator.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=zJvN8PDX1is",
       "published": "2026-06-14T15:27:17+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Nemotron 3 Ultra paper is available here:\nhttps://research.nvidia.com/labs/nemotron/Nemotron-3-Ultra/\n\nFree Rendering course and source code:\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nThumbnail design: https://felicia.hu\n\n#nvidia",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -311,32 +337,6 @@
       "url": "https://www.youtube.com/watch?v=xvfz3gXVYNI",
       "published": "2026-06-13T20:21:41+00:00",
       "summary": "Mythos just got BANNED... Anthropic says it's just a misunderstanding. What's really going on here?\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/AnthropicAI/status/2065597531644743999\nhttps://www.anthropic.com/news/fable-mythos-access\nhttps://x.com/theo/status/2065665304882209132\nhttps://x.com/steph_palazzolo/status/2065830580135051306",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "zjFE-dBzP_E",
-      "title": "You NEED to try these open-source AI projects RIGHT NOW",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=zjFE-dBzP_E",
-      "published": "2026-06-12T23:47:25+00:00",
-      "summary": "Try ElevenAgents by ElevenLabs today https://bit.ly/43LT9jZ\nCode FORWARDFUTUREAI for 33% off!\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 Intro\n0:32 Last30Days\n4:14 Open Notebook\n5:27 Sponsor\n6:26 Open Notebook (cont.)\n8:59 Agent Skills\n11:21 Headroom\n\nLinks:\nhttps://github.com/mvanhorn/last30days-skill\nhttps://github.com/addyosmani/agent-skills\nhttps://github.com/lfnovo/open-notebook\nhttps://github.com/chopratejas/headroom",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "sV1B2_sFzU8",
-      "title": "So we're doing loops now",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=sV1B2_sFzU8",
-      "published": "2026-06-12T18:14:58+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
