@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T13:44:31.194127+00:00",
+  "generated_at": "2026-06-28T19:18:14.771259+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "TML-0HmxWCE",
+      "title": "\"The best thing since OpenClaw\" (Hermes Tutorial)",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=TML-0HmxWCE",
+      "published": "2026-06-28T14:00:35+00:00",
+      "summary": "Go to http://hostinger.com/matthewhermes and use code MATTHEWB for 10% off\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "fvXWEqut82c",
       "title": "Apple just raised prices...",
@@ -285,19 +298,6 @@
       "url": "https://www.youtube.com/watch?v=GasnZ5EecRA",
       "published": "2026-06-15T23:06:23+00:00",
       "summary": "Learn more about Stanford's online Healthcare AI programs: https://stanford.io/3NEt7uE\nCheck out the AI in Healthcare series playlist:https://stanford.io/3NEt7uE\n\nMatt Lungren, Stanford University - https://profiles.stanford.edu/matthew-lungren\nJustin Norden, Stanford University - https://profiles.stanford.edu/justin-norden\n\nGuest speaker: DJ Patil,  former US Chief Data Scientist and Health Tech Entrepreneur\n\nThis episode of the Stanford Healthcare AI podcast explores how AI is transforming healthcare security, policy, and patient empowerment. The guest, DJ Patil, former U.S. Chief Data Scientist and health tech entrepreneur, warns that hospitals are “sitting targets” for cyberattacks from nation-states using even “dumb” AI models. They discuss gaps in U.S. cybersecurity ownership, the need to treat healthcare as critical infrastructure, and the risks of ransomware-style “terrorism.” Balancing this, they highlight the explosive growth of tools like Open Evidence and GPT for clinicians, rising patient engagement, and the moral question of whether powerful AI should be gated or widely accessible.",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "W53XPj4tAyE",
-      "title": "Mythos BANNED (explained)",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=W53XPj4tAyE",
-      "published": "2026-06-15T18:25:41+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
