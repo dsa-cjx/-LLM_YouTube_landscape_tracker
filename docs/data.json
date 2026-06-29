@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-29T15:44:32.223901+00:00",
+  "generated_at": "2026-06-29T19:56:19.300746+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "d0Pfu6B7gIM",
+      "title": "Stanford CS153 Frontier Systems | Building the Frontier Ecosystem",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=d0Pfu6B7gIM",
+      "published": "2026-06-29T16:16:48+00:00",
+      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn this CS153 session, Microsoft Chairman and CEO Satya Nadella joins Michael Abbott for a wide-ranging conversation on AI, Microsoft's strategy, and the future of computing. Nadella traces Microsoft's investment in OpenAI back to a longstanding obsession with natural language processing, and describes the company's vision for a \"frontier ecosystem\" in which every company can build and protect its own AI-powered IP through what he calls \"hill climbing machines\" or reinforcement learning environments trained on proprietary data.\n\nHe walks through several announcements from Microsoft's Build conference, including seven new MAI models, the Scout enterprise autopilot agent, a concept of \"unmetered intelligence\" running on edge devices, and Project Solara's new ambient computing form factors. He also addresses Microsoft's quantum computing program, the Majorana QPU, and the long-term potential of quantum-classical hybrid systems.\n\nIn the student Q&amp;A, Nadella reflects on cultivating a growth mindset culture at Microsoft, the importance of broad intellectual curiosity for public communication, and his advice to students to pursue cognitive coverage rather than anxiety-driven productivity.\n\nSatya Nadella is Chairman and Chief Executive Officer of Microsoft. Before being named CEO in February 2014, Nadella held leadership roles in both enterprise and consumer businesses across the company.\n\nJoining Microsoft in 1992, he quickly became known as a leader who could span a breadth of technologies and businesses to transform some of Microsoft’s biggest product offerings.\n\nMost recently, Nadella was executive vice president of Microsoft’s Cloud and Enterprise group. In this role, he led the transformation to the cloud infrastructure and services business, which outperformed the market and took share from competition. Previously, Nadella led R&amp;D for the Online Services Division and was vice president of the Microsoft Business Division. Before joining Microsoft, Nadella was a member of the technology staff at Sun Microsystems.\n\nOriginally from Hyderabad, India, Nadella lives in Bellevue, Washington, with his family. He earned a bachelor’s degree in electrical engineering from Mangalore University, a master’s degree in computer science from the University of Wisconsin – Milwaukee and a master’s degree in business administration from the University of Chicago. Nadella serves on the board of trustees to his alma mater the University of Chicago.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "TML-0HmxWCE",
       "title": "\"The best thing since OpenClaw\" (Hermes Tutorial)",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=l72ufA-4SzE",
       "published": "2026-06-16T15:53:17+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/natural-language-autoencoders\nhttps://transformer-circuits.pub/2026/nla/index.html\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -584,19 +597,6 @@
       "url": "https://www.youtube.com/watch?v=g50FHC-PzK8",
       "published": "2026-05-28T16:20:02+00:00",
       "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn a CS153 Frontier Systems lecture, Joe Sullivan, a veteran security leader who built security teams at Facebook, Uber, and Cloudflare, walks the class through his career at the intersection of government and technology — from federal prosecutor in the 1990s through eBay/PayPal, Facebook, Uber, and Cloudflare — and uses his own criminal prosecution as the central case study.\n\n In 2016, Uber paid researchers $100,000 through what Sullivan's team treated as a bug bounty after they accessed an old AWS database; legal signed off and the CEO approved, but in 2020 Sullivan was personally charged with obstruction of justice for the company's failure to disclose the incident to regulators. He lost at trial in 2022 after the judge instructed the jury that companies cannot retroactively authorize access, but at sentencing in 2023 the judge declared \"it wasn't a cover-up\" and gave him three years' probation instead of the prison time prosecutors sought — buoyed by over 200 letters of support from the security community. \n\nFrom this story he draws his core theme: leadership in modern tech requires resilience and a bias toward transparency (he contrasts Uber's 2016 approach with Cloudflare's reflex to write a blog post the moment an incident hits), and he closes with a wide-ranging Q&amp;A on vibe-coding security risks, the shift from data-loss to operational-resilience threats like the Jaguar Land Rover ransomware attack, Anthropic's cyber model rollout, quantum cryptography, executive protection, and the growing case for proactive government action against ransomware gangs.\n\nJoe Sullivan is the CEO of Joe Sullivan Security LLC, advising companies, leading security projects, and mentoring leaders. He also leads Ukraine Friends, a nonprofit aiding children in war zones. A former federal cybercrime prosecutor, Joe worked on safety and security at eBay and PayPal, then went on to lead security at Facebook, Uber, and Cloudflare. He also served on President Obama’s Commission on Enhancing National Cybersecurity.",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "dIFAi87Ws4E",
-      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 16: Post-Training - RLVR",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=dIFAi87Ws4E",
-      "published": "2026-05-27T22:59:37+00:00",
-      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs336-language-modeling-scratch\n\nFollow along with the course schedule and syllabus: https://cs336.stanford.edu/\n\nPercy Liang\nProfessor of Computer Science (and courtesy in Statistics)\n\nTatsunori Hashimoto\nAssistant Professor of Computer Science\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
