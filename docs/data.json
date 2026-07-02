@@ -1,9 +1,13 @@
 {
-  "generated_at": "2026-07-02T13:58:15.107581+00:00",
+  "generated_at": "2026-07-02T19:23:00.938343+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "AI Explained",
+        15
+      ],
       [
         "Stanford Online",
         15
@@ -17,10 +21,6 @@
         15
       ],
       [
-        "AI Explained",
-        15
-      ],
-      [
         "Yannic Kilcher",
         15
       ]
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "y24lF1q4SFY",
+      "title": "Fable 5 vs GPT 5.6 Sol: The Early Results",
+      "channel": "AI Explained",
+      "channel_category": "AI Analysis",
+      "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "published": "2026-07-02T16:27:26+00:00",
+      "summary": "Fable 5 (newly re-released) vs GPT 5.6 Sol, what comparisons can we unearth? Plus, Sonnet 5, a 5% equity seizure by US Govt, the ‘largest heist’, Beetlejuice and more…\n\n\n\nExclusive Vids in AI Insiders ($9!): https://www.patreon.com/AIExplained\n\n\nChapters:\n00:00 - Introduction\n01:06 - Fable Timeline\n02:59 - Sol Release?\n06:01 - the Chinese Angle\n07:35 - 5% Stake\n09:10 - Fable vs Sol - the numbers\n13:57 - Sol Misalignment\n15:27 - Claude Sonnet 5\n16:24 - GLM 5.2 + New Paper on Large Model Learning\n\nGPT 5.6 Sol Release: https://openai.com/index/previewing-gpt-5-6-sol/\nAltman on Concentrated Power: https://x.com/giacomomiolo/status/2070609506925478352\nSystem Card: https://deploymentsafety.openai.com/gpt-5-6-preview/gpt-5-6-preview.pdf\n\nGLM 5.2: https://www.patreon.com/AIExplained/posts/glm-5-2-and-nsa-161869508\n\nAltman Memo: https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns?rc=sy0ihq\n\nFable 5 Revised Timeline: https://www.anthropic.com/news/redeploying-fable-5\n\nClaude Sonnet 5: https://www.anthropic.com/news/claude-sonnet-5\n\nMythose 5 System Card: https://www-cdn.anthropic.com/9e6a1044980d8c4ed85669faf9c2a8342e2e9f1e/Claude%20Sonnet%205%20System%20Card.pdf\n\nAnthropic Accuse Alibaba Cloud / Qwen: https://www.bbc.co.uk/news/articles/cwyklykn5dwo\n\nBetelgeuse: https://upload.wikimedia.org/wikipedia/commons/6/69/Well_known_stars_2.png\n\nOpenAI 5%: https://edition.cnn.com/2026/07/02/business/openai-trump-stake-intl\n\nWhy Larger Models Learn More: https://arxiv.org/pdf/2605.29548\n\nPatreon Post: https://www.patreon.com/AIExplained/posts/glm-5-2-and-nsa-161869508\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "oWip48RPq0s",
       "title": "Stanford Course - Technical Fundamentals of Generative AI",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=F4a8aMLb678",
       "published": "2026-06-19T17:43:19+00:00",
       "summary": "Deploy your AI easily - Check out DigitalOcean: https://do.co/forwardfutureai\n\nLoop Library: https://signals.forwardfuture.ai/loop-library/\nLoop Skill: https://github.com/Forward-Future/loop-library\n\nShout out to here.now for hosting the Loop Library. \nFree, instant web hosting for agents: https://here.now/r/signals\n\nFree consulting sessions: https://forge.forwardfuture.ai/\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nchapters:\n0:00 intro\n0:21 what is a loop?\n2:24 the loop library\n2:55 sub-50ms page-load\n5:28 sponsor\n6:54 overnight doc sweep\n8:23 architecture satisfaction\n9:31 logging coverage\n10:32 production error sweep\n11:19 seo/geo visibility\n12:10 full product evaluation\n13:54 loop caveats",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -844,19 +857,6 @@
       "url": "https://www.youtube.com/watch?v=taCVT5vDAk0",
       "published": "2025-12-27T14:33:29+00:00",
       "summary": "Paper: https://arxiv.org/abs/2511.08923\n\nAbstract:\nDiffusion language models hold the promise of fast parallel generation, while autoregressive (AR) models typically excel in quality due to their causal structure aligning naturally with language modeling. This raises a fundamental question: can we achieve a synergy with high throughput, higher GPU utilization, and AR level quality? Existing methods fail to effectively balance these two aspects, either prioritizing AR using a weaker model for sequential drafting (speculative decoding), leading to lower drafting efficiency, or using some form of left-to-right (AR-like) decoding logic for diffusion, which still suffers from quality degradation and forfeits its potential parallelizability. We introduce TiDAR, a sequence-level hybrid architecture that drafts tokens (Thinking) in Diffusion and samples final outputs (Talking) AutoRegressively - all within a single forward pass using specially designed structured attention masks. This design exploits the free GPU compute density, achieving a strong balance between drafting and verification capacity. Moreover, TiDAR is designed to be serving-friendly (low overhead) as a standalone model. We extensively evaluate TiDAR against AR models, speculative decoding, and diffusion variants across generative and likelihood tasks at 1.5B and 8B scales. Thanks to the parallel drafting and sampling as well as exact KV cache support, TiDAR outperforms speculative decoding in measured throughput and surpasses diffusion models like Dream and Llada in both efficiency and quality. Most notably, TiDAR is the first architecture to close the quality gap with AR models while delivering 4.71x to 5.91x more tokens per second.\n\nAuthors: Jingyu Liu, Xin Dong, Zhifan Ye, Rishabh Mehta, Yonggan Fu, Vartika Singh, Jan Kautz, Ce Zhang, Pavlo Molchanov\n\nLinks:\nHomepage: https://ykilcher.com\nMerch: https://ykilcher.com/merch\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nLinkedIn: https://www.linkedin.com/in/ykilcher\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "FMMpUO1uAYk",
-      "title": "What the Freakiness of 2025 in AI Tells Us About 2026",
-      "channel": "AI Explained",
-      "channel_category": "AI Analysis",
-      "url": "https://www.youtube.com/watch?v=FMMpUO1uAYk",
-      "published": "2025-12-23T17:40:58+00:00",
-      "summary": "It’s probably not possible to satisfactorily condense a 12 month’s worth of weird progress in AI, as well as predictions for the year to come, into one video. But I’m gonna try anyway because it has been a very strange time.\n\nhttp://matsprogram.org/s26-aie\n\n\nMy new app! https://lmcouncil.ai\n\n\nPatreon Interview: https://www.patreon.com/posts/robot-in-your-27-146376094\n\nChapters:\n00:00 - Introduction\n00:34 - Reasoning Models … and limits\n02:54 - A playable world\n03:36 - Realism\n03:50 - AI Slop gone mainstream\n05:03 - DolphinGemma\n05:39 - Public Mood\n07:34 - AI Enlisted\n08:30 - GPT-5\n11:05 - Open Weight not out\n13:00 - METR Breakout\n17:30 - VASA-1\n18:28 - Lateral Productivity\n20:15 - 1 or 1000 benchmarks needed?\n24:54 - Continual Learning + Altman on Superintelligence\n28:08 - Automated Information Discovery ft AlphaEvolve\n\n\nHassabis on Generality: https://x.com/demishassabis/status/2003097405026193809\nhttps://www.youtube.com/watch?v=PqVbypvxDto\n\nGemini 3: https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/gemini_3_table_final_HLE_Tools_on.gif\nReasoning Trade-offs: https://arxiv.org/pdf/2504.13837\n\nDolphinGemma: https://blog.google/technology/ai/dolphingemma/?s=09\n\nGenie 3: https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/\n\nMETR Time Horizon: https://arxiv.org/pdf/2503.14499\nhttps://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/\nFlaws: https://x.com/ShashwatGoel7/status/2002369517499105443\nhttps://shash42.substack.com/p/how-to-game-the-metr-plot\nhttps://x.com/METR_Evals/status/2002203627377574113\n\nGPT-5 - Altman phd in everything: https://edition.cnn.com/2025/08/14/business/chatgpt-rollout-problems\n\nhttps://simple-bench.com/\n\nAI Slop: https://www.youtube.com/watch?v=I_3vxoJDD9k\nhttps://www.theguardian.com/technology/2025/dec/16/boost-for-artists-in-ai-copyright-battle-as-only-3-per-cent-back-uk-active-opt-out-plan\n\nSurvey: https://x.com/SearchlightInst/status/2001057144842387920/photo/1\n\nNvidia Nemotron: https://x.com/percyliang/status/2000608134205985169\n\nOpenAI Compute Flywheel: https://x.com/OpenAI/status/2001363007209914399/photo/1\nAltman Interview: https://www.youtube.com/watch?v=2P27Ef-LLuQ\n\nAI in Govt: https://x.com/jdcmedlock/status/1939814516503847259\n\nBenchmark Gaming: https://techcrunch.com/2025/04/07/meta-exec-denies-the-company-artificially-boosted-llama-4s-benchmark-scores/\n\nAlphaEvolve: https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/\nhttps://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=\nContinual Learning: https://abehrouz.github.io/files/NL.pdf\n\nJob Risk: https://archive.ph/20250708204527/https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic\n\nGPT4o: https://x.com/AISafetyMemes/status/1916889492172013989\n\nVasa-1: https://www.microsoft.com/en-us/research/project/vasa-1/\n\nThree Views: https://www.lesswrong.com/posts/K2D45BNxnZjdpSX2j/ai-timelines\nTuring Test: https://x.com/tunguz/status/1907185471211422147\n\nKarpathy Year in Review: https://karpathy.bearblog.dev/year-in-review-2025/\n\nLLM Brainrot: https://arxiv.org/pdf/2510.13928\n\nLateral Productivity: https://www.aisi.gov.uk/frontier-ai-trends-report\n\nEmotional Quotient: https://arxiv.org/pdf/2511.08394\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/\n\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\n\n\nReasoning Models would boost results but not change paradigm\nGenie 3 makes the world playable (literally, in the case of yesterday’s news)\nDolphinDecoding\nVeo 3.1 / Sora 2 / Nano Banana Pro / Elevenlabs Voice/Music\nBut AI slop everywhere\nPublic attitude very mixed (Hassabis)\nAI gets enlisted in government, but too early to tell jobs/productivity impact\nGPT 5 underwhelms but steady gain in coding/users/HLE (strange that it has to explain its future revenue)\nChinese models in dogged pursuit (not quite made it to my top 4/council). And soon Nvidia? Not Meta for now but SAM amazing\nMETR continues but will be misinterpreted\n\nAnd 5 Points about 2026\n\nVasa wrong but … \nLateral Productivity + safety report, extends to robotics (Patreon mention/freaky robot clip)\nBenchmark analogy (AI-2027/lesswrong charts), Amodei (codex report suggests not) and Sutskever (but recanted) and Altman (phd) were former, Altman not anymore (but must watch out for brain rot), and we can’t even decide how general we are … Hassabis/Yann debate\nInformation Progress analogy (still 2-3 years more of exquisite compression (Deepthink) and on next phase there are …\n…examples already, Alphas (will it reduce the human bottleneck?) + Emotional Quotient",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
