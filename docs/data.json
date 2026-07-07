@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-07T14:31:53.042003+00:00",
+  "generated_at": "2026-07-07T19:53:41.905200+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
+        "Two Minute Papers",
         15
       ],
       [
-        "Two Minute Papers",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "1yBU41auQhw",
+      "title": "DeepSeek's New AI Speed Hack Is Amazing",
+      "channel": "Two Minute Papers",
+      "channel_category": "AI Research",
+      "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
+      "published": "2026-07-07T16:33:29+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek paper is available here:\nhttps://arxiv.org/abs/2607.05147v1\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "zHWco8xg7ME",
       "title": "Cheap tricks for AI",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=2lmBj_XQq0I",
       "published": "2026-06-24T00:01:49+00:00",
       "summary": "Try Merlin AI for only $5/month with discount code MATT5: https://www.getmerlin.in/pricing\n\nLoop Library: https://signals.forwardfuture.ai/loop-library/\nLoop Skill: https://github.com/Forward-Future/loop-library\n\nShout out to here.now for hosting the Loop Library. \nFree, instant web hosting for agents: https://here.now/r/signals\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 Intro\n0:06 OpenMontage\n1:22 Deer Flow\n2:30 Anthropic Cybersecurity Skills\n3:48 Hyperframes\n4:45 Sponsor\n6:19 Codebase Memory MCP\n7:26 Matt Pockock Skills\n8:34 GStack\n10:13 Unlimited OCR\n11:14 SkillSpector\n12:05 Palmier Pro\n12:50 Hermes\n13:41 Voicebox\n\nLinks:\nhttps://github.com/calesthio/OpenMontage\nhttps://github.com/bytedance/deer-flow\nhttps://github.com/mukul975/Anthropic-Cybersecurity-Skills\nhttps://github.com/heygen-com/hyperframes\nhttps://github.com/DeusData/codebase-memory-mcp\nhttps://github.com/mattpocock/skills\nhttps://github.com/garrytan/gstack\nhttps://github.com/baidu/Unlimited-OCR\nhttps://github.com/nvidia/skillspector\nhttps://github.com/palmier-io/palmier-pro\nhttps://github.com/nousresearch/hermes-agent\nhttps://github.com/jamiepine/voicebox",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -649,19 +662,6 @@
       "url": "https://www.youtube.com/watch?v=kIvvzCR5NjA",
       "published": "2026-05-26T17:35:28+00:00",
       "summary": "Full video: https://youtu.be/huAwz_BR8WM\n#shorts",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "huAwz_BR8WM",
-      "title": "Demis Hassabis On What AI Will Do Next",
-      "channel": "Two Minute Papers",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=huAwz_BR8WM",
-      "published": "2026-05-25T17:49:30+00:00",
-      "summary": "Thank you to Google DeepMind for the invite. 🙏\n\n❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nOur Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu\n\n00:00 Intro\n00:40 Gemini Health Scans and Gemma 4\n01:30 AI as a Brainstorming Partner\n02:30 Second Order Nobel\n03:15 DeepMind Co-Scientist\n05:00 Curing All Diseases\n06:30 Exponential Growth in Drug Discovery \n07:45 Regulatory Bottlenecks \n09:45 Accelerating Clinical Trials \n11:15 EVE Online Partnership\n13:15 The Einstein Test\n15:30 Recursive Self-Improvement\n18:15 Lightning Round\n19:30 The Badge of Honor\n20:10 Behind the Scenes",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
