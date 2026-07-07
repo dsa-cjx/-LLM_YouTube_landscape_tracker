@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T09:39:03.519313+00:00",
+  "generated_at": "2026-07-07T14:31:53.042003+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "zHWco8xg7ME",
+      "title": "Cheap tricks for AI",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=zHWco8xg7ME",
+      "published": "2026-07-07T10:16:48+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "1KKB_UiW6ls",
       "title": "Cut your AI cost IN HALF (EASY)",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=HA7lZd7zk3M",
       "published": "2026-06-23T23:14:55+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nThis seminar covers applications, coding AI, and the future of software.\n\nFollow along with the course schedule: https://mse435.stanford.edu/\n\nGuest Speaker: Guillermo Rauch, Vercel\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -311,19 +324,6 @@
       "url": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
       "published": "2026-06-22T15:53:06+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2602.21548\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n\n#deepseek",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "F4a8aMLb678",
-      "title": "7 INSANE loops you need to try right now",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=F4a8aMLb678",
-      "published": "2026-06-19T17:43:19+00:00",
-      "summary": "Deploy your AI easily - Check out DigitalOcean: https://do.co/forwardfutureai\n\nLoop Library: https://signals.forwardfuture.ai/loop-library/\nLoop Skill: https://github.com/Forward-Future/loop-library\n\nShout out to here.now for hosting the Loop Library. \nFree, instant web hosting for agents: https://here.now/r/signals\n\nFree consulting sessions: https://forge.forwardfuture.ai/\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nchapters:\n0:00 intro\n0:21 what is a loop?\n2:24 the loop library\n2:55 sub-50ms page-load\n5:28 sponsor\n6:54 overnight doc sweep\n8:23 architecture satisfaction\n9:31 logging coverage\n10:32 production error sweep\n11:19 seo/geo visibility\n12:10 full product evaluation\n13:54 loop caveats",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
