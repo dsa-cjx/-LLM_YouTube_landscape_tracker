@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T19:53:41.905200+00:00",
+  "generated_at": "2026-07-08T02:35:31.372633+00:00",
   "stats": {
-    "total_videos": 75,
+    "total_videos": 60,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Two Minute Papers",
+        "Stanford Online",
         15
       ],
       [
@@ -13,15 +13,11 @@
         15
       ],
       [
+        "Two Minute Papers",
+        15
+      ],
+      [
         "AI Explained",
-        15
-      ],
-      [
-        "Stanford Online",
-        15
-      ],
-      [
-        "Yannic Kilcher",
         15
       ]
     ],
@@ -30,6 +26,45 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "NiRXiuWwrps",
+      "title": "Stanford Robotics Seminar ENGR319 | Spring 2026 | Towards Trustworthy Autonomy",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=NiRXiuWwrps",
+      "published": "2026-07-07T22:13:14+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 15, 2026\nThis seminar covers: \n• Guardrails to detect, avoid, and learn from failures\n• How to detect when a system is unreliable\n• How to enact safety interventions when it degrades\n• How to improve it through principled use of deployment experience\n\nFollow along with the seminar schedule: https://stanfordasl.github.io/robotics_seminar/\n\nRohan Sinha is a PhD candidate in the Department of Aeronautics and Astronautics at Stanford University, where he is a member of the Autonomous Systems Lab.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "JQ8n-2hWgm8",
+      "title": "Our Learners share about their experience in the Engineering Leadership Program",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=JQ8n-2hWgm8",
+      "published": "2026-07-07T21:25:33+00:00",
+      "summary": "Brent Barcimo shares their thoughts on Stanford Online's Engineering Leadership Program. \n\nThis fully online leadership program is designed for working professionals, offering flexible, on-demand content that fits into your busy schedule. Through expert-led lectures, real-world examples, and hands-on exercises, you’ll not only gain critical insights but also put your skills into practice, helping you grow into a compelling leader who makes an impact.\n\nLearn more about the program and kickstart your product management career: https://online.stanford.edu/programs/engineering-leadership-program",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "3g4JBjNSbio",
+      "title": "Fable 5 EXTENDED",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=3g4JBjNSbio",
+      "published": "2026-07-07T21:05:01+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "1yBU41auQhw",
       "title": "DeepSeek's New AI Speed Hack Is Amazing",
@@ -259,7 +294,7 @@
       "url": "https://www.youtube.com/watch?v=IwKuv4LrCVk",
       "published": "2026-06-25T23:33:11+00:00",
       "summary": "Try Recall for free or use code MB25 for 25% off Premium. Turn your knowledge into your edge: https://www.recall.it/?t=mb Code valid until August 1st, 2026.\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/claudeai/status/2069468693017268244\nhttps://x.com/karpathy/status/2069547676849557725\nhttps://www.ycombinator.com/library/OX-the-playbook-for-building-an-ai-native-company\nhttps://x.com/agupta/status/2069561285780623819\nhttps://x.com/ashwingop/status/2069814177624121469",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +307,7 @@
       "url": "https://www.youtube.com/watch?v=_gtQJTnWA4E",
       "published": "2026-06-25T19:25:14+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +320,7 @@
       "url": "https://www.youtube.com/watch?v=EtxdB7gpFqY",
       "published": "2026-06-24T20:40:01+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -311,19 +346,6 @@
       "url": "https://www.youtube.com/watch?v=HA7lZd7zk3M",
       "published": "2026-06-23T23:14:55+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nThis seminar covers applications, coding AI, and the future of software.\n\nFollow along with the course schedule: https://mse435.stanford.edu/\n\nGuest Speaker: Guillermo Rauch, Vercel\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "xyJtjk-WZcA",
-      "title": "Use LOOPS for everything",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=xyJtjk-WZcA",
-      "published": "2026-06-22T20:58:12+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -551,19 +573,6 @@
       "analysis": null
     },
     {
-      "video_id": "26FtD08ZpOU",
-      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 17: Alignment - Multimodality",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=26FtD08ZpOU",
-      "published": "2026-06-04T21:29:14+00:00",
-      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs336-language-modeling-scratch\n\nFollow along with the course schedule and syllabus: https://cs336.stanford.edu/\n\nPercy Liang\nProfessor of Computer Science (and courtesy in Statistics)\n\nTatsunori Hashimoto\nAssistant Professor of Computer Science\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "iz7elwbqZVI",
       "title": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
       "channel": "Two Minute Papers",
@@ -597,19 +606,6 @@
       "url": "https://www.youtube.com/watch?v=MOviZKtFeHM",
       "published": "2026-06-02T07:13:59+00:00",
       "summary": "Check the pinned comment for the link to the full interview. We're discussing whether a \"second order Nobel\" prize is on the horizon for AI-driven science. With over 3 million researchers already using AlphaFold, the real-world impact is already historic. Hear what the experts think about what comes next for scientific discovery! 🔬",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "oyLUvz9nR6E",
-      "title": "Stanford CME296 Diffusion & Large Vision Models | Spring 2026 | Lecture 8 - Trending Topics",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=oyLUvz9nR6E",
-      "published": "2026-06-01T20:25:31+00:00",
-      "summary": "Learn more details about this course: https://online.stanford.edu/courses/cme296-diffusion-and-large-vision-models\n\nTo follow along with the course schedule and syllabus, visit: https://cme296.stanford.edu/syllabus/\n\nChapters:\n00:00:00 Introduction\n00:01:38 Diffusion\n00:05:23 Score matching\n00:13:02 Flow matching\n00:19:04 Latent space and guidance\n00:25:11 Image generation architectures\n00:29:47 Model training\n00:37:23 Evaluation\n00:44:28 State-of-the-art models\n00:55:03 Video generation models\n01:12:51 Image editing\n01:20:35 Diffusion for LLMs\n01:38:54 Closing thoughts\n\nFor more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nAfshine Amidi is an Adjunct Lecturer at Stanford University.\n\nShervine Amidi is an Adjunct Lecturer at Stanford University.\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -733,19 +729,6 @@
       "analysis": null
     },
     {
-      "video_id": "xHi8PUIVyoo",
-      "title": "I BUILT A FULLY AUTOMATIC MANSPLAINER",
-      "channel": "Yannic Kilcher",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
-      "published": "2026-03-06T22:07:33+00:00",
-      "summary": "All information about GTC and the DGX Spark Raffle is here: https://www.ykilcher.com/gtc\n\n\nLinks:\nHomepage: https://ykilcher.com\nMerch: https://ykilcher.com/merch\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nLinkedIn: https://www.linkedin.com/in/ykilcher\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "zizoDORjmlQ",
       "title": "What the New ChatGPT 5.4 Means for the World",
       "channel": "AI Explained",
@@ -818,188 +801,6 @@
       "url": "https://www.youtube.com/watch?v=wYs6HWZ2FdM",
       "published": "2026-01-14T16:26:37+00:00",
       "summary": "A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork. But is the hype justified? What do the stats say on productivity? Where is the truth in a sea of noise? What is truth? Can we handle the truth? Where's Nemo?\n\nhttps://matsprogram.org/s26-aie\n\n\nCheck out my new app! https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters: \n00:00 - Introduction\n01:12 - Claude Cowork\n07:36 - Productivity Speed-up + jobs\n10:19 - Comparing Models\n12:46 - Brittle AI Paper\n\nCowork Intro: https://x.com/claudeai/thread/2010805682434666759\n\n'All of it': https://x.com/bcherny/status/2010813886052581538\n\n'AGI' Claims: https://x.com/deepfates/status/2004994698335879383\n\nDouglas Interview: https://www.youtube.com/watch?v=TOsNrV3bXtQ&amp;t=2313s\n\nJob Stats: https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf\nAmodei Prediction: https://fortune.com/2025/05/28/anthropic-ceo-warning-ai-job-loss/\n\nGenAI Traffic: https://x.com/demishassabis/status/2009075877347512545\n\nIllusion of Insight: https://arxiv.org/pdf/2601.00514\nEntropy Exploration: https://arxiv.org/pdf/2506.14758\nProRL: https://arxiv.org/pdf/2505.24864\n\nGenesis Mission: https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/\nhttps://deepmind.google/blog/how-were-supporting-better-tropical-cyclone-prediction-with-ai/\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "Dr6jw-WAd9E",
-      "title": "Traditional X-Mas Stream",
-      "channel": "Yannic Kilcher",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=Dr6jw-WAd9E",
-      "published": "2025-12-29T03:44:20+00:00",
-      "summary": "Letsgooo",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "DNajvkqfobY",
-      "title": "Traditional Holiday Live Stream",
-      "channel": "Yannic Kilcher",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=DNajvkqfobY",
-      "published": "2025-12-28T12:41:54+00:00",
-      "summary": "https://ykilcher.com/discord\n\nLinks:\nTabNine Code Completion (Referral): http://bit.ly/tabnine-yannick\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://discord.gg/4H8xxDF\nBitChute: https://www.bitchute.com/channel/yannic-kilcher\nMinds: https://www.minds.com/ykilcher\nParler: https://parler.com/profile/YannicKilcher\nLinkedIn: https://www.linkedin.com/in/yannic-kilcher-488534136/\nBiliBili: https://space.bilibili.com/1824646584\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "taCVT5vDAk0",
-      "title": "TiDAR: Think in Diffusion, Talk in Autoregression (Paper Analysis)",
-      "channel": "Yannic Kilcher",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=taCVT5vDAk0",
-      "published": "2025-12-27T14:33:29+00:00",
-      "summary": "Paper: https://arxiv.org/abs/2511.08923\n\nAbstract:\nDiffusion language models hold the promise of fast parallel generation, while autoregressive (AR) models typically excel in quality due to their causal structure aligning naturally with language modeling. This raises a fundamental question: can we achieve a synergy with high throughput, higher GPU utilization, and AR level quality? Existing methods fail to effectively balance these two aspects, either prioritizing AR using a weaker model for sequential drafting (speculative decoding), leading to lower drafting efficiency, or using some form of left-to-right (AR-like) decoding logic for diffusion, which still suffers from quality degradation and forfeits its potential parallelizability. We introduce TiDAR, a sequence-level hybrid architecture that drafts tokens (Thinking) in Diffusion and samples final outputs (Talking) AutoRegressively - all within a single forward pass using specially designed structured attention masks. This design exploits the free GPU compute density, achieving a strong balance between drafting and verification capacity. Moreover, TiDAR is designed to be serving-friendly (low overhead) as a standalone model. We extensively evaluate TiDAR against AR models, speculative decoding, and diffusion variants across generative and likelihood tasks at 1.5B and 8B scales. Thanks to the parallel drafting and sampling as well as exact KV cache support, TiDAR outperforms speculative decoding in measured throughput and surpasses diffusion models like Dream and Llada in both efficiency and quality. Most notably, TiDAR is the first architecture to close the quality gap with AR models while delivering 4.71x to 5.91x more tokens per second.\n\nAuthors: Jingyu Liu, Xin Dong, Zhifan Ye, Rishabh Mehta, Yonggan Fu, Vartika Singh, Jan Kautz, Ce Zhang, Pavlo Molchanov\n\nLinks:\nHomepage: https://ykilcher.com\nMerch: https://ykilcher.com/merch\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nLinkedIn: https://www.linkedin.com/in/ykilcher\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "v67plFw1nMw",
-      "title": "Titans: Learning to Memorize at Test Time (Paper Analysis)",
-      "channel": "Yannic Kilcher",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=v67plFw1nMw",
-      "published": "2025-12-14T16:22:15+00:00",
-      "summary": "Paper: https://arxiv.org/abs/2501.00663\n\nAbstract:\nOver more than a decade there has been an extensive research effort on how to effectively utilize recurrent models and attention. While recurrent models aim to compress the data into a fixed-size memory (called hidden state), attention allows attending to the entire context window, capturing the direct dependencies of all tokens. This more accurate modeling of dependencies, however, comes with a quadratic cost, limiting the model to a fixed-length context. We present a new neural long-term memory module that learns to memorize historical context and helps attention to attend to the current context while utilizing long past information. We show that this neural memory has the advantage of fast parallelizable training while maintaining a fast inference. From a memory perspective, we argue that attention due to its limited context but accurate dependency modeling performs as a short-term memory, while neural memory due to its ability to memorize the data, acts as a long-term, more persistent, memory. Based on these two modules, we introduce a new family of architectures, called Titans, and present three variants to address how one can effectively incorporate memory into this architecture. Our experimental results on language modeling, common-sense reasoning, genomics, and time series tasks show that Titans are more effective than Transformers and recent modern linear recurrent models. They further can effectively scale to larger than 2M context window size with higher accuracy in needle-in-haystack tasks compared to baselines.\n\nAuthors: Ali Behrouz, Peilin Zhong, Vahab Mirrokni\n\nLinks:\nHomepage: https://ykilcher.com\nMerch: https://ykilcher.com/merch\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nLinkedIn: https://www.linkedin.com/in/ykilcher\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "Nao16-6l6dQ",
-      "title": "[Paper Analysis] The Free Transformer (and some Variational Autoencoder stuff)",
-      "channel": "Yannic Kilcher",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=Nao16-6l6dQ",
-      "published": "2025-11-01T17:39:06+00:00",
-      "summary": "https://arxiv.org/abs/2510.17558\n\nAbstract:\nWe propose an extension of the decoder Transformer that conditions its generative process on random latent variables which are learned without supervision thanks to a variational procedure. Experimental evaluations show that allowing such a conditioning translates into substantial improvements on downstream tasks.\n\nAuthor: François Fleuret\n\nLinks:\nHomepage: https://ykilcher.com\nMerch: https://ykilcher.com/merch\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nLinkedIn: https://www.linkedin.com/in/ykilcher\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "0bpYCxv2qhw",
-      "title": "[Video Response] What Cloudflare's code mode misses about MCP and tool calling",
-      "channel": "Yannic Kilcher",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=0bpYCxv2qhw",
-      "published": "2025-10-19T10:58:51+00:00",
-      "summary": "Theo's Video: https://www.youtube.com/watch?v=bAYZjVAodoo\nCloudflare article: https://blog.cloudflare.com/code-mode/\n\nLinks:\nHomepage: https://ykilcher.com\nMerch: https://ykilcher.com/merch\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nLinkedIn: https://www.linkedin.com/in/ykilcher\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "zKohTkN0Fyk",
-      "title": "[Paper Analysis] On the Theoretical Limitations of Embedding-Based Retrieval (Warning: Rant)",
-      "channel": "Yannic Kilcher",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=zKohTkN0Fyk",
-      "published": "2025-10-11T16:07:41+00:00",
-      "summary": "Paper: https://arxiv.org/abs/2508.21038\n\nAbstract:\nVector embeddings have been tasked with an ever-increasing set of retrieval tasks over the years, with a nascent rise in using them for reasoning, instruction-following, coding, and more. These new benchmarks push embeddings to work for any query and any notion of relevance that could be given. While prior works have pointed out theoretical limitations of vector embeddings, there is a common assumption that these difficulties are exclusively due to unrealistic queries, and those that are not can be overcome with better training data and larger models. In this work, we demonstrate that we may encounter these theoretical limitations in realistic settings with extremely simple queries. We connect known results in learning theory, showing that the number of top-k subsets of documents capable of being returned as the result of some query is limited by the dimension of the embedding. We empirically show that this holds true even if we restrict to k=2, and directly optimize on the test set with free parameterized embeddings. We then create a realistic dataset called LIMIT that stress tests models based on these theoretical results, and observe that even state-of-the-art models fail on this dataset despite the simple nature of the task. Our work shows the limits of embedding models under the existing single vector paradigm and calls for future research to develop methods that can resolve this fundamental limitation.\n\nAuthors: Orion Weller, Michael Boratko, Iftekhar Naim, Jinhyuk Lee\n\nLinks:\nHomepage: https://ykilcher.com\nMerch: https://ykilcher.com/merch\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nLinkedIn: https://www.linkedin.com/in/ykilcher\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "hkAH7-u7t5k",
-      "title": "AGI is not coming!",
-      "channel": "Yannic Kilcher",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=hkAH7-u7t5k",
-      "published": "2025-08-09T10:39:28+00:00",
-      "summary": "jack Morris's investigation into GPT-OSS training data\n\nhttps://x.com/jxmnop/status/1953899426075816164?t=3YRhVQDwQLk2gouTSACoqA&amp;s=09",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "hpC4qjWu_aY",
-      "title": "Context Rot: How Increasing Input Tokens Impacts LLM Performance (Paper Analysis)",
-      "channel": "Yannic Kilcher",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=hpC4qjWu_aY",
-      "published": "2025-07-23T11:10:52+00:00",
-      "summary": "Paper: https://research.trychroma.com/context-rot\n\nAbstract:\nLarge Language Models (LLMs) are typically presumed to process context uniformly—that is, the model should handle the 10,000th token just as reliably as the 100th. However, in practice, this assumption does not hold. We observe that model performance varies significantly as input length changes, even on simple tasks.\nIn this report, we evaluate 18 LLMs, including the state-of-the-art GPT-4.1, Claude 4, Gemini 2.5, and Qwen3 models. Our results reveal that models do not use their context uniformly; instead, their performance grows increasingly unreliable as input length grows.\n\nAuthors: Kelly Hong, Anton Troynikov, Jeff Huber\n\nLinks:\nHomepage: https://ykilcher.com\nMerch: https://ykilcher.com/merch\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nLinkedIn: https://www.linkedin.com/in/ykilcher\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "RAEy3JZmIaA",
-      "title": "Energy-Based Transformers are Scalable Learners and Thinkers (Paper Review)",
-      "channel": "Yannic Kilcher",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=RAEy3JZmIaA",
-      "published": "2025-07-19T15:19:45+00:00",
-      "summary": "Paper: https://arxiv.org/abs/2507.02092\nCode: https://github.com/alexiglad/EBT\nWebsite: https://energy-based-transformers.github.io/\n\nAbstract:\nInference-time computation techniques, analogous to human System 2 Thinking, have recently become popular for improving model performances. However, most existing approaches suffer from several limitations: they are modality-specific (e.g., working only in text), problem-specific (e.g., verifiable domains like math and coding), or require additional supervision/training on top of unsupervised pretraining (e.g., verifiers or verifiable rewards). In this paper, we ask the question \"Is it possible to generalize these System 2 Thinking approaches, and develop models that learn to think solely from unsupervised learning?\" Interestingly, we find the answer is yes, by learning to explicitly verify the compatibility between inputs and candidate-predictions, and then re-framing prediction problems as optimization with respect to this verifier. Specifically, we train Energy-Based Transformers (EBTs) -- a new class of Energy-Based Models (EBMs) -- to assign an energy value to every input and candidate-prediction pair, enabling predictions through gradient descent-based energy minimization until convergence. Across both discrete (text) and continuous (visual) modalities, we find EBTs scale faster than the dominant Transformer++ approach during training, achieving an up to 35% higher scaling rate with respect to data, batch size, parameters, FLOPs, and depth. During inference, EBTs improve performance with System 2 Thinking by 29% more than the Transformer++ on language tasks, and EBTs outperform Diffusion Transformers on image denoising while using fewer forward passes. Further, we find that EBTs achieve better results than existing models on most downstream tasks given the same or worse pretraining performance, suggesting that EBTs generalize better than existing approaches. Consequently, EBTs are a promising new paradigm for scaling both the learning and thinking capabilities of models.\n\nAuthors: Alexi Gladstone, Ganesh Nanduru, Md Mofijul Islam, Peixuan Han, Hyeonjeong Ha, Aman Chadha, Yilun Du, Heng Ji, Jundong Li, Tariq Iqbal\n\nLinks:\nHomepage: https://ykilcher.com\nMerch: https://ykilcher.com/merch\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nLinkedIn: https://www.linkedin.com/in/ykilcher\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "V71AJoYAtBQ",
-      "title": "On the Biology of a Large Language Model (Part 2)",
-      "channel": "Yannic Kilcher",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=V71AJoYAtBQ",
-      "published": "2025-05-03T16:16:29+00:00",
-      "summary": "An in-depth look at Anthropic's Transformer Circuit Blog Post\nPart 1 here: https://youtu.be/mU3g2YPKlsA\nDiscord here: https;//ykilcher.com/discord\n\nhttps://transformer-circuits.pub/2025/attribution-graphs/biology.html\n\nAbstract:\nWe investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model — in a variety of contexts, using our circuit tracing methodology.\n\nAuthors:\nJack Lindsey†, Wes Gurnee*, Emmanuel Ameisen*, Brian Chen*, Adam Pearce*, Nicholas L. Turner*, Craig Citro*,\nDavid Abrahams, Shan Carter, Basil Hosmer, Jonathan Marcus, Michael Sklar, Adly Templeton,\nTrenton Bricken, Callum McDougall◊, Hoagy Cunningham, Thomas Henighan, Adam Jermyn, Andy Jones, Andrew Persic, Zhenyi Qi, T. Ben Thompson,\nSam Zimmerman, Kelley Rivoire, Thomas Conerly, Chris Olah, Joshua Batson*‡\n\nLinks:\nHomepage: https://ykilcher.com\nMerch: https://ykilcher.com/merch\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nLinkedIn: https://www.linkedin.com/in/ykilcher\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "mU3g2YPKlsA",
-      "title": "On the Biology of a Large Language Model (Part 1)",
-      "channel": "Yannic Kilcher",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=mU3g2YPKlsA",
-      "published": "2025-04-05T16:17:00+00:00",
-      "summary": "An in-depth look at Anthropic's Transformer Circuit Blog Post\n\nhttps://transformer-circuits.pub/2025/attribution-graphs/biology.html\n\nAbstract:\nWe investigate the internal mechanisms used by Claude 3.5 Haiku — Anthropic's lightweight production model — in a variety of contexts, using our circuit tracing methodology.\n\nAuthors:\nJack Lindsey†, Wes Gurnee*, Emmanuel Ameisen*, Brian Chen*, Adam Pearce*, Nicholas L. Turner*, Craig Citro*,\nDavid Abrahams, Shan Carter, Basil Hosmer, Jonathan Marcus, Michael Sklar, Adly Templeton,\nTrenton Bricken, Callum McDougall◊, Hoagy Cunningham, Thomas Henighan, Adam Jermyn, Andy Jones, Andrew Persic, Zhenyi Qi, T. Ben Thompson,\nSam Zimmerman, Kelley Rivoire, Thomas Conerly, Chris Olah, Joshua Batson*‡\n\nLinks:\nHomepage: https://ykilcher.com\nMerch: https://ykilcher.com/merch\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nLinkedIn: https://www.linkedin.com/in/ykilcher\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "bAWV_yrqx4w",
-      "title": "[GRPO Explained] DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
-      "channel": "Yannic Kilcher",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=bAWV_yrqx4w",
-      "published": "2025-01-26T14:03:48+00:00",
-      "summary": "#deepseek #llm #grpo\n\nGRPO is one of the core advancements used in Deepseek-R1, but was introduced already last year in this paper that uses a combination of new RL techniques and iterative data collection to achieve remarkable performance on mathematics benchmarks with just a 7B model.\n\nPaper: https://arxiv.org/abs/2402.03300\n\nAbstract:\nMathematical reasoning poses a significant challenge for language models due to its complex and structured nature. In this paper, we introduce DeepSeekMath 7B, which continues pre-training DeepSeek-Coder-Base-v1.5 7B with 120B math-related tokens sourced from Common Crawl, together with natural language and code data. DeepSeekMath 7B has achieved an impressive score of 51.7% on the competition-level MATH benchmark without relying on external toolkits and voting techniques, approaching the performance level of Gemini-Ultra and GPT-4. Self-consistency over 64 samples from DeepSeekMath 7B achieves 60.9% on MATH. The mathematical reasoning capability of DeepSeekMath is attributed to two key factors: First, we harness the significant potential of publicly available web data through a meticulously engineered data selection pipeline. Second, we introduce Group Relative Policy Optimization (GRPO), a variant of Proximal Policy Optimization (PPO), that enhances mathematical reasoning abilities while concurrently optimizing the memory usage of PPO.\n\nAuthors: Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya Guo\n\nLinks:\nHomepage: https://ykilcher.com\nMerch: https://ykilcher.com/merch\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://ykilcher.com/discord\nLinkedIn: https://www.linkedin.com/in/ykilcher\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "R3nQ7pGXJcA",
-      "title": "Traditional Holiday Live Stream",
-      "channel": "Yannic Kilcher",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=R3nQ7pGXJcA",
-      "published": "2024-12-27T00:48:00+00:00",
-      "summary": "https://ykilcher.com/discord\n\nLinks:\nTabNine Code Completion (Referral): http://bit.ly/tabnine-yannick\nYouTube: https://www.youtube.com/c/yannickilcher\nTwitter: https://twitter.com/ykilcher\nDiscord: https://discord.gg/4H8xxDF\nBitChute: https://www.bitchute.com/channel/yannic-kilcher\nMinds: https://www.minds.com/ykilcher\nParler: https://parler.com/profile/YannicKilcher\nLinkedIn: https://www.linkedin.com/in/yannic-kilcher-488534136/\nBiliBili: https://space.bilibili.com/1824646584\n\nIf you want to support me, the best thing to do is to share out the content :)\n\nIf you want to support me financially (completely optional and voluntary, but a lot of people have asked for this):\nSubscribeStar: https://www.subscribestar.com/yannickilcher\nPatreon: https://www.patreon.com/yannickilcher\nBitcoin (BTC): bc1q49lsw3q325tr58ygf8sudx2dqfguclvngvy2cq\nEthereum (ETH): 0x7ad3513E3B8f66799f507Aa7874b1B0eBC7F85e2\nLitecoin (LTC): LQW2TRyKYetVC8WjFkhpPhtpbDM4Vw7r9m\nMonero (XMR): 4ACL8AGrEo5hAir8A9CeVrW8pEauWvnp1WnSDZxW7tziCDLhZAGsgzhRQABDnFy8yuM9fWJDviJPHKRjV4FWt19CJZN9D4n",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
