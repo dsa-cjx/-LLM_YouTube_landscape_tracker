@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-09T14:56:28.228594+00:00",
+  "generated_at": "2026-07-09T19:44:33.704670+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,58 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "y81IfY-Cc1U",
+      "title": "Live from Stanford AI Week",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=y81IfY-Cc1U",
+      "published": "2026-07-09T19:27:00+00:00",
+      "summary": "Learn more about Stanford's online Healthcare AI programs: https://online.stanford.edu/artificial-intelligence/ai-professionals-healthcare\n\nCheck out the AI in Healthcare series playlist: https://stanford.io/3NEt7uE\n\nMatt Lungren, Stanford University - https://profiles.stanford.edu/matthew-lungren\nJustin Norden, Stanford University - https://med.stanford.edu/profiles/justin-norden\n\nRecorded on location at Stanford Medicine’s Health AI Week, Matt Lungren and Justin Norden sit down with leaders from healthcare, life sciences, and industry to separate hype from progress in medical AI. Together, they explore where AI is already improving day-to-day work, from surfacing the right information at the right time to making tools that feel practical for clinicians and staff. The guests also dig into what it will take to prove impact at scale, including how organizations should measure outcomes, manage change, and fund the most promising use cases. The episode closes with a look at how AI could reshape research and clinical trials and what responsible adoption should prioritize.\n\n5 key points:\n\n1. AI’s biggest impact is already showing up at the patient level through improved access to knowledge and information.\n\n2. Measuring impact is the central challenge: how to quantify quality and outcomes improvements at a national scale.\n\n3. Evidence still matters: the “survival curve” moment is powerful, but it must be followed by proof, validation, and deployment planning.\n\n4. Research and clinical trials are poised for change: identifying and enrolling participants and running studies will look different.\n\n5. Workforce and culture are diverging sharply: leaders debate automation vs. job-loss narratives, and organizations are taking very different approaches to adopting AI tools.\n\nStanford Online, in collaboration with the Stanford Center for Health Education, is brought to you by the Stanford Engineering Center for Global & Online Education.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "roGmNXASYOM",
+      "title": "GPT-5.6 SOL is HERE",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=roGmNXASYOM",
+      "published": "2026-07-09T19:23:21+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "mD1F5DsC5tc",
+      "title": "GPT-5.6 is HERE (WOAH)",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=mD1F5DsC5tc",
+      "published": "2026-07-09T18:00:10+00:00",
+      "summary": "Check out GPT-5.6 coming to Box soon! https://bit.ly/4pkwci0\n\nGPT-5.6 Relay: https://github.com/Forward-Future/gpt-5-6-relay\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "3IudC2n8jvQ",
+      "title": "Minecraft made by GPT-5.6",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=3IudC2n8jvQ",
+      "published": "2026-07-09T17:39:17+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "p7eQYMcmZqo",
       "title": "Grok  just broke the trend",
@@ -246,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=TML-0HmxWCE",
       "published": "2026-06-28T14:00:35+00:00",
       "summary": "Go to http://hostinger.com/matthewhermes and use code MATTHEWB for 10% off\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -259,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=fvXWEqut82c",
       "published": "2026-06-27T15:00:20+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=eEdOqSmkZy0",
       "published": "2026-06-26T21:26:32+00:00",
       "summary": "This is really disappointing...\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +337,7 @@
       "url": "https://www.youtube.com/watch?v=iG3lW8GslXs",
       "published": "2026-06-26T20:04:33+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -298,45 +350,6 @@
       "url": "https://www.youtube.com/watch?v=rg9oHMXzLl0",
       "published": "2026-06-26T19:06:59+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "DOfwOVDKSSk",
-      "title": "Claude got attacked",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=DOfwOVDKSSk",
-      "published": "2026-06-26T14:18:02+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "oQ_aqiSTLQc",
-      "title": "GPT 5.6 is officially BANNED",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=oQ_aqiSTLQc",
-      "published": "2026-06-26T02:24:09+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "IwKuv4LrCVk",
-      "title": "Anthropic is coming for EVERYTHING",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=IwKuv4LrCVk",
-      "published": "2026-06-25T23:33:11+00:00",
-      "summary": "Try Recall for free or use code MB25 for 25% off Premium. Turn your knowledge into your edge: https://www.recall.it/?t=mb Code valid until August 1st, 2026.\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/claudeai/status/2069468693017268244\nhttps://x.com/karpathy/status/2069547676849557725\nhttps://www.ycombinator.com/library/OX-the-playbook-for-building-an-ai-native-company\nhttps://x.com/agupta/status/2069561285780623819\nhttps://x.com/ashwingop/status/2069814177624121469",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -558,19 +571,6 @@
       "url": "https://www.youtube.com/watch?v=NDdc39KYqDU",
       "published": "2026-06-04T21:51:12+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 21, 2026\nThis seminar covers: \n• The evolution from language models to native multimodal systems\n• Focus on the architectural and training principles that transfer from the LLM paradigm\n• Challenges introduced by multimodal learning\n• The building blocks of modern multimodal LLMs, including modality representations, autoregressive modeling, and reasoning capabilities inherited from strong language models\n• Emerging directions in multimodal architecture design, including sparsity and modality specialization\n\nFollow along with the seminar schedule. Visit: https://web.stanford.edu/class/cs25/\n\nGuest Speaker: Victoria Lin (Thinking Machines)\n\nInstructors: \n• Steven Feng,  Stanford Computer Science PhD student and NSERC PGS-D scholar\n• Karan P. Singh, Electrical Engineering PhD student and NSF Graduate Research Fellow in the Stanford Translational AI Lab\n• Michael C. Frank, Benjamin Scott Crocker Professor of Human Biology Director, Symbolic Systems Program\n• Christopher Manning, Thomas M. Siebel Professor in Machine Learning, Professor of Linguistics and of Computer Science, Co-Founder and Senior Fellow of the Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "ZUdIsRZhWXI",
-      "title": "Stanford CS25: Transformers United V6 I Serving Transformers: Lessons from the Trenches",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=ZUdIsRZhWXI",
-      "published": "2026-06-04T21:45:52+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 28, 2026\nServing Transformers: Lessons from the Trenches of Production Inference\n\nThis seminar covers insights, lessons, and gnarly scars from serving transformer model inferences at the scale of thousands of GPUs.\n\nFollow along with the seminar schedule. Visit: https://web.stanford.edu/class/cs25/\n\nGuest Speaker: Charles Frye (Modal)\n\nInstructors: \n• Steven Feng,  Stanford Computer Science PhD student and NSERC PGS-D scholar\n• Karan P. Singh, Electrical Engineering PhD student and NSF Graduate Research Fellow in the Stanford Translational AI Lab\n• Michael C. Frank, Benjamin Scott Crocker Professor of Human Biology Director, Symbolic Systems Program\n• Christopher Manning, Thomas M. Siebel Professor in Machine Learning, Professor of Linguistics and of Computer Science, Co-Founder and Senior Fellow of the Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
