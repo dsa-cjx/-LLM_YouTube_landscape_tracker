@@ -1,9 +1,13 @@
 {
-  "generated_at": "2026-07-10T09:33:16.703150+00:00",
+  "generated_at": "2026-07-10T14:24:10.486000+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "AI Explained",
+        15
+      ],
       [
         "Matthew Berman",
         15
@@ -17,10 +21,6 @@
         15
       ],
       [
-        "AI Explained",
-        15
-      ],
-      [
         "Yannic Kilcher",
         15
       ]
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "mWlCituW7wo",
+      "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
+      "channel": "AI Explained",
+      "channel_category": "AI Analysis",
+      "url": "https://www.youtube.com/watch?v=mWlCituW7wo",
+      "published": "2026-07-10T12:40:15+00:00",
+      "summary": "What a week in AI, for real. GPT 5.6 may actually beat Claude Fable, in what you get for your money, while the new Grok 4.5 and Meta Muse Spark 1.1 make the choice even harder. Uncovering a dozen nuggets of gold you may have missed from all the viral headlines, I can also assure you you’ll learn something you didn’t know before.\n\nFor Exclusive Videos, go to AI Insiders (less than $9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:03 - GPT 5.6 Sol Reveals\n05:08 - Missing benches, plus Grok 4.5\n07:17 - Gaming as the new frontier?\n08:31 - Muse Spark 1.1\n10:03 - SimpleBench Upgrade\n11:17 - Ultra Sol + Self-Improvement\n13:44 - well, this is awkward\n15:41 - Why model improvement will not plateau anytime soon\n\n\nAI Consciousness: https://www.patreon.com/AIExplained/posts/anthropics-quite-163360718\n\n\nI Smell Fear: https://x.com/thsottiaux/status/2075287108680601929\nGPT 5.6: https://openai.com/index/gpt-5-6/\n\nGrok 4.5: https://x.ai/news/grok-4-5?twclid=2ezs408o0z23pw07tmxcwbzibd\nMeta Muse Spark 1.1: https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/\n\nProliferating GPT Toggles: https://x.com/rasbt/status/2075369179817902176/photo/1\nAnthropic Call-out: https://x.com/Mononofu\nAI Security Institute Finding: https://x.com/alxndrdavies/status/2075279480331874306\nCompetitive Coding: https://x.com/FakePsyho/status/2075128093891801305/photo/1\n\nAgents Last Exam: https://agents-last-exam.org/\nDawn Song: https://x.com/dawnsongtweets/status/2065095757988868190\n\nhttps://simple-bench.com/\n\nSWE-Marathon: https://www.swe-marathon.org/\nhttps://www.frontierswe.com/\nARC-AGI 3: https://x.com/arcprize/status/2075270869992264003\nAutomation Bench: https://zapier.com/benchmarks\nVibeCode Bench: https://www.vals.ai/benchmarks/vibe-code\n\n‘Post-Train Claim’: https://posttrainbench.com/\n\nRedwall Game: https://redwall-bellmaker-7e03e4.surge.sh/\n\n\n\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "roGmNXASYOM",
       "title": "GPT-5.6 SOL is HERE",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=d0Pfu6B7gIM",
       "published": "2026-06-29T16:16:48+00:00",
       "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn this CS153 session, Microsoft Chairman and CEO Satya Nadella joins Michael Abbott for a wide-ranging conversation on AI, Microsoft's strategy, and the future of computing. Nadella traces Microsoft's investment in OpenAI back to a longstanding obsession with natural language processing, and describes the company's vision for a \"frontier ecosystem\" in which every company can build and protect its own AI-powered IP through what he calls \"hill climbing machines\" or reinforcement learning environments trained on proprietary data.\n\nHe walks through several announcements from Microsoft's Build conference, including seven new MAI models, the Scout enterprise autopilot agent, a concept of \"unmetered intelligence\" running on edge devices, and Project Solara's new ambient computing form factors. He also addresses Microsoft's quantum computing program, the Majorana QPU, and the long-term potential of quantum-classical hybrid systems.\n\nIn the student Q&amp;A, Nadella reflects on cultivating a growth mindset culture at Microsoft, the importance of broad intellectual curiosity for public communication, and his advice to students to pursue cognitive coverage rather than anxiety-driven productivity.\n\nSatya Nadella is Chairman and Chief Executive Officer of Microsoft. Before being named CEO in February 2014, Nadella held leadership roles in both enterprise and consumer businesses across the company.\n\nJoining Microsoft in 1992, he quickly became known as a leader who could span a breadth of technologies and businesses to transform some of Microsoft’s biggest product offerings.\n\nMost recently, Nadella was executive vice president of Microsoft’s Cloud and Enterprise group. In this role, he led the transformation to the cloud infrastructure and services business, which outperformed the market and took share from competition. Previously, Nadella led R&amp;D for the Online Services Division and was vice president of the Microsoft Business Division. Before joining Microsoft, Nadella was a member of the technology staff at Sun Microsystems.\n\nOriginally from Hyderabad, India, Nadella lives in Bellevue, Washington, with his family. He earned a bachelor’s degree in electrical engineering from Mangalore University, a master’s degree in computer science from the University of Wisconsin – Milwaukee and a master’s degree in business administration from the University of Chicago. Nadella serves on the board of trustees to his alma mater the University of Chicago.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -805,19 +818,6 @@
       "url": "https://www.youtube.com/watch?v=Iar4yweKGoI",
       "published": "2026-01-28T15:18:48+00:00",
       "summary": "Anthropic's CEO, who has consistently predicted transformative AI will arrive before 2030, recently published a nearly 20,000-word essay outlining his vision of where AI is heading. The video gives you the highlights. The essay argues that scaling and recursion will advance AI from coding automation to full engineering automation, while warning of economic displacement within 1-2 years and China's trajectory toward AI-enabled totalitarianism. Additionally, Dario Amodei predicts that AI models will increasingly be understood as collections of distinct personas rather than monolithic systems.\n\n80,000 Hours: https://80000hours.org/aiexplained\n\n https://www.youtube.com/watch?v=B54EQiuO1UU\n\n\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for Pro: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\n\nChapters:\n00:00 - Introduction\n01:10 - Scaling to software engineers\n06:11 - Permanent Underclass\n10:18 - Totalitarian Nightmares\n16:38 - Collection of Personas\n\nEssay: https://www.darioamodei.com/essay/the-adolescence-of-technology\n\nPhysics Prediction: https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/\n\nAxios: https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic\n\nWorld GDP: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2024&amp;start=1961&amp;view=chart\n\nDemis Hassabis Counter: https://www.youtube.com/watch?v=q6fq4_uP7aM\n\nKarpathy 80%: https://x.com/karpathy/status/2015883857489522876\n\nMachines of Loving Grace: https://www.darioamodei.com/essay/machines-of-loving-grace\n\nAnthropic LessWrong: https://www.lesswrong.com/posts/5aKRshJzhojqfbRyo/unless-its-governance-changes-anthropic-is-untrustworthy#1__In_private__Dario_frequently_said_he_won_t_push_the_frontier_of_AI_capabilities__later__Anthropic_pushed_the_frontier\n\nOriginal Constitution: https://www.anthropic.com/news/claudes-constitution\n\nNew Constitution: https://www.anthropic.com/constitution\n\nKimi K2.5: https://x.com/Kimi_Moonshot/status/2016024049869324599\n\nSocieties of Thought, Google DeepMind Paper: https://arxiv.org/pdf/2601.10825\n\nhttps://lmcouncil.ai/benchmarks\n\nhttps://www.patreon.com/posts/our-new-age-of-133960279\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "wYs6HWZ2FdM",
-      "title": "Anthropic: Our AI just created a tool that can ‘automate all white collar work’, Me:",
-      "channel": "AI Explained",
-      "channel_category": "AI Analysis",
-      "url": "https://www.youtube.com/watch?v=wYs6HWZ2FdM",
-      "published": "2026-01-14T16:26:37+00:00",
-      "summary": "A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork. But is the hype justified? What do the stats say on productivity? Where is the truth in a sea of noise? What is truth? Can we handle the truth? Where's Nemo?\n\nhttps://matsprogram.org/s26-aie\n\n\nCheck out my new app! https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters: \n00:00 - Introduction\n01:12 - Claude Cowork\n07:36 - Productivity Speed-up + jobs\n10:19 - Comparing Models\n12:46 - Brittle AI Paper\n\nCowork Intro: https://x.com/claudeai/thread/2010805682434666759\n\n'All of it': https://x.com/bcherny/status/2010813886052581538\n\n'AGI' Claims: https://x.com/deepfates/status/2004994698335879383\n\nDouglas Interview: https://www.youtube.com/watch?v=TOsNrV3bXtQ&amp;t=2313s\n\nJob Stats: https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf\nAmodei Prediction: https://fortune.com/2025/05/28/anthropic-ceo-warning-ai-job-loss/\n\nGenAI Traffic: https://x.com/demishassabis/status/2009075877347512545\n\nIllusion of Insight: https://arxiv.org/pdf/2601.00514\nEntropy Exploration: https://arxiv.org/pdf/2506.14758\nProRL: https://arxiv.org/pdf/2505.24864\n\nGenesis Mission: https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/\nhttps://deepmind.google/blog/how-were-supporting-better-tropical-cyclone-prediction-with-ai/\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
