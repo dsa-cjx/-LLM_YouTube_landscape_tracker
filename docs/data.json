@@ -1,9 +1,13 @@
 {
-  "generated_at": "2026-07-12T13:17:24.986516+00:00",
+  "generated_at": "2026-07-12T19:04:14.553280+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Two Minute Papers",
+        15
+      ],
       [
         "AI Explained",
         15
@@ -17,10 +21,6 @@
         15
       ],
       [
-        "Two Minute Papers",
-        15
-      ],
-      [
         "Yannic Kilcher",
         15
       ]
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "Ae9q7KsRbuI",
+      "title": "Minecraft Was Missing One Brilliant Idea",
+      "channel": "Two Minute Papers",
+      "channel_category": "AI Research",
+      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
+      "published": "2026-07-12T15:48:43+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://xandergos.github.io/terrain-diffusion/\nhttps://modrinth.com/mod/terrain-diffusion\nhttps://github.com/xandergos/terrain-diffusion\n\nSource video for some parts of the footage: https://www.youtube.com/watch?v=irE4tcDtUIg\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "mWlCituW7wo",
       "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=H0QHtVxH5BM",
       "published": "2026-06-30T19:11:57+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -662,19 +675,6 @@
       "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
       "published": "2026-05-29T15:07:35+00:00",
       "summary": "The ‘best’ generally available AI model just dropped, but there is plenty I bet you missed about what it is, how it performs, and what the release tells us. 15 highlights from the 244 page system card, plus private testing, leader interview and more.\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:49 - Mythos in Weeks\n01:49 - Adaptive not necessary\n02:26 - Honesty?\n04:37 - Flagging Uncertainty\n04:57 - Benchmarks\n08:54 - Mythos will be even better\n10:30 - Business skillz\n11:15 - Model Welfare\n12:16 - Cyber Comparable\n13:10 - Misalignment Concerns\n16:22 - Meta Inabilities\n17:58 - Code flagging\n18:34 - Go to sleep\n18:50 - Fast Mode\n20:21 - Dynamic Workflows\n\n\nOpus 4.8 Paper: https://cdn.sanity.io/files/4zrzovbb/website/c886650a2e96fc0925c805a1a7ca77314ccbf4a6.pdf\n\nRelease: https://www.anthropic.com/news/claude-opus-4-8\n\nChips: https://www.theinformation.com/articles/anthropic-talks-use-microsofts-ai-chips?rc=sy0ihq\nhttps://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services\nhttps://www.anthropic.com/news/higher-limits-spacex\n\nPatreon Vid: https://www.patreon.com/posts/re-up-anthropics-159289449\n\nGDPVal: https://artificialanalysis.ai/evaluations/omniscience\nhttps://arxiv.org/abs/2510.04374\n\nAmodei Technical Debt: https://www.youtube.com/watch?v=7xco5Qd2Oo8\n\nDynamic Workflows: https://x.com/ClaudeDevs/status/2060044853279617150\nhttps://x.com/_catwu/status/2060054180379689074/photo/1\nhttps://claude.com/blog/introducing-dynamic-workflows-in-claude-code\n\nhttps://simple-bench.com/\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "kIvvzCR5NjA",
-      "title": "Google DeepMind CEO Loves Hard Questions 🙂",
-      "channel": "Two Minute Papers",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=kIvvzCR5NjA",
-      "published": "2026-05-26T17:35:28+00:00",
-      "summary": "Full video: https://youtu.be/huAwz_BR8WM\n#shorts",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
