@@ -1,9 +1,13 @@
 {
-  "generated_at": "2026-07-13T19:21:40.311444+00:00",
+  "generated_at": "2026-07-14T02:24:56.387240+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Stanford Online",
+        15
+      ],
       [
         "Matthew Berman",
         15
@@ -17,10 +21,6 @@
         15
       ],
       [
-        "Stanford Online",
-        15
-      ],
-      [
         "Yannic Kilcher",
         15
       ]
@@ -30,6 +30,45 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "ylELycbIbfg",
+      "title": "Stanford CS547 HCI Seminar | Spring 2026 | Just-in-Time Objectives for Specialized AI Interactions",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=ylELycbIbfg",
+      "published": "2026-07-13T21:30:24+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 22, 2026\nThis lecture covers:\n• How just-in-time (JIT) architectures can produce specialized AI interactions that enable users to redirect generic AI systems to realize their specific, distinctive goals\n• An introduction to JIT objectives, which specialize outputs to a particular user by inducing user objectives from observed interaction traces\n• How JIT objectives enable on-the-fly generation of software tools that visualize a research statement's logical argument, test alternate color palettes for a figure, or provide feedback based on relevant academic experts\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nMichelle Lam is a Computer Science PhD candidate at Stanford University in the Human-Computer Interaction Group.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "IpzIDAqJDwI",
+      "title": "Stanford CS547 HCI Seminar | Spring 2026 | Toward Ontological Multiplicity in AI and Computing",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=IpzIDAqJDwI",
+      "published": "2026-07-13T21:11:17+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 15, 2026\nThis lecture covers:\n• The recursive relationship between imagination and design\n• Ontological boundaries in system design\n• The stakes of embedded assumptions in AI\n• Moving critique from reaction to prevention\n• Methods for expanding design possibilities\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nNava Haghighi is a doctoral candidate in Computer Science at Stanford University with a focus on human-centered AI.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "sRvrXL83N-c",
+      "title": "Stanford MS&E435 Economics of the AI Supercycle | Spring 2026 | Infrasctructure, Enterprise AI, SaaS",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=sRvrXL83N-c",
+      "published": "2026-07-13T20:27:53+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nThis seminar covers applications, coding AI, and the future of software.\n\nFollow along with the schedule: https://mse435.stanford.edu/\n\nGuest Speaker: Ali Ghodsi, Databricks\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "mlc9JSTQoxc",
       "title": "Codex is GONE",
@@ -259,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
       "published": "2026-07-02T16:27:26+00:00",
       "summary": "Fable 5 (newly re-released) vs GPT 5.6 Sol, what comparisons can we unearth? Plus, Sonnet 5, a 5% equity seizure by US Govt, the ‘largest heist’, Beetlejuice and more…\n\n\n\nExclusive Vids in AI Insiders ($9!): https://www.patreon.com/AIExplained\n\n\nChapters:\n00:00 - Introduction\n01:06 - Fable Timeline\n02:59 - Sol Release?\n06:01 - the Chinese Angle\n07:35 - 5% Stake\n09:10 - Fable vs Sol - the numbers\n13:57 - Sol Misalignment\n15:27 - Claude Sonnet 5\n16:24 - GLM 5.2 + New Paper on Large Model Learning\n\nGPT 5.6 Sol Release: https://openai.com/index/previewing-gpt-5-6-sol/\nAltman on Concentrated Power: https://x.com/giacomomiolo/status/2070609506925478352\nSystem Card: https://deploymentsafety.openai.com/gpt-5-6-preview/gpt-5-6-preview.pdf\n\nGLM 5.2: https://www.patreon.com/AIExplained/posts/glm-5-2-and-nsa-161869508\n\nAltman Memo: https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns?rc=sy0ihq\n\nFable 5 Revised Timeline: https://www.anthropic.com/news/redeploying-fable-5\n\nClaude Sonnet 5: https://www.anthropic.com/news/claude-sonnet-5\n\nMythose 5 System Card: https://www-cdn.anthropic.com/9e6a1044980d8c4ed85669faf9c2a8342e2e9f1e/Claude%20Sonnet%205%20System%20Card.pdf\n\nAnthropic Accuse Alibaba Cloud / Qwen: https://www.bbc.co.uk/news/articles/cwyklykn5dwo\n\nBetelgeuse: https://upload.wikimedia.org/wikipedia/commons/6/69/Well_known_stars_2.png\n\nOpenAI 5%: https://edition.cnn.com/2026/07/02/business/openai-trump-stake-intl\n\nWhy Larger Models Learn More: https://arxiv.org/pdf/2605.29548\n\nPatreon Post: https://www.patreon.com/AIExplained/posts/glm-5-2-and-nsa-161869508\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=oWip48RPq0s",
       "published": "2026-07-01T17:00:00+00:00",
       "summary": "Learn course details: https://online.stanford.edu/courses/xfm110-technical-fundamentals-generative-ai\n\nIn this online course, you will gain the knowledge to grasp the technical foundations that make AI systems work, the strategies that maximize their performance, and the implications that will shape their future.\n\n•Understand foundation models/large language models (LLMs)/Generative AI basics and why they matter.\n• Identify strategies for selecting, building, and training foundation models.\n• Maximize LLM performance while minimizing costs through benchmarking and performance optimization.\n\nTo learn more details about our Generative AI: Technology, Business, and Society Program, visit https://online.stanford.edu/programs/generative-ai-technology-business-and-society-program",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=qglA5eql38c",
       "published": "2026-07-01T16:29:03+00:00",
       "summary": "Learn more and enroll in the course: https://online.stanford.edu/courses/xfm110-technical-fundamentals-generative-ai\n\nGenerative AI is fundamentally reshaping how we work, create, and solve problems across every industry—from manufacturing and healthcare to finance and entertainment. To harness its transformative potential responsibly and effectively, you need more than a surface-level understanding. \n\nStanford Online's Technical Fundamentals of Generative AI course takes you deep into the mechanics of generative AI through a distinctive conference-style learning experience. Rather than learning from a single perspective, you'll engage with some of the most distinguished experts advancing the field. Developed in collaboration with Stanford's Institute for Human-Centered Artificial Intelligence (HAI), each speaker brings specialized knowledge on different aspects of generative AI while keeping the human aspect front and center.\n\nYou'll move beyond buzzwords to understand how foundation models operate, examining the engineering choices involved in training large language models to understand why certain prompting techniques yield significantly better results. By the end of this course, you will have developed the technical literacy to make informed decisions about generative AI adoption and implementation.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -388,7 +427,7 @@
       "channel_category": "Education",
       "url": "https://www.youtube.com/watch?v=HA7lZd7zk3M",
       "published": "2026-06-23T23:14:55+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nThis seminar covers applications, coding AI, and the future of software.\n\nFollow along with the course schedule: https://mse435.stanford.edu/\n\nGuest Speaker: Guillermo Rauch, Vercel\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nThis seminar covers applications, coding AI, and the future of software.\n\nFollow along with the schedule: https://mse435.stanford.edu/\n\nGuest Speaker: Guillermo Rauch, Vercel\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -551,19 +590,6 @@
       "analysis": null
     },
     {
-      "video_id": "9EEm4iMAF5s",
-      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Guest Lecture: Dan Fu",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=9EEm4iMAF5s",
-      "published": "2026-06-05T21:19:48+00:00",
-      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs336-language-modeling-scratch\n\nFollow along with the course schedule and syllabus: https://cs336.stanford.edu/\n\nPercy Liang\nProfessor of Computer Science (and courtesy in Statistics)\n\nTatsunori Hashimoto\nAssistant Professor of Computer Science\n\nView the course playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "Dkqzqw8rxXI",
       "title": "DeepMind’s New AI Found A Strange New Way To Think",
       "channel": "Two Minute Papers",
@@ -571,32 +597,6 @@
       "url": "https://www.youtube.com/watch?v=Dkqzqw8rxXI",
       "published": "2026-06-05T15:50:26+00:00",
       "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://github.com/google-deepmind/alphaproof-nexus-results\nhttps://arxiv.org/html/2605.22763v1\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "8hohrUYuyx4",
-      "title": "Stanford Robotics Seminar ENGR319 | Spring 2026 | Leveraging Geometry in Robot Learning",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=8hohrUYuyx4",
-      "published": "2026-06-04T22:17:04+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 22, 2026\nModel Matters: Leveraging Geometry in Robot Learning\n\nThis seminar covers: \n• How to leverage geometric structural priors in robot learning\n• A summary of recent work on this topic \n• Predictions about the future\n\nFollow along with the seminar schedule: https://stanfordasl.github.io/robotics_seminar/\n\nRobert Platt is an associate professor in the Khoury College of Computer Sciences at Northeastern University.",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "NDdc39KYqDU",
-      "title": "Stanford CS25: Transformers United V6 I From Language Models to Native Multimodal Intelligence",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=NDdc39KYqDU",
-      "published": "2026-06-04T21:51:12+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 21, 2026\nThis seminar covers: \n• The evolution from language models to native multimodal systems\n• Focus on the architectural and training principles that transfer from the LLM paradigm\n• Challenges introduced by multimodal learning\n• The building blocks of modern multimodal LLMs, including modality representations, autoregressive modeling, and reasoning capabilities inherited from strong language models\n• Emerging directions in multimodal architecture design, including sparsity and modality specialization\n\nFollow along with the seminar schedule. Visit: https://web.stanford.edu/class/cs25/\n\nGuest Speaker: Victoria Lin (Thinking Machines)\n\nInstructors: \n• Steven Feng,  Stanford Computer Science PhD student and NSERC PGS-D scholar\n• Karan P. Singh, Electrical Engineering PhD student and NSF Graduate Research Fellow in the Stanford Translational AI Lab\n• Michael C. Frank, Benjamin Scott Crocker Professor of Human Biology Director, Symbolic Systems Program\n• Christopher Manning, Thomas M. Siebel Professor in Machine Learning, Professor of Linguistics and of Computer Science, Co-Founder and Senior Fellow of the Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
