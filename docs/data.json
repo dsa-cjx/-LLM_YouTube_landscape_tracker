@@ -1,11 +1,15 @@
 {
-  "generated_at": "2026-07-15T13:41:20.476224+00:00",
+  "generated_at": "2026-07-15T19:09:06.091498+00:00",
   "stats": {
-    "total_videos": 74,
+    "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
         "Matthew Berman",
+        15
+      ],
+      [
+        "Two Minute Papers",
         15
       ],
       [
@@ -19,10 +23,6 @@
       [
         "Yannic Kilcher",
         15
-      ],
-      [
-        "Two Minute Papers",
-        14
       ]
     ],
     "topics": [],
@@ -30,6 +30,58 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "WMiylHobhBM",
+      "title": "AI NEWS LIVE",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=WMiylHobhBM",
+      "published": "2026-07-15T18:43:18+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "5HTqWgt6ctk",
+      "title": "AI NEWS LIVE",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=5HTqWgt6ctk",
+      "published": "2026-07-15T18:40:22+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nAlex: @ForwardFutureAlex \nBrian: @ForwardFutureBrian \n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "nxr20lcqagg",
+      "title": "Fine, I'll finally pick one",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=nxr20lcqagg",
+      "published": "2026-07-15T17:31:52+00:00",
+      "summary": "Get started with Higgsfield Supercomputer: https://tinyurl.com/4tbd99ut\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nWill Codex reset Microsite: https://www.willcodexquotareset.com/\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://www.youtube.com/watch?v=n1E9IZfvGMA\nhttps://x.com/thsottiaux/status/2075641131002700120\nhttps://www.reddit.com/r/ClaudeAI/comments/1u39y1c/subscription_plans_are_massively_subsidized/\nhttps://x.com/thsottiaux/status/2075820987833274448\nhttps://artificialanalysis.ai/\nhttps://x.com/claudeai/status/2076351399999557669\nhttps://x.com/thsottiaux/status/2076365965915467978\nhttps://x.com/trq212/status/2072814903170408784\nhttps://x.com/sama/status/2076780425280954658",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "0CqLVnx-2UM",
+      "title": "Claude's Brain Has A Secret... And Scientists Found It",
+      "channel": "Two Minute Papers",
+      "channel_category": "AI Research",
+      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
+      "published": "2026-07-15T13:58:27+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://transformer-circuits.pub/2025/linebreaks/index.html\n\nPaper for reindeer vision change - https://royalsocietypublishing.org/rspb/article/280/1773/20132451/50765/Shifting-mirrors-adaptive-changes-in-retinal\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "M2WtYYR_Dk0",
       "title": "Deepseek ban?",
@@ -246,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=NiRXiuWwrps",
       "published": "2026-07-07T22:13:14+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 15, 2026\nThis seminar covers: \n• Guardrails to detect, avoid, and learn from failures\n• How to detect when a system is unreliable\n• How to enact safety interventions when it degrades\n• How to improve it through principled use of deployment experience\n\nFollow along with the seminar schedule: https://stanfordasl.github.io/robotics_seminar/\n\nRohan Sinha is a PhD candidate in the Department of Aeronautics and Astronautics at Stanford University, where he is a member of the Autonomous Systems Lab.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -259,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=JQ8n-2hWgm8",
       "published": "2026-07-07T21:25:33+00:00",
       "summary": "Our Learner, Brent, shares his thoughts on Stanford Online's Engineering Leadership Program. \n\nThis fully online leadership program is designed for working professionals, offering flexible, on-demand content that fits into your busy schedule. Through expert-led lectures, real-world examples, and hands-on exercises, you’ll not only gain critical insights but also put your skills into practice, helping you grow into a compelling leader who makes an impact.\n\nLearn more about the program and kickstart your product management career: https://online.stanford.edu/programs/engineering-leadership-program",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=3g4JBjNSbio",
       "published": "2026-07-07T21:05:01+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +337,7 @@
       "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
       "published": "2026-07-07T16:33:29+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek paper is available here:\nhttps://arxiv.org/abs/2607.05147v1\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -298,19 +350,6 @@
       "url": "https://www.youtube.com/watch?v=zHWco8xg7ME",
       "published": "2026-07-07T10:16:48+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "1KKB_UiW6ls",
-      "title": "Cut your AI cost IN HALF (EASY)",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=1KKB_UiW6ls",
-      "published": "2026-07-07T00:29:07+00:00",
-      "summary": "Try Genspark with free credits available upon signup https://www.genspark.ai/?utm_source=yt&amp;utm_campaign=matthewberman02\n#Genspark #WorkWithGenspark\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -382,19 +421,6 @@
       "analysis": null
     },
     {
-      "video_id": "H0QHtVxH5BM",
-      "title": "Telling my chickens that Dario won",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=H0QHtVxH5BM",
-      "published": "2026-06-30T19:11:57+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "d0Pfu6B7gIM",
       "title": "Stanford CS153 Frontier Systems | Building the Frontier Ecosystem",
       "channel": "Stanford Online",
@@ -402,19 +428,6 @@
       "url": "https://www.youtube.com/watch?v=d0Pfu6B7gIM",
       "published": "2026-06-29T16:16:48+00:00",
       "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn this CS153 session, Microsoft Chairman and CEO Satya Nadella joins Michael Abbott for a wide-ranging conversation on AI, Microsoft's strategy, and the future of computing. Nadella traces Microsoft's investment in OpenAI back to a longstanding obsession with natural language processing, and describes the company's vision for a \"frontier ecosystem\" in which every company can build and protect its own AI-powered IP through what he calls \"hill climbing machines\" or reinforcement learning environments trained on proprietary data.\n\nHe walks through several announcements from Microsoft's Build conference, including seven new MAI models, the Scout enterprise autopilot agent, a concept of \"unmetered intelligence\" running on edge devices, and Project Solara's new ambient computing form factors. He also addresses Microsoft's quantum computing program, the Majorana QPU, and the long-term potential of quantum-classical hybrid systems.\n\nIn the student Q&amp;A, Nadella reflects on cultivating a growth mindset culture at Microsoft, the importance of broad intellectual curiosity for public communication, and his advice to students to pursue cognitive coverage rather than anxiety-driven productivity.\n\nSatya Nadella is Chairman and Chief Executive Officer of Microsoft. Before being named CEO in February 2014, Nadella held leadership roles in both enterprise and consumer businesses across the company.\n\nJoining Microsoft in 1992, he quickly became known as a leader who could span a breadth of technologies and businesses to transform some of Microsoft’s biggest product offerings.\n\nMost recently, Nadella was executive vice president of Microsoft’s Cloud and Enterprise group. In this role, he led the transformation to the cloud infrastructure and services business, which outperformed the market and took share from competition. Previously, Nadella led R&amp;D for the Online Services Division and was vice president of the Microsoft Business Division. Before joining Microsoft, Nadella was a member of the technology staff at Sun Microsystems.\n\nOriginally from Hyderabad, India, Nadella lives in Bellevue, Washington, with his family. He earned a bachelor’s degree in electrical engineering from Mangalore University, a master’s degree in computer science from the University of Wisconsin – Milwaukee and a master’s degree in business administration from the University of Chicago. Nadella serves on the board of trustees to his alma mater the University of Chicago.",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "TML-0HmxWCE",
-      "title": "\"The best thing since OpenClaw\" (Hermes Tutorial)",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=TML-0HmxWCE",
-      "published": "2026-06-28T14:00:35+00:00",
-      "summary": "Go to http://hostinger.com/matthewhermes and use code MATTHEWB for 10% off\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
