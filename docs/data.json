@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T19:09:06.091498+00:00",
+  "generated_at": "2026-07-16T02:30:41.370234+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -31,6 +31,19 @@
   },
   "items": [
     {
+      "video_id": "5HTqWgt6ctk",
+      "title": "AI NEWS LIVE",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=5HTqWgt6ctk",
+      "published": "2026-07-15T19:56:29+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nAlex: @ForwardFutureAlex \nBrian: @ForwardFutureBrian \n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
       "video_id": "WMiylHobhBM",
       "title": "AI NEWS LIVE",
       "channel": "Matthew Berman",
@@ -44,21 +57,8 @@
       "analysis": null
     },
     {
-      "video_id": "5HTqWgt6ctk",
-      "title": "AI NEWS LIVE",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=5HTqWgt6ctk",
-      "published": "2026-07-15T18:40:22+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nAlex: @ForwardFutureAlex \nBrian: @ForwardFutureBrian \n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "nxr20lcqagg",
-      "title": "Fine, I'll finally pick one",
+      "title": "OpenAI vs Anthropic",
       "channel": "Matthew Berman",
       "channel_category": "AI Tools",
       "url": "https://www.youtube.com/watch?v=nxr20lcqagg",
