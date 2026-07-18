@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-18T02:23:57.810537+00:00",
+  "generated_at": "2026-07-18T07:47:18.299249+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "JrVPIy9AdfQ",
+      "title": "Did Kimi K3 really beat Fable?",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=JrVPIy9AdfQ",
+      "published": "2026-07-18T06:14:32+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://platform.kimi.ai/docs/guide/kimi-k3-quickstart\nhttps://x.com/arena/status/2077893862778183737\nhttps://x.com/Kimi_Moonshot/status/2077821890207547467\nhttps://deepswe.datacurve.ai/\nhttps://x.com/DavidSacks/status/2078092271296143593\nhttps://x.com/rauchg/status/2077900518404321759\nhttps://x.com/Whats_AI/status/2077860441380798908\nhttps://x.com/emollick/status/2078129219691798953\nhttps://x.com/chamath/status/2078075083914957254",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "LNSvp-9b-J0",
       "title": "Stanford MS&E435 Economics of the AI Supercycle | Spring 2026 | Economics of Generative AI",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=y81IfY-Cc1U",
       "published": "2026-07-09T19:27:00+00:00",
       "summary": "Learn more about Stanford's online Healthcare AI programs: https://online.stanford.edu/artificial-intelligence/ai-professionals-healthcare\n\nCheck out the AI in Healthcare series playlist: https://stanford.io/3NEt7uE\n\nHosts:\nMatt Lungren, Stanford University - https://profiles.stanford.edu/matthew-lungren\nJustin Norden, Stanford University - https://med.stanford.edu/profiles/justin-norden\n\nGuests:\n- Sue Sheridan, President and CEO, Patients for Patient Safety US\n- Chris Boerner, Board Chair and CEO, Bristol Myers Squibb\n- Kimberly Powell, Vice President of Healthcare, NVIDIA\n- Ed Kim (Edward Sanghyun Kim), Physician-in-Chief and Senior Vice President, City of Hope Orange County\n- Arati Prabhakar, Former Science and Technology Advisor to President Biden and Director of the White House Office of Science and Technology Policy\n\nRecorded on location at Stanford Medicine’s Health AI Week, Matt Lungren and Justin Norden sit down with leaders from healthcare, life sciences, and industry to separate hype from progress in medical AI. Together, they explore where AI is already improving day-to-day work, from surfacing the right information at the right time to making tools that feel practical for clinicians and staff. The guests also dig into what it will take to prove impact at scale, including how organizations should measure outcomes, manage change, and fund the most promising use cases. The episode closes with a look at how AI could reshape research and clinical trials and what responsible adoption should prioritize.\n\n5 key points:\n\n1. AI’s biggest impact is already showing up at the patient level through improved access to knowledge and information.\n\n2. Measuring impact is the central challenge: how to quantify quality and outcomes improvements at a national scale.\n\n3. Evidence still matters: the “survival curve” moment is powerful, but it must be followed by proof, validation, and deployment planning.\n\n4. Research and clinical trials are poised for change: identifying and enrolling participants and running studies will look different.\n\n5. Workforce and culture are diverging sharply: leaders debate automation vs. job-loss narratives, and organizations are taking very different approaches to adopting AI tools.\n\nStanford Online, in collaboration with the Stanford Center for Health Education, is brought to you by the Stanford Engineering Center for Global & Online Education.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -376,19 +389,6 @@
       "url": "https://www.youtube.com/watch?v=JQ8n-2hWgm8",
       "published": "2026-07-07T21:25:33+00:00",
       "summary": "Our Learner, Brent, shares his thoughts on Stanford Online's Engineering Leadership Program. \n\nThis fully online leadership program is designed for working professionals, offering flexible, on-demand content that fits into your busy schedule. Through expert-led lectures, real-world examples, and hands-on exercises, you’ll not only gain critical insights but also put your skills into practice, helping you grow into a compelling leader who makes an impact.\n\nLearn more about the program and kickstart your product management career: https://online.stanford.edu/programs/engineering-leadership-program",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "3g4JBjNSbio",
-      "title": "Fable 5 EXTENDED",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=3g4JBjNSbio",
-      "published": "2026-07-07T21:05:01+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
