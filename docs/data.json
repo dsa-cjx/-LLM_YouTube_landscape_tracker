@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-22T19:16:29.986307+00:00",
+  "generated_at": "2026-07-23T02:38:26.230862+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Stanford Online",
+        15
+      ],
       [
         "Matthew Berman",
         15
       ],
       [
         "AI Explained",
-        15
-      ],
-      [
-        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,45 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "wfJpKjMwXpg",
+      "title": "Stanford Robotics Seminar ENGR319 | Winter 2025 | Embodied Intelligence",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=wfJpKjMwXpg",
+      "published": "2026-07-22T23:59:37+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMarch 7, 2025\nThis seminar covers: \n• Embodied intelligence with morphing materials and mechanisms\n• Facing open design challenges, such as complete degradability and biocompatibility, arbitrary shape morphing, and freely reconfigurable degrees of freedom\n• How addressing these challenges sometimes requires looking beyond conventional mechatronic systems\n• The critical role of computational design and optimization in assisting robotic and machine design and control\n\nFollow along with the seminar schedule: https://stanfordasl.github.io/robotics_seminar/archive/\n\nLining Yao is an Assistant Professor at the Mechanical Engineering department, the University of California, Berkeley, where she directs the Morphing Matter Lab (morphingmatter.org).",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "kk8TB8wBj-I",
+      "title": "Stanford CS547 HCI Seminar | Spring 2026 | Promoting Agency in Human-AI Interaction",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=kk8TB8wBj-I",
+      "published": "2026-07-22T23:41:54+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 29, 2026\nThis lecture covers:\n• LLM-based physical activity coaching\n• How LLMs can elicit and reason about qualitative context to provide non-prescriptive and agency-promoting support\n• A reinforcement learning algorithm to enable LLM agents to explicitly reason about uncertainty in a user's goals\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nMatthew Jörke is a PhD candidate in Computer Science at Stanford, co-advised by James Landay and Emma Brunskill.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "_X0kRfqGsx8",
+      "title": "WORST AI Mistakes by Companies",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=_X0kRfqGsx8",
+      "published": "2026-07-22T23:00:36+00:00",
+      "summary": "Visit https://do.co/matthewberman and start building on DigitalOcean's AI-Native Cloud today.\n\nThere have been some crazy headlines going around where companies are spending waaay too much on their AI bills. Turns out, there has been an easy solution all along. It's called model routing, and with so many solutions coming into public knowledge about this, DigitalOcean stands out at one of the absolute most optimized versions of it.\n\nHave the expensive model write the plan, have a cheap model do the actual work! It's simple!\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "r4H7rx5nn1A",
       "title": "It Begins: An AI Tried to Escape the Lab",
@@ -259,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=ylELycbIbfg",
       "published": "2026-07-13T21:30:24+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 22, 2026\nThis lecture covers:\n• How just-in-time (JIT) architectures can produce specialized AI interactions that enable users to redirect generic AI systems to realize their specific, distinctive goals\n• An introduction to JIT objectives, which specialize outputs to a particular user by inducing user objectives from observed interaction traces\n• How JIT objectives enable on-the-fly generation of software tools that visualize a research statement's logical argument, test alternate color palettes for a figure, or provide feedback based on relevant academic experts\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nMichelle Lam is a Computer Science PhD candidate at Stanford University in the Human-Computer Interaction Group.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=IpzIDAqJDwI",
       "published": "2026-07-13T21:11:17+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 15, 2026\nThis lecture covers:\n• The recursive relationship between imagination and design\n• Ontological boundaries in system design\n• The stakes of embedded assumptions in AI\n• Moving critique from reaction to prevention\n• Methods for expanding design possibilities\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nNava Haghighi is a doctoral candidate in Computer Science at Stanford University with a focus on human-centered AI.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=sRvrXL83N-c",
       "published": "2026-07-13T20:27:53+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nThis seminar covers applications, coding AI, and the future of software.\n\nFollow along with the schedule: https://mse435.stanford.edu/\n\nGuest Speaker: Ali Ghodsi, Databricks\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -363,19 +402,6 @@
       "url": "https://www.youtube.com/watch?v=mD1F5DsC5tc",
       "published": "2026-07-09T18:00:10+00:00",
       "summary": "Check out GPT-5.6 coming to Box soon! https://bit.ly/4pkwci0\n\nGPT-5.6 Review site: https://signals.forwardfuture.com/gpt-5-6-review/\n\nGPT-5.6 Relay: https://github.com/Forward-Future/gpt-5-6-relay\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://openai.com/index/gpt-5-6/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "3IudC2n8jvQ",
-      "title": "Minecraft made by GPT-5.6",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=3IudC2n8jvQ",
-      "published": "2026-07-09T17:39:17+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -538,19 +564,6 @@
       "analysis": null
     },
     {
-      "video_id": "GcCGzfKdCd0",
-      "title": "Stanford MS&E435 Economics of the AI Supercycle | Spring 2026 | Building AI Factories",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=GcCGzfKdCd0",
-      "published": "2026-06-17T20:56:56+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nThis seminar covers infrastructure and building AI factories at gigawatt scale.\n\nFollow along with the course schedule: https://mse435.stanford.edu/\n\nGuest Speaker: Chase Lochmiller, Crusoe\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "l72ufA-4SzE",
       "title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
       "channel": "Two Minute Papers",
@@ -558,19 +571,6 @@
       "url": "https://www.youtube.com/watch?v=l72ufA-4SzE",
       "published": "2026-06-16T15:53:17+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/natural-language-autoencoders\nhttps://transformer-circuits.pub/2026/nla/index.html\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "GasnZ5EecRA",
-      "title": "AI in Healthcare Series: Inside the Rise of AI in Healthcare, Open Evidence and Cyber Risks",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=GasnZ5EecRA",
-      "published": "2026-06-15T23:06:23+00:00",
-      "summary": "Learn more about Stanford's online Healthcare AI programs: https://stanford.io/3NEt7uE\nCheck out the AI in Healthcare series playlist:https://stanford.io/3NEt7uE\n\nMatt Lungren, Stanford University - https://profiles.stanford.edu/matthew-lungren\nJustin Norden, Stanford University - https://profiles.stanford.edu/justin-norden\n\nGuest speaker: DJ Patil,  former US Chief Data Scientist and Health Tech Entrepreneur\n\nThis episode of the Stanford Healthcare AI podcast explores how AI is transforming healthcare security, policy, and patient empowerment. The guest, DJ Patil, former U.S. Chief Data Scientist and health tech entrepreneur, warns that hospitals are “sitting targets” for cyberattacks from nation-states using even “dumb” AI models. They discuss gaps in U.S. cybersecurity ownership, the need to treat healthcare as critical infrastructure, and the risks of ransomware-style “terrorism.” Balancing this, they highlight the explosive growth of tools like Open Evidence and GPT for clinicians, rising patient engagement, and the moral question of whether powerful AI should be gated or widely accessible.",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
