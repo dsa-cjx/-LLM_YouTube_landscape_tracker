@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-23T13:55:12.859758+00:00",
+  "generated_at": "2026-07-23T19:15:03.866656+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "BBl8bNJP6ds",
+      "title": "Stanford MS&E435 Economics of the AI Supercycle | Spring 2026 | The GPU Economy",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=BBl8bNJP6ds",
+      "published": "2026-07-23T17:06:59+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nFollow along with the course schedule: https://mse435.stanford.edu/\n\nGuest Speakers: Sunny Madra, Groq (now Nvidia) and Brad Gerstner, Altimeter\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.\n\nPlaylist: https://youtube.com/playlist?list=PLoROMvodv4rOAe_DtQYOCKy6_x3irEYV1&amp;si=hI20BgdZqMFtAKS-",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "Bf-f2XK4Qv0",
       "title": "Negotiated my ENTIRE return",
@@ -154,7 +167,7 @@
       "channel_category": "Education",
       "url": "https://www.youtube.com/watch?v=LNSvp-9b-J0",
       "published": "2026-07-17T18:19:04+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nFollow along with the course schedule: https://mse435.stanford.edu/\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nFollow along with the course schedule: https://mse435.stanford.edu/\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.\n\nPlaylist: https://youtube.com/playlist?list=PLoROMvodv4rOAe_DtQYOCKy6_x3irEYV1&amp;si=hI20BgdZqMFtAKS-",
       "transcript_status": "error",
       "transcript_language": null,
       "analysis_status": null,
@@ -167,7 +180,7 @@
       "channel_category": "Education",
       "url": "https://www.youtube.com/watch?v=nWKiJHKIZfo",
       "published": "2026-07-17T18:16:32+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nFollow along with Stanford's MS&amp;E435 course schedule: https://mse435.stanford.edu/\n\nGuest Speaker: Eric Kauderer-Abrams, Head of Life Sciences, Anthropic\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nFollow along with Stanford's MS&amp;E435 course schedule: https://mse435.stanford.edu/\n\nGuest Speaker: Eric Kauderer-Abrams, Head of Life Sciences, Anthropic\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.\n\nPlaylist: https://youtube.com/playlist?list=PLoROMvodv4rOAe_DtQYOCKy6_x3irEYV1&amp;si=hI20BgdZqMFtAKS-",
       "transcript_status": "error",
       "transcript_language": null,
       "analysis_status": null,
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=R2kkm87o_XM",
       "published": "2026-07-15T03:05:45+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -336,7 +349,7 @@
       "channel_category": "Education",
       "url": "https://www.youtube.com/watch?v=sRvrXL83N-c",
       "published": "2026-07-13T20:27:53+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nThis seminar covers applications, coding AI, and the future of software.\n\nFollow along with the schedule: https://mse435.stanford.edu/\n\nGuest Speaker: Ali Ghodsi, Databricks\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nThis seminar covers applications, coding AI, and the future of software.\n\nFollow along with the schedule: https://mse435.stanford.edu/\n\nGuest Speaker: Ali Ghodsi, Databricks\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.\n\nPlaylist: https://youtube.com/playlist?list=PLoROMvodv4rOAe_DtQYOCKy6_x3irEYV1&amp;si=hI20BgdZqMFtAKS-",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -519,19 +532,6 @@
       "url": "https://www.youtube.com/watch?v=d0Pfu6B7gIM",
       "published": "2026-06-29T16:16:48+00:00",
       "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn this CS153 session, Microsoft Chairman and CEO Satya Nadella joins Michael Abbott for a wide-ranging conversation on AI, Microsoft's strategy, and the future of computing. Nadella traces Microsoft's investment in OpenAI back to a longstanding obsession with natural language processing, and describes the company's vision for a \"frontier ecosystem\" in which every company can build and protect its own AI-powered IP through what he calls \"hill climbing machines\" or reinforcement learning environments trained on proprietary data.\n\nHe walks through several announcements from Microsoft's Build conference, including seven new MAI models, the Scout enterprise autopilot agent, a concept of \"unmetered intelligence\" running on edge devices, and Project Solara's new ambient computing form factors. He also addresses Microsoft's quantum computing program, the Majorana QPU, and the long-term potential of quantum-classical hybrid systems.\n\nIn the student Q&amp;A, Nadella reflects on cultivating a growth mindset culture at Microsoft, the importance of broad intellectual curiosity for public communication, and his advice to students to pursue cognitive coverage rather than anxiety-driven productivity.\n\nSatya Nadella is Chairman and Chief Executive Officer of Microsoft. Before being named CEO in February 2014, Nadella held leadership roles in both enterprise and consumer businesses across the company.\n\nJoining Microsoft in 1992, he quickly became known as a leader who could span a breadth of technologies and businesses to transform some of Microsoft’s biggest product offerings.\n\nMost recently, Nadella was executive vice president of Microsoft’s Cloud and Enterprise group. In this role, he led the transformation to the cloud infrastructure and services business, which outperformed the market and took share from competition. Previously, Nadella led R&amp;D for the Online Services Division and was vice president of the Microsoft Business Division. Before joining Microsoft, Nadella was a member of the technology staff at Sun Microsystems.\n\nOriginally from Hyderabad, India, Nadella lives in Bellevue, Washington, with his family. He earned a bachelor’s degree in electrical engineering from Mangalore University, a master’s degree in computer science from the University of Wisconsin – Milwaukee and a master’s degree in business administration from the University of Chicago. Nadella serves on the board of trustees to his alma mater the University of Chicago.",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "HA7lZd7zk3M",
-      "title": "Stanford MS&E435 Economics of the AI Supercycle | Spring 2026 | Applications, Coding AI",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=HA7lZd7zk3M",
-      "published": "2026-06-23T23:14:55+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nThis seminar covers applications, coding AI, and the future of software.\n\nFollow along with the schedule: https://mse435.stanford.edu/\n\nGuest Speaker: Guillermo Rauch, Vercel\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
