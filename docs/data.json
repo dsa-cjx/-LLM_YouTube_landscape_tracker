@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-23T08:28:12.235595+00:00",
+  "generated_at": "2026-07-23T13:55:12.859758+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "Bf-f2XK4Qv0",
+      "title": "Negotiated my ENTIRE return",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=Bf-f2XK4Qv0",
+      "published": "2026-07-23T09:31:18+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "wfJpKjMwXpg",
       "title": "Stanford Robotics Seminar ENGR319 | Winter 2025 | Embodied Intelligence",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=etduwo9Lu3M",
       "published": "2026-07-14T16:15:00+00:00",
       "summary": "Check out Zapier MCP: https://bit.ly/3SX5zn7\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nHook Prompt: https://gist.github.com/mberman84/b4e22cb3ac7782a1c43d5324a0413505\nLoopy: https://github.com/Forward-Future/loopy/tree/main\nLoop Library: https://signals.forwardfuture.com/loop-library/\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 Intro\n0:36 Model selection\n2:49 Threads\n4:54 Agents.md review\n5:38 Sponsor\n6:47 Browser use\n8:32 Skills\n9:12 Loops\n11:28 Remote\n13:00 Hooks\n14:58 Access\n\nLinks:\nhttps://x.com/mattshumer_/status/2075657271401390161",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -389,19 +402,6 @@
       "url": "https://www.youtube.com/watch?v=y81IfY-Cc1U",
       "published": "2026-07-09T19:27:00+00:00",
       "summary": "Learn more about Stanford's online Healthcare AI programs: https://online.stanford.edu/artificial-intelligence/ai-professionals-healthcare\n\nCheck out the AI in Healthcare series playlist: https://stanford.io/3NEt7uE\n\nHosts:\nMatt Lungren, Stanford University - https://profiles.stanford.edu/matthew-lungren\nJustin Norden, Stanford University - https://med.stanford.edu/profiles/justin-norden\n\nGuests:\n- Sue Sheridan, President and CEO, Patients for Patient Safety US\n- Chris Boerner, Board Chair and CEO, Bristol Myers Squibb\n- Kimberly Powell, Vice President of Healthcare, NVIDIA\n- Ed Kim (Edward Sanghyun Kim), Physician-in-Chief and Senior Vice President, City of Hope Orange County\n- Arati Prabhakar, Former Science and Technology Advisor to President Biden and Director of the White House Office of Science and Technology Policy\n\nRecorded on location at Stanford Medicine’s Health AI Week, Matt Lungren and Justin Norden sit down with leaders from healthcare, life sciences, and industry to separate hype from progress in medical AI. Together, they explore where AI is already improving day-to-day work, from surfacing the right information at the right time to making tools that feel practical for clinicians and staff. The guests also dig into what it will take to prove impact at scale, including how organizations should measure outcomes, manage change, and fund the most promising use cases. The episode closes with a look at how AI could reshape research and clinical trials and what responsible adoption should prioritize.\n\n5 key points:\n\n1. AI’s biggest impact is already showing up at the patient level through improved access to knowledge and information.\n\n2. Measuring impact is the central challenge: how to quantify quality and outcomes improvements at a national scale.\n\n3. Evidence still matters: the “survival curve” moment is powerful, but it must be followed by proof, validation, and deployment planning.\n\n4. Research and clinical trials are poised for change: identifying and enrolling participants and running studies will look different.\n\n5. Workforce and culture are diverging sharply: leaders debate automation vs. job-loss narratives, and organizations are taking very different approaches to adopting AI tools.\n\nStanford Online, in collaboration with the Stanford Center for Health Education, is brought to you by the Stanford Engineering Center for Global & Online Education.",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "mD1F5DsC5tc",
-      "title": "GPT-5.6 is FINALLY HERE (WOAH)",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=mD1F5DsC5tc",
-      "published": "2026-07-09T18:00:10+00:00",
-      "summary": "Check out GPT-5.6 coming to Box soon! https://bit.ly/4pkwci0\n\nGPT-5.6 Review site: https://signals.forwardfuture.com/gpt-5-6-review/\n\nGPT-5.6 Relay: https://github.com/Forward-Future/gpt-5-6-relay\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://openai.com/index/gpt-5-6/",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
