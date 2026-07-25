@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T19:23:25.781314+00:00",
+  "generated_at": "2026-07-25T02:33:04.535310+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "tHQ34j8_toI",
+      "title": "What did Anthropic do?! (Opus 5)",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=tHQ34j8_toI",
+      "published": "2026-07-24T21:47:58+00:00",
+      "summary": "Opus 5 is available NOW in Box! https://bit.ly/4bcDjTM\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/claudeai/status/2080699495453528290\nhttps://arcprize.org/arc-agi/3\nhttps://www.anthropic.com/news/claude-opus-5\nhttps://x.com/Lentils80/status/2080694171719835738",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "1Q7CkLh9GwU",
       "title": "OPUS 5 CLICK NOW",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=nxr20lcqagg",
       "published": "2026-07-15T17:31:52+00:00",
       "summary": "Get started with Higgsfield Supercomputer: https://tinyurl.com/4tbd99ut\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nWill Codex reset Microsite: https://www.willcodexquotareset.com/\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://www.youtube.com/watch?v=n1E9IZfvGMA\nhttps://x.com/thsottiaux/status/2075641131002700120\nhttps://www.reddit.com/r/ClaudeAI/comments/1u39y1c/subscription_plans_are_massively_subsidized/\nhttps://x.com/thsottiaux/status/2075820987833274448\nhttps://artificialanalysis.ai/\nhttps://x.com/claudeai/status/2076351399999557669\nhttps://x.com/thsottiaux/status/2076365965915467978\nhttps://x.com/trq212/status/2072814903170408784\nhttps://x.com/sama/status/2076780425280954658",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -324,19 +337,6 @@
       "url": "https://www.youtube.com/watch?v=R2kkm87o_XM",
       "published": "2026-07-15T03:05:45+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "etduwo9Lu3M",
-      "title": "You aren't using Codex like me...",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=etduwo9Lu3M",
-      "published": "2026-07-14T16:15:00+00:00",
-      "summary": "Check out Zapier MCP: https://bit.ly/3SX5zn7\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nHook Prompt: https://gist.github.com/mberman84/b4e22cb3ac7782a1c43d5324a0413505\nLoopy: https://github.com/Forward-Future/loopy/tree/main\nLoop Library: https://signals.forwardfuture.com/loop-library/\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 Intro\n0:36 Model selection\n2:49 Threads\n4:54 Agents.md review\n5:38 Sponsor\n6:47 Browser use\n8:32 Skills\n9:12 Loops\n11:28 Remote\n13:00 Hooks\n14:58 Access\n\nLinks:\nhttps://x.com/mattshumer_/status/2075657271401390161",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
