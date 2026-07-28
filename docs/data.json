@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T14:03:59.082392+00:00",
+  "generated_at": "2026-07-28T19:21:24.913904+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "_fKCXHH6e74",
+      "title": "I Tested an AI Brain vs My Actual Brain #secondbrain #aishorts #test",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=_fKCXHH6e74",
+      "published": "2026-07-28T17:29:28+00:00",
+      "summary": "Get 10% off: https://shop.genspark.ai/s/matthewberman\n\nCan AI remember business meetings better than you? I tested Genspark’s SecondBrain across three back-to-back meetings.\n\n@GensparkProduct\n\n#SecondBrain #SecondBrainNote #Genspark",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "w9cCOUD-qDM",
       "title": "AI can't READ this",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=5HTqWgt6ctk",
       "published": "2026-07-15T19:56:29+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nAlex: @ForwardFutureAlex \nBrian: @ForwardFutureBrian \n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -324,19 +337,6 @@
       "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
       "published": "2026-07-15T13:58:27+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://transformer-circuits.pub/2025/linebreaks/index.html\n\nPaper for reindeer vision change - https://royalsocietypublishing.org/rspb/article/280/1773/20132451/50765/Shifting-mirrors-adaptive-changes-in-retinal\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "M2WtYYR_Dk0",
-      "title": "Deepseek ban?",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=M2WtYYR_Dk0",
-      "published": "2026-07-15T13:00:27+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
