@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-29T14:07:20.104382+00:00",
+  "generated_at": "2026-07-29T19:13:30.901897+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Matthew Berman",
+        15
+      ],
       [
         "Two Minute Papers",
         15
       ],
       [
         "Stanford Online",
-        15
-      ],
-      [
-        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "N80TzPCHbNg",
+      "title": "This letter could change EVERYTHING",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=N80TzPCHbNg",
+      "published": "2026-07-29T17:52:41+00:00",
+      "summary": "Check out Zapier today! https://bit.ly/4fLythH\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/JensenHuang/status/2081698060330250294\nhttps://artificialanalysis.ai/\nhttps://www.reddit.com/r/ChatGPT/comments/1paiyh5/chatgpt_was_launched_today_3_years_ago/\nhttps://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse\nhttps://openai.com/index/hugging-face-model-evaluation-security-incident/\nhttps://x.com/AndrewYNg/status/2081787106062746002\nhttps://allin.com/episodes\nhttps://x.com/SecScottBessent/status/2080008411790368895\nhttps://www.anthropic.com/news/position-open-weights-models\n\n0:00 Intro\n0:54 NVIDIA's letter\n1:38 What is open-source?\n3:56 How open-source works\n5:51 Sponsor\n6:53 Kimi K3\n7:43 Closed vs Open\n9:43 Open-source in the U.S.\n13:23 The AI stack\n14:18 What if open source wins?\n15:21 Jevon's Paradox\n16:09 How the AI stack is affected\n19:16 User experience\n20:52 AI safety\n31:44 China\n37:04 Distillation\n42:53 Banning Chinese models?\n44:51 Anthropic's response",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "Xj-QdEUxJkE",
       "title": "Kimi K3 Just Broke The Economics Of AI",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=nWKiJHKIZfo",
       "published": "2026-07-17T18:16:32+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nFollow along with Stanford's MS&amp;E435 course schedule: https://mse435.stanford.edu/\n\nGuest Speaker: Eric Kauderer-Abrams, Head of Life Sciences, Anthropic\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.\n\nPlaylist: https://youtube.com/playlist?list=PLoROMvodv4rOAe_DtQYOCKy6_x3irEYV1&amp;si=hI20BgdZqMFtAKS-",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -350,19 +363,6 @@
       "url": "https://www.youtube.com/watch?v=WMiylHobhBM",
       "published": "2026-07-15T18:43:18+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "nxr20lcqagg",
-      "title": "OpenAI vs Anthropic",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=nxr20lcqagg",
-      "published": "2026-07-15T17:31:52+00:00",
-      "summary": "Get started with Higgsfield Supercomputer: https://tinyurl.com/4tbd99ut\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nWill Codex reset Microsite: https://www.willcodexquotareset.com/\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://www.youtube.com/watch?v=n1E9IZfvGMA\nhttps://x.com/thsottiaux/status/2075641131002700120\nhttps://www.reddit.com/r/ClaudeAI/comments/1u39y1c/subscription_plans_are_massively_subsidized/\nhttps://x.com/thsottiaux/status/2075820987833274448\nhttps://artificialanalysis.ai/\nhttps://x.com/claudeai/status/2076351399999557669\nhttps://x.com/thsottiaux/status/2076365965915467978\nhttps://x.com/trq212/status/2072814903170408784\nhttps://x.com/sama/status/2076780425280954658",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
