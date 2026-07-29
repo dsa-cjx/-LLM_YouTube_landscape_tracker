@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-28T19:21:24.913904+00:00",
+  "generated_at": "2026-07-29T02:32:09.999622+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "srVixeF36GQ",
+      "title": "James Landay Explains Why AI Should Be Human-Centered",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=srVixeF36GQ",
+      "published": "2026-07-28T23:38:15+00:00",
+      "summary": "Learn details about our Generative AI: Technology, Society, and Business Program ➡️ https://stanford.io/Gen-AI\n\nJames Landay is a Professor of Computer Science and the Anand Rajaraman and Venky Harinarayan Professor in the School of Engineering at Stanford University. He specializes in human-computer interaction. Landay is the co-founder and Co-Director of the Stanford Institute for Human-centered Artificial Intelligence (HAI).",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "byy2DTyho88",
+      "title": "Course Overview: AA228 Decision Making Under Uncertainty",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=byy2DTyho88",
+      "published": "2026-07-28T23:17:24+00:00",
+      "summary": "Enrollment in the graduate course AA228 Decision Making Under Uncertainty is open now: https://stanford.io/AA228\n\nHear about this course and learn why Assistant Professor of Aeronautics and Astronautics, Mykel Kochenderfer, loves it. Discover what you'll learn and how it will impact your decision-making process.\n\nThe Decision Making Under Uncertainty graduate course is designed to increase awareness and appreciation for why uncertainty matters, particularly for aerospace applications. \n\nBrowse all graduate courses available this autumn quarter: https://stanford.io/Autumn-2026\n\nView past AA228 Decision Making Under Uncertainty lectures here: https://www.youtube.com/playlist?list=PLoROMvodv4rNXnHUlDJ1jnvZgNN5Q60d3",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "_fKCXHH6e74",
       "title": "I Tested an AI Brain vs My Actual Brain #secondbrain #aishorts #test",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
       "published": "2026-07-16T15:39:17+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/AI-assistance-coding-skills\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=isGatybff9A",
       "published": "2026-07-16T14:49:05+00:00",
       "summary": "Our Learner Brent shares his thoughts on Stanford Online's Engineering Leadership Program. \n\nThis fully online leadership program is designed for working professionals, offering flexible, on-demand content that fits into your busy schedule. Through expert-led lectures, real-world examples, and hands-on exercises, you’ll not only gain critical insights but also put your skills into practice, helping you grow into a compelling leader who makes an impact.\n\nLearn more about the program and get started today: https://online.stanford.edu/programs/engineering-leadership-program",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -499,19 +525,6 @@
       "analysis": null
     },
     {
-      "video_id": "qglA5eql38c",
-      "title": "Course Overview - Technical Fundamentals of Generative AI",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=qglA5eql38c",
-      "published": "2026-07-01T16:29:03+00:00",
-      "summary": "Learn more and enroll in the course: https://online.stanford.edu/courses/xfm110-technical-fundamentals-generative-ai\n\nGenerative AI is fundamentally reshaping how we work, create, and solve problems across every industry—from manufacturing and healthcare to finance and entertainment. To harness its transformative potential responsibly and effectively, you need more than a surface-level understanding. \n\nStanford Online's Technical Fundamentals of Generative AI course takes you deep into the mechanics of generative AI through a distinctive conference-style learning experience. Rather than learning from a single perspective, you'll engage with some of the most distinguished experts advancing the field. Developed in collaboration with Stanford's Institute for Human-Centered Artificial Intelligence (HAI), each speaker brings specialized knowledge on different aspects of generative AI while keeping the human aspect front and center.\n\nYou'll move beyond buzzwords to understand how foundation models operate, examining the engineering choices involved in training large language models to understand why certain prompting techniques yield significantly better results. By the end of this course, you will have developed the technical literacy to make informed decisions about generative AI adoption and implementation.",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "qks6dGQFd_c",
       "title": "AI Just Entered A New Era",
       "channel": "Two Minute Papers",
@@ -519,19 +532,6 @@
       "url": "https://www.youtube.com/watch?v=qks6dGQFd_c",
       "published": "2026-07-01T05:23:54+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nGLM 5.2: https://z.ai/blog/glm-5.2\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "d0Pfu6B7gIM",
-      "title": "Stanford CS153 Frontier Systems | Building the Frontier Ecosystem",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=d0Pfu6B7gIM",
-      "published": "2026-06-29T16:16:48+00:00",
-      "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus, visit: https://cs153.stanford.edu/\n\nIn this CS153 session, Microsoft Chairman and CEO Satya Nadella joins Michael Abbott for a wide-ranging conversation on AI, Microsoft's strategy, and the future of computing. Nadella traces Microsoft's investment in OpenAI back to a longstanding obsession with natural language processing, and describes the company's vision for a \"frontier ecosystem\" in which every company can build and protect its own AI-powered IP through what he calls \"hill climbing machines\" or reinforcement learning environments trained on proprietary data.\n\nHe walks through several announcements from Microsoft's Build conference, including seven new MAI models, the Scout enterprise autopilot agent, a concept of \"unmetered intelligence\" running on edge devices, and Project Solara's new ambient computing form factors. He also addresses Microsoft's quantum computing program, the Majorana QPU, and the long-term potential of quantum-classical hybrid systems.\n\nIn the student Q&amp;A, Nadella reflects on cultivating a growth mindset culture at Microsoft, the importance of broad intellectual curiosity for public communication, and his advice to students to pursue cognitive coverage rather than anxiety-driven productivity.\n\nSatya Nadella is Chairman and Chief Executive Officer of Microsoft. Before being named CEO in February 2014, Nadella held leadership roles in both enterprise and consumer businesses across the company.\n\nJoining Microsoft in 1992, he quickly became known as a leader who could span a breadth of technologies and businesses to transform some of Microsoft’s biggest product offerings.\n\nMost recently, Nadella was executive vice president of Microsoft’s Cloud and Enterprise group. In this role, he led the transformation to the cloud infrastructure and services business, which outperformed the market and took share from competition. Previously, Nadella led R&amp;D for the Online Services Division and was vice president of the Microsoft Business Division. Before joining Microsoft, Nadella was a member of the technology staff at Sun Microsystems.\n\nOriginally from Hyderabad, India, Nadella lives in Bellevue, Washington, with his family. He earned a bachelor’s degree in electrical engineering from Mangalore University, a master’s degree in computer science from the University of Wisconsin – Milwaukee and a master’s degree in business administration from the University of Chicago. Nadella serves on the board of trustees to his alma mater the University of Chicago.",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
