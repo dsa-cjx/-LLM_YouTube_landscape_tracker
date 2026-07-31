@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-30T19:24:09.818676+00:00",
+  "generated_at": "2026-07-31T02:42:58.705208+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
@@ -31,8 +31,112 @@
   },
   "items": [
     {
+      "video_id": "wAPDmc8e22U",
+      "title": "GPT-5.6 just made itself CHEAPER",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=wAPDmc8e22U",
+      "published": "2026-07-31T00:23:46+00:00",
+      "summary": "Hyperagent is giving away $500 to the first 500 people who sign up! https://www.hyperagent.com/forwardfuture500\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/OpenAI/status/2082878156483219672\nhttps://artificialanalysis.ai/",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "sUS-eTa0l6s",
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 10: GMM (EM), PCA",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=sUS-eTa0l6s",
+      "published": "2026-07-31T00:06:06+00:00",
+      "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "bSmIGBCoffA",
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 9: K-Means and GMM (non-EM)",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=bSmIGBCoffA",
+      "published": "2026-07-31T00:02:46+00:00",
+      "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "ne2ngVAoMG8",
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 8: Neural Networks 2 (Backprop)",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=ne2ngVAoMG8",
+      "published": "2026-07-30T23:51:36+00:00",
+      "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "fRM41w9jzQo",
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 7: Neural Networks 1 (Architecture)",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=fRM41w9jzQo",
+      "published": "2026-07-30T23:43:45+00:00",
+      "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "llnEgyyuYkQ",
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 6: Dataset Split, ML Advice",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=llnEgyyuYkQ",
+      "published": "2026-07-30T23:39:26+00:00",
+      "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "zRdE8A4UZes",
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 5: Gaussian Discriminant Analysis",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=zRdE8A4UZes",
+      "published": "2026-07-30T23:32:08+00:00",
+      "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "JvkF6ckGy9o",
+      "title": "Which business will \"win\" AI?",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=JvkF6ckGy9o",
+      "published": "2026-07-30T20:08:18+00:00",
+      "summary": "Qualcomm is taking a HUGE bet on AI in a unique way: they are choosing to build the infrastructure around AI, which seems to be a seriously future-aware move. Qualcomm Dragonfly data center, self driving cars, robots, this is a serious plan and a huge rollout.\n\nWatching their livestream presentation will put you ahead in your understanding of what's coming for the future of AI. Official keynote here: https://www.youtube.com/watch?v=XNHoxQAiNFQ #ai #llm #future #SponsoredbyQualcomm",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
       "video_id": "8gVi4Rk21Eg",
-      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 4: Exponential Family, GLMs classification",
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 4: Exponential Family, GLMs Classification",
       "channel": "Stanford Online",
       "channel_category": "Education",
       "url": "https://www.youtube.com/watch?v=8gVi4Rk21Eg",
@@ -194,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=tHQ34j8_toI",
       "published": "2026-07-24T21:47:58+00:00",
       "summary": "Opus 5 is available NOW in Box! https://bit.ly/4bcDjTM\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/claudeai/status/2080699495453528290\nhttps://arcprize.org/arc-agi/3\nhttps://www.anthropic.com/news/claude-opus-5\nhttps://x.com/Lentils80/status/2080694171719835738",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -207,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=1Q7CkLh9GwU",
       "published": "2026-07-24T17:56:14+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -220,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=QNEo_tl-nhw",
       "published": "2026-07-23T21:01:48+00:00",
       "summary": "Try Greptile free for 14 days: https://www.greptile.com/go/berman/review\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -233,7 +337,7 @@
       "url": "https://www.youtube.com/watch?v=BBl8bNJP6ds",
       "published": "2026-07-23T17:06:59+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nFollow along with the course schedule: https://mse435.stanford.edu/\n\nGuest Speakers: Sunny Madra, Groq (now Nvidia) and Brad Gerstner, Altimeter\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.\n\nPlaylist: https://youtube.com/playlist?list=PLoROMvodv4rOAe_DtQYOCKy6_x3irEYV1&amp;si=hI20BgdZqMFtAKS-",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -246,33 +350,7 @@
       "url": "https://www.youtube.com/watch?v=Bf-f2XK4Qv0",
       "published": "2026-07-23T09:31:18+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "wfJpKjMwXpg",
-      "title": "Stanford Robotics Seminar ENGR319 | Winter 2025 | Embodied Intelligence",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=wfJpKjMwXpg",
-      "published": "2026-07-22T23:59:37+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMarch 7, 2025\nThis seminar covers: \n• Embodied intelligence with morphing materials and mechanisms\n• Facing open design challenges, such as complete degradability and biocompatibility, arbitrary shape morphing, and freely reconfigurable degrees of freedom\n• How addressing these challenges sometimes requires looking beyond conventional mechatronic systems\n• The critical role of computational design and optimization in assisting robotic and machine design and control\n\nFollow along with the seminar schedule: https://stanfordasl.github.io/robotics_seminar/archive/\n\nLining Yao is an Assistant Professor at the Mechanical Engineering department, the University of California, Berkeley, where she directs the Morphing Matter Lab (morphingmatter.org).",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "kk8TB8wBj-I",
-      "title": "Stanford CS547 HCI Seminar | Spring 2026 | Promoting Agency in Human-AI Interaction",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=kk8TB8wBj-I",
-      "published": "2026-07-22T23:41:54+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 29, 2026\nThis lecture covers:\n• LLM-based physical activity coaching\n• How LLMs can elicit and reason about qualitative context to provide non-prescriptive and agency-promoting support\n• A reinforcement learning algorithm to enable LLM agents to explicitly reason about uncertainty in a user's goals\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nMatthew Jörke is a PhD candidate in Computer Science at Stanford, co-advised by James Landay and Emma Brunskill.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +363,7 @@
       "url": "https://www.youtube.com/watch?v=_X0kRfqGsx8",
       "published": "2026-07-22T23:00:36+00:00",
       "summary": "Visit https://do.co/matthewberman and start building on DigitalOcean's AI-Native Cloud today.\n\nThere have been some crazy headlines going around where companies are spending waaay too much on their AI bills. Turns out, there has been an easy solution all along. It's called model routing, and with so many solutions coming into public knowledge about this, DigitalOcean stands out at one of the absolute most optimized versions of it.\n\nHave the expensive model write the plan, have a cheap model do the actual work! It's simple!\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -356,32 +434,6 @@
       "analysis": null
     },
     {
-      "video_id": "LNSvp-9b-J0",
-      "title": "Stanford MS&E435 Economics of the AI Supercycle | Spring 2026 | Economics of Generative AI",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=LNSvp-9b-J0",
-      "published": "2026-07-17T18:19:04+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nFollow along with the course schedule: https://mse435.stanford.edu/\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.\n\nPlaylist: https://youtube.com/playlist?list=PLoROMvodv4rOAe_DtQYOCKy6_x3irEYV1&amp;si=hI20BgdZqMFtAKS-",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "nWKiJHKIZfo",
-      "title": "Stanford MS&E435 Economics of the AI Supercycle | Spring 2026 | Applications, AI in Life Sciences",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=nWKiJHKIZfo",
-      "published": "2026-07-17T18:16:32+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nFollow along with Stanford's MS&amp;E435 course schedule: https://mse435.stanford.edu/\n\nGuest Speaker: Eric Kauderer-Abrams, Head of Life Sciences, Anthropic\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.\n\nPlaylist: https://youtube.com/playlist?list=PLoROMvodv4rOAe_DtQYOCKy6_x3irEYV1&amp;si=hI20BgdZqMFtAKS-",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "jsR_2hMPewY",
       "title": "Kimi K3 just beat FABLE.",
       "channel": "Matthew Berman",
@@ -408,45 +460,6 @@
       "analysis": null
     },
     {
-      "video_id": "isGatybff9A",
-      "title": "Our Learners share about their experience in the Engineering Leadership Program",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=isGatybff9A",
-      "published": "2026-07-16T14:49:05+00:00",
-      "summary": "Our Learner Brent shares his thoughts on Stanford Online's Engineering Leadership Program. \n\nThis fully online leadership program is designed for working professionals, offering flexible, on-demand content that fits into your busy schedule. Through expert-led lectures, real-world examples, and hands-on exercises, you’ll not only gain critical insights but also put your skills into practice, helping you grow into a compelling leader who makes an impact.\n\nLearn more about the program and get started today: https://online.stanford.edu/programs/engineering-leadership-program",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "5HTqWgt6ctk",
-      "title": "AI NEWS LIVE",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=5HTqWgt6ctk",
-      "published": "2026-07-15T19:56:29+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nAlex: @ForwardFutureAlex \nBrian: @ForwardFutureBrian \n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "WMiylHobhBM",
-      "title": "AI NEWS LIVE",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=WMiylHobhBM",
-      "published": "2026-07-15T18:43:18+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "0CqLVnx-2UM",
       "title": "Anthropic Found Something That Shouldn't Exist",
       "channel": "Two Minute Papers",
@@ -454,19 +467,6 @@
       "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
       "published": "2026-07-15T13:58:27+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://transformer-circuits.pub/2025/linebreaks/index.html\n\nPaper for reindeer vision change - https://royalsocietypublishing.org/rspb/article/280/1773/20132451/50765/Shifting-mirrors-adaptive-changes-in-retinal\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "ylELycbIbfg",
-      "title": "Stanford CS547 HCI Seminar | Spring 2026 | Just-in-Time Objectives for Specialized AI Interactions",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=ylELycbIbfg",
-      "published": "2026-07-13T21:30:24+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMay 22, 2026\nThis lecture covers:\n• How just-in-time (JIT) architectures can produce specialized AI interactions that enable users to redirect generic AI systems to realize their specific, distinctive goals\n• An introduction to JIT objectives, which specialize outputs to a particular user by inducing user objectives from observed interaction traces\n• How JIT objectives enable on-the-fly generation of software tools that visualize a research statement's logical argument, test alternate color palettes for a figure, or provide feedback based on relevant academic experts\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nMichelle Lam is a Computer Science PhD candidate at Stanford University in the Human-Computer Interaction Group.",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
