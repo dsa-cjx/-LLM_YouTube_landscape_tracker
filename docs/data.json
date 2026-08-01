@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-31T19:22:33.923596+00:00",
+  "generated_at": "2026-08-01T02:41:37.200568+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,110 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "vVeCXAFt5f4",
+      "title": "Stanford CS547 HCI Seminar | Spring 2026 | Show It or Tell It? Text, Visualization, and Combination",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=vVeCXAFt5f4",
+      "published": "2026-07-31T22:49:17+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nMarch 13, 2026\nThis lecture covers:\n• Text, visualization, and their combination\n• The role of language in information visualization\n• How to decide what to express via language vs via visualization\n• How to choose what kind of text to use when creating visualizations, and does that choice matter?\n• Does anyone prefer text over visuals, under what circumstances, and why?\n• How multimodal large language models figure into this\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nMarti Hearst is a Professor in the UC Berkeley School of Information and the Computer Science Division.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "J7CossjMvEg",
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 20: GMM (EM), PCA",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=J7CossjMvEg",
+      "published": "2026-07-31T22:32:55+00:00",
+      "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "xveNBYVTrqw",
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 18: GMM (EM), PCA",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=xveNBYVTrqw",
+      "published": "2026-07-31T22:30:12+00:00",
+      "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "hHC-SF3utxg",
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 16: Basic Concept in RL, Policy Gradient",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=hHC-SF3utxg",
+      "published": "2026-07-31T22:26:34+00:00",
+      "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "pwQ0l4hFCVI",
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 14: Transformers, In-Context Learning",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=pwQ0l4hFCVI",
+      "published": "2026-07-31T22:22:19+00:00",
+      "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "lNTajqxxOn4",
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 13: LLMs, Next-Word Prediction Loss",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=lNTajqxxOn4",
+      "published": "2026-07-31T22:19:10+00:00",
+      "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "_kREM2UAiJ8",
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 12: Representation Learning",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=_kREM2UAiJ8",
+      "published": "2026-07-31T20:47:27+00:00",
+      "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "dqUMCzWjZSI",
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 11: Diffusion Models",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=dqUMCzWjZSI",
+      "published": "2026-07-31T20:44:04+00:00",
+      "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "wAPDmc8e22U",
       "title": "GPT-5.6 just made itself better...",
@@ -148,71 +252,6 @@
       "analysis": null
     },
     {
-      "video_id": "uJF_gL3jhxI",
-      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 3: Weighted Least Squares",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=uJF_gL3jhxI",
-      "published": "2026-07-29T23:51:04+00:00",
-      "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "cmNIMjPYdgM",
-      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 2: Supervised Learning Setup",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=cmNIMjPYdgM",
-      "published": "2026-07-29T23:44:12+00:00",
-      "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "DATnpGoGhM8",
-      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=DATnpGoGhM8",
-      "published": "2026-07-29T23:31:41+00:00",
-      "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "jsYqxxNkRdI",
-      "title": "What Is a POMDP?",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=jsYqxxNkRdI",
-      "published": "2026-07-29T21:34:21+00:00",
-      "summary": "Enrollment in the graduate course AA228 Decision Making Under Uncertainty is open now: https://stanford.io/AA228\n\nBrowse all graduate courses available this autumn quarter: https://stanford.io/Autumn-2026\n\nAssociate Professor of Aeronautics and Astronautics Mykel Kochenderfer explains POMDP and how using it can maximize decision-making.",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "XFEhzafeHrU",
-      "title": "These AI Skills Are the Most Valuable",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=XFEhzafeHrU",
-      "published": "2026-07-29T21:23:33+00:00",
-      "summary": "Learn details about our Generative AI: Technology, Society, and Business Program ➡️ https://stanford.io/Gen-AI\n\nProfessor James Landay, Co-Founder and Co-Director of the Stanford Institute for Human-centered Artificial Intelligence (HAI), explains the AI skills that matter most.",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "N80TzPCHbNg",
       "title": "I'm disappointed",
       "channel": "Matthew Berman",
@@ -239,32 +278,6 @@
       "analysis": null
     },
     {
-      "video_id": "srVixeF36GQ",
-      "title": "James Landay Explains Why AI Should Be Human-Centered",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=srVixeF36GQ",
-      "published": "2026-07-28T23:38:15+00:00",
-      "summary": "Learn details about our Generative AI: Technology, Society, and Business Program ➡️ https://stanford.io/Gen-AI\n\nJames Landay is a Professor of Computer Science and the Anand Rajaraman and Venky Harinarayan Professor in the School of Engineering at Stanford University. He specializes in human-computer interaction. Landay is the Co-Founder and Co-Director of the Stanford Institute for Human-centered Artificial Intelligence (HAI).",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "byy2DTyho88",
-      "title": "Course Overview: AA228 Decision Making Under Uncertainty",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=byy2DTyho88",
-      "published": "2026-07-28T23:17:24+00:00",
-      "summary": "Enrollment in the graduate course AA228 Decision Making Under Uncertainty is open now: https://stanford.io/AA228\n\nHear about this course and learn why Associate Professor of Aeronautics and Astronautics, Mykel Kochenderfer, loves it. Discover what you'll learn and how it will impact your decision-making process.\n\nThe Decision Making Under Uncertainty graduate course is designed to increase awareness and appreciation for why uncertainty matters, particularly for aerospace applications. \n\nBrowse all graduate courses available this autumn quarter: https://stanford.io/Autumn-2026\n\nView past AA228 Decision Making Under Uncertainty lectures here: https://www.youtube.com/playlist?list=PLoROMvodv4rNXnHUlDJ1jnvZgNN5Q60d3",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "_fKCXHH6e74",
       "title": "I Tested an AI Brain vs My Actual Brain #secondbrain #aishorts #test",
       "channel": "Matthew Berman",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=w9cCOUD-qDM",
       "published": "2026-07-27T21:17:57+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -324,19 +337,6 @@
       "url": "https://www.youtube.com/watch?v=QNEo_tl-nhw",
       "published": "2026-07-23T21:01:48+00:00",
       "summary": "Try Greptile free for 14 days: https://www.greptile.com/go/berman/review\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "BBl8bNJP6ds",
-      "title": "Stanford MS&E435 Economics of the AI Supercycle | Spring 2026 | The GPU Economy",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=BBl8bNJP6ds",
-      "published": "2026-07-23T17:06:59+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nFollow along with the course schedule: https://mse435.stanford.edu/\n\nGuest Speakers: Sunny Madra, Groq (now Nvidia) and Brad Gerstner, Altimeter\n\nInstructor: Apoorv Agrawal is a Stanford Adjunct Lecturer in Management Science and Engineering and a partner at Altimeter Capital.\n\nPlaylist: https://youtube.com/playlist?list=PLoROMvodv4rOAe_DtQYOCKy6_x3irEYV1&amp;si=hI20BgdZqMFtAKS-",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
