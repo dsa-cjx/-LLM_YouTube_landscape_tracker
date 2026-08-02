@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-02T02:40:28.823374+00:00",
+  "generated_at": "2026-08-02T08:22:19.869747+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "IYvvbM7SKgY",
+      "title": "Hidden Codex Setting",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=IYvvbM7SKgY",
+      "published": "2026-08-02T04:51:27+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "vVeCXAFt5f4",
       "title": "Stanford CS547 HCI Seminar | Spring 2026 | Show It or Tell It? Text, Visualization, and Combination",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=_fKCXHH6e74",
       "published": "2026-07-28T17:29:28+00:00",
       "summary": "Get 10% off: https://shop.genspark.ai/s/matthewberman\n\nCan AI remember business meetings better than you? I tested Genspark’s SecondBrain across three back-to-back meetings.\n\n@GensparkProduct\n\n#SecondBrain #SecondBrainNote #Genspark",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -428,19 +441,6 @@
       "url": "https://www.youtube.com/watch?v=JrVPIy9AdfQ",
       "published": "2026-07-18T06:14:32+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://platform.kimi.ai/docs/guide/kimi-k3-quickstart\nhttps://x.com/arena/status/2077893862778183737\nhttps://x.com/Kimi_Moonshot/status/2077821890207547467\nhttps://deepswe.datacurve.ai/\nhttps://x.com/DavidSacks/status/2078092271296143593\nhttps://x.com/rauchg/status/2077900518404321759\nhttps://x.com/Whats_AI/status/2077860441380798908\nhttps://x.com/emollick/status/2078129219691798953\nhttps://x.com/chamath/status/2078075083914957254",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "jsR_2hMPewY",
-      "title": "Kimi K3 just beat FABLE.",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=jsR_2hMPewY",
-      "published": "2026-07-17T09:09:19+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
