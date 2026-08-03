@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:41:27.689108+00:00",
+  "generated_at": "2026-08-03T14:35:33.857303+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "bm1BjOjS7sQ",
+      "title": "Another DeepSeek Moment Has Arrived",
+      "channel": "Two Minute Papers",
+      "channel_category": "AI Research",
+      "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
+      "published": "2026-08-03T09:47:34+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek v4 Flash 0731:\nhttps://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731\n\nDeepSeek API: https://platform.deepseek.com/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "8B05cy3UuSE",
       "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=N80TzPCHbNg",
       "published": "2026-07-29T17:52:41+00:00",
       "summary": "Check out Zapier today! https://bit.ly/4fLythH\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/JensenHuang/status/2081698060330250294\nhttps://artificialanalysis.ai/\nhttps://www.reddit.com/r/ChatGPT/comments/1paiyh5/chatgpt_was_launched_today_3_years_ago/\nhttps://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse\nhttps://openai.com/index/hugging-face-model-evaluation-security-incident/\nhttps://x.com/AndrewYNg/status/2081787106062746002\nhttps://allin.com/episodes\nhttps://x.com/SecScottBessent/status/2080008411790368895\nhttps://www.anthropic.com/news/position-open-weights-models\n\n0:00 Intro\n0:54 NVIDIA's letter\n1:38 What is open-source?\n3:56 How open-source works\n5:51 Sponsor\n6:53 Kimi K3\n7:43 Closed vs Open\n9:43 Open-source in the U.S.\n13:23 The AI stack\n14:18 What if open source wins?\n15:21 Jevon's Paradox\n16:09 How the AI stack is affected\n19:16 User experience\n20:52 AI safety\n31:44 China\n37:04 Distillation\n42:53 Banning Chinese models?\n44:51 Anthropic's response",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -662,19 +675,6 @@
       "url": "https://www.youtube.com/watch?v=Dkqzqw8rxXI",
       "published": "2026-06-05T15:50:26+00:00",
       "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://github.com/google-deepmind/alphaproof-nexus-results\nhttps://arxiv.org/html/2605.22763v1\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n \nMy research: https://cg.tuwien.ac.at/~zsolnai/\nThumbnail design: https://felicia.hu",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "iz7elwbqZVI",
-      "title": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
-      "channel": "Two Minute Papers",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=iz7elwbqZVI",
-      "published": "2026-06-03T17:00:19+00:00",
-      "summary": "",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
