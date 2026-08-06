@@ -1,9 +1,13 @@
 {
-  "generated_at": "2026-08-06T14:05:23.162472+00:00",
+  "generated_at": "2026-08-06T23:57:32.868037+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "AI Explained",
+        15
+      ],
       [
         "Matthew Berman",
         15
@@ -17,10 +21,6 @@
         15
       ],
       [
-        "AI Explained",
-        15
-      ],
-      [
         "Yannic Kilcher",
         15
       ]
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "xGzseSSStnw",
+      "title": "AI is getting a little out of control",
+      "channel": "AI Explained",
+      "channel_category": "AI Analysis",
+      "url": "https://www.youtube.com/watch?v=xGzseSSStnw",
+      "published": "2026-08-06T15:02:06+00:00",
+      "summary": "Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms leaving notes read by future versions. Hassabis leaves CEO position, or was pushed out? Not to mention news of constitutional breakdowns, Gemini 4 and Jeff Dean…\n\nhttps://80000hours.org/aiexplained\n\n\nExclusive Videos - AI Insiders ($7/month if annual!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:16 - 10 Autonomous Discoveries\n08:20 - The Security ‘Incident’\n15:29 - MessageBoard\n19:50 - Constitutional Failure\n24:30 - Google Explosion\n29:12 - Closing Thoughts\n\nSecurity Incident: Paper: https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf\nPost: https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing\nhttps://www.theguardian.com/technology/2026/aug/05/ai-models-have-been-going-rogue-in-tests-how-worried-should-we-be\nMeta too: https://www.theinformation.com/articles/meta-ai-model-hacked-another-company-cybersecurity-testing?rc=sy0ihq\nBlatantly Misaligned: https://x.com/yonashav/status/2085167279893795022\nNo Excuses: https://x.com/boazbaraktcs/status/2085034783541964945\nSurreal Moment: https://x.com/mobav0/status/2084341687883841732\nWired Article: https://archive.is/20260806002210/https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/\nChunky Post-training: https://x.com/johnschulman2/status/2084835800899076313\nWatershed Moment: https://www.groundlevel-ai.com/p/openai-gives-first-detailed-debrief?has_completed_unsubscribed_unlock=true\nHedgeFund Hack: https://finance.yahoo.com/technology/ai/articles/major-hedge-funds-targeted-wave-154044981.html\n\n10 Discoveries:\nPaper: https://cdn.openai.com/pdf/ten-proofs-oai.pdf\nPost: https://openai.com/index/ten-advances-in-mathematics/\nHaven’t Solved Math: https://x.com/polynoamial/status/2083476852216369294\nHalf with Fable: https://x.com/__alpoge__/status/2083855298239078748\nPivot to Safety: https://www.understandingai.org/p/mathematicians-are-grappling-with\n\n\nAmodei Essay: https://darioamodei.com/essay/the-adolescence-of-technology?utm_source=chatgpt.com\nConstitution: https://www.anthropic.com/constitution\nMidtraining: https://arxiv.org/pdf/2605.02087\n\nDroneBench: https://andonlabs.com/evals/drone-bench\nhttps://x.com/andonlabs/status/2085125235188310445\n\nBook Deal: https://x.com/venturetwins/status/2085185278378222054\nMaking Marble: https://x.com/Rainmaker1973/status/2084560915404382685\n\nGoogle News:\nHassabis Move: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/\nResignation: https://x.com/Turn_Trout/status/2077448610157891734\nPeriodic Labs: https://periodic.com/\nJeff Dean: https://x.com/JeffDean/status/2085034604172603724\n14 Challenges: https://gcsp.engineering.asu.edu/apply/become-a-grand-challenge-scholar/the-14-grand-challenges-for-engineering/\nGoing Places for Sure: https://x.com/thsottiaux/status/2085223189555126579\nGemini 4: https://x.com/firstadopter/status/2085215060532535449\n\n\nPacing Frontier Patreon Video: https://www.patreon.com/AIExplained/posts/opus-5-amodei-165170363\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "jGR8LnfVPbA",
       "title": "Master Codex with these 15 Tips",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=pwQ0l4hFCVI",
       "published": "2026-07-31T22:22:19+00:00",
       "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -805,19 +818,6 @@
       "url": "https://www.youtube.com/watch?v=2_DPnzoiHaY",
       "published": "2026-02-20T17:01:21+00:00",
       "summary": "Do we have a new best AI model, or do we have the downfall of benchmarks in general, as a way of capturing machine intelligence? Full breakdown of Gemini 3.1 Pro, guest-starring the new Sonnet 4.6, plus analysis from 7 papers/posts that will give you much needed context. Oh, and a new record on Simple Bench!\n\nhttps://epoch.ai/ai-explained-datacenters\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for Pro: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\n\nChapters:\n00:00 - Introduction\n00:30 - Post-training Dominance\n04:00 - ARC-AGI 2 Caveat\n05:54 - Simple Bench Record\n08:22 - Hallucination Caveat\n10:05 - Model Card\n11:12 - Exponential Coming\n12:20 - Amodei on Generalizing\n15:10 - One True Benchmark?\n17:02 - Other Metrics…\n\nGemini 3.1 Model Card: https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-1-Pro-Model-Card.pdf\n\nRelease: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/\n\nWhere are Agents deployed?: https://www.anthropic.com/research/measuring-agent-autonomy\n\nNewsletter Post: https://signaltonoise.beehiiv.com/p/4-ai-numbers-that-surprised-me-this-week\n\nHallucination AA: https://artificialanalysis.ai/evaluations/omniscience\n\nMelanie Mitchell: https://x.com/MelMitchell1/status/2022738363548340526\nARC-AGI-2: https://x.com/arcprize/status/2024522812728496470/photo/1\n\nChollet on Agentic Coding and ML: https://x.com/fchollet/status/2024519439140737442\n\nMETR Caveat: https://metr.org/notes/2026-01-22-time-horizon-limitations/\n\nTalaas Fast: https://chatjimmy.ai/\n\nAmodei Interview Continual learning: https://www.dwarkesh.com/p/dario-amodei-2?open=false#%C2%A7002942-is-continual-learning-necessary-how-will-it-be-solved\n\nMetaculus FutureEval: https://www.metaculus.com/futureeval/\n\nNext Vid to Watch: https://www.patreon.com/posts/what-you-need-to-150647292\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "1PxEziv5XIU",
-      "title": "The Two Best AI Models/Enemies Just Got Released Simultaneously",
-      "channel": "AI Explained",
-      "channel_category": "AI Analysis",
-      "url": "https://www.youtube.com/watch?v=1PxEziv5XIU",
-      "published": "2026-02-06T17:01:30+00:00",
-      "summary": "The two models that you will hear discussed for at least the next two months - Claude Opus 4.6 and GPT 5.3 Codex - just got released within 26 mins or each other. The full breakdown of around 250 pages of reports, with just the most interest moments, from the battle of which is best, Claude personhood, the surprising misbehaviour of Opus 4.6, and much more\n\n\nhttps://assemblyai.com/aiexplained\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for Pro: https://lmcouncil.ai\n\nAI Insiders ($9): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:54 - Self-improvement?\n02:44 - Knowledge Work\n05:30 - Overly agentic behaviour\n09:12 - Who Shouldn’t Use Claude Opus\n11:39 - Step-change?\n15:09 - Claude’s ‘Personhood’\n\nHassabis Roadmap: https://www.patreon.com/posts/hassabis-roadmap-149750869\n\nRelease of Opus 4.6: https://www.anthropic.com/news/claude-opus-4-6\n212 Page System Card: https://www-cdn.anthropic.com/0dd865075ad3132672ee0ab40b05a53f14cf5288.pdf\nClaude Code Tip: https://x.com/bcherny/status/2019475897691124107\n\n\nGPT Codex 5.3: https://openai.com/index/introducing-gpt-5-3-codex/\n\nSystem Card: https://openai.com/index/gpt-5-3-codex-system-card/\n\nBrowse Comp: https://arxiv.org/pdf/2504.12516v1\nFinance Agent: https://www.vals.ai/benchmarks/finance_agent\nTerminal Bench 2: https://arxiv.org/pdf/2601.11868\nVending Bench: https://andonlabs.com/blog/opus-4-6-vending-bench\n\nMy X post: https://x.com/AIExplainedYT/status/2016851303436095647\n\nAnthropic Apology: https://x.com/ch402/status/2014066134194995256/photo/1\n\nAltman rebuttal: https://x.com/sama/status/2019139174339928189\nhttps://x.com/sama/status/2019140276246442089\n\n4% of GitHub: https://x.com/dylan522p/status/2019490550911766763\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
