@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-10T13:04:17.779888+00:00",
+  "generated_at": "2026-08-10T18:55:23.066982+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Two Minute Papers",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Two Minute Papers",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "mixeobHQ7ao",
+      "title": "AI went rogue in real life...",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=mixeobHQ7ao",
+      "published": "2026-08-10T15:13:58+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "vO6SWG-jxvE",
       "title": "DeepMind Just Changed How AI Sees The World",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=J7CossjMvEg",
       "published": "2026-07-31T22:32:55+00:00",
       "summary": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nFor information on the graduate course, CS229 Machine Learning, including the syllabus and course materials, visit the course's website: https://cs229.stanford.edu/index.html-spr26\n\nTeaching Team:\nChris Ré, Professor of Computer Science\nTengyu Ma, Assistant Professor of Computer Science",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -480,19 +493,6 @@
       "url": "https://www.youtube.com/watch?v=_X0kRfqGsx8",
       "published": "2026-07-22T23:00:36+00:00",
       "summary": "Visit https://do.co/matthewberman and start building on DigitalOcean's AI-Native Cloud today.\n\nThere have been some crazy headlines going around where companies are spending waaay too much on their AI bills. Turns out, there has been an easy solution all along. It's called model routing, and with so many solutions coming into public knowledge about this, DigitalOcean stands out at one of the absolute most optimized versions of it.\n\nHave the expensive model write the plan, have a cheap model do the actual work! It's simple!\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "r4H7rx5nn1A",
-      "title": "It Begins: An AI Tried to Escape the Lab",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=r4H7rx5nn1A",
-      "published": "2026-07-22T18:14:09+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
