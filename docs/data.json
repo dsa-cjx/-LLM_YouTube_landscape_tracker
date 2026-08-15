@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-14T18:51:45.782784+00:00",
+  "generated_at": "2026-08-15T01:09:00.185151+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Matthew Berman",
+        15
+      ],
       [
         "Two Minute Papers",
         15
       ],
       [
         "Stanford Online",
-        15
-      ],
-      [
-        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "9qix4oDB5aw",
+      "title": "AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=9qix4oDB5aw",
+      "published": "2026-08-14T23:34:42+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nCheck out Alex: https://x.com/The_Alex\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 Intro\n0:18 ChatGPT Ultrafast\n3:09 Claude Watermarks\n6:23 xAI Cursor Acquisition\n7:10 Grok Bot\n8:25 GLM-5.3\n9:22 Deepseek-V4-Pro\n10:16 Muse Glimmer\n11:11 Chat-GPT History\n\nLinks:\nhttps://x.com/paulg/status/2088097078346162399?s=20\nhttps://x.com/cerebras/status/2087961128869748856\nhttps://openai.com/index/previewing-ultrafast/\nhttps://x.com/thsottiaux/status/2084483765158719542\nhttps://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content\nhttps://www.anthropic.com/news/claude-text-watermark\nhttps://x.com/cursor_ai/status/2088249881718919393\nhttps://x.com/SpaceXAI/status/2087562800982077492\nhttps://x.ai/bot\nhttps://x.com/Zai_org/status/2088132965922476159\nhttps://x.com/deepseek_ai/status/2087864585504305397\nhttps://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\nhttps://x.com/OpenAI/status/2087996496088297746\nhttps://x.com/The_Alex/status/2087010197604868158?s=20",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "QnGNF8k_uoc",
       "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=hZqJvWDI0Rs",
       "published": "2026-08-11T17:49:03+00:00",
       "summary": "Check out Zapier MCP! https://bit.ly/4ceg6ku\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://www.meta.com/thefutureisforeveryone/\nhttps://www.inc.com/kevin-haynes/a-meta-employee-asked-for-more-time-off-cto-andrew-bosworth-called-the-question-very-dumb/91387314",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -506,19 +519,6 @@
       "url": "https://www.youtube.com/watch?v=w9cCOUD-qDM",
       "published": "2026-07-27T21:17:57+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "tHQ34j8_toI",
-      "title": "What did Anthropic do?! (Opus 5)",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=tHQ34j8_toI",
-      "published": "2026-07-24T21:47:58+00:00",
-      "summary": "Opus 5 is available NOW in Box! https://bit.ly/4bcDjTM\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/claudeai/status/2080699495453528290\nhttps://arcprize.org/arc-agi/3\nhttps://www.anthropic.com/news/claude-opus-5\nhttps://x.com/Lentils80/status/2080694171719835738",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
