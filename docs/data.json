@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-20T18:36:19.963656+00:00",
+  "generated_at": "2026-08-21T01:12:32.541506+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Two Minute Papers",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Two Minute Papers",
         15
       ],
       [
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "EsgXT6TGY9A",
+      "title": "Grok Bot can shop for you! (I hope it doesn't though)",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=EsgXT6TGY9A",
+      "published": "2026-08-20T21:05:55+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "5CSXUsljJ_E",
+      "title": "11 INSANE Use Cases for Grok Bot",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=5CSXUsljJ_E",
+      "published": "2026-08-20T18:28:50+00:00",
+      "summary": "Tell Grok Bot to use this: https://here.now/r/matthewberman\n\nMy Prompts: https://pearly-rivulet-zd47.here.now/\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 Intro\n0:31 Email Agent\n5:44 Sponsor\n7:00 Calendar Agent\n8:13 Browser Tasks\n10:20 Coding\n12:35 DoorDash\n13:50 Meeting Summary\n15:39 Chief of Staff Agent\n16:51 Personal Agent\n17:10 School Agent\n18:21 Computer Cleanup\n19:50 Telegram",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "kyYepbhe1g8",
       "title": "DeepSeek Just Made Closed AI Look Ridiculous",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=zX8raxUa2DE",
       "published": "2026-08-12T22:36:47+00:00",
       "summary": "Lecture 6 — Direct methods for Optimal Control\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com \n\nTo learn more about enrolling in AA203 Optimal and Learning-Based Control, visit: https://online.stanford.edu/courses/aa203-optimal-and-learning-based-control \n\nFollow along with the course schedule and syllabus: https://stanfordasl.github.io/aa203/sp2526/ \n\nLecture slides: https://stanfordasl.github.io/aa203/sp2526/pdfs/lecture/lecture_6.pdf\n\nSpeaker: Dr. Daniele Gammelli\n\nBio: Dr. Daniele Gammelli is the Research Director of the Machine Intelligence for Robot Autonomy Laboratory at the Italian Institute of Artificial Intelligence (AI4I), and a Researcher in the Department of Aeronautics and Astronautics at Stanford University. Since 2022, he has been a Research Fellow at the Center for Aerospace Autonomy Research (CAESAR) at Stanford and, until 2025, at the Center for Automotive Research at Stanford (CARS). He received his Ph.D. in Machine Learning and Mathematical Optimization from the Technical University of Denmark (DTU) in 2022, where his doctoral thesis was nominated for the DTU Best Thesis of the Year Award and the DTU Young Researcher Award. Dr. Gammelli’s research focuses on developing the algorithmic foundations and system-level methodologies that enable AI-powered autonomous systems to operate safely, efficiently, and reliably in high-stakes environments, with an emphasis on aerospace autonomy and next-generation mobility systems.\n\nInstructors: \nProf. Marco Pavone, Associate Professor of Aeronautics and Astronautics, Director of Autonomous Vehicle Research at NVIDIA\n\nDr. Daniele Gammelli, Research Director at the Italian Institute of Artificial Intelligence (AI4I), Researcher at the Department of Aeronautics and Astronautics, Stanford University \n\nFull playlist: https://www.youtube.com/playlist?list=PLa9dmHsLK9dg\n\n#StanfordOnline #OptimalControl #Robotics #PhysicalAI",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=mZM-J7XK5Aw",
       "published": "2026-08-12T20:09:00+00:00",
       "summary": "Tell your agents to use this: https://here.now/r/matthewberman\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 Intro\n0:15 UI\n2:03 Creating Agents\n3:57 Cloud OS\n5:36 Sponsor\n6:54 Agent Interactions\n8:34 Local use\n10:46 My Thoughts\n12:41 UI (cont.)\n13:47 Routines\n14:55 Tasks",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -499,19 +525,6 @@
       "analysis": null
     },
     {
-      "video_id": "N80TzPCHbNg",
-      "title": "I'm disappointed",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=N80TzPCHbNg",
-      "published": "2026-07-29T17:52:41+00:00",
-      "summary": "Check out Zapier today! https://bit.ly/4fLythH\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/JensenHuang/status/2081698060330250294\nhttps://artificialanalysis.ai/\nhttps://www.reddit.com/r/ChatGPT/comments/1paiyh5/chatgpt_was_launched_today_3_years_ago/\nhttps://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse\nhttps://openai.com/index/hugging-face-model-evaluation-security-incident/\nhttps://x.com/AndrewYNg/status/2081787106062746002\nhttps://allin.com/episodes\nhttps://x.com/SecScottBessent/status/2080008411790368895\nhttps://www.anthropic.com/news/position-open-weights-models\n\n0:00 Intro\n0:54 NVIDIA's letter\n1:38 What is open-source?\n3:56 How open-source works\n5:51 Sponsor\n6:53 Kimi K3\n7:43 Closed vs Open\n9:43 Open-source in the U.S.\n13:23 The AI stack\n14:18 What if open source wins?\n15:21 Jevon's Paradox\n16:09 How the AI stack is affected\n19:16 User experience\n20:52 AI safety\n31:44 China\n37:04 Distillation\n42:53 Banning Chinese models?\n44:51 Anthropic's response",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "Xj-QdEUxJkE",
       "title": "Kimi K3 Just Broke The Economics Of AI",
       "channel": "Two Minute Papers",
@@ -519,19 +532,6 @@
       "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
       "published": "2026-07-29T12:37:50+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2607.24653\n\nTry Kimi K3 (subject to availability): https://www.kimi.com/\n\nLinks:\nhttps://macos27.kimi.page/\nhttps://x.com/mweinbach/status/2077878247920951400\nhttps://x.com/intheworldofai/status/2077838911494336681\nhttps://x.com/chetaslua/status/2077829183989072281\nhttps://x.com/hqmank/status/2078104317027094907\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "_fKCXHH6e74",
-      "title": "I Tested an AI Brain vs My Actual Brain",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=_fKCXHH6e74",
-      "published": "2026-07-28T17:29:28+00:00",
-      "summary": "Get 10% off: https://shop.genspark.ai/s/matthewberman\n\nCan AI remember business meetings better than you? I tested Genspark’s SecondBrain across three back-to-back meetings.\n\n@GensparkProduct\n\n#SecondBrain #SecondBrainNote #Genspark",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
