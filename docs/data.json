@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:46:40.156221+00:00",
+  "generated_at": "2026-08-24T18:37:24.272538+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "4qjEgPojjzM",
+      "title": "Tibo: Ultrafast Mode, The Reset Button, OpenAI vs Anthropic, RSI, and more!",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=4qjEgPojjzM",
+      "published": "2026-08-24T18:11:25+00:00",
+      "summary": "OpenAI’s Tibo joins me to break down what’s next for Codex, ultra-fast AI, recursive self-improvement, and the future of personal AI agents. We also get into OpenAI vs. Anthropic, why Codex usage is exploding, and how AI could soon work faster than humans can keep up with...\n\nHuge thanks to Tibo for joining me! https://x.com/thsottiaux\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChatpers\n0:00 Intro\n0:45 Lessons from Google & DeepMind\n4:22 Building OpenAI’s Culture\n7:23 The Future of AI Agents\n11:18 How AI Changes Developer Workflows\n14:27 ChatGPT & Codex Merging\n17:00 The Future of Human-AI Interaction\n20:25 OpenAI vs. Anthropic\n23:37 Why OpenAI Keeps Resetting Limits\n26:41 AI Efficiency & Compute\n30:25 Recursive Self-Improvement\n32:00 Pausing Frontier AI Training\n34:13 What Ultra Fast Unlocks\n40:00 Will Ultra Fast Become the Default?\n41:19 Reassuring People About AI\n43:20 Why Everyone Should Try AI",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "wMl6c_r0ubw",
+      "title": "This Small AI Will Change Everything",
+      "channel": "Two Minute Papers",
+      "channel_category": "AI Research",
+      "url": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
+      "published": "2026-08-24T16:48:40+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Qwen3.8-27b is available here:\nhttps://huggingface.co/Qwen/Qwen3.8-27B\n\nSources:\nhttps://www.reddit.com/r/unsloth/comments/1vogva0/share_your_results_from_qwen3827b/\nhttps://www.reddit.com/r/LocalLLaMA/comments/1voer8u/qwen_38_27b_aquarium_burst_sample_test/\nhttps://x.com/KyleHessling1/status/2088327667733180637\nhttps://www.reddit.com/r/LocalLLaMA/comments/1vqme4y/qwen3827b_q8_0_on_strix_halo_is_seriously/\nhttps://forums.developer.nvidia.com/t/qwen3-8-27b-nvfp4-on-a-single-dgx-spark-up-to-1m-context-vllm-mtp-measurements/380244\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "RUAtrbLa9Q0",
       "title": "Grok Bot saves so much time and is so easy",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=C9mLpI8Td9g",
       "published": "2026-08-12T23:01:55+00:00",
       "summary": "Lecture 9 — Stochastic Dynamic Programming, Value Iteration, and Policy Iteration\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com \n\nTo learn more about enrolling in AA203 Optimal and Learning-Based Control, visit: https://online.stanford.edu/courses/aa203-optimal-and-learning-based-control \n\nFollow along with the course schedule and syllabus: https://stanfordasl.github.io/aa203/sp2526/ \n\nLecture slides: https://stanfordasl.github.io/aa203/sp2526/pdfs/lecture/lecture_9.pdf \n\nSpeaker: Prof. Marco Pavone\n\nBio: Dr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n\nInstructors: \nProf. Marco Pavone, Associate Professor of Aeronautics and Astronautics, Director of Autonomous Vehicle Research at NVIDIA\n\nDr. Daniele Gammelli, Research Director at the Italian Institute of Artificial Intelligence (AI4I), Researcher at the Department of Aeronautics and Astronautics, Stanford University\n\nFull playlist: https://www.youtube.com/playlist?list=PLa9dmHsLK9dg\n\n#StanfordOnline #OptimalControl #Robotics #PhysicalAI\"",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=1YdgSwEtf_s",
       "published": "2026-08-12T22:46:03+00:00",
       "summary": "Lecture 8 — Nonlinearity: Tracking LQR, Iterative LQR, Differential Dynamic Programming\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com \n\nTo learn more about enrolling in AA203 Optimal and Learning-Based Control, visit: https://online.stanford.edu/courses/aa203-optimal-and-learning-based-control \n\nFollow along with the course schedule and syllabus: https://stanfordasl.github.io/aa203/sp2526/ \n\nLecture slides: https://stanfordasl.github.io/aa203/sp2526/pdfs/lecture/lecture_8.pdf \n\nSpeaker: Prof. Marco Pavone\n\nBio: Dr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n\nInstructors: \nProf. Marco Pavone, Associate Professor of Aeronautics and Astronautics, Director of Autonomous Vehicle Research at NVIDIA\n\nDr. Daniele Gammelli, Research Director at the Italian Institute of Artificial Intelligence (AI4I), Researcher at the Department of Aeronautics and Astronautics, Stanford University\n\nFull playlist: https://www.youtube.com/playlist?list=PLa9dmHsLK9dg\n\n#StanfordOnline #OptimalControl #Robotics #PhysicalAI",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -512,19 +538,6 @@
       "analysis": null
     },
     {
-      "video_id": "wAPDmc8e22U",
-      "title": "GPT-5.6 just made itself better...",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=wAPDmc8e22U",
-      "published": "2026-07-31T00:23:46+00:00",
-      "summary": "Sign up for a paid plan and get $500 in bonus credits. (For the first 500 people who sign up!) https://www.hyperagent.com/forwardfuture500\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/OpenAI/status/2082878156483219672\nhttps://artificialanalysis.ai/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "Xj-QdEUxJkE",
       "title": "Kimi K3 Just Broke The Economics Of AI",
       "channel": "Two Minute Papers",
@@ -649,19 +662,6 @@
       "url": "https://www.youtube.com/watch?v=qks6dGQFd_c",
       "published": "2026-07-01T05:23:54+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nGLM 5.2: https://z.ai/blog/glm-5.2\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "mG4SmhWyeFA",
-      "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
-      "channel": "Two Minute Papers",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
-      "published": "2026-06-22T15:53:06+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2602.21548\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n\n#deepseek",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
