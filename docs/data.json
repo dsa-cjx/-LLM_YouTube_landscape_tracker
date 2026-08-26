@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-26T12:48:53.875630+00:00",
+  "generated_at": "2026-08-26T19:46:10.115334+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
-      [
-        "Stanford Online",
-        15
-      ],
       [
         "Matthew Berman",
         15
       ],
       [
         "Two Minute Papers",
+        15
+      ],
+      [
+        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "2w7ZdceZT-g",
+      "title": "The Most Important Chart In AI Right Now",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=2w7ZdceZT-g",
+      "published": "2026-08-26T17:45:18+00:00",
+      "summary": "Connect Higgsfield yourself – 30 seconds: Settings → Connectors → https://higgsfield.ai/s/tSInNY\n\nSlides: https://cloud.box.com/s/xl26fdjfddql136vjuxypowq7ur0rdn8 \n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://artificialanalysis.ai/\nhttps://x.com/GavinSBaker/status/2091542026072338623\nhttps://x.com/ccatalini/status/2091556535461970065\nhttps://x.com/MatthewBerman/status/2091948325226660135",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "L9mMfAFwbl4",
+      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
+      "channel": "Two Minute Papers",
+      "channel_category": "AI Research",
+      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
+      "published": "2026-08-26T13:10:13+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek Harness + paper are available here:\nhttps://deepseek.com/harness/en/\nhttps://github.com/cordiverse/paper\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "ksRiHHCXfOM",
       "title": "Overview: Stanford CME295 Transformers and Large Language Models",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=rdYBjpylJUQ",
       "published": "2026-08-13T18:27:35+00:00",
       "summary": "Keep Up to Date 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.ai/news/grok-4-6",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=RtJSHiqOdgQ",
       "published": "2026-08-13T16:59:33+00:00",
       "summary": "Lecture 13 — Intro to Learning, System Identification, and Adaptive Control\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com \n\nTo learn more about enrolling in AA203 Optimal and Learning-Based Control, visit: https://online.stanford.edu/courses/aa203-optimal-and-learning-based-control \n\nFollow along with the course schedule and syllabus: https://stanfordasl.github.io/aa203/sp2526/ \n\nLecture slides: https://stanfordasl.github.io/aa203/sp2526/pdfs/lecture/lecture_3.pdf \n\nSpeaker: Dr. Daniele Gammelli\n\nBio: Dr. Daniele Gammelli is the Research Director of the Machine Intelligence for Robot Autonomy Laboratory at the Italian Institute of Artificial Intelligence (AI4I), and a Researcher in the Department of Aeronautics and Astronautics at Stanford University. Since 2022, he has been a Research Fellow at the Center for Aerospace Autonomy Research (CAESAR) at Stanford and, until 2025, at the Center for Automotive Research at Stanford (CARS). He received his Ph.D. in Machine Learning and Mathematical Optimization from the Technical University of Denmark (DTU) in 2022, where his doctoral thesis was nominated for the DTU Best Thesis of the Year Award and the DTU Young Researcher Award. Dr. Gammelli’s research focuses on developing the algorithmic foundations and system-level methodologies that enable AI-powered autonomous systems to operate safely, efficiently, and reliably in high-stakes environments, with an emphasis on aerospace autonomy and next-generation mobility systems.\n\nInstructors: \nProf. Marco Pavone, Associate Professor of Aeronautics and Astronautics, Director of Autonomous Vehicle Research at NVIDIA\n\nDr. Daniele Gammelli, Research Director at the Italian Institute of Artificial Intelligence (AI4I), Researcher at the Department of Aeronautics and Astronautics, Stanford University\n\nFull playlist: https://www.youtube.com/playlist?list=PLa9dmHsLK9dg\n\n#StanfordOnline #OptimalControl #Robotics #PhysicalAI",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -486,19 +512,6 @@
       "analysis": null
     },
     {
-      "video_id": "jGR8LnfVPbA",
-      "title": "Master Codex with these 15 Tips",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=jGR8LnfVPbA",
-      "published": "2026-08-05T18:44:08+00:00",
-      "summary": "Purchase through my link to get a 10% discount: https://shop.genspark.ai/s/matthewberman\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\n#SecondBrain #SecondBrainNote #Genspark\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\n0:00 Intro\n0:23 Browser use\n1:23 Computer use\n1:38 Voice mode\n2:34 ChatGPT sites\n3:45 Pins\n5:46 Model choice\n7:28 Scheduling tasks\n9:40 Plug ins\n10:32 Skills\n11:33 Goal\n13:41 Quota\n14:44 Thread delegation and search\n16:30 Environments & Connections",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "ppQh4Tc9BmM",
       "title": "The Billion Dollar AI Race Just Broke",
       "channel": "Two Minute Papers",
@@ -649,19 +662,6 @@
       "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
       "published": "2026-07-02T16:27:26+00:00",
       "summary": "Fable 5 (newly re-released) vs GPT 5.6 Sol, what comparisons can we unearth? Plus, Sonnet 5, a 5% equity seizure by US Govt, the ‘largest heist’, Beetlejuice and more…\n\n\n\nExclusive Vids in AI Insiders ($9!): https://www.patreon.com/AIExplained\n\n\nChapters:\n00:00 - Introduction\n01:06 - Fable Timeline\n02:59 - Sol Release?\n06:01 - the Chinese Angle\n07:35 - 5% Stake\n09:10 - Fable vs Sol - the numbers\n13:57 - Sol Misalignment\n15:27 - Claude Sonnet 5\n16:24 - GLM 5.2 + New Paper on Large Model Learning\n\nGPT 5.6 Sol Release: https://openai.com/index/previewing-gpt-5-6-sol/\nAltman on Concentrated Power: https://x.com/giacomomiolo/status/2070609506925478352\nSystem Card: https://deploymentsafety.openai.com/gpt-5-6-preview/gpt-5-6-preview.pdf\n\nGLM 5.2: https://www.patreon.com/AIExplained/posts/glm-5-2-and-nsa-161869508\n\nAltman Memo: https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns?rc=sy0ihq\n\nFable 5 Revised Timeline: https://www.anthropic.com/news/redeploying-fable-5\n\nClaude Sonnet 5: https://www.anthropic.com/news/claude-sonnet-5\n\nMythose 5 System Card: https://www-cdn.anthropic.com/9e6a1044980d8c4ed85669faf9c2a8342e2e9f1e/Claude%20Sonnet%205%20System%20Card.pdf\n\nAnthropic Accuse Alibaba Cloud / Qwen: https://www.bbc.co.uk/news/articles/cwyklykn5dwo\n\nBetelgeuse: https://upload.wikimedia.org/wikipedia/commons/6/69/Well_known_stars_2.png\n\nOpenAI 5%: https://edition.cnn.com/2026/07/02/business/openai-trump-stake-intl\n\nWhy Larger Models Learn More: https://arxiv.org/pdf/2605.29548\n\nPatreon Post: https://www.patreon.com/AIExplained/posts/glm-5-2-and-nsa-161869508\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "qks6dGQFd_c",
-      "title": "AI Just Entered A New Era",
-      "channel": "Two Minute Papers",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=qks6dGQFd_c",
-      "published": "2026-07-01T05:23:54+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nGLM 5.2: https://z.ai/blog/glm-5.2\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, Benji Rabhan, B Shang, Cameron Navor, Charles Ian Norman Venn, Christian Ahlin, Eric T, Fred R, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
