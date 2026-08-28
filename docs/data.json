@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T21:48:43.310269+00:00",
+  "generated_at": "2026-08-28T09:41:38.954563+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "8Ks0tMciDrc",
+      "title": "Vibe Coder VS IT Lead",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=8Ks0tMciDrc",
+      "published": "2026-08-28T00:00:15+00:00",
+      "summary": "Check out Superblocks: https://bit.ly/3UEuX1E \n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "z1ez0yWu1P4",
       "title": "This feels illegal...",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=zanXSI7zSws",
       "published": "2026-08-13T19:05:56+00:00",
       "summary": "Model-free Reinforcement Learning: Value-based Methods\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com \n\nTo learn more about enrolling in AA203 Optimal and Learning-Based Control, visit: https://online.stanford.edu/courses/aa203-optimal-and-learning-based-control \n\nFollow along with the course schedule and syllabus: https://stanfordasl.github.io/aa203/sp2526/ \n\nLecture slides: https://stanfordasl.github.io/aa203/sp2526/pdfs/lecture/lecture_4.pdf \n\nSpeaker: Dr. Daniele Gammelli\n\nBio: Dr. Daniele Gammelli is the Research Director of the Machine Intelligence for Robot Autonomy Laboratory at the Italian Institute of Artificial Intelligence (AI4I), and a Researcher in the Department of Aeronautics and Astronautics at Stanford University. Since 2022, he has been a Research Fellow at the Center for Aerospace Autonomy Research (CAESAR) at Stanford and, until 2025, at the Center for Automotive Research at Stanford (CARS). He received his Ph.D. in Machine Learning and Mathematical Optimization from the Technical University of Denmark (DTU) in 2022, where his doctoral thesis was nominated for the DTU Best Thesis of the Year Award and the DTU Young Researcher Award. Dr. Gammelli’s research focuses on developing the algorithmic foundations and system-level methodologies that enable AI-powered autonomous systems to operate safely, efficiently, and reliably in high-stakes environments, with an emphasis on aerospace autonomy and next-generation mobility systems.\n\nInstructors: \nProf. Marco Pavone, Associate Professor of Aeronautics and Astronautics, Director of Autonomous Vehicle Research at NVIDIA\n\nDr. Daniele Gammelli, Research Director at the Italian Institute of Artificial Intelligence (AI4I), Researcher at the Department of Aeronautics and Astronautics, Stanford University\n\nFull playlist: https://www.youtube.com/playlist?list=PLa9dmHsLK9dg\n\n#StanfordOnline #OptimalControl #Robotics #PhysicalAI",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -467,19 +480,6 @@
       "url": "https://www.youtube.com/watch?v=i_t-99u6pqw",
       "published": "2026-08-11T18:45:29+00:00",
       "summary": "ALWAYS use the Relay skill! It makes your big tasks cheaper AND faster, it's honestly a no-brainer. https://github.com/Forward-Future/relay\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "hZqJvWDI0Rs",
-      "title": "Mark Zuckerberg just called out Dario (and Anthropic)",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=hZqJvWDI0Rs",
-      "published": "2026-08-11T17:49:03+00:00",
-      "summary": "Check out Zapier MCP! https://bit.ly/4ceg6ku\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://www.meta.com/thefutureisforeveryone/\nhttps://www.inc.com/kevin-haynes/a-meta-employee-asked-for-more-time-off-cto-andrew-bosworth-called-the-question-very-dumb/91387314",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
