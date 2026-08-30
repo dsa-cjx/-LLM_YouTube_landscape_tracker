@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-29T20:27:11.851752+00:00",
+  "generated_at": "2026-08-30T03:47:51.327995+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "TOWXXhn7ctY",
+      "title": "Cancel your subscriptions, Ox-Alpha is here! (GLM 5.3 Flash)",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=TOWXXhn7ctY",
+      "published": "2026-08-29T22:56:38+00:00",
+      "summary": "Check out Higgsfield API: https://higgsfield.ai/s/TvYKkQ\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://z.ai/blog/glm-5.3-flash\nhttps://x.com/OpenRouter/status/2090544970923184269\nhttps://artificialanalysis.ai/\nhttps://x.com/SemiAnalysis_/status/2092623833630998556",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "ZlLV9ZHauAM",
       "title": "When AI Stops Being a Project: Turning Technology into Real Value for Patients and Providers",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
       "published": "2026-08-19T18:02:46+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nDeepSeek V4 Pro 0813:\nhttps://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813\n\nDSpark full episode: https://www.youtube.com/watch?v=1yBU41auQhw\n\nSources:\nhttps://x.com/cline/status/2087602193205694891\nhttps://x.com/TypingMindApp/status/2088214938754167263\nhttps://x.com/stevibe/status/2047546592530747561\nhttps://x.com/voidfreud/status/2087701887327887543\nhttps://x.com/exploraX_/status/2079197387860435360\nhttps://x.com/AiHubMix/status/2087869896483057758\nhttps://x.com/BruceBlue/status/2087833177155117304\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -298,19 +311,6 @@
       "url": "https://www.youtube.com/watch?v=1RTq_EWv2Yo",
       "published": "2026-08-17T19:07:56+00:00",
       "summary": "Use code MATTHEWB for 10% off: http://hostinger.com/matthewhermes\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nUnsloth https://github.com/unslothai/unsloth \nObsidian Skills https://github.com/kepano/obsidian-skills \nDiagram Design https://github.com/cathrynlavery/diagram-design \nBuzz https://github.com/block/buzz \nego lite https://github.com/citrolabs/ego-lite\nModly https://github.com/lightningpixel/modly\n\n0:00 Unsloth\n2:00 Diagram Design\n3:46 Obsidian Skills\n5:05 Buzz\n7:24 Ego Lite\n8:26 Modly",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "9qix4oDB5aw",
-      "title": "AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=9qix4oDB5aw",
-      "published": "2026-08-14T23:34:42+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nCheck out Alex: https://x.com/The_Alex\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 Intro\n0:18 ChatGPT Ultrafast\n3:09 Claude Watermarks\n6:23 xAI Cursor Acquisition\n7:10 Grok Bot\n8:25 GLM-5.3\n9:22 Deepseek-V4-Pro\n10:16 Muse Glimmer\n11:11 Chat-GPT History\n\nLinks:\nhttps://x.com/paulg/status/2088097078346162399?s=20\nhttps://x.com/cerebras/status/2087961128869748856\nhttps://openai.com/index/previewing-ultrafast/\nhttps://x.com/thsottiaux/status/2084483765158719542\nhttps://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content\nhttps://www.anthropic.com/news/claude-text-watermark\nhttps://x.com/cursor_ai/status/2088249881718919393\nhttps://x.com/SpaceXAI/status/2087562800982077492\nhttps://x.ai/bot\nhttps://x.com/Zai_org/status/2088132965922476159\nhttps://x.com/deepseek_ai/status/2087864585504305397\nhttps://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\nhttps://x.com/OpenAI/status/2087996496088297746\nhttps://x.com/The_Alex/status/2087010197604868158?s=20",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
