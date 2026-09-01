@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-01T16:06:23.029507+00:00",
+  "generated_at": "2026-09-01T20:35:46.963255+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
-      [
-        "Two Minute Papers",
-        15
-      ],
       [
         "Matthew Berman",
         15
       ],
       [
         "Stanford Online",
+        15
+      ],
+      [
+        "Two Minute Papers",
         15
       ],
       [
@@ -30,6 +30,45 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "U6Ie2br8lxs",
+      "title": "Cursor just got BANNED (It's because of Elon...)",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=U6Ie2br8lxs",
+      "published": "2026-09-01T17:46:33+00:00",
+      "summary": "Try Greptile Free for 14 days: https://www.greptile.com/go/berman/review\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "gULVLVMAuwo",
+      "title": "Overview: Business Opportunities and Applications of Generative AI",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=gULVLVMAuwo",
+      "published": "2026-09-01T17:31:19+00:00",
+      "summary": "Learn course details: \nhttps://online.stanford.edu/courses/xfm111-business-opportunities-and-applications-generative-ai\n\nBy the end of the course, Business Opportunities and Applications of Generative AI, you will have the skills and knowledge necessary to navigate the AI landscape and harness this powerful technology.\n\nWe have gathered some of the most distinguished experts in the field to bring you a conference-style learning experience exploring capabilities, limitations, strategy, innovation, deployment, applications, and the legal implications of generative AI. \n\nTake a quick look at the course.\n\nLearn details of our Generative AI: Technology, Business, and Society Program:\nhttps://online.stanford.edu/programs/generative-ai-technology-business-and-society-program",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "sFWEZ4B-uWU",
+      "title": "Course Overview - Business Opportunities and Applications of Generative AI",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=sFWEZ4B-uWU",
+      "published": "2026-09-01T17:18:12+00:00",
+      "summary": "Learn more and enroll in the course: https://online.stanford.edu/courses/xfm111-business-opportunities-and-applications-generative-ai\n\nGenerative AI has unlocked incredible opportunities for businesses and organizations. To fully leverage these possibilities and drive innovation, leaders must have a strong understanding of generative AI and its abilities. After completing this course, you will have the skills and knowledge necessary to navigate the AI landscape and harness this powerful technology.\n\nWe have gathered some of the most distinguished experts in the field to bring you a conference-style learning experience exploring capabilities, limitations, strategy, innovation, deployment, applications, and the legal implications of generative AI. Developed in collaboration with the Stanford Institute for Human-Centered Artificial Intelligence (HAI), this course will enable you to plan, execute, and use generative AI to improve performance while ensuring the human perspective remains at the forefront.\n\n- Analyze the capabilities and limitations of generative AI within an organizational context.\n- Identify opportunities for innovation and execute a successful generative AI strategy.\n- Utilize data and AI to improve people management and managerial decision-making.\n- Support successful frontline transformation and skill-development in AI-augmented workforces and organizations.\n- Explore different types of generative AI agents and their emerging applications in business.\n- Analyze the impact of AI on productivity and discuss the economic complexities of integrating AI into the workforce.\n- Apply practical techniques for driving human-AI collaboration and productivity in the workplace.\n- Evaluate the legal risks of generative AI and their implications for organizations.\n\nLearn details about the Generative AI: Technology, Business, and Society Program: \nhttps://online.stanford.edu/programs/generative-ai-technology-business-and-society-program",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "w9RDunJACkc",
       "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
@@ -259,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
       "published": "2026-08-24T16:48:40+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Qwen3.8-27b is available here:\nhttps://huggingface.co/Qwen/Qwen3.8-27B\n\nSources:\nhttps://www.reddit.com/r/unsloth/comments/1vogva0/share_your_results_from_qwen3827b/\nhttps://www.reddit.com/r/LocalLLaMA/comments/1voer8u/qwen_38_27b_aquarium_burst_sample_test/\nhttps://x.com/KyleHessling1/status/2088327667733180637\nhttps://www.reddit.com/r/LocalLLaMA/comments/1vqme4y/qwen3827b_q8_0_on_strix_halo_is_seriously/\nhttps://forums.developer.nvidia.com/t/qwen3-8-27b-nvfp4-on-a-single-dgx-spark-up-to-1m-context-vllm-mtp-measurements/380244\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=RUAtrbLa9Q0",
       "published": "2026-08-24T07:26:04+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=EsgXT6TGY9A",
       "published": "2026-08-20T21:05:55+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -311,19 +350,6 @@
       "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
       "published": "2026-08-19T18:02:46+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nDeepSeek V4 Pro 0813:\nhttps://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813\n\nDSpark full episode: https://www.youtube.com/watch?v=1yBU41auQhw\n\nSources:\nhttps://x.com/cline/status/2087602193205694891\nhttps://x.com/TypingMindApp/status/2088214938754167263\nhttps://x.com/stevibe/status/2047546592530747561\nhttps://x.com/voidfreud/status/2087701887327887543\nhttps://x.com/exploraX_/status/2079197387860435360\nhttps://x.com/AiHubMix/status/2087869896483057758\nhttps://x.com/BruceBlue/status/2087833177155117304\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "1RTq_EWv2Yo",
-      "title": "You NEED to try these 6 Open-Source Projects NOW",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=1RTq_EWv2Yo",
-      "published": "2026-08-17T19:07:56+00:00",
-      "summary": "Use code MATTHEWB for 10% off: http://hostinger.com/matthewhermes\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nUnsloth https://github.com/unslothai/unsloth \nObsidian Skills https://github.com/kepano/obsidian-skills \nDiagram Design https://github.com/cathrynlavery/diagram-design \nBuzz https://github.com/block/buzz \nego lite https://github.com/citrolabs/ego-lite\nModly https://github.com/lightningpixel/modly\n\n0:00 Unsloth\n2:00 Diagram Design\n3:46 Obsidian Skills\n5:05 Buzz\n7:24 Ego Lite\n8:26 Modly",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -480,32 +506,6 @@
       "url": "https://www.youtube.com/watch?v=C9mLpI8Td9g",
       "published": "2026-08-12T23:01:55+00:00",
       "summary": "Lecture 9 — Stochastic Dynamic Programming, Value Iteration, and Policy Iteration\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com \n\nTo learn more about enrolling in AA203 Optimal and Learning-Based Control, visit: https://online.stanford.edu/courses/aa203-optimal-and-learning-based-control \n\nFollow along with the course schedule and syllabus: https://stanfordasl.github.io/aa203/sp2526/ \n\nLecture slides: https://stanfordasl.github.io/aa203/sp2526/pdfs/lecture/lecture_9.pdf \n\nSpeaker: Prof. Marco Pavone\n\nBio: Dr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n\nInstructors: \nProf. Marco Pavone, Associate Professor of Aeronautics and Astronautics, Director of Autonomous Vehicle Research at NVIDIA\n\nDr. Daniele Gammelli, Research Director at the Italian Institute of Artificial Intelligence (AI4I), Researcher at the Department of Aeronautics and Astronautics, Stanford University\n\nFull playlist: https://www.youtube.com/playlist?list=PLa9dmHsLK9dg\n\n#StanfordOnline #OptimalControl #Robotics #PhysicalAI\"",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "1YdgSwEtf_s",
-      "title": "AStanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 8: LQR-Style Algorithms",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=1YdgSwEtf_s",
-      "published": "2026-08-12T22:46:03+00:00",
-      "summary": "Lecture 8 — Nonlinearity: Tracking LQR, Iterative LQR, Differential Dynamic Programming\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com \n\nTo learn more about enrolling in AA203 Optimal and Learning-Based Control, visit: https://online.stanford.edu/courses/aa203-optimal-and-learning-based-control \n\nFollow along with the course schedule and syllabus: https://stanfordasl.github.io/aa203/sp2526/ \n\nLecture slides: https://stanfordasl.github.io/aa203/sp2526/pdfs/lecture/lecture_8.pdf \n\nSpeaker: Prof. Marco Pavone\n\nBio: Dr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n\nInstructors: \nProf. Marco Pavone, Associate Professor of Aeronautics and Astronautics, Director of Autonomous Vehicle Research at NVIDIA\n\nDr. Daniele Gammelli, Research Director at the Italian Institute of Artificial Intelligence (AI4I), Researcher at the Department of Aeronautics and Astronautics, Stanford University\n\nFull playlist: https://www.youtube.com/playlist?list=PLa9dmHsLK9dg\n\n#StanfordOnline #OptimalControl #Robotics #PhysicalAI",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "hy-e9g4nugE",
-      "title": "Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 7: Dynamic Programming",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=hy-e9g4nugE",
-      "published": "2026-08-12T22:41:08+00:00",
-      "summary": "Lecture 7 — Dynamic Programming and Discrete-Time LQR\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com \n\nTo learn more about enrolling in AA203 Optimal and Learning-Based Control, visit: https://online.stanford.edu/courses/aa203-optimal-and-learning-based-control \n\nFollow along with the course schedule and syllabus: https://stanfordasl.github.io/aa203/sp2526/ \n\nLecture slides: https://stanfordasl.github.io/aa203/sp2526/pdfs/lecture/lecture_7.pdf \n\nSpeaker: Prof. Marco Pavone\n\nBio: Dr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n\nInstructors: \nProf. Marco Pavone, Associate Professor of Aeronautics and Astronautics, Director of Autonomous Vehicle Research at NVIDIA\n\nDr. Daniele Gammelli, Research Director at the Italian Institute of Artificial Intelligence (AI4I), Researcher at the Department of Aeronautics and Astronautics, Stanford University\n\nFull playlist: https://www.youtube.com/playlist?list=PLa9dmHsLK9dg\n\n#StanfordOnline #OptimalControl #Robotics #PhysicalAI",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
