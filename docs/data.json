@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-03T15:49:47.969415+00:00",
+  "generated_at": "2026-09-03T20:32:28.149658+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
-      [
-        "Two Minute Papers",
-        15
-      ],
       [
         "Matthew Berman",
         15
       ],
       [
         "Stanford Online",
+        15
+      ],
+      [
+        "Two Minute Papers",
         15
       ],
       [
@@ -30,6 +30,58 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "AnxsdyKH-QQ",
+      "title": "GPT-6 is HERE!",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=AnxsdyKH-QQ",
+      "published": "2026-09-03T19:42:37+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "9xa7RTC5pzo",
+      "title": "GPT-6 IS HERE!!! (ASTRA)",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=9xa7RTC5pzo",
+      "published": "2026-09-03T19:33:32+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "xdXLzFzxA9Q",
+      "title": "ASTRA IS HERE (GPT-6 RELEASED)",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=xdXLzFzxA9Q",
+      "published": "2026-09-03T19:32:50+00:00",
+      "summary": "Tell your agent to use this: https://here.now/r/matthewberman\n\nCheck out the full GPT-6 Review: https://signals.forwardfuture.com/astra-review/\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 Intro\n0:30 Benchmarks\n2:45 From the Blog\n6:01 Little Planet\n7:38 Sponsor\n8:11 Ratstronaut\n8:48 7 Islands\n9:22 ASCII City\n9:59 Sim City\n11:46 Browser Use\n12:55 Critiques",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "k2oGY54IN58",
+      "title": "Post-Training Techniques: How LLMs Learn to Follow Instructions",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=k2oGY54IN58",
+      "published": "2026-09-03T19:06:59+00:00",
+      "summary": "CME295 Transformers and Large Language Models is open for enrollment until September 6. Learn more: https://online.stanford.edu/courses/cme295-transformers-and-large-language-models\n\nA pretrained LLM is good at predicting text — but that's not the same as following instructions well. Stanford Adjunct Professors Shervine and Afshine Amidi walk through the techniques that close that gap: fine-tuning, reinforcement learning, preference optimization, verifier-guided training, and distillation.\n\nCME296 Diffusion and Large Vision Models will be available in Spring 2027. Learn more about that course here: https://online.stanford.edu/courses/cme296-diffusion-and-large-vision-models\n\n#PostTraining #LLM #Transformers #AI #MachineLearning #ReinforcementLearning #OnlineCourses",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "B3LXEW4Pc-w",
       "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
@@ -246,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=AUxu-8tYLXo",
       "published": "2026-08-28T18:47:20+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -259,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=VN9Hs9w61sk",
       "published": "2026-08-28T15:25:46+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
       "published": "2026-08-28T09:44:44+00:00",
       "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper and Qwen3.8-Flash-Next are available here:\nhttps://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf\nhttps://qwen.ai/blog?id=qwen3.8-flash-next\n\nSources:\nhttps://x.com/analogalok/status/2092697021790708148\nhttps://www.reddit.com/r/unsloth/comments/1vzf6j7/mind_blowing_qwen38flashnext_rtx_3090_128ddr5\nhttps://www.reddit.com/r/LocalLLM/comments/1vz1w00/first_gif_cooked_by_qwen38flashnext\nhttps://x.com/analogalok/status/2092781954529903078/video/1\nhttps://x.com/loktar00/status/2092719895729324224/video/1\n\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +337,7 @@
       "url": "https://www.youtube.com/watch?v=8Ks0tMciDrc",
       "published": "2026-08-28T00:00:15+00:00",
       "summary": "Check out Superblocks: https://bit.ly/3UEuX1E \n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -330,19 +382,6 @@
       "analysis": null
     },
     {
-      "video_id": "2w7ZdceZT-g",
-      "title": "The Most Important Chart In AI Right Now",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=2w7ZdceZT-g",
-      "published": "2026-08-26T17:45:18+00:00",
-      "summary": "Connect Higgsfield yourself – 30 seconds: Settings → Connectors → https://higgsfield.ai/s/tSInNY\n\nSlides: https://cloud.box.com/s/xl26fdjfddql136vjuxypowq7ur0rdn8 \n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://artificialanalysis.ai/\nhttps://x.com/GavinSBaker/status/2091542026072338623\nhttps://x.com/ccatalini/status/2091556535461970065\nhttps://x.com/MatthewBerman/status/2091948325226660135",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "L9mMfAFwbl4",
       "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
       "channel": "Two Minute Papers",
@@ -363,32 +402,6 @@
       "url": "https://www.youtube.com/watch?v=ksRiHHCXfOM",
       "published": "2026-08-25T23:47:43+00:00",
       "summary": "Autumn enrollment for graduate courses is open now and ends September 6, 2026. What will you learn this quarter?\n\nEnroll in CME295 Transformers and Large Language Models:\nhttps://online.stanford.edu/courses/cme295-transformers-and-large-language-models\n\nTeaching Team:\nAfshine Amidi\nAdjunct Professor, Computational & Mathematical Engineering\n\nShervine Amidi\nAdjunct Professor, Computational & Mathematical Engineering\n\nFor more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "KpH-VLrcoQI",
-      "title": "Your Mac can get a job",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=KpH-VLrcoQI",
-      "published": "2026-08-25T19:44:59+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "81TlmeCIDWA",
-      "title": "AI, AGI, and ASI",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=81TlmeCIDWA",
-      "published": "2026-08-25T08:01:35+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -506,19 +519,6 @@
       "url": "https://www.youtube.com/watch?v=7YdOx-ih0II",
       "published": "2026-08-13T18:45:03+00:00",
       "summary": "Lecture 14 — Intro to Imitation Learning and Reinforcement Learning\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com \n\nTo learn more about enrolling in AA203 Optimal and Learning-Based Control, visit: https://online.stanford.edu/courses/aa203-optimal-and-learning-based-control \n\nFollow along with the course schedule and syllabus: https://stanfordasl.github.io/aa203/sp2526/ \n\nLecture slides: https://stanfordasl.github.io/aa203/sp2526/pdfs/lecture/lecture_4.pdf \n\nSpeaker: Dr. Daniele Gammelli\n\nBio: Dr. Daniele Gammelli is the Research Director of the Machine Intelligence for Robot Autonomy Laboratory at the Italian Institute of Artificial Intelligence (AI4I), and a Researcher in the Department of Aeronautics and Astronautics at Stanford University. Since 2022, he has been a Research Fellow at the Center for Aerospace Autonomy Research (CAESAR) at Stanford and, until 2025, at the Center for Automotive Research at Stanford (CARS). He received his Ph.D. in Machine Learning and Mathematical Optimization from the Technical University of Denmark (DTU) in 2022, where his doctoral thesis was nominated for the DTU Best Thesis of the Year Award and the DTU Young Researcher Award. Dr. Gammelli’s research focuses on developing the algorithmic foundations and system-level methodologies that enable AI-powered autonomous systems to operate safely, efficiently, and reliably in high-stakes environments, with an emphasis on aerospace autonomy and next-generation mobility systems.\n\nInstructors: \nProf. Marco Pavone, Associate Professor of Aeronautics and Astronautics, Director of Autonomous Vehicle Research at NVIDIA\n\nDr. Daniele Gammelli, Research Director at the Italian Institute of Artificial Intelligence (AI4I), Researcher at the Department of Aeronautics and Astronautics, Stanford University\n\nFull playlist: https://www.youtube.com/playlist?list=PLa9dmHsLK9dg\n\n#StanfordOnline #OptimalControl #Robotics #PhysicalAI",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "RtJSHiqOdgQ",
-      "title": "Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 13: Intro to Learning",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=RtJSHiqOdgQ",
-      "published": "2026-08-13T16:59:33+00:00",
-      "summary": "Lecture 13 — Intro to Learning, System Identification, and Adaptive Control\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com \n\nTo learn more about enrolling in AA203 Optimal and Learning-Based Control, visit: https://online.stanford.edu/courses/aa203-optimal-and-learning-based-control \n\nFollow along with the course schedule and syllabus: https://stanfordasl.github.io/aa203/sp2526/ \n\nLecture slides: https://stanfordasl.github.io/aa203/sp2526/pdfs/lecture/lecture_3.pdf \n\nSpeaker: Dr. Daniele Gammelli\n\nBio: Dr. Daniele Gammelli is the Research Director of the Machine Intelligence for Robot Autonomy Laboratory at the Italian Institute of Artificial Intelligence (AI4I), and a Researcher in the Department of Aeronautics and Astronautics at Stanford University. Since 2022, he has been a Research Fellow at the Center for Aerospace Autonomy Research (CAESAR) at Stanford and, until 2025, at the Center for Automotive Research at Stanford (CARS). He received his Ph.D. in Machine Learning and Mathematical Optimization from the Technical University of Denmark (DTU) in 2022, where his doctoral thesis was nominated for the DTU Best Thesis of the Year Award and the DTU Young Researcher Award. Dr. Gammelli’s research focuses on developing the algorithmic foundations and system-level methodologies that enable AI-powered autonomous systems to operate safely, efficiently, and reliably in high-stakes environments, with an emphasis on aerospace autonomy and next-generation mobility systems.\n\nInstructors: \nProf. Marco Pavone, Associate Professor of Aeronautics and Astronautics, Director of Autonomous Vehicle Research at NVIDIA\n\nDr. Daniele Gammelli, Research Director at the Italian Institute of Artificial Intelligence (AI4I), Researcher at the Department of Aeronautics and Astronautics, Stanford University\n\nFull playlist: https://www.youtube.com/playlist?list=PLa9dmHsLK9dg\n\n#StanfordOnline #OptimalControl #Robotics #PhysicalAI",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
