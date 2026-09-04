@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-04T15:48:01.290254+00:00",
+  "generated_at": "2026-09-04T20:18:41.958424+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Matthew Berman",
+        15
+      ],
       [
         "Stanford Online",
         15
       ],
       [
         "AI Explained",
-        15
-      ],
-      [
-        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "ZTgFyP0PZJo",
+      "title": "I've had early access to Astra... it's INSANE",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=ZTgFyP0PZJo",
+      "published": "2026-09-04T19:03:51+00:00",
+      "summary": "Astra will be available soon in Box AI: https://bit.ly/4gOJnE2\n\nCheck out the full GPT-6 Review: https://signals.forwardfuture.com/astra-review/\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "KU6DcnEC93A",
+      "title": "3 Things to Try With GPT-6 Astra",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=KU6DcnEC93A",
+      "published": "2026-09-04T18:04:13+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "6NjVnSxJCTY",
       "title": "Can LLMs Actually Do Things? (Not Just Talk)",
@@ -63,7 +89,7 @@
       "channel_category": "Education",
       "url": "https://www.youtube.com/watch?v=gToAPOlQwBk",
       "published": "2026-09-03T21:50:33+00:00",
-      "summary": "The people who trained PaLM and Gemini are teaching you to build AI agents.\n\nOur Agentic AI course brings you the same graduate curriculum taught on campus in CS329A, adapted for working professionals. Learn to design, build, and deploy intelligent AI agents.\n\nYour instructors:\nDr. Aakanksha Chowdhery, Adjunct Professor, Stanford Engineering: led end-to-end training of the 540B PaLM model, the largest densely trained language model in the world at the time, and drove pre-training and scaling of Gemini's mixture-of-experts models.\n\nAzalia Mirhoseini, Assistant Professor of Computer Science, Stanford: co-developed the MoE architectures now used in nearly every frontier model, created AlphaChip (the RL method behind Google's TPU designs), and pioneered LLM test-time scaling. She worked on both Claude and Gemini.\n\nWhat you'll learn:\n• Design agentic systems for complex, multi-step real-world tasks\n• Apply test-time scaling to boost LLM performance\n• Use self-improvement methods like verifiers, feedback loops, RL, and search\n• Build agents that use tools and take actions effectively\n• Add retrieval, long-term memory, and multi-step planning\n• Evaluate agent performance with robust frameworks\n\nIncluded: 90 days of access, optional live sessions every six weeks with guest speakers and course facilitators, a peer discussion forum, and coding assignments. Conclude the course by building a small-scale AI agent.\n\nEnroll: https://bit.ly/4ibiUCX",
+      "summary": "The people who trained PaLM and Gemini are teaching you to build AI agents.\n\nOur Agentic AI course brings you the same graduate curriculum taught on campus in CS329A, adapted for working professionals. \n\nYour instructors:\nDr. Aakanksha Chowdhery, Adjunct Professor, Stanford Engineering: led end-to-end training of the 540B PaLM model, the largest densely trained language model in the world at the time, and drove pre-training and scaling of Gemini's mixture-of-experts models.\n\nAzalia Mirhoseini, Assistant Professor of Computer Science, Stanford: co-developed the MoE architectures now used in nearly every frontier model, created AlphaChip (the RL method behind Google's TPU designs), and pioneered LLM test-time scaling. She worked on both Claude and Gemini.\n\nWhat you'll learn:\n• Design agentic systems for complex, multi-step real-world tasks\n• Apply test-time scaling to boost LLM performance\n• Use self-improvement methods like verifiers, feedback loops, RL, and search\n• Build agents that use tools and take actions effectively\n• Add retrieval, long-term memory, and multi-step planning\n• Evaluate agent performance with robust frameworks\n\nIncluded: 90 days of access, optional live sessions every six weeks with guest speakers and course facilitators, a peer discussion forum, and coding assignments. Conclude the course by building a small-scale AI agent.",
       "transcript_status": "error",
       "transcript_language": null,
       "analysis_status": null,
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=gULVLVMAuwo",
       "published": "2026-09-01T17:31:19+00:00",
       "summary": "Learn course details: \nhttps://online.stanford.edu/courses/xfm111-business-opportunities-and-applications-generative-ai\n\nBy the end of the course, Business Opportunities and Applications of Generative AI, you will have the skills and knowledge necessary to navigate the AI landscape and harness this powerful technology.\n\nWe have gathered some of the most distinguished experts in the field to bring you a conference-style learning experience exploring capabilities, limitations, strategy, innovation, deployment, applications, and the legal implications of generative AI. \n\nTake a quick look at the course.\n\nLearn details of our Generative AI: Technology, Business, and Society Program:\nhttps://online.stanford.edu/programs/generative-ai-technology-business-and-society-program",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=sFWEZ4B-uWU",
       "published": "2026-09-01T17:18:12+00:00",
       "summary": "Learn more and enroll in the course: https://online.stanford.edu/courses/xfm111-business-opportunities-and-applications-generative-ai\n\nGenerative AI has unlocked incredible opportunities for businesses and organizations. To fully leverage these possibilities and drive innovation, leaders must have a strong understanding of generative AI and its abilities. After completing this course, you will have the skills and knowledge necessary to navigate the AI landscape and harness this powerful technology.\n\nWe have gathered some of the most distinguished experts in the field to bring you a conference-style learning experience exploring capabilities, limitations, strategy, innovation, deployment, applications, and the legal implications of generative AI. Developed in collaboration with the Stanford Institute for Human-Centered Artificial Intelligence (HAI), this course will enable you to plan, execute, and use generative AI to improve performance while ensuring the human perspective remains at the forefront.\n\n- Analyze the capabilities and limitations of generative AI within an organizational context.\n- Identify opportunities for innovation and execute a successful generative AI strategy.\n- Utilize data and AI to improve people management and managerial decision-making.\n- Support successful frontline transformation and skill-development in AI-augmented workforces and organizations.\n- Explore different types of generative AI agents and their emerging applications in business.\n- Analyze the impact of AI on productivity and discuss the economic complexities of integrating AI into the workforce.\n- Apply practical techniques for driving human-AI collaboration and productivity in the workplace.\n- Evaluate the legal risks of generative AI and their implications for organizations.\n\nLearn details about the Generative AI: Technology, Business, and Society Program: \nhttps://online.stanford.edu/programs/generative-ai-technology-business-and-society-program",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -376,32 +402,6 @@
       "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
       "published": "2026-08-28T09:44:44+00:00",
       "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper and Qwen3.8-Flash-Next are available here:\nhttps://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf\nhttps://qwen.ai/blog?id=qwen3.8-flash-next\n\nSources:\nhttps://x.com/analogalok/status/2092697021790708148\nhttps://www.reddit.com/r/unsloth/comments/1vzf6j7/mind_blowing_qwen38flashnext_rtx_3090_128ddr5\nhttps://www.reddit.com/r/LocalLLM/comments/1vz1w00/first_gif_cooked_by_qwen38flashnext\nhttps://x.com/analogalok/status/2092781954529903078/video/1\nhttps://x.com/loktar00/status/2092719895729324224/video/1\n\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "8Ks0tMciDrc",
-      "title": "Vibe Coder VS IT Lead",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=8Ks0tMciDrc",
-      "published": "2026-08-28T00:00:15+00:00",
-      "summary": "Check out Superblocks: https://bit.ly/3UEuX1E \n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "z1ez0yWu1P4",
-      "title": "This feels illegal...",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=z1ez0yWu1P4",
-      "published": "2026-08-27T21:12:42+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://www.darkbloom.dev/",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
