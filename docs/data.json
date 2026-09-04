@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T10:38:37.709116+00:00",
+  "generated_at": "2026-09-04T15:48:01.290254+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -9,15 +9,15 @@
         15
       ],
       [
+        "AI Explained",
+        15
+      ],
+      [
         "Matthew Berman",
         15
       ],
       [
         "Two Minute Papers",
-        15
-      ],
-      [
-        "AI Explained",
         15
       ],
       [
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "6NjVnSxJCTY",
+      "title": "Can LLMs Actually Do Things? (Not Just Talk)",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=6NjVnSxJCTY",
+      "published": "2026-09-04T15:00:12+00:00",
+      "summary": "CME295 Transformers and Large Language Models is open for enrollment until September 6. Learn more: https://online.stanford.edu/courses/cme295-transformers-and-large-language-models\n\nLLMs can understand and generate text. But can they actually do things — plan, use tools, adapt when a step fails?\n\nStanford Adjunct Professors Shervine and Afshine Amidi explain what actually makes an AI system an \"agent,\" presenting the open question: how do you evaluate whether one is working?\n\n#AIAgents #LLM #Transformers #StanfordOnline #AI #MachineLearning #Shorts",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "Spuza-KwTJ4",
+      "title": "GPT 6 Astra, so good even OpenAI are worried",
+      "channel": "AI Explained",
+      "channel_category": "AI Analysis",
+      "url": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
+      "published": "2026-09-04T11:37:27+00:00",
+      "summary": "Where to start? A new era of cost-efficient AI on a day benchmark-makers got humbled, traders got excited, and AI safety researchers got unnerved. From monitorability losing hold of GPT-6 Astra’s chains of thought to breakthrough discoveries, Fable-mogging and much more…\n\nExclusive Vids ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:53 - vs Fable\n05:27 - most impressive results\n13:06 - bonus comparisons (plus trading)\n18:40 - concerning trend\n21:24 - Cot Control\n\nGPT-6: https://openai.com/index/gpt-6-astra/\nPaper: https://deploymentsafety.openai.com/gpt-6-astra/gpt-6-astra.pdf\n\nLooped Transformers and AGI Milestone: https://www.patreon.com/AIExplained/posts/breakthrough-and-168513408\n\nMessy Rollout: https://x.com/sama/status/2095678759651438887\nMuch More Capable Models Coming: https://x.com/MTSlive/status/2095573400899170592\n‘AGI Era’ https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release\n\nARC-AGI 3: https://x.com/fchollet/status/2095598451115614371\nhttps://x.com/fchollet/status/2095607046129463577\nhttps://arcprize.org/blog/astra\n\nFrontierMath: https://epoch.ai/frontiermath/tiers-1-4/about\nDiscovery: https://x.com/jdlichtman/status/2095660916310483087\n\nFable 5.1: https://www.anthropic.com/claude-fable-and-mythos-5-1\nhttps://science-task-lens.aiex.chatgpt.site/securebio\nAgents Last Exam: https://agents-last-exam.org/\nTerminal Bench Science: https://github.com/harbor-framework/terminal-bench-science#task-coverage\nSRE Bench: https://x.com/ValsAI/status/2087682813743317396\nScreenSpot Pro: https://arxiv.org/pdf/2504.07981\nWeathernext 3: https://www.youtube.com/watch?v=_6jZlnRsXXQ\nDayBreak: https://x.com/fouadmatin/status/2095634888951250983\nAA Index: https://artificialanalysis.ai/evaluations/gdpval-aa\n\nVisual Demos: https://x.com/mattshumer_/status/2095609734845927525\nhttps://x.com/codestantine/status/2095598327115260368\nhttps://x.com/SahilExec/status/2095688272269984016\n\nMonitorability: https://x.com/NeelNanda5/status/2095533397297045716\nhttps://x.com/tomekkorbak/status/2095596848581071020\nhttps://x.com/Marcus_J_W/status/2095623593006686475\nhttps://x.com/MicahCarroll/status/2095603855316996529\nNot Accept Degradation: https://www.nbcnews.com/tech/tech-news/openai-debuts-gpt-6-astra-security-measures-rcna595940\n\nRSI: https://x.com/LiuZuxin/status/2095600499911446697\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "gToAPOlQwBk",
       "title": "New Stanford Course: Agentic AI",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
       "published": "2026-09-01T09:04:56+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 GLM 5.3 Flash:\nhttps://z.ai/blog/glm-5.3-flash\n\nSources:\nhttps://x.com/louszbd/status/2092694163104113016\nhttps://x.com/semianalysis_/status/2092623833630998556\nhttps://x.com/skalskip92/status/2092748209802154201\nhttps://x.com/louszbd/status/2093047548550525165\nhttps://x.com/atomic_chat_hq/status/2093433913238552712\nhttps://x.com/holytrinity/status/2094093933584257334\nhttps://x.com/KinasRemek/status/2090081611832295581/video/1\nhttps://x.com/AiXsatoshi/status/2093679264013181119/video/1\nhttps://x.com/AiXsatoshi/status/2093353322921263389/video/1\nhttps://x.com/stevibe/status/2092655031040565252\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=TOWXXhn7ctY",
       "published": "2026-08-29T22:56:38+00:00",
       "summary": "Check out Higgsfield API: https://higgsfield.ai/s/TvYKkQ\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://z.ai/blog/glm-5.3-flash\nhttps://x.com/OpenRouter/status/2090544970923184269\nhttps://artificialanalysis.ai/\nhttps://x.com/SemiAnalysis_/status/2092623833630998556",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -506,19 +532,6 @@
       "url": "https://www.youtube.com/watch?v=cqPbt3OfRK4",
       "published": "2026-08-13T19:02:03+00:00",
       "summary": "Lecture 16 — Fundamentals of Reinforcement Learning\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com \n\nTo learn more about enrolling in AA203 Optimal and Learning-Based Control, visit: https://online.stanford.edu/courses/aa203-optimal-and-learning-based-control \n\nFollow along with the course schedule and syllabus: https://stanfordasl.github.io/aa203/sp2526/ \n\nLecture slides: https://stanfordasl.github.io/aa203/sp2526/pdfs/lecture/lecture_4.pdf \n\nSpeaker: Dr. Daniele Gammelli\n\nBio: Dr. Daniele Gammelli is the Research Director of the Machine Intelligence for Robot Autonomy Laboratory at the Italian Institute of Artificial Intelligence (AI4I), and a Researcher in the Department of Aeronautics and Astronautics at Stanford University. Since 2022, he has been a Research Fellow at the Center for Aerospace Autonomy Research (CAESAR) at Stanford and, until 2025, at the Center for Automotive Research at Stanford (CARS). He received his Ph.D. in Machine Learning and Mathematical Optimization from the Technical University of Denmark (DTU) in 2022, where his doctoral thesis was nominated for the DTU Best Thesis of the Year Award and the DTU Young Researcher Award. Dr. Gammelli’s research focuses on developing the algorithmic foundations and system-level methodologies that enable AI-powered autonomous systems to operate safely, efficiently, and reliably in high-stakes environments, with an emphasis on aerospace autonomy and next-generation mobility systems.\n\nInstructors: \nProf. Marco Pavone, Associate Professor of Aeronautics and Astronautics, Director of Autonomous Vehicle Research at NVIDIA\n\nDr. Daniele Gammelli, Research Director at the Italian Institute of Artificial Intelligence (AI4I), Researcher at the Department of Aeronautics and Astronautics, Stanford University\n\nFull playlist: https://www.youtube.com/playlist?list=PLa9dmHsLK9dg\n\n#StanfordOnline #OptimalControl #Robotics #PhysicalAI",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "udHX5Auj7ik",
-      "title": "Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 15: Imitation Learning",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=udHX5Auj7ik",
-      "published": "2026-08-13T18:49:32+00:00",
-      "summary": "Lecture 15 — Imitation Learning\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com \n\nTo learn more about enrolling in AA203 Optimal and Learning-Based Control, visit: https://online.stanford.edu/courses/aa203-optimal-and-learning-based-control \n\nFollow along with the course schedule and syllabus: https://stanfordasl.github.io/aa203/sp2526/ \n\nLecture slides: https://stanfordasl.github.io/aa203/sp2526/pdfs/lecture/lecture_4.pdf \n\nSpeaker: Dr. Daniele Gammelli\n\nBio: Dr. Daniele Gammelli is the Research Director of the Machine Intelligence for Robot Autonomy Laboratory at the Italian Institute of Artificial Intelligence (AI4I), and a Researcher in the Department of Aeronautics and Astronautics at Stanford University. Since 2022, he has been a Research Fellow at the Center for Aerospace Autonomy Research (CAESAR) at Stanford and, until 2025, at the Center for Automotive Research at Stanford (CARS). He received his Ph.D. in Machine Learning and Mathematical Optimization from the Technical University of Denmark (DTU) in 2022, where his doctoral thesis was nominated for the DTU Best Thesis of the Year Award and the DTU Young Researcher Award. Dr. Gammelli’s research focuses on developing the algorithmic foundations and system-level methodologies that enable AI-powered autonomous systems to operate safely, efficiently, and reliably in high-stakes environments, with an emphasis on aerospace autonomy and next-generation mobility systems.\n\nInstructors: \nProf. Marco Pavone, Associate Professor of Aeronautics and Astronautics, Director of Autonomous Vehicle Research at NVIDIA\n\nDr. Daniele Gammelli, Research Director at the Italian Institute of Artificial Intelligence (AI4I), Researcher at the Department of Aeronautics and Astronautics, Stanford University\n\nFull playlist: https://www.youtube.com/playlist?list=PLa9dmHsLK9dg\n\n#StanfordOnline #OptimalControl #Robotics #PhysicalAI",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -805,19 +818,6 @@
       "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
       "published": "2026-03-06T16:25:26+00:00",
       "summary": "Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4 Thinking, so either their is an imminent singularity or perhaps we are being distracted from other news. This video will give 9 crucial bits of context, not just on the GPT 5.4 drop but on the background to the meltdown between the Pentagon and Anthropic. What does this say about the state of AI progress, your job, and what is next.\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for 15% off paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:06: GPT 5.4 Breakdown\n05:06 - Closing the Loop\n06:35 - Spiky Performance\n10:31 - Advice\n11:32 - Less Encouraging Developments - Fired Like Dogs\n17:45 - But Used in Iran\n\n\nGPT 5.4: https://openai.com/index/introducing-gpt-5-4/\n\nHallucinations: https://artificialanalysis.ai/evaluations/omniscience\nInvestment Banking Bench: https://x.com/bradlightcap/status/2029684672343728452\nMove 37: https://x.com/nasqret/status/2029628846518010099\nSystem Card: https://deploymentsafety.openai.com/gpt-5-4-thinking/gpt-5-4-thinking.pdf\n\nPrediction Market Scandal: https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/\n\n\nGPT 5.3 Instant: https://openai.com/index/gpt-5-3-instant/\n\nGDPVal: https://openai.com/index/gdpval/\n\nClaude in Iran: https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign\n\n‘Like Dogs’: https://x.com/AndrewCurran_/status/2029605783311470679\n\nAltman leak: https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html\n\nOriginal 2024 Switch: https://archive.fo/20240116172526/https://www.bloomberg.com/news/articles/2024-01-16/openai-working-with-us-military-on-cybersecurity-tools-for-veterans#selection-6173.83-6173.226\n\nAmodei Original Memo: https://www.theinformation.com/articles/read-anthropic-ceos-memo-attacking-openais-mendacious-pentagon-announcement?rc=sy0ihq\nAnthropic Apology: https://www.anthropic.com/news/where-stand-department-war\nOpenAI Employee Reaction: https://x.com/tszzl/status/2029334980481212820\n\nDoD Suppler Risk: https://www.cnbc.com/amp/2026/03/05/anthropic-pentagon-ai-claude-iran.html\nAtlantic Exclusive: https://archive.fo/20260301152646/https://www.theatlantic.com/technology/2026/03/inside-anthropics-killer-robot-dispute-with-the-pentagon/686200/#selection-941.61-941.212\nNo Negotiation: https://x.com/USWREMichael/status/2029754965778907493\n\n$20B Doubling: https://archive.ph/20260304111124/https://www.bloomberg.com/news/articles/2026-03-03/anthropic-nears-20-billion-revenue-run-rate-amid-pentagon-feud\n\nMarch 2022 Interview: https://www.youtube.com/watch?v=uAA6PZkek4A\n\nhttps://lmcouncil.ai/\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "Cru804JMjPI",
-      "title": "Deadline Day for Autonomous AI Weapons & Mass Surveillance",
-      "channel": "AI Explained",
-      "channel_category": "AI Analysis",
-      "url": "https://www.youtube.com/watch?v=Cru804JMjPI",
-      "published": "2026-02-27T14:57:29+00:00",
-      "summary": "Will Anthropic be forced to make a version of Claude for war? And does a new paper expose the risks of Claude agents, in both OpenClaw and the field of war? Plus, 5 more twists in the story of the Pentagon versus Anthropic + some AI lab employees, and a petition that could change everything, or nothing...\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:44 - Deadline Day + Petition\n02:42 - Twist 1: Existing Deal\n03:26 - Twist 2: Existing Policy\n04:21 - Twist 3: Twin Threats\n05:54 - Twist 4: Interesting Objections\n11:32 - Twist 5: Anthropic’s Dropped Policy\n\n\nDario Statement: https://www.anthropic.com/news/statement-department-of-war\n\nGoogle/OpenAI Petition: https://notdivided.org/\n\nAxios on Amodei Rejection: https://www.axios.com/2026/02/26/anthropic-rejects-pentagon-ai-terms\n\nFT on US Threat: https://www.ft.com/content/11d27612-d6c5-4cf7-94dd-f65603549b7f\n\nPolitico on Latest: https://archive.ph/20260227013117/https://www.politico.com/news/2026/02/26/incoherent-hegseths-anthropic-ultimatum-confounds-ai-policymakers-00800135\n\nThe Verge on Current Deal: https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations\n\nAnthropic RSP change: https://www.anthropic.com/news/responsible-scaling-policy-v3\n\nTime Magazine on RSP: https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/\n\nAgent of Chaos Paper: https://x.com/NatalieShapira/status/2026062499599319526\n\nAI Agent Reliability Paper: https://arxiv.org/pdf/2602.16666\n\nMy Patreon Video: https://www.patreon.com/posts/real-mystery-ai-151647211\n\nPatreon Documentary: https://www.patreon.com/posts/our-new-age-of-133960279 \n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
