@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-10T15:52:20.284643+00:00",
+  "generated_at": "2026-09-10T20:27:03.648016+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Two Minute Papers",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Two Minute Papers",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "NGf7kBEBNIc",
+      "title": "Why Hyperagent is serious",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=NGf7kBEBNIc",
+      "published": "2026-09-10T18:12:23+00:00",
+      "summary": "Get $100 in free Hyperagent credits: https://www.hyperagent.com/forwardfuture100\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nSponsored by Hyperagent.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "mOvtumfyjCs",
       "title": "I Never Thought I’d See This Happen",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=jtY-QnBq75w",
       "published": "2026-09-02T20:50:34+00:00",
       "summary": "Check out Matt and Yi's online course: https://online.stanford.edu/courses/xeiet215-next-generation-energy-storage-batteries-grid-solutions?utm_medium=Video&amp;utm_term&amp;utm_campaign=XEIET215&amp;utm_source=Youtube\n\nThe grid is changing fast. Renewables are scaling. AI is driving massive new electricity demand. Energy storage is the technology that connects it all.\n\nIn our new course, you'll break down the energy storage landscape so you can understand what's real, what's next, and what matters most when choosing a solution.\n\nYou'll cover the science, technology, and real-world use-cases for:\n- The fundamental principles of energy\n- Mechanical and thermal energy storage\n- Energy storage as fuel\n- Battery fundamentals\n- Lithium-ion batteries\n- Alternative battery chemistries and technologies",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -389,19 +402,6 @@
       "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
       "published": "2026-09-01T09:04:56+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 GLM 5.3 Flash:\nhttps://z.ai/blog/glm-5.3-flash\n\nSources:\nhttps://x.com/louszbd/status/2092694163104113016\nhttps://x.com/semianalysis_/status/2092623833630998556\nhttps://x.com/skalskip92/status/2092748209802154201\nhttps://x.com/louszbd/status/2093047548550525165\nhttps://x.com/atomic_chat_hq/status/2093433913238552712\nhttps://x.com/holytrinity/status/2094093933584257334\nhttps://x.com/KinasRemek/status/2090081611832295581/video/1\nhttps://x.com/AiXsatoshi/status/2093679264013181119/video/1\nhttps://x.com/AiXsatoshi/status/2093353322921263389/video/1\nhttps://x.com/stevibe/status/2092655031040565252\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "TOWXXhn7ctY",
-      "title": "Cancel your subscriptions, Ox-Alpha is here! (GLM 5.3 Flash)",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=TOWXXhn7ctY",
-      "published": "2026-08-29T22:56:38+00:00",
-      "summary": "Check out Higgsfield API: https://higgsfield.ai/s/TvYKkQ\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://z.ai/blog/glm-5.3-flash\nhttps://x.com/OpenRouter/status/2090544970923184269\nhttps://artificialanalysis.ai/\nhttps://x.com/SemiAnalysis_/status/2092623833630998556",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
