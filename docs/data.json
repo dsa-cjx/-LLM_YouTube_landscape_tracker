@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T15:39:35.149749+00:00",
+  "generated_at": "2026-09-13T20:21:55.633881+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "OSqR_ISUbXY",
+      "title": "The $1 Million Fluid Problem",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=OSqR_ISUbXY",
+      "published": "2026-09-13T17:26:59+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "gk6uuwmFVq8",
       "title": "DeepSeek Is INSANELY Fast",
@@ -272,19 +285,6 @@
       "url": "https://www.youtube.com/watch?v=gToAPOlQwBk",
       "published": "2026-09-03T21:50:33+00:00",
       "summary": "The people who trained PaLM and Gemini are teaching you to build AI agents.\n\nOur Agentic AI course brings you the same graduate curriculum taught on campus in CS329A, adapted for working professionals. \n\nYour instructors:\nDr. Aakanksha Chowdhery, Adjunct Professor, Stanford Engineering: led end-to-end training of the 540B PaLM model, the largest densely trained language model in the world at the time, and drove pre-training and scaling of Gemini's mixture-of-experts models.\n\nAzalia Mirhoseini, Assistant Professor of Computer Science, Stanford: co-developed the MoE architectures now used in nearly every frontier model, created AlphaChip (the RL method behind Google's TPU designs), and pioneered LLM test-time scaling. She worked on both Claude and Gemini.\n\nWhat you'll learn:\n• Design agentic systems for complex, multi-step real-world tasks\n• Apply test-time scaling to boost LLM performance\n• Use self-improvement methods like verifiers, feedback loops, RL, and search\n• Build agents that use tools and take actions effectively\n• Add retrieval, long-term memory, and multi-step planning\n• Evaluate agent performance with robust frameworks\n\nIncluded: 90 days of access, optional live sessions every six weeks with guest speakers and course facilitators, a peer discussion forum, and coding assignments. Conclude the course by building a small-scale AI agent.",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "V2lEbLzmq8M",
-      "title": "What GPT-6 Astra Can Do",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=V2lEbLzmq8M",
-      "published": "2026-09-03T20:44:09+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": "error",
       "transcript_language": null,
       "analysis_status": null,
