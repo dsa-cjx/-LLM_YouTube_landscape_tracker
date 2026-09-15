@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-15T11:08:33.007483+00:00",
+  "generated_at": "2026-09-15T16:19:26.305226+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Two Minute Papers",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Two Minute Papers",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "_6PR25pkHKI",
+      "title": "The Risk Dario’s AI Warning Leaves Out",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=_6PR25pkHKI",
+      "published": "2026-09-15T15:54:14+00:00",
+      "summary": "Try Morph for FREE: https://modelcode.ai/morph Use code MATTHEWBERMAN to get 60,000 free credits per month for your first year.\n\nDario Amodei’s essay — We Must Pace the Frontier\nhttps://darioamodei.com/post/we-must-pace-the-frontier\n\nBill Gurley’s talk on regulatory capture — All-In Summit: 2,851 Miles\nhttps://www.youtube.com/watch?v=F9cO3-MLHOM\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\n0:00 Introduction\n1:53 Reading and analyzing Dario’s essay\n4:46 Morph sponsor\n5:53 AI risks and open source\n14:10 Dario’s plan to slow AI development\n23:16 The US–China AI race\n29:38 Reactions from Musk, Altman, and LeCun\n35:30 Open source and regulatory capture\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "YoEWjZSwoys",
       "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
@@ -233,19 +246,6 @@
       "url": "https://www.youtube.com/watch?v=e7t9HU2Z6t8",
       "published": "2026-09-09T18:18:37+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://yitongdeng-projects.github.io/neural_flow_maps_webpage/\nhttps://svs.gsfc.nasa.gov/\nhttps://cims.nyu.edu/~tristanb/statement.pdf\nhttps://situational-awareness.ai/\nhttps://lichess.org/analysis\nhttps://www.fide.com/fide-announces-the-list-of-players-for-the-2025-world-rapid-and-blitz-a-stellar-lineup-in-doha/\nhttps://github.com/lobehub/lobe-icons\nhttps://authors.library.caltech.edu/records/t0yjn-swh07\nhttps://www.youtube.com/watch?v=W9KHVlnJLjQ",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "AmFOvEv_8Gs",
-      "title": "OpenAI responds to the math authorship dispute",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=AmFOvEv_8Gs",
-      "published": "2026-09-09T16:06:05+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": "error",
       "transcript_language": null,
       "analysis_status": null,
