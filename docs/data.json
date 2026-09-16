@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-16T16:11:22.495845+00:00",
+  "generated_at": "2026-09-16T20:54:00.922574+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "xAmTQ80tNQA",
+      "title": "Doom in Real Time",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=xAmTQ80tNQA",
+      "published": "2026-09-16T19:42:00+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "VjGeZRvcMOo",
       "title": "Agentic AI vs LLMs: Why an Agent Doesn't Stop at the Answer",
@@ -259,19 +272,6 @@
       "url": "https://www.youtube.com/watch?v=jQIeVznGG3k",
       "published": "2026-09-10T20:34:23+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks\nhttps://x.com/sama/status/1598038815599661056\nhttps://x.com/OpenAI/status/2097374640582668336\nhttps://x.com/hilbertspaess/status/2097476196791709843\nhttps://x.com/EvanHub/status/2097497037956891126\nhttps://www.anthropic.com/news/claude-opus-4-5\nhttps://openai.com/index/paperbench/\nhttps://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/\nhttps://openai.com/index/research-acceleration-view-inside-openai/\nhttps://metr.org/time-horizons/\nhttps://openai.com/index/hugging-face-incident-and-the-road-ahead/\nhttps://futureoflife.org/open-letter/pause-giant-ai-experiments/\nhttps://pacingthefrontier.com/\nhttps://www.abc.net.au/news/2026-08-19/openai-slows-development-pauses-testing-after-hugging-face-hack/107053332",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "NGf7kBEBNIc",
-      "title": "Why Hyperagent is serious",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=NGf7kBEBNIc",
-      "published": "2026-09-10T18:12:23+00:00",
-      "summary": "Get $100 in free Hyperagent credits: https://www.hyperagent.com/forwardfuture100\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nSponsored by Hyperagent.",
       "transcript_status": "error",
       "transcript_language": null,
       "analysis_status": null,
