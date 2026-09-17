@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-17T11:01:11.259538+00:00",
+  "generated_at": "2026-09-17T16:17:41.060170+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "AI Explained",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "AI Explained",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "2MPxXpWNB-Q",
+      "title": "Anthropic’s IPO Makes No Sense",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=2MPxXpWNB-Q",
+      "published": "2026-09-17T12:21:33+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "J3ljHm57yU0",
       "title": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
@@ -272,19 +285,6 @@
       "url": "https://www.youtube.com/watch?v=o49wKra_m5E",
       "published": "2026-09-11T01:10:56+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "jQIeVznGG3k",
-      "title": "We need to talk about this...",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=jQIeVznGG3k",
-      "published": "2026-09-10T20:34:23+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks\nhttps://x.com/sama/status/1598038815599661056\nhttps://x.com/OpenAI/status/2097374640582668336\nhttps://x.com/hilbertspaess/status/2097476196791709843\nhttps://x.com/EvanHub/status/2097497037956891126\nhttps://www.anthropic.com/news/claude-opus-4-5\nhttps://openai.com/index/paperbench/\nhttps://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/\nhttps://openai.com/index/research-acceleration-view-inside-openai/\nhttps://metr.org/time-horizons/\nhttps://openai.com/index/hugging-face-incident-and-the-road-ahead/\nhttps://futureoflife.org/open-letter/pause-giant-ai-experiments/\nhttps://pacingthefrontier.com/\nhttps://www.abc.net.au/news/2026-08-19/openai-slows-development-pauses-testing-after-hugging-face-hack/107053332",
       "transcript_status": "error",
       "transcript_language": null,
       "analysis_status": null,
