@@ -1,9 +1,13 @@
 {
-  "generated_at": "2026-09-18T15:53:10.661952+00:00",
+  "generated_at": "2026-09-18T20:26:36.432647+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Stanford Online",
+        15
+      ],
       [
         "Matthew Berman",
         15
@@ -17,10 +21,6 @@
         15
       ],
       [
-        "Stanford Online",
-        15
-      ],
-      [
         "Yannic Kilcher",
         15
       ]
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "br-guoJ58gA",
+      "title": "Stanford Webinar - A Conversation on the Future of Translational Medicine",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=br-guoJ58gA",
+      "published": "2026-09-18T19:57:44+00:00",
+      "summary": "View the details of our Drug Development: From Discovery to Commercialization Graduate Certificate:\n\n🎓 https://online.stanford.edu/programs/drug-development-discovery-commercialization-graduate-certificate\n\nWhat does it take to move a discovery from the lab into the clinic, and who's equipped to lead that work? Translational medicine is the discipline sitting at that critical crossroads — bridging groundbreaking research and real-world patient care.\n\nListen to and watch faculty leaders of Stanford's Master of Science in Translational Research and Applied Medicine (M-TRAM) program, Dean Felsher, MD, PhD, and Joanna Liliental, PhD, have a lively conversation and Q&amp;A session.\n\nIn this webinar, they discuss the real challenges facing translational research today, the opportunities emerging at the intersection of science and industry, and what it takes to train the next generation of innovators ready to turn discovery into impact.\n\nSpeakers:\n\nDean Felsher, MD, PhD, is a Professor of Medicine-Oncology at Stanford University School of Medicine and Director of the Translational Research and Applied Medicine (TRAM) Program, which he has led since 2011. His laboratory investigates how oncogenes initiate and sustain cancer, and he has pioneered model systems showing that inactivating a single oncogene, such as MYC, can be sufficient to reverse tumor growth — a concept known as \"oncogene addiction.\" \n\nJoanna Liliental, PhD, is Executive Director of Stanford's Master's in Translational Research and Applied Medicine (M-TRAM) program, Director of the Translational Applications Service Center (TASC), and Associate Director of the Translational Research and Applied Medicine (TRAM) Program. Since 2011, she has worked alongside Dean Felsher, mentoring researchers as they move scientific findings from the lab into clinical application, including biomarker research for early cancer detection. \n\nThe graduate course TRAM223B Drug Development and Clinical Trials will be available for the winter quarter. Enrollment begins October 19. Learn course details:\n\n🎓 https://online.stanford.edu/courses/tram223b-drug-development-and-clinical-trials",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "2z-7pIj57f8",
       "title": "We need to talk about Jev...",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=5UpS__yl7xA",
       "published": "2026-09-12T21:57:03+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -584,19 +597,6 @@
       "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
       "published": "2026-08-14T08:42:07+00:00",
       "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/riemann-zeta\n\nSource:\nhttps://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "ZXMThMHFD_w",
-      "title": "Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 19: Model-Based RL",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=ZXMThMHFD_w",
-      "published": "2026-08-13T19:21:36+00:00",
-      "summary": "Lecture 19 — Model-based Reinforcement Learning and Conclusions\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com \n\nTo learn more about enrolling in AA203 Optimal and Learning-Based Control, visit: https://online.stanford.edu/courses/aa203-optimal-and-learning-based-control \n\nFollow along with the course schedule and syllabus: https://stanfordasl.github.io/aa203/sp2526/ \n\nLecture slides: https://stanfordasl.github.io/aa203/sp2526/pdfs/lecture/lecture_4.pdf \n\nSpeaker: Dr. Daniele Gammelli\n\nBio: Dr. Daniele Gammelli is the Research Director of the Machine Intelligence for Robot Autonomy Laboratory at the Italian Institute of Artificial Intelligence (AI4I), and a Researcher in the Department of Aeronautics and Astronautics at Stanford University. Since 2022, he has been a Research Fellow at the Center for Aerospace Autonomy Research (CAESAR) at Stanford and, until 2025, at the Center for Automotive Research at Stanford (CARS). He received his Ph.D. in Machine Learning and Mathematical Optimization from the Technical University of Denmark (DTU) in 2022, where his doctoral thesis was nominated for the DTU Best Thesis of the Year Award and the DTU Young Researcher Award. Dr. Gammelli’s research focuses on developing the algorithmic foundations and system-level methodologies that enable AI-powered autonomous systems to operate safely, efficiently, and reliably in high-stakes environments, with an emphasis on aerospace autonomy and next-generation mobility systems.\n\nInstructors: \nProf. Marco Pavone, Associate Professor of Aeronautics and Astronautics, Director of Autonomous Vehicle Research at NVIDIA\n\nDr. Daniele Gammelli, Research Director at the Italian Institute of Artificial Intelligence (AI4I), Researcher at the Department of Aeronautics and Astronautics, Stanford University\n\nFull playlist: https://www.youtube.com/playlist?list=PLa9dmHsLK9dg\n\n#StanfordOnline #OptimalControl #Robotics #PhysicalAI",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
