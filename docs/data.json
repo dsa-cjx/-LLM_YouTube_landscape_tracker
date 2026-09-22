@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-22T16:19:55.447148+00:00",
+  "generated_at": "2026-09-22T20:55:04.812546+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
-      [
-        "Two Minute Papers",
-        15
-      ],
       [
         "Matthew Berman",
         15
       ],
       [
         "Stanford Online",
+        15
+      ],
+      [
+        "Two Minute Papers",
         15
       ],
       [
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "5MFORiebZks",
+      "title": "GPT-6 SOL AND LUNA ARE OUT!!!",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=5MFORiebZks",
+      "published": "2026-09-22T18:38:33+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "HTlf3KNNez0",
+      "title": "Andrew Ng: One Skill to Stay Relevant in the Age of AI",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=HTlf3KNNez0",
+      "published": "2026-09-22T17:16:12+00:00",
+      "summary": "We asked Andrew Ng, \"What's one skill professionals should start learning now if they want to stay relevant in the age of AI?\" \n\nHis response: \"I have a controversial opinion. I think that everyone should learn to code.\"\n\nAndrew Ng, Adjunct Professor at Stanford University and founder of DeepLearning.AI, explains that he's already seeing a productivity gap between professionals who can build custom software and those who can't, in every role, not just software engineering.\n\nHe's not arguing you should write code by hand; he says he rarely does. His point is that for the foreseeable future, one of the most valuable skills will be the ability to tell a computer exactly what you want it to do... and code is the language of computers. His best marketers don't wait for an engineer to build them a website. His best recruiters write code to screen resumes instead of reading them by hand.\n\nSo the question a lot of people are asking, \"Should I learn to code if AI can write code?\" has an answer Ng thinks is backwards in most business advice. Despite senior leaders telling people not to bother because AI will automate it, he argues that AI assistance has made coding easy enough that it's worth everyone learning.\n\n- Explore AI courses and programs from Stanford Online: https://stanford.io/3UV9jqi\n- Full Artificial Intelligence Playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3\n- How AI is Changing Coding and Education, with Andrew Ng: https://youtu.be/J91_npj0Nfw\n\nSubscribe for more insights from Stanford faculty and industry leaders.\n\n#AndrewNg #ArtificialIntelligence #StanfordOnline #CareerAdvice",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "qBBRRsH0rQc",
       "title": "Yes, Jev Is Insane, But There's A Catch",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=_6PR25pkHKI",
       "published": "2026-09-15T15:54:14+00:00",
       "summary": "Try Morph for FREE: https://modelcode.ai/morph Use code MATTHEWBERMAN to get 60,000 free credits per month for your first year.\n\nDario Amodei’s essay — We Must Pace the Frontier\nhttps://darioamodei.com/post/we-must-pace-the-frontier\n\nBill Gurley’s talk on regulatory capture — All-In Summit: 2,851 Miles\nhttps://www.youtube.com/watch?v=F9cO3-MLHOM\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\n0:00 Introduction\n1:53 Reading and analyzing Dario’s essay\n4:46 Morph sponsor\n5:53 AI risks and open source\n14:10 Dario’s plan to slow AI development\n23:16 The US–China AI race\n29:38 Reactions from Musk, Altman, and LeCun\n35:30 Open source and regulatory capture\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
       "published": "2026-09-15T10:12:34+00:00",
       "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The papers and sources are available here:\nhttps://proceedings.mlr.press/v202/kirchenbauer23a.html\nhttps://www.nature.com/articles/s41586-024-08025-4\nhttps://www.anthropic.com/news/claude-text-watermark\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -310,19 +336,6 @@
       "channel_category": "AI Tools",
       "url": "https://www.youtube.com/watch?v=LyUoP_5QQOA",
       "published": "2026-09-14T13:29:24+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "ypNekbQpT5U",
-      "title": "GPT-6 Made a Fall Guys Game",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=ypNekbQpT5U",
-      "published": "2026-09-14T10:53:34+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
@@ -558,19 +571,6 @@
       "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
       "published": "2026-08-26T13:10:13+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek Harness + paper are available here:\nhttps://deepseek.com/harness/en/\nhttps://github.com/cordiverse/paper\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "ksRiHHCXfOM",
-      "title": "Overview: Stanford CME295 Transformers and Large Language Models",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=ksRiHHCXfOM",
-      "published": "2026-08-25T23:47:43+00:00",
-      "summary": "Autumn enrollment for graduate courses is open now and ends September 6, 2026. What will you learn this quarter?\n\nEnroll in CME295 Transformers and Large Language Models:\nhttps://online.stanford.edu/courses/cme295-transformers-and-large-language-models\n\nTeaching Team:\nAfshine Amidi\nAdjunct Professor, Computational & Mathematical Engineering\n\nShervine Amidi\nAdjunct Professor, Computational & Mathematical Engineering\n\nFor more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
