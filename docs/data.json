@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-23T16:09:49.558721+00:00",
+  "generated_at": "2026-09-23T21:07:01.798653+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "Ima_AVPyQ9E",
+      "title": "GPT-6 Luna Might Be the Best Deal in AI",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=Ima_AVPyQ9E",
+      "published": "2026-09-23T20:19:04+00:00",
+      "summary": "Tell your agents to use this: https://here.now/r/matthewberman\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "SCyp1iENDw0",
       "title": "Andrew Ng: The Skill That Keeps You Relevant in the AI Era",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=VjGeZRvcMOo",
       "published": "2026-09-15T22:34:31+00:00",
       "summary": "An LLM is like a calculator: for a given input, it generates a response, and once it has given you an answer, it stops.\n\nAn agentic system is like an expert assistant that can solve tasks, use new tools,\nwrite code, and run programs. You're no longer working with a single model response, but rather a whole system that can reason, think longer, and take actions in the real world.\n\nWith Azalia Mirhoseini, Assistant Professor of Computer Science, and Aakanksha\nChowdhery, Adjunct Professor of Computer Science, Stanford University.\n\nLearn more: https://stanford.io/4Acgri9\n\n#AgenticAI #LLM #AIAgents #Stanford",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -324,19 +337,6 @@
       "url": "https://www.youtube.com/watch?v=AGdPioTEi9g",
       "published": "2026-09-15T21:30:37+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "_6PR25pkHKI",
-      "title": "The Risk Dario’s AI Warning Leaves Out",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=_6PR25pkHKI",
-      "published": "2026-09-15T15:54:14+00:00",
-      "summary": "Try Morph for FREE: https://modelcode.ai/morph Use code MATTHEWBERMAN to get 60,000 free credits per month for your first year.\n\nDario Amodei’s essay — We Must Pace the Frontier\nhttps://darioamodei.com/post/we-must-pace-the-frontier\n\nBill Gurley’s talk on regulatory capture — All-In Summit: 2,851 Miles\nhttps://www.youtube.com/watch?v=F9cO3-MLHOM\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\n0:00 Introduction\n1:53 Reading and analyzing Dario’s essay\n4:46 Morph sponsor\n5:53 AI risks and open source\n14:10 Dario’s plan to slow AI development\n23:16 The US–China AI race\n29:38 Reactions from Musk, Altman, and LeCun\n35:30 Open source and regulatory capture\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
