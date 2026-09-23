@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-23T10:49:04.216461+00:00",
+  "generated_at": "2026-09-23T16:09:49.558721+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "SCyp1iENDw0",
+      "title": "Andrew Ng: The Skill That Keeps You Relevant in the AI Era",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=SCyp1iENDw0",
+      "published": "2026-09-23T13:00:24+00:00",
+      "summary": "Senior business leaders have advised people not to learn to code, on the grounds that AI will automate it. Andrew Ng, Adjunct Professor at Stanford University and founder of DeepLearning.AI, disagrees. He explains why it's more important than ever for everyone to learn how to code.\n\n#AndrewNg #CareerAdvice #AI #StanfordOnline",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "OWu2kjKrRTA",
       "title": "Anthropic went CRAZY (Opus 5.5)",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=AZ0pNUF1kAc",
       "published": "2026-09-15T22:34:28+00:00",
       "summary": "AI coding agents are already widely used day in and day out. These agents are velocity and productivity multipliers that allow more and more software systems to be built.\n\nAakanksha Chowdhery, Adjunct Professor of Computer Science, and Azalia Mirhoseini,\nAssistant Professor of Computer Science at Stanford University, on what that shift\nmeans: the focus moves up a level. Software developers can build things that are fun, useful, and transformative, while delegating implementation to software agents.\n\nLearn more: https://stanford.io/4Acgri9\n\n#AICoding #AIAgents #SoftwareDevelopment #Stanford",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -519,19 +532,6 @@
       "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
       "published": "2026-09-01T09:04:56+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 GLM 5.3 Flash:\nhttps://z.ai/blog/glm-5.3-flash\n\nSources:\nhttps://x.com/louszbd/status/2092694163104113016\nhttps://x.com/semianalysis_/status/2092623833630998556\nhttps://x.com/skalskip92/status/2092748209802154201\nhttps://x.com/louszbd/status/2093047548550525165\nhttps://x.com/atomic_chat_hq/status/2093433913238552712\nhttps://x.com/holytrinity/status/2094093933584257334\nhttps://x.com/KinasRemek/status/2090081611832295581/video/1\nhttps://x.com/AiXsatoshi/status/2093679264013181119/video/1\nhttps://x.com/AiXsatoshi/status/2093353322921263389/video/1\nhttps://x.com/stevibe/status/2092655031040565252\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "ZlLV9ZHauAM",
-      "title": "When AI Stops Being a Project: Turning Technology into Real Value for Patients and Providers",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=ZlLV9ZHauAM",
-      "published": "2026-08-28T20:14:37+00:00",
-      "summary": "Learn more about Stanford's online Healthcare AI programs: https://stanford.io/3NEt7uE\nCheck out the AI in Healthcare series playlist:https://stanford.io/3NEt7uE\n\nMatt Lungren, Stanford University - https://profiles.stanford.edu/matthew-lungren\nJustin Norden, Stanford University - https://profiles.stanford.edu/justin-norden\n\nGuest speaker: Sandeep Dadlani,  Optum Insight CEO\n\nA fast-paced Stanford Healthcare AI podcast episode with Optum Insight CEO Sandeep Dadlani exploring how large healthcare enterprises are actually using AI today. The conversation covers the shift from simple chatbots to long-running agentic workflows, the exploding costs and risks of LLM tokens, model choice and “lock-in” (including GLM 5.2), and why AI is rapidly becoming the business, not just a project. With candid stories from UnitedHealth Group’s internal AI “harness,” governance, and leadership rituals, this episode is a playbook for health systems and payers trying to move from pilots to real, scaled impact.",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
