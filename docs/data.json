@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-28T12:59:06.625054+00:00",
+  "generated_at": "2026-09-28T22:57:16.978987+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "114i2Kz-LZA",
+      "title": "Stanford CME295 Transformers & LLMs | Autumn 2026 | Lecture 1 - Transformers",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=114i2Kz-LZA",
+      "published": "2026-09-28T20:06:59+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nTo follow along with the course schedule and syllabus, visit: https://cme295.stanford.edu/syllabus/\n\nChapters:\n00:00:00 Welcome\n00:03:43 Difference from last year’s edition\n00:05:01 Class logistics\n00:12:42 Timeline\n00:16:56 Tokenization\n00:37:27 Word2vec (CBOW, Skip-gram)\n00:48:26 RNN, LSTM\n00:55:18 Attention\n00:57:16 Self-attention mechanism\n00:59:54 Query, key, value\n01:09:35 Transformer architecture\n01:12:19 Input\n01:16:27 Transformer Encoder\n01:18:19 Transformer Decoder\n01:22:16 Computational tricks\n01:27:35 End-to-end example\n\nAfshine Amidi is an Adjunct Professor at Stanford University.\n\nShervine Amidi is an Adjunct Professor at Stanford University.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "rgO5v8MFtFg",
       "title": "What People Are Building With Opus 5.5",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=2z-7pIj57f8",
       "published": "2026-09-18T15:28:51+00:00",
       "summary": "Check out Zapier! https://bit.ly/3Tyuga2\nGet a 14 day free trial!\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/CompleteSkeptic/status/2099925682726002904\nhttps://x.com/aimlapi/status/2100372930282573876\nhttps://x.com/rileybrown/status/2100607709317861879\nhttps://x.com/thekitze/status/2100595129874817340\nhttps://x.com/jpschroeder/status/2100347770867458384\nhttps://x.com/The_Alex/status/2100431093862367696",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -532,19 +545,6 @@
       "url": "https://www.youtube.com/watch?v=KsFSfBeA7tY",
       "published": "2026-09-02T20:49:37+00:00",
       "summary": "Check out Matt and Yi's online course: https://online.stanford.edu/courses/xeiet215-next-generation-energy-storage-batteries-grid-solutions?utm_medium=Video&amp;utm_term&amp;utm_campaign=XEIET215&amp;utm_source=Youtube\n\nEnergy storage is fundamentally reshaping global power systems. As renewables scale and electricity demand grows, including from AI data centers, the question is no longer if we need energy storage. It is which technologies, where, and how fast.\n\nIn this course, you will break down the energy storage landscape and learn how to evaluate real options for powering the world around the clock, from grid scale systems to advanced batteries.\n\nYou'll cover the science, technology, and real-world use-cases for:\n- The fundamental principles of energy\n- Mechanical, thermal, and electro-chemical energy storage technologies\n- Energy storage as fuel\n- Battery fundamentals\n- Lithium-ion batteries\n- Alternative battery chemistries and technologies",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "_nZ27w6s9hw",
-      "title": "LLMs Don't Have to Write One Word at a Time",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=_nZ27w6s9hw",
-      "published": "2026-09-02T20:40:57+00:00",
-      "summary": "CME295 Transformers and Large Language Models is open for enrollment until September 6. Learn more:\nhttps://online.stanford.edu/courses/cme295-transformers-and-large-language-models\n\nEvery LLM you've used generates text one word at a time. But what if it didn't?\n\nStanford Adjunct Professors Shervine and Afshine Amidi break down diffusion LLMs — models that generate text more like an image diffusion model, refining the whole output progressively instead of token-by-token. \n\n#DiffusionLLM #LLM #Transformers #StanfordOnline #AI #MachineLearning #OnlineCourses",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
