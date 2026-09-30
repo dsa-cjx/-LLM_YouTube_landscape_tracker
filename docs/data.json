@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-30T11:58:03.659502+00:00",
+  "generated_at": "2026-09-30T17:53:22.364642+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "y4xvZnl102w",
+      "title": "Webinar: What AI Can and Cannot Do: Intelligence Augmentation in Practice with Michael Bernstein",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=y4xvZnl102w",
+      "published": "2026-09-30T15:00:24+00:00",
+      "summary": "- Explore these concepts in the AI-Powered Product Innovation course: https://bit.ly/pin-stf-webinar\n- Learn how to build intelligent AI agents: https://online.stanford.edu/programs/agentic-ai\n- Browse all Stanford Online AI courses: https://online.stanford.edu/artificial-intelligence/courses-and-programs\n\nArtificial intelligence is transforming how organizations approach problem-solving, decision-making, and innovation—but knowing where AI can create reliable value is just as important as knowing where it cannot.\n\nIn this Stanford Online webinar delivered in collaboration with Global Alumni, Professor Michael Bernstein explores the practical realities of AI adoption and the role of human judgment in an increasingly AI-enabled workplace. The session examines how to distinguish between problems AI can solve reliably and those that continue to require human expertise, judgment, and oversight.\n\nDrawing on research and practical frameworks for human-AI interaction, Professor Bernstein explores how leaders and professionals can evaluate AI opportunities more thoughtfully, assess potential risks, and determine where AI can genuinely augment human capabilities.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "Xc6ERvZM1NY",
       "title": "OpenAI COOKED",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
       "published": "2026-09-22T09:32:13+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Jev:\nhttps://typesafe.ai/blog/introducing-system-one-models-and-jev\n\nFull song: https://www.youtube.com/watch?v=4RtUJkjrKMI\n\nPrevious papers, implementations, models:\nhttps://huggingface.co/convaiinnovations/laya\nhttps://arxiv.org/abs/2503.23303\nhttps://huggingface.co/DeepMostInnovations/sales-conversion-model-reinf-learning\nhttps://huggingface.co/datasets/DeepMostInnovations/saas-sales-conversations\nhttps://arxiv.org/abs/2510.01237\nhttps://huggingface.co/blog/setfit\nhttps://proceedings.iclr.cc/paper_files/paper/2025/hash/5503a7c69d48a2f86fc00b3dc09de686-Abstract-Conference.html\n\nSources:\nhttps://x.com/alexisgallagher/status/2100312082491322873?s=46\nhttps://x.com/tamarajtran/status/2100694549362553153?s=46\nhttps://x.com/maubaron/status/2100738237237002706?s=46\nhttps://x.com/elvissun/status/2100951347080421409?s=46\nhttps://x.com/completeskeptic/status/2099925684256899543?s=46\nhttps://x.com/completeskeptic/status/2099925685720760404?s=46\nhttps://x.com/filippkowalski/status/2100864984448147770?s=46\nhttps://x.com/egafni/status/2100770895325524242?s=46\nhttps://x.com/mizorewww/status/2101473552956555427\nhttps://x.com/miu21590/status/2101857866378362926?s=46\nhttps://x.com/atomic_chat_hq/status/2102160983409955244?s=46\nhttps://x.com/HugoDuprez/status/2100953089003921543?s=20\nhttps://x.com/heyxviraj/status/2102048070649405592?s=20\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -532,19 +545,6 @@
       "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
       "published": "2026-09-03T08:23:37+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Claude Fable 5.1 paper is available here:\nhttps://www.anthropic.com/claude-fable-and-mythos-5-1\nhttps://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20%26%20Claude%20Mythos%205.1%20System%20Card.pdf\n\nSources:\nhttps://x.com/alexalbert__/status/2094860187743986169?s=46\nhttps://x.com/holytrinity/status/2094866061212459130?s=46\nhttps://x.com/holytrinity/status/2094927984217985474?s=46\nhttps://x.com/omedvibecodes/status/2094887840848965845?s=46\nhttps://x.com/loktar00/status/2094951511742632168?s=46\nhttps://x.com/maxt3chno/status/2094798704385380762?s=46\nhttps://x.com/fabianofirmo/status/2094954495646035978?s=46\nhttps://x.com/fabianofirmo/status/2094954495646035978?s=46\nhttps://x.com/Rubzem/status/2094866225960493189?s=20\nhttps://x.com/atomicagent_io/status/2094895071304839400?s=20\nhttps://x.com/do_owne/status/2095054932466422125\nhttps://x.com/holytrinity/status/2095216452433313915\nhttps://x.com/vib3coded/status/2095329598472860011\nhttps://x.com/MaxForAI/status/2095270764979355651\nhttps://x.com/MengTo/status/2095104073590808644\nhttps://x.com/earthtojake/status/2095352925597884465\nhttps://x.com/alexalbert__/status/2094860187743986169\nhttps://x.com/adonis_singh/status/2095158753796497550\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "VJoRSrNHeVk",
-      "title": "Agentic AI Program Overview",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=VJoRSrNHeVk",
-      "published": "2026-09-02T22:06:34+00:00",
-      "summary": "Learn more: https://stanford.io/4iHlGQp\n\nBuild modern AI agents with Stanford's graduate-level curriculum, adapted for working professionals.\n\nTaught by Stanford Adjunct Professor Chowdhery and Assistant Professor Mirhoseini, this Agentic AI program takes you beyond basic LLM prompting to agents that reason, plan, use tools, and improve themselves through interaction with their environment.\n\nWhat you'll learn:\n- Design agentic systems for complex, multi-step real-world tasks\n- Apply test-time scaling to boost LLM performance\n- Use self-improvement methods: verifiers, feedback loops, RL, and search\n- Build agents that use tools and take actions effectively\n- Add retrieval and long-term memory to LLMs\n- Develop planning and multi-step reasoning\n- Evaluate agent performance with robust frameworks\n\nDrawing on Stanford research and the latest advances in the field.\n\nAbout the Instructors\nStanford Engineering Adjunct Professor Dr. Aakanksha Chowdhery led end-to-end training of the 540B PaLM model (the largest densely trained language model in the world at the time) and drove pre-training and scaling of Gemini's mixture-of-experts models. Stanford Assistant Professor Azalia Mirhoseini co-developed the MoE architectures now used in nearly every frontier model, created AlphaChip (the RL method behind Google's TPU designs), and pioneered LLM test-time scaling; she worked on both Claude and Gemini.",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
