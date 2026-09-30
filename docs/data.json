@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:53:22.364642+00:00",
+  "generated_at": "2026-09-30T21:54:07.321429+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "MJFDoRaUuOA",
+      "title": "Program Overview: Welcome to Product Management",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=MJFDoRaUuOA",
+      "published": "2026-09-30T20:20:01+00:00",
+      "summary": "",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "y4xvZnl102w",
       "title": "Webinar: What AI Can and Cannot Do: Intelligence Augmentation in Practice with Michael Bernstein",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=HTlf3KNNez0",
       "published": "2026-09-22T17:16:12+00:00",
       "summary": "We asked Andrew Ng, \"What's one skill professionals should start learning now if they want to stay relevant in the age of AI?\" \n\nHis response: \"I have a controversial opinion. I think that everyone should learn to code.\"\n\nAndrew Ng, Adjunct Professor at Stanford University and founder of DeepLearning.AI, explains that he's already seeing a productivity gap between professionals who can build custom software and those who can't, in every role, not just software engineering.\n\nHe's not arguing you should write code by hand; he says he rarely does. His point is that for the foreseeable future, one of the most valuable skills will be the ability to tell a computer exactly what you want it to do... and code is the language of computers. His best marketers don't wait for an engineer to build them a website. His best recruiters write code to screen resumes instead of reading them by hand.\n\nSo the question a lot of people are asking, \"Should I learn to code if AI can write code?\" has an answer Ng thinks is backwards in most business advice. Despite senior leaders telling people not to bother because AI will automate it, he argues that AI assistance has made coding easy enough that it's worth everyone learning.\n\n- Explore AI courses and programs from Stanford Online: https://stanford.io/3UV9jqi\n- Full Artificial Intelligence Playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3\n- How AI is Changing Coding and Education, with Andrew Ng: https://youtu.be/J91_npj0Nfw\n\nSubscribe for more insights from Stanford faculty and industry leaders.\n\n#AndrewNg #ArtificialIntelligence #StanfordOnline #CareerAdvice",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -519,19 +532,6 @@
       "url": "https://www.youtube.com/watch?v=gToAPOlQwBk",
       "published": "2026-09-03T21:50:33+00:00",
       "summary": "The people who trained PaLM and Gemini are teaching you to build AI agents.\n\nOur Agentic AI course brings you the same graduate curriculum taught on campus in CS329A, adapted for working professionals. \n\nYour instructors:\nDr. Aakanksha Chowdhery, Adjunct Professor, Stanford Engineering: led end-to-end training of the 540B PaLM model, the largest densely trained language model in the world at the time, and drove pre-training and scaling of Gemini's mixture-of-experts models.\n\nAzalia Mirhoseini, Assistant Professor of Computer Science, Stanford: co-developed the MoE architectures now used in nearly every frontier model, created AlphaChip (the RL method behind Google's TPU designs), and pioneered LLM test-time scaling. She worked on both Claude and Gemini.\n\nWhat you'll learn:\n• Design agentic systems for complex, multi-step real-world tasks\n• Apply test-time scaling to boost LLM performance\n• Use self-improvement methods like verifiers, feedback loops, RL, and search\n• Build agents that use tools and take actions effectively\n• Add retrieval, long-term memory, and multi-step planning\n• Evaluate agent performance with robust frameworks\n\nIncluded: 90 days of access, optional live sessions every six weeks with guest speakers and course facilitators, a peer discussion forum, and coding assignments. Conclude the course by building a small-scale AI agent.",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "k2oGY54IN58",
-      "title": "Post-Training Techniques: How LLMs Learn to Follow Instructions",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=k2oGY54IN58",
-      "published": "2026-09-03T19:06:59+00:00",
-      "summary": "CME295 Transformers and Large Language Models is open for enrollment until September 6. Learn more: https://online.stanford.edu/courses/cme295-transformers-and-large-language-models\n\nA pretrained LLM is good at predicting text — but that's not the same as following instructions well. Stanford Adjunct Professors Shervine and Afshine Amidi walk through the techniques that close that gap: fine-tuning, reinforcement learning, preference optimization, verifier-guided training, and distillation.\n\nCME296 Diffusion and Large Vision Models will be available in Spring 2027. Learn more about that course here: https://online.stanford.edu/courses/cme296-diffusion-and-large-vision-models\n\n#PostTraining #LLM #Transformers #AI #MachineLearning #ReinforcementLearning #OnlineCourses",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
