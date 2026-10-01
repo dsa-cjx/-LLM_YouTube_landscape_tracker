@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-01T12:29:37.466732+00:00",
+  "generated_at": "2026-10-01T22:22:16.588020+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Stanford Online",
+        "AI Explained",
         15
       ],
       [
@@ -13,7 +13,7 @@
         15
       ],
       [
-        "AI Explained",
+        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "_rtp1XzaP6Q",
+      "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
+      "channel": "AI Explained",
+      "channel_category": "AI Analysis",
+      "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
+      "published": "2026-10-01T21:20:12+00:00",
+      "summary": "This video is hard to summarise. A cracked cipher, an OpenAI security warning, Gemini 4 Argon, RSI paper (co-authored by a who’s who of AI), Lab White House commitments, new hacks emerging, ‘deep personas’, biology Kasparov competitions, and so much more, ending with an epic Opus outro.\n\n\nPatreon Exclusives: https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:32 - Wrong about Opus 5.5? Deciphering 16th Century Text\n05:01 - Why the models keep breaking out\n11:40 - What the models aren't telling us\n15:36 - Gemini 4 and the race to release\n19:19 - What happens when AI improves AI?\n28:31 - Biology, consciousness, and what we still don't understand\n\n\nJoe Darrow: Not Just the Sandbox: https://x.com/joedaroo/status/2104335929293127851\n\nGPT-6.1 Sol System Card: https://cdn.openai.com/pdf/38e3efcf-545e-44cd-99ec-2b7eb395f4cc/oai_GPT_6_1_Sol.pdf\n\nIntelligence Explosion Paper: https://casp.ac/__l5e/assets-v1/5efd4b41-deb5-4513-a0a3-b4f82d2b79ea/intelligence-explosion.pdf\n\nOpenAI Research Acceleration: https://openai.com/index/research-acceleration-view-inside-openai/\n\nOpenAI Training Safety Cases: https://openai.com/index/towards-safety-cases-for-frontier-ai-training/\n\nCatherine de Medicis Cipher: https://cryptiana.web.fc2.com/code/henryiii.htm\n\nProposed du Croc Decipherment: https://claude.ai/artifact/1W7B3WxkTAEGzfv3TaKXb4\n\nRogue Agents Investigation: https://asymmetricsecurity.com/newsroom/rogue-agents-investigation/\n\nOpenAI Shelves GPT-6.1 Astra: https://www.reuters.com/business/openai-shelves-new-ai-model-after-internal-safety-tests-wsj-reports-2026-09-28/\n\nThe Case for Reasoning Transparency: https://institute.deepmind.com/essays/the-case-for-reasoning-transparency/\n\nGemini 4 Argon: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\n\nOpenAI–Anthropic Rivalry: https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/\n\nNYT: OpenAI Security Warnings: https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html\n\nNYT: Claude’s Morals: https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html\n\nJasmine Wang on RSI: https://x.com/j_asminewang/status/2097840245786157432\n\nOpenAI Departures Roundup: https://x.com/Bayesian0_0/status/2105680470566686805\n\nWhite House AI Commitments: https://x.com/Danmar_here/status/2105168138392183146\n\nSarah Heck on Safety: https://x.com/SarahKHeck/status/2105058513370448280\n\nSam Altman on Alignment: https://x.com/tbpn/status/2105028992843833459\n\nSam Altman on Agent Logs: https://x.com/sama/status/2103567198690349362\n\nMicah Carroll: Misalignment Reports: https://x.com/MicahCarroll/status/2103665811051397256\n\nZuxin Liu on the Incident: https://x.com/LiuZuxin/status/2103699462648639645\n\nDeepa Seetharaman: User Images: https://x.com/dseetharaman/status/2103585482793943203\n\nOpenAI Revenue Chart: https://x.com/PaulBonnet/status/2105288259324567884/photo/1\n\nNvidia Agent Safety Platform: https://edition.cnn.com/2026/09/28/business/nvidia-ai-safety-system\n\nIntegrityBench: https://integrity-bench.com\n\nNeel Nanda on Interpretability: https://x.com/PalisadeAI/status/2104949061325652001\n\nBiology Contest: Humans and AI: https://www.theinformation.com/articles/inside-drama-behind-biology-contest-pits-openai-agents-humans\n\nPushmeet Kohli: SynthID Bio: https://x.com/pushmeet/status/2105314763148321102\n\nAtaraxos and Stratego: https://x.com/ssokota/status/2105362040328159526\n\nBenign Data and Hidden Personas: https://x.com/OwainEvans_UK/status/1999172949975392417\n\nAnthropic: Introspection: https://www.anthropic.com/research/introspection\n\nClaude Cheating Results: https://x.com/lukaspet/status/2104634759339298930\n\nRoon on Mathematics and Learning Theory: https://x.com/tszzl/status/2105619006488993898\n\nGPT-4 Research: https://openai.com/index/gpt-4-research/\n\nI.J. Good: Ultraintelligent Machine: https://incompleteideas.net/papers/Good65ultraintelligent.pdf\n\nTerence Tao’s 2024 Interview: https://www.scientificamerican.com/article/ai-will-become-mathematicians-co-pilot/\n\nHugging Face Incident: https://openai.com/index/hugging-face-incident-and-the-road-ahead/\n\nClaude and Suno Music Video: https://x.com/sevdeawesome/status/2104985610012504181\n\n\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "OODvXcQJyVo",
+      "title": "Muse from Meta Can Work Through Your To-Do List",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=OODvXcQJyVo",
+      "published": "2026-10-01T16:59:24+00:00",
+      "summary": "Try these four tasks with Muse from Meta.\n\nYou can text Muse like a friend and ask it to do real work for you. Make a personalized birthday card, plan meals around your budget and what’s in your fridge, build a grocery list, or ask Muse to negotiate a refund on your behalf.\n\nYou can also have Muse manage your to-do list and work through tasks while you’re busy. You control what Muse can access and which actions it can take.\n\nDownload Muse: https://ai.meta.com/muse/download/\nFor the custom prompt guide, comment “Muse” on the Instagram Reel: https://www.instagram.com/reel/Dd9EvYwhgVX/\n\nSponsored by Meta. #MetaPartner\nBusinesses and products shown are generated suggestions, not sponsored, endorsed by, or affiliated with Meta.\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "MJFDoRaUuOA",
       "title": "Program Overview: Welcome to Product Management",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=bn4uvtg8ECY",
       "published": "2026-09-22T21:33:00+00:00",
       "summary": "Use code MATTHEWBERMAN at checkout: https://eightsleep.com/matthewberman\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=5MFORiebZks",
       "published": "2026-09-22T18:38:33+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -376,19 +402,6 @@
       "url": "https://www.youtube.com/watch?v=br-guoJ58gA",
       "published": "2026-09-18T19:57:44+00:00",
       "summary": "View the details of our Drug Development: From Discovery to Commercialization Graduate Certificate:\n\n🎓 https://online.stanford.edu/programs/drug-development-discovery-commercialization-graduate-certificate\n\nWhat does it take to move a discovery from the lab into the clinic, and who's equipped to lead that work? Translational medicine is the discipline sitting at that critical crossroads — bridging groundbreaking research and real-world patient care.\n\nListen to and watch faculty leaders of Stanford's Master of Science in Translational Research and Applied Medicine (M-TRAM) program, Dean Felsher, MD, PhD, and Joanna Liliental, PhD, have a lively conversation and Q&amp;A session.\n\nIn this webinar, they discuss the real challenges facing translational research today, the opportunities emerging at the intersection of science and industry, and what it takes to train the next generation of innovators ready to turn discovery into impact.\n\nSpeakers:\n\nDean Felsher, MD, PhD, is a Professor of Medicine-Oncology at Stanford University School of Medicine and Director of the Translational Research and Applied Medicine (TRAM) Program, which he has led since 2011. His laboratory investigates how oncogenes initiate and sustain cancer, and he has pioneered model systems showing that inactivating a single oncogene, such as MYC, can be sufficient to reverse tumor growth — a concept known as \"oncogene addiction.\" \n\nJoanna Liliental, PhD, is Executive Director of Stanford's Master's in Translational Research and Applied Medicine (M-TRAM) program, Director of the Translational Applications Service Center (TASC), and Associate Director of the Translational Research and Applied Medicine (TRAM) Program. Since 2011, she has worked alongside Dean Felsher, mentoring researchers as they move scientific findings from the lab into clinical application, including biomarker research for early cancer detection. \n\nThe graduate course TRAM223B Drug Development and Clinical Trials will be available for the winter quarter. Enrollment begins October 19. Learn course details:\n\n🎓 https://online.stanford.edu/courses/tram223b-drug-development-and-clinical-trials",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "2z-7pIj57f8",
-      "title": "We need to talk about Jev...",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=2z-7pIj57f8",
-      "published": "2026-09-18T15:28:51+00:00",
-      "summary": "Check out Zapier! https://bit.ly/3Tyuga2\nGet a 14 day free trial!\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/CompleteSkeptic/status/2099925682726002904\nhttps://x.com/aimlapi/status/2100372930282573876\nhttps://x.com/rileybrown/status/2100607709317861879\nhttps://x.com/thekitze/status/2100595129874817340\nhttps://x.com/jpschroeder/status/2100347770867458384\nhttps://x.com/The_Alex/status/2100431093862367696",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -792,19 +805,6 @@
       "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
       "published": "2026-04-17T18:07:46+00:00",
       "summary": "Claude Opus 4.7 just dropped, but behind every headline lies a deeper story. From a bonanza of benchmarks, to seeing the fruits of one of the biggest mega-projects in US history, to sneaky Mythos disclaimers, to Anthropic admitting compute restraints and, forcing lower capability of Opus 4.7. Where the new model falls behind Gemini but ahead of GPT 5.4, plus why some users are furious at Anthropic. Ending with a 9-year animus, that still affects AI today…\n\nhttps://assemblyai.com/aiexplained\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:58 - Benchmarks\n05:21 - Market Share + Compute Problems\n08:12 - Mythos Exclusives\n12:56 - User Frustration + Claude Code Updates\n14:03 - Brockman Amodei Rivalry\n17:40 - OpenAI vs Anthropic Approach to Code\n\nClaude 4.7 Opus Release Notes: https://www.anthropic.com/news/claude-opus-4-7\nvs Mythos: https://pbs.twimg.com/media/HGCGugrXUAAKcHp?format=jpg&amp;name=medium\n\n232-page System Card: https://cdn.sanity.io/files/4zrzovbb/website/037f06850df7fbe871e206dad004c3db5fd50340.pdf\n\nARC-AGI 2: https://x.com/arcprize/status/2044834615417053305/photo/1\n\nParseBench: https://x.com/jerryjliu0/status/2044902620746363016/photo/1\n\nGDPVal: https://artificialanalysis.ai/evaluations/gdpval-aa\n\nVidoc Security Replication: https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models\n\nBoris Cherny Settings: https://x.com/Hesamation/status/2043016923961577516/photo/2\n\nUser Frustration: https://x.com/RileyRalmuto/status/2044836116189069660\n\nVibeCode Bench: https://x.com/ValsAI/status/2044791415524471099/photo/1\n\nVerge Memo: https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic\n\n5.4 Cyber: ​​https://openai.com/index/scaling-trusted-access-for-cyber-defense/\n\nData Centers in Absolute $: https://x.com/finmoorhouse/status/2044933442236776794/photo/1\n\n…in % of GDP: https://pbs.twimg.com/media/HGEN8FGWQAAN7Np?format=jpg&amp;name=4096x4096\n\nWSJ Exclusive: https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde\n\nBrockman Interview: https://www.youtube.com/watch?v=J6vYvk7R190\n\n$1T Valuation: https://x.com/StefanFSchubert/status/2045039686997967082\n\nEmotions: https://www.patreon.com/c/aiexplained/posts\n\nhttps://lmcouncil.ai/benchmarks\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "txx6ec6MLNY",
-      "title": "Claude Mythos: Highlights from 244-page Release",
-      "channel": "AI Explained",
-      "channel_category": "AI Analysis",
-      "url": "https://www.youtube.com/watch?v=txx6ec6MLNY",
-      "published": "2026-04-08T17:39:20+00:00",
-      "summary": "The model, the mythos, the legend. We have a new best AI model, but not all of us. How good is it, what does it’s new offensive capabilities mean? Why does it’s 244 page report card remind me of Her, and why did the creator of Claude Code call it ‘terrifying’. 30+ highlights sourced by reading the paper in full, old-school, no AI summary.\n\nhttps://80000hours.org/aiexplained\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:56 - Internal Release + Availability\n02:37 - General Capabilities\n05:12 - Self-improvement?\n06:15 - ‘Terrifying’ Landscape\n11:07 - Safety Decision\n13:22 - Coding\n14:49 - Alignment, Awareness\n19:52 - GUI for Agents/Claws + Hallucinations\n21:34 - …Emotions?\n25:29 - Her connection\n\n244-page System Card: https://www-cdn.anthropic.com/8b8380204f74670be75e81c820ca8dda846ab289.pdf\n\nProject Glasswing: https://www.anthropic.com/glasswing\nZero-Day Details: https://red.anthropic.com/2026/mythos-preview/\n\nMythos ‘terrifying’: https://x.com/bcherny/status/2041605852382351666\n\nNew Yorker Altman/Amodei: https://archive.fo/20260406100412/https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted\n\nAlignment Risk Update: https://www-cdn.anthropic.com/79c2d46d997783b9d2fb3241de43218158e5f25c.pdf\n\nIn a Park: https://x.com/sleepinyourhat/status/2041584808514744742\n\n“Uhm” - https://x.com/thsottiaux/status/2041749947385815109\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
