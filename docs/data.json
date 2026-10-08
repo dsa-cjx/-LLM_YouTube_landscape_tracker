@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T12:51:40.869696+00:00",
+  "generated_at": "2026-10-08T22:56:20.847736+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "QnxXx1FpnF8",
+      "title": "Mistral Large 4 Failed My Rubik's Cube Test",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=QnxXx1FpnF8",
+      "published": "2026-10-08T15:54:52+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "BsNHg6cNjZE",
       "title": "12 Grok Bot Use Cases That Feel Illegal",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=114i2Kz-LZA",
       "published": "2026-09-28T20:06:59+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nTo follow along with the course schedule and syllabus, visit: https://cme295.stanford.edu/syllabus/\n\nChapters:\n00:00:00 Welcome\n00:03:43 Difference from last year’s edition\n00:05:01 Class logistics\n00:12:42 Timeline\n00:16:56 Tokenization\n00:37:27 Word2vec (CBOW, Skip-gram)\n00:48:26 RNN, LSTM\n00:55:18 Attention\n00:57:16 Self-attention mechanism\n00:59:54 Query, key, value\n01:09:35 Transformer architecture\n01:12:19 Input\n01:16:27 Transformer Encoder\n01:18:19 Transformer Decoder\n01:22:16 Computational tricks\n01:27:35 End-to-end example\n\nAfshine Amidi is an Adjunct Professor at Stanford University.\n\nShervine Amidi is an Adjunct Professor at Stanford University.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -415,19 +428,6 @@
       "url": "https://www.youtube.com/watch?v=OWu2kjKrRTA",
       "published": "2026-09-23T03:41:24+00:00",
       "summary": "Check out all our Opus 5.5 tests: https://forwardfuture.com/opus-5-5-review\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nThanks to Thariq for joining! https://x.com/trq212\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://www.anthropic.com/claude-opus-5-5",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "bn4uvtg8ECY",
-      "title": "How I Use Eight Sleep to Improve My Sleep",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=bn4uvtg8ECY",
-      "published": "2026-09-22T21:33:00+00:00",
-      "summary": "Use code MATTHEWBERMAN at checkout: https://eightsleep.com/matthewberman\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
