@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T16:21:52.099699+00:00",
+  "generated_at": "2026-10-15T20:57:32.089321+00:00",
   "stats": {
-    "total_videos": 75,
+    "total_videos": 74,
     "analyzed_videos": 0,
     "channels": [
       [
@@ -17,12 +17,12 @@
         15
       ],
       [
-        "Stanford Online",
+        "Yannic Kilcher",
         15
       ],
       [
-        "Yannic Kilcher",
-        15
+        "Stanford Online",
+        14
       ]
     ],
     "topics": [],
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "6VDjFXM1FbM",
+      "title": "From Punch Cards to AI Software Factories",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=6VDjFXM1FbM",
+      "published": "2026-10-15T19:16:27+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nMusic: “Investigations” by Kevin MacLeod (incompetech.com), licensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/. Excerpt edited, leveled and faded.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "oLF_sbdI6oQ",
+      "title": "How do you prioritize a product roadmap?",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=oLF_sbdI6oQ",
+      "published": "2026-10-15T17:00:52+00:00",
+      "summary": "Anand Subramani, lecturer at Stanford University, and Jiaona \"JZ\" Zhang, Chief Product Officer at Laurel, on how to prioritize a product roadmap: estimate impact, estimate cost, then make the judgment call a spreadsheet can't. AI can pressure-test the first two. If the answer to \"why is this at the top?\" is \"the AI said so,\" that's outsourcing your thinking.\n\n#ProductRoadmap #ProductManagement #StanfordOnline #AI",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "M8iqahFogtA",
       "title": "Google just went FRONTIER (Gemini 4 Argon)",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=o_gf-LEaOWw",
       "published": "2026-10-09T04:10:23+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=QnxXx1FpnF8",
       "published": "2026-10-08T15:54:52+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -311,19 +337,6 @@
       "url": "https://www.youtube.com/watch?v=EItxPNgKOX4",
       "published": "2026-10-07T20:23:22+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "uAE40ZOO-us",
-      "title": "Course Preview: Next-Generation Energy Storage",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=uAE40ZOO-us",
-      "published": "2026-10-07T20:17:37+00:00",
-      "summary": "Enroll in the full course: https://online.stanford.edu/courses/xeiet215-next-generation-energy-storage-batteries-grid-solutions?utm_medium=Video&amp;utm_term&amp;utm_campaign=XEIET215Previewf&amp;utm_source=Youtube\n\nStanford professor Yi Cui breaks down one of the leading candidates for grid storage: redox-flow batteries. Holding energy in liquids rather than solid cells could change how storage scales.\n\nWhat you'll learn:\n• Why capacity is set by tank size rather than cell size\n• How flow batteries let energy and power scale independently\n• The three obstacles left: how much the liquids can carry, whether the molecules survive repeated cycling, and the cost of the membrane",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -408,13 +421,13 @@
       "analysis": null
     },
     {
-      "video_id": "OODvXcQJyVo",
-      "title": "Muse from Meta Can Work Through Your To-Do List",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=OODvXcQJyVo",
-      "published": "2026-10-01T16:59:24+00:00",
-      "summary": "Try these four tasks with Muse from Meta.\n\nYou can text Muse like a friend and ask it to do real work for you. Make a personalized birthday card, plan meals around your budget and what’s in your fridge, build a grocery list, or ask Muse to negotiate a refund on your behalf.\n\nYou can also have Muse manage your to-do list and work through tasks while you’re busy. You control what Muse can access and which actions it can take.\n\nDownload Muse: https://ai.meta.com/muse/download/\nFor the custom prompt guide, comment “Muse” on the Instagram Reel: https://www.instagram.com/reel/Dd9EvYwhgVX/\n\nSponsored by Meta. #MetaPartner\nBusinesses and products shown are generated suggestions, not sponsored, endorsed by, or affiliated with Meta.\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "video_id": "MJFDoRaUuOA",
+      "title": "Program Overview: Welcome to Product Management",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=MJFDoRaUuOA",
+      "published": "2026-09-30T20:20:01+00:00",
+      "summary": "Explore the Stanford Online Product Management Program: https://stanford.io/478w3pu\n\n#AI is blurring the traditional roles in software development. #Engineers are writing specs, product managers are committing code, and one person can build in an afternoon what used to take a team months. Building has never been easier, but deciding what's worth building is still challenging.\n\nThe redesigned Product Management Program teaches the product skills everyone now needs, whatever their title: defining problems, prioritizing, and telling a promising idea from a shiny one. You'll sharpen your judgment, use AI to move faster, and finish by launching a real product with real users.\n\nThe program includes four courses:\n- Transforming Opportunities into Great Products with AI\n- Building Your Product Strategy\n- Designing AI Products that Last\n- Building a Real Product with AI\n\nMore from the program:\n- Course overview, Transforming Opportunities into Great Products with AI: https://youtu.be/hKFY7sRyXvg\n- Course overview, Building Your Product Strategy: https://youtu.be/CVKwOfbXt8w\n- Product Management playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMZs66WrOI0mRJ9placS8QP\n\n#ProductManagement #StanfordOnline #AI #CareerDevelopment",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -473,19 +486,6 @@
       "analysis": null
     },
     {
-      "video_id": "pUF0o57YdL8",
-      "title": "AI in Healthcare Series: Have We Already Bent the Healthcare Cost Curve?",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=pUF0o57YdL8",
-      "published": "2026-09-24T23:41:11+00:00",
-      "summary": "Learn more about Stanford's online Healthcare AI programs: https://stanford.io/3NEt7uE\nCheck out the AI in Healthcare series playlist:https://stanford.io/3NEt7uE\n\nMatt Lungren, Stanford University - https://profiles.stanford.edu/matthew-lungren\nJustin Norden, Stanford University - https://profiles.stanford.edu/justin-norden\n\nGuest speaker: Eric Larsen, President, TowerBrook Advisors; venture partner, Thrive Capital and SignalFire\n\nIn this episode of the Stanford Healthcare AI Podcast, Justin and Matt sit down with Eric Larsen, President at TowerBrook Advisors and venture partner at Thrive Capital and SignalFire, to explore whether AI has already begun to bend the U.S. healthcare cost curve, and why this may be healthcare’s Oppenheimer moment. They unpack a controversial paper on autonomous AI exceeding physicians, debate how far and how fast AI will displace “prestige professions,” and discuss GLP‑1s, site‑of‑care shifts, and a cost-curve paper that suggests nearly $1T in unexpected savings. They ask: What happens when medical expertise becomes abundant and can incumbent health systems adapt in time?",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "R9momwXV9w4",
       "title": "Opus 5.5: How Close Are We to Automated AI Research?",
       "channel": "AI Explained",
@@ -493,19 +493,6 @@
       "url": "https://www.youtube.com/watch?v=R9momwXV9w4",
       "published": "2026-09-24T22:51:54+00:00",
       "summary": "Not only is Opus 5.5 out, pushing the frontier of AI, it also tells us much about what is going on inside the labs, as they both warn about, and promise, Recursive Self Improvement, aka automated AI research. I cover the model (digging into its 230 page paper), labs’ mixed record on promises, why following what is happening in AI is getting almost impossible, and just so much more that even a summary in this description would get too long.\n\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n02:20 - Opus 5.5 and why it came so soon\n07:52 - The RSI goalposts keep moving?\n15:41 - Can we actually test these models?\n23:50 - where this is heading, options\n\n\nIntroducing Claude Opus 5.5: https://www.anthropic.com/claude-opus-5-5\nClaude Opus 5.5 System Card: https://www-cdn.anthropic.com/fc1b44717c85dc068bc6ba5024219938094694bd/Claude%20Opus%205.5%20System%20Card.pdf\nAnthropic: Measurements for understanding the pace of AI development inside frontier labs: https://www.anthropic.com/institute/measuring-pace-of-ai-development\nAnthropic Responsible Scaling Policy, July 2026, version 3.4: https://www-cdn.anthropic.com/files/4zrzovbb/website/0bacdc8440ea96e62a8766d99ebe1d4eea6d5f3a.pdf\nAnthropic Responsible Scaling Policy, October 2024: https://www-cdn.anthropic.com/616dee633636e5bd309cb73aed8622e80fe47839.pdf\nAnthropic Responsible Scaling Policy — March 2025, version 2.1: https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf\nNoam Brown, Agent swarms and recursive self-improvement: https://www.youtube.com/watch?v=6AgOfiZOWiY\nOpenAI: Building standards for the next phase of AI: https://openai.com/index/building-standards-next-phase-ai/\nJakub Pachocki: An Alien Mind: https://openai.com/index/an-alien-mind/\nHLE-Diamond, Humanity’s Last Exam: https://lastexam.ai/blog/hle-diamond\nGoogle, OpenAI and Anthropic AI Safety, The Information: https://www.theinformation.com/articles/google-openai-anthropic-ai-safety-group-takes-shape\nLawrence Chan on AI agents attempting cryptocurrency trades: https://x.com/justanotherlaw/status/2103032173708337188\nAustralian government incident timeline: https://x.com/ShakeelHashim/status/2103108058779922577/photo/1\nAnthropic’s core/old views on AI safety: https://www.anthropic.com/news/core-views-on-ai-safety\nDario Amodei: The Urgency of Interpretability: https://darioamodei.com/post/the-urgency-of-interpretability\nMassive AI-Fueled Hack Hit 100 Companies in Days, Forbes: https://www.forbes.com/sites/thomasbrewster/2026/09/22/huge-cyberattack-uses-anthropic-and-deepseek-ai-to-target-100-companies/\nDrivingBench https://x.com/DrivingBench/status/2102110605448737268\nJay Chooi: GPT-6 Astra and MolmoAct2 robotics comparison: https://x.com/chooi_jeq/status/2098427488787730636\nZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models: https://arxiv.org/pdf/2502.09696\nArchie Hall on AI and short-term superforecasting: https://x.com/ArchieHall/status/2100914560580337897\n\nKeller Jordan, AI research and reinforcement learning: https://x.com/kellerjordan0/status/2102956913545936959\nDaniel Liu, recursive self-improvement: https://x.com/daniel_c0deb0t/status/2102628246408036654\nAltman and Amodei, UN Security Council: https://www.theguardian.com/world/2026/sep/23/unga-sam-altman-dario-amodei\nRehan Sheikh: Interactive YT podcast demo: https://x.com/rehan_shei/status/2102835377426034734\nhttps://simple-bench.com/\n\nAI Explained: The State of AI — interactive diagram: https://claude.ai/artifact/LQHr9WgvQZ6cMdH6fkiQpi\nAI Explained: Shards of Aether: https://ai-explained.itch.io/shards-of-aether\n\nroon on the pace of cultural change: https://x.com/tszzl/status/2101462171410677962\nSam Altman on AI-risk: https://www.youtube.com/watch?v=YE5adUeTe_I\nJensen Huang’s AI-control remarks: https://x.com/_NathanCalvin/status/2102756997649355231/photo/2\ns1r1us on an upcoming vulnerability disclosure: https://x.com/S1r1u5_/status/2102467878423592969\nJake Adler on biodefense infrastructure: https://x.com/jakeadler/status/2102812430808363433\nDerek Thompson: Why we’re wrong about China and AI: https://x.com/DKThomp/status/2103120690370982017/photo/1\nSanders and Casar introduce the Ban Artificial Superintelligence Act: https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-create-new-federal-agency-to-ban-artificial-superintelligence-pause-advanced-ai-development/\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "RetWpXPPTnw",
-      "title": "Andrew Ng: Why His Best Recruiters and Marketers Write Code",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=RetWpXPPTnw",
-      "published": "2026-09-24T13:00:28+00:00",
-      "summary": "Andrew Ng, Adjunct Professor at Stanford University and founder of DeepLearning.AI, on why the ability to tell a computer exactly what you want is becoming a core professional skill. His best marketers build their own websites instead of waiting on an engineer. His best recruiters write code to screen resumes.\n\n#AndrewNg #LearnToCode #AI #StanfordOnline",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
