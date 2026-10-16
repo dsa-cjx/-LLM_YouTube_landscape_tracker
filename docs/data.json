@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-16T16:07:44.797837+00:00",
+  "generated_at": "2026-10-16T20:32:22.168048+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "idD08N4rgJU",
+      "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Stereo Vision",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=idD08N4rgJU",
+      "published": "2026-10-16T17:00:09+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n \nLecture 10 — Stereo Vision\n \nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \nFull playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "vdU8mYN_-hE",
       "title": "Gemini 4 Argon built this cyberpunk city",
@@ -58,7 +71,7 @@
     },
     {
       "video_id": "S3bCDcJhz4s",
-      "title": "Stanford CME 295 Transformers & LLMs | Fall 2026 | Lecture 3 - LLM training",
+      "title": "Stanford CME295 Transformers & LLMs | Fall 2026 | Lecture 3 - LLM training",
       "channel": "Stanford Online",
       "channel_category": "Education",
       "url": "https://www.youtube.com/watch?v=S3bCDcJhz4s",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=nluc4rMiipA",
       "published": "2026-10-09T22:05:28+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n \nLecture 4 — Trajectory Tracking and Closed-Loop Control\n \nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \nInstructor:\nProf. Marco Pavone, Associate Professor of Aeronautics and Astronautics, Director of Autonomous Vehicle Research at NVIDIA\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -480,19 +493,6 @@
       "url": "https://www.youtube.com/watch?v=8cAQdELWYuo",
       "published": "2026-09-29T23:06:27+00:00",
       "summary": "For more information about Stanford's online Artificial Intelligence programs, visit: https://stanford.io/ai\n\nFollow along with the course schedule and syllabus; visit: https://cs153.stanford.edu/\n\nIn this CS 153 Frontier Systems lecture, Periodic Labs cofounders Liam Ferriss and Dorje Chubak — veterans of OpenAI's post-training team and DeepMind's Genome project, respectively — walked students through their eleven-month-old mission to apply AI to the physical world, specifically using autonomous labs to accelerate the discovery of new materials including high-temperature superconductors. \n\nOperating out of a 40,000-square-foot Menlo Park facility where machine learning researchers work alongside physicists and chemists, their AI system (named Onnes, after the scientist who discovered superconductivity in 1908) runs a continuous loop of computational prediction, robotic synthesis, and experimental verification — closing the feedback cycle between digital intelligence and physical reality in a way no purely in-silico approach can. A key early lesson was abandoning their original plan of spending the first year purely computational: building smaller, semi-manual labs first allowed them to direct the research program and understand what to scale, faster. \n\nDorje emphasized that the results of applying LLMs to actual atoms have exceeded even their own expectations, while Liam stressed that sample efficiency in reinforcement learning — not benchmark climbing — is the core technical frontier when physical experiments can't be arbitrarily scaled up the way digital rollouts can. They closed by pushing back on student anxiety about AGI displacing their careers, arguing that most scientific domains remain largely untouched by LLMs, that the bar to make meaningful AI-physical world progress is still surprisingly low, and that the history of civilization is essentially a materials story — making their work, in their view, among the highest-leverage bets anyone can make right now.",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "6EIkeKruJaI",
-      "title": "Webinar: AI Agent Simulation of Human Behavior with Michael Bernstein",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=6EIkeKruJaI",
-      "published": "2026-09-29T22:07:44+00:00",
-      "summary": "- Explore these concepts and more in the UI/UX Design for AI Products course: https://bit.ly/stf-aid-webinar\n- Learn how to build intelligent AI agents: https://online.stanford.edu/programs/agentic-ai\n- Browse all Stanford Online AI courses: https://online.stanford.edu/artificial-intelligence/courses-and-programs\n\nWhat happens when AI agents are designed to simulate human behavior?\n\nIn this Stanford Online webinar delivered in collaboration with Global Alumni, Professor Michael Bernstein explores the emerging possibilities of AI agents and their ability to model, interact with, and simulate aspects of human behavior. The session offers a closer look at how advances in artificial intelligence are changing the way we think about human-AI interaction, simulation, and the design of intelligent systems.\n\nDrawing on Stanford research in human-AI interaction and social computing, Professor Bernstein examines the opportunities and challenges that arise as AI systems become increasingly capable of representing human behaviors and interactions.",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
