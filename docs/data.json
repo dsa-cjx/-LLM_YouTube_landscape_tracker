@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-17T14:59:58.511531+00:00",
+  "generated_at": "2026-10-17T20:10:19.026151+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "8A3NmdQJRNc",
+      "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Image Processing",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=8A3NmdQJRNc",
+      "published": "2026-10-17T17:00:01+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nLecture 11 — Image Processing, Feature Detection and Description\n \nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "YMulO01LMBE",
       "title": "Gemini 4 Argon Built an Excel Clone in 20 Minutes",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=AN4jXyWwV7Q",
       "published": "2026-10-09T22:31:08+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n \nLecture 7 — Motion Planning II: Sampling-Based Methods\n \nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \nFull playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -480,19 +493,6 @@
       "url": "https://www.youtube.com/watch?v=MJFDoRaUuOA",
       "published": "2026-09-30T20:20:01+00:00",
       "summary": "Explore the Stanford Online Product Management Program: https://stanford.io/478w3pu\n\n#AI is blurring the traditional roles in software development. #Engineers are writing specs, product managers are committing code, and one person can build in an afternoon what used to take a team months. Building has never been easier, but deciding what's worth building is still challenging.\n\nThe redesigned Product Management Program teaches the product skills everyone now needs, whatever their title: defining problems, prioritizing, and telling a promising idea from a shiny one. You'll sharpen your judgment, use AI to move faster, and finish by launching a real product with real users.\n\nThe program includes four courses:\n- Transforming Opportunities into Great Products with AI\n- Building Your Product Strategy\n- Designing AI Products that Last\n- Building a Real Product with AI\n\nMore from the program:\n- Course overview, Transforming Opportunities into Great Products with AI: https://youtu.be/hKFY7sRyXvg\n- Course overview, Building Your Product Strategy: https://youtu.be/CVKwOfbXt8w\n- Product Management playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMZs66WrOI0mRJ9placS8QP\n\n#ProductManagement #StanfordOnline #AI #CareerDevelopment",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "y4xvZnl102w",
-      "title": "Webinar: What AI Can and Cannot Do: Intelligence Augmentation in Practice with Michael Bernstein",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=y4xvZnl102w",
-      "published": "2026-09-30T15:00:24+00:00",
-      "summary": "- Explore these concepts in the AI-Powered Product Innovation course: https://bit.ly/pin-stf-webinar\n- Learn how to build intelligent AI agents: https://online.stanford.edu/programs/agentic-ai\n- Browse all Stanford Online AI courses: https://online.stanford.edu/artificial-intelligence/courses-and-programs\n\nArtificial intelligence is transforming how organizations approach problem-solving, decision-making, and innovation—but knowing where AI can create reliable value is just as important as knowing where it cannot.\n\nIn this Stanford Online webinar delivered in collaboration with Global Alumni, Professor Michael Bernstein explores the practical realities of AI adoption and the role of human judgment in an increasingly AI-enabled workplace. The session examines how to distinguish between problems AI can solve reliably and those that continue to require human expertise, judgment, and oversight.\n\nDrawing on research and practical frameworks for human-AI interaction, Professor Bernstein explores how leaders and professionals can evaluate AI opportunities more thoughtfully, assess potential risks, and determine where AI can genuinely augment human capabilities.",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
