@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-18T15:25:08.351298+00:00",
+  "generated_at": "2026-10-18T20:08:20.130041+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "GsIRJJ5sYoU",
+      "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Classic Visual Recognition",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=GsIRJJ5sYoU",
+      "published": "2026-10-18T17:00:30+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nLecture 12 — Information Extraction and Classic Visual Recognition\n\nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "kb74_MmsTFM",
       "title": "Gemini 4 Argon Made a Fall Guys Clone",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=TqxHhuOve2Q",
       "published": "2026-10-10T00:41:09+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -480,19 +493,6 @@
       "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
       "published": "2026-10-01T21:20:12+00:00",
       "summary": "This video is hard to summarise. A cracked cipher, an OpenAI security warning, Gemini 4 Argon, RSI paper (co-authored by a who’s who of AI), Lab White House commitments, new hacks emerging, ‘deep personas’, biology Kasparov competitions, and so much more, ending with an epic Opus outro.\n\n\nPatreon Exclusives: https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:32 - Wrong about Opus 5.5? Deciphering 16th Century Text\n05:01 - Why the models keep breaking out\n11:40 - What the models aren't telling us\n15:36 - Gemini 4 and the race to release\n19:19 - What happens when AI improves AI?\n28:31 - Biology, consciousness, and what we still don't understand\n\n\nJoe Darrow: Not Just the Sandbox: https://x.com/joedaroo/status/2104335929293127851\n\nGPT-6.1 Sol System Card: https://cdn.openai.com/pdf/38e3efcf-545e-44cd-99ec-2b7eb395f4cc/oai_GPT_6_1_Sol.pdf\n\nIntelligence Explosion Paper: https://casp.ac/__l5e/assets-v1/5efd4b41-deb5-4513-a0a3-b4f82d2b79ea/intelligence-explosion.pdf\n\nOpenAI Research Acceleration: https://openai.com/index/research-acceleration-view-inside-openai/\n\nOpenAI Training Safety Cases: https://openai.com/index/towards-safety-cases-for-frontier-ai-training/\n\nCatherine de Medicis Cipher: https://cryptiana.web.fc2.com/code/henryiii.htm\n\nProposed du Croc Decipherment: https://claude.ai/artifact/1W7B3WxkTAEGzfv3TaKXb4\n\nRogue Agents Investigation: https://asymmetricsecurity.com/newsroom/rogue-agents-investigation/\n\nOpenAI Shelves GPT-6.1 Astra: https://www.reuters.com/business/openai-shelves-new-ai-model-after-internal-safety-tests-wsj-reports-2026-09-28/\n\nThe Case for Reasoning Transparency: https://institute.deepmind.com/essays/the-case-for-reasoning-transparency/\n\nGemini 4 Argon: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\n\nOpenAI–Anthropic Rivalry: https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/\n\nNYT: OpenAI Security Warnings: https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html\n\nNYT: Claude’s Morals: https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html\n\nJasmine Wang on RSI: https://x.com/j_asminewang/status/2097840245786157432\n\nOpenAI Departures Roundup: https://x.com/Bayesian0_0/status/2105680470566686805\n\nWhite House AI Commitments: https://x.com/Danmar_here/status/2105168138392183146\n\nSarah Heck on Safety: https://x.com/SarahKHeck/status/2105058513370448280\n\nSam Altman on Alignment: https://x.com/tbpn/status/2105028992843833459\n\nSam Altman on Agent Logs: https://x.com/sama/status/2103567198690349362\n\nMicah Carroll: Misalignment Reports: https://x.com/MicahCarroll/status/2103665811051397256\n\nZuxin Liu on the Incident: https://x.com/LiuZuxin/status/2103699462648639645\n\nDeepa Seetharaman: User Images: https://x.com/dseetharaman/status/2103585482793943203\n\nOpenAI Revenue Chart: https://x.com/PaulBonnet/status/2105288259324567884/photo/1\n\nNvidia Agent Safety Platform: https://edition.cnn.com/2026/09/28/business/nvidia-ai-safety-system\n\nIntegrityBench: https://integrity-bench.com\n\nNeel Nanda on Interpretability: https://x.com/PalisadeAI/status/2104949061325652001\n\nBiology Contest: Humans and AI: https://www.theinformation.com/articles/inside-drama-behind-biology-contest-pits-openai-agents-humans\n\nPushmeet Kohli: SynthID Bio: https://x.com/pushmeet/status/2105314763148321102\n\nAtaraxos and Stratego: https://x.com/ssokota/status/2105362040328159526\n\nBenign Data and Hidden Personas: https://x.com/OwainEvans_UK/status/1999172949975392417\n\nAnthropic: Introspection: https://www.anthropic.com/research/introspection\n\nClaude Cheating Results: https://x.com/lukaspet/status/2104634759339298930\n\nRoon on Mathematics and Learning Theory: https://x.com/tszzl/status/2105619006488993898\n\nGPT-4 Research: https://openai.com/index/gpt-4-research/\n\nI.J. Good: Ultraintelligent Machine: https://incompleteideas.net/papers/Good65ultraintelligent.pdf\n\nTerence Tao’s 2024 Interview: https://www.scientificamerican.com/article/ai-will-become-mathematicians-co-pilot/\n\nHugging Face Incident: https://openai.com/index/hugging-face-incident-and-the-road-ahead/\n\nClaude and Suno Music Video: https://x.com/sevdeawesome/status/2104985610012504181\n\n\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "MJFDoRaUuOA",
-      "title": "Program Overview: Welcome to Product Management",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=MJFDoRaUuOA",
-      "published": "2026-09-30T20:20:01+00:00",
-      "summary": "Explore the Stanford Online Product Management Program: https://stanford.io/478w3pu\n\n#AI is blurring the traditional roles in software development. #Engineers are writing specs, product managers are committing code, and one person can build in an afternoon what used to take a team months. Building has never been easier, but deciding what's worth building is still challenging.\n\nThe redesigned Product Management Program teaches the product skills everyone now needs, whatever their title: defining problems, prioritizing, and telling a promising idea from a shiny one. You'll sharpen your judgment, use AI to move faster, and finish by launching a real product with real users.\n\nThe program includes four courses:\n- Transforming Opportunities into Great Products with AI\n- Building Your Product Strategy\n- Designing AI Products that Last\n- Building a Real Product with AI\n\nMore from the program:\n- Course overview, Transforming Opportunities into Great Products with AI: https://youtu.be/hKFY7sRyXvg\n- Course overview, Building Your Product Strategy: https://youtu.be/CVKwOfbXt8w\n- Product Management playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rMZs66WrOI0mRJ9placS8QP\n\n#ProductManagement #StanfordOnline #AI #CareerDevelopment",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
