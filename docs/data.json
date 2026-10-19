@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-19T12:12:52.414840+00:00",
+  "generated_at": "2026-10-19T22:00:55.482276+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Stanford Online",
+        15
+      ],
       [
         "Two Minute Papers",
         15
       ],
       [
         "Matthew Berman",
-        15
-      ],
-      [
-        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "dG3-D-vDwe8",
+      "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Localization & Filters",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=dG3-D-vDwe8",
+      "published": "2026-10-19T17:00:19+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nLecture 14 — Introduction to Localization and Filtering Theory\n\nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "LWxX6vvHfrc",
       "title": "Gemini 4 Argon Really Surprised Me",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=PODwi90Ne8k",
       "published": "2026-10-12T02:23:09+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\n'Hiraeth' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -415,19 +428,6 @@
       "url": "https://www.youtube.com/watch?v=Lgt5ONBtFI0",
       "published": "2026-10-09T21:56:16+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n \nLecture 1 — Course Overview, Mobile Robot Kinematics\n \nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \nFull playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "GaIeu3npx04",
-      "title": "Stanford CME295 Transformers & LLMs | Autumn 2026 | Lecture 2 - Large Language Models",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=GaIeu3npx04",
-      "published": "2026-10-09T21:32:13+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nTo follow along with the course schedule and syllabus, visit: https://cme295.stanford.edu/syllabus/\n\nChapters:\n00:00:00 Introduction\n00:04:47 BERT and encoder-only models\n00:13:47 GPT and decoder-only models\n00:16:10 Encoder-decoder versus decoder-only\n00:19:23 Scaling laws\n00:26:49 Large Language Model definition\n00:29:05 Mixture of experts (MoE)\n00:33:11 MoE-based LLMs\n00:36:03 Load balancing loss\n00:45:36 Position embeddings\n01:01:58 Rotary position embeddings (RoPE)\n01:09:28 Sliding Window Attention (SWA)\n01:13:15 Group Query Attention (GQA)\n01:18:13 Pre-Norm versus Post-Norm\n01:19:41 LayerNorm versus RMSNorm\n01:21:09 Next token prediction\n01:35:22 Prompting\n01:38:38 Context rot\n01:41:42 Chain of Thought (CoT)\n\n\nAfshine Amidi is an Adjunct Professor at Stanford University.\n\nShervine Amidi is an Adjunct Professor at Stanford University.\n\nFollow the playlist: https://youtube.com/playlist?list=PLakGfbKCei80&amp;si=HF2tNywj7nXIQq8X",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
