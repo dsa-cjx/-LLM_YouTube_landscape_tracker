@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:23:15.716990+00:00",
+  "generated_at": "2026-10-20T21:16:38.835062+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "dAzTioGQIzQ",
+      "title": "Webinar: Regulating at the Speed of AI with Francis Fukuyama and Nate Persily",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=dAzTioGQIzQ",
+      "published": "2026-10-20T19:23:36+00:00",
+      "summary": "Learn more about about AI, Power and the New Rules of Global Strategy - https://online.stanford.edu/courses/xfsi210-ai-power-and-new-rules-global-strategy\n\nAnxiety about the increasing capabilities of AI systems has reached unprecedented levels in the past few months. Concerns about offensive cyber capabilities led the administration to suspend the deployment of an AI model for the first time. Powerful open models from China raise the spectre of a technology that is widely diffused but poorly controlled. News about models escaping company sandboxes to hack external websites has led many to update their p(doom) levels. Employees of the major AI labs are sounding the alarm about loss of control and existential risks from the newest AI models, and some political actors and technologists are calling for a pause in AI development. The topic of AI governance is, it is fair to say, having its moment.\n\nIn this webinar, Francis Fukuyama, Olivier Nomellini Senior Fellow at Stanford’s Freeman Spogli Institute for International Studies, interviews Nathaniel Persily, James B. McClatchy Professor of Law at Stanford Law School and co-director of the Stanford Law AI Initiative. Their conversation will examine the need for AI governance and the challenges confronting both governments and firms as they try to build in controls to chart a safe AI future.\n\nYou Will Learn:\n- What obstacles stand in the way of effective AI governance\n- How AI regulation and governance differs from other technological settings, such as social media\n- How countries around the world have approached the topic of AI governance and what we can learn from their efforts",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "pSBhRF6j-Zc",
       "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Parametric Filtering",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=rpLrkJ5NNEI",
       "published": "2026-10-13T00:47:04+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -415,19 +428,6 @@
       "url": "https://www.youtube.com/watch?v=Izu4_AUiHyk",
       "published": "2026-10-09T22:15:02+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n \nLecture 5 — Advanced Methods for Trajectory Optimization\n \nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \nInstructor:\nProf. Marco Pavone, Associate Professor of Aeronautics and Astronautics, Director of Autonomous Vehicle Research at NVIDIA\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n  \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "nluc4rMiipA",
-      "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Trajectory Tracking",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=nluc4rMiipA",
-      "published": "2026-10-09T22:05:28+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n \nLecture 4 — Trajectory Tracking and Closed-Loop Control\n \nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \nInstructor:\nProf. Marco Pavone, Associate Professor of Aeronautics and Astronautics, Director of Autonomous Vehicle Research at NVIDIA\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
