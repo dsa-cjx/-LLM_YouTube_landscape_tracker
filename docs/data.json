@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-21T11:13:18.011219+00:00",
+  "generated_at": "2026-10-21T16:39:29.884552+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Matthew Berman",
+        15
+      ],
       [
         "Stanford Online",
         15
       ],
       [
         "Two Minute Papers",
-        15
-      ],
-      [
-        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "3gXLmy7DK_4",
+      "title": "Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=3gXLmy7DK_4",
+      "published": "2026-10-21T15:30:24+00:00",
+      "summary": "Sam Altman joins me to break down AI consciousness, recursive self-improvement, and how AI could help discover new medicines and scientific breakthroughs. We also get into the future of AI devices, the pressure of leading OpenAI, and why Sam believes we should aim for a new renaissance.\n\nHuge thanks to Sam for joining me! https://x.com/sama\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters\n0:00 Intro\n0:52 When Will AI Discover New Treatments?\n3:31 Why AI Hasn’t Killed Coding Jobs\n11:47 Personal AI Assistants\n15:39 Why Are We Busier Than Ever?\n20:10 Why the AI Consciousness Debate Worries Sam\n26:09 ChatGPT Is Too Agreeable\n30:03 OpenAI’s Bet on Chips and Cheaper Compute\n34:20 Why AI Needs a New Kind of Computer\n37:41 Sam on Pressure: “Pick the Big Thing”\n42:18 Why “AI Will Cure Cancer” Isn’t Enough",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "dAzTioGQIzQ",
       "title": "Webinar: Regulating at the Speed of AI with Francis Fukuyama and Nate Persily",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
       "published": "2026-10-13T08:56:12+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The papers are available here:\nhttps://openai.com/index/sharing-ai-progress-in-mathematics/\nhttps://github.com/openai/math\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -454,19 +467,6 @@
       "url": "https://www.youtube.com/watch?v=QnxXx1FpnF8",
       "published": "2026-10-08T15:54:52+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "BsNHg6cNjZE",
-      "title": "12 Grok Bot Use Cases That Feel Illegal",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=BsNHg6cNjZE",
-      "published": "2026-10-07T23:08:41+00:00",
-      "summary": "Check out Eight Sleep's Pod 6: https://www.eightsleep.com/matthewberman\nUse code 'MATTHEWBERMAN' for up to $200 off\n\nGrok Bot Templates and Prompts: https://app.box.com/s/6806pjhc3qt67x61ixk95t6385wks7zl \n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 Intro\n0:38 Money Saver\n2:36 Tesla Assistant\n4:05 Computer Cleanup\n5:55 Sponsor\n7:11 Daily Brief\n8:21 Family Bot\n11:28 Lead Finder\n13:42 Meeting Summary\n16:26 To-Do Manager\n18:10 Email Triage\n20:40 Utility Bill Savings\n22:09 Calendar Assistant\n23:57 Uber & DoorDash",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
