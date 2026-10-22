@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T16:40:29.269602+00:00",
+  "generated_at": "2026-10-22T21:13:07.348809+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "9WZpou1faFU",
+      "title": "Sam Altman on AI’s Discovery Era",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=9WZpou1faFU",
+      "published": "2026-10-22T20:47:14+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "jT6aYMQ0Lqw",
+      "title": "Stanford CS547 HCI Seminar | Autumn 2026 | Sensing Uncertainty in Sustainable HCI",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=jT6aYMQ0Lqw",
+      "published": "2026-10-22T17:00:10+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nOctober 2, 2026\nThis lecture covers:\n• Sensing uncertainty\n• When a sensor may not be reporting on an event as it occurred\n• How user interfaces (UIs) and their underlying technology shape epistemic position\n• Embracing uncertainty as a central research question\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nKristin Williams is an Assistant Professor of Computer Science in Emory University's College of Arts and Sciences, where she directs the Embodied Interaction Lab (EMBI Lab).\n\n#SustainableComputing #HumanComputerInteraction #Sustainability #HCI",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "tc92psltcEg",
       "title": "Sam Altman on What Personal AI Still Needs",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=bt-R1RNc-5k",
       "published": "2026-10-17T00:00:25+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nThis lecture is from Stanford EE292R AI and Data for Science, and it covers mechanistically interpretable models of computation in the early visual system. \n\nFollow the course schedule: https://aida4sci.stanford.edu/schedule.html#fall-2026\n\nSpeaker: \nStephen Baccus, Professor of Neurobiology at Stanford University\n\n#ComputationalNeuroscience #MechanisticInterpretability #Neuroscience",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=idD08N4rgJU",
       "published": "2026-10-16T17:00:09+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n \nLecture 10 — Stereo Vision\n \nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \nFull playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -421,19 +447,6 @@
       "analysis": null
     },
     {
-      "video_id": "FTaPMTB-LxI",
-      "title": "I'm Rebuilding Super Mario World With AI",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=FTaPMTB-LxI",
-      "published": "2026-10-12T16:21:04+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "4fLVq6HJsKc",
       "title": "DeepSeek Solved AI’s Memory Problem",
       "channel": "Two Minute Papers",
@@ -454,19 +467,6 @@
       "url": "https://www.youtube.com/watch?v=emb_KF3OSu0",
       "published": "2026-10-09T22:38:13+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nLecture 8 — Robotic Sensors and Introduction to Computer Vision\n \nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "AN4jXyWwV7Q",
-      "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Motion Planning Sampling-Based",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=AN4jXyWwV7Q",
-      "published": "2026-10-09T22:31:08+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n \nLecture 7 — Motion Planning II: Sampling-Based Methods\n \nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \nFull playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
