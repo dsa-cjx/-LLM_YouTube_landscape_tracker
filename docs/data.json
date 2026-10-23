@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:03:40.698262+00:00",
+  "generated_at": "2026-10-23T16:30:33.186592+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "cfnLXAXTadA",
+      "title": "Stanford CS547 HCI Seminar | Autumn 2026 | Designing AI for Societal Good",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=cfnLXAXTadA",
+      "published": "2026-10-23T16:00:05+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nOctober 9, 2026\nThis lecture covers:\n• Improving generative AI chatbots' influence on public mental health as a case study\n• A new way of thinking about \"designing AI for societal good,\" namely \"designing AI as planting seeds\" (of better business models, policy, and politics)\n• Early work that explores this design practice and research agenda\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nQian Yang is an assistant professor in Computing and Information Science at Cornell University and a human-computer interaction (HCI) design researcher. \n\n#AIForGood #ResponsibleAI #ArtificialIntelligence #GenerativeAI #AIEthics",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "IfkeGU4bEJI",
       "title": "Stanford EE292R AI and Data for Science | Autumn 2026 | From World Models to World Agents",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=8A3NmdQJRNc",
       "published": "2026-10-17T17:00:01+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nLecture 11 — Image Processing, Feature Detection and Description\n \nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -376,19 +389,6 @@
       "url": "https://www.youtube.com/watch?v=6VDjFXM1FbM",
       "published": "2026-10-15T19:16:27+00:00",
       "summary": "Apply for a chance to get one free month of Factory’s $200 Max plan: https://factory.com/berman\nFactory is selecting 100 applicants. Applying does not guarantee selection.\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nMusic: “Investigations” by Kevin MacLeod (incompetech.com), licensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/. Excerpt edited, leveled and faded.",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "oLF_sbdI6oQ",
-      "title": "How do you prioritize a product roadmap?",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=oLF_sbdI6oQ",
-      "published": "2026-10-15T17:00:52+00:00",
-      "summary": "Anand Subramani, lecturer at Stanford University, and Jiaona \"JZ\" Zhang, Chief Product Officer at Laurel, on how to prioritize a product roadmap: estimate impact, estimate cost, then make the judgment call a spreadsheet can't. AI can pressure-test the first two. If the answer to \"why is this at the top?\" is \"the AI said so,\" that's outsourcing your thinking.\n\n#ProductRoadmap #ProductManagement #StanfordOnline #AI",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
