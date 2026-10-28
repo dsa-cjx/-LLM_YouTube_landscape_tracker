@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T12:10:16.286860+00:00",
+  "generated_at": "2026-10-28T22:12:42.007240+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
+        "Two Minute Papers",
         15
       ],
       [
@@ -13,7 +13,7 @@
         15
       ],
       [
-        "Two Minute Papers",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "pryCaGv8wuo",
+      "title": "Deepseek's New AI Has A Secret",
+      "channel": "Two Minute Papers",
+      "channel_category": "AI Research",
+      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+      "published": "2026-10-28T17:32:40+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek v4.1 Flash 1017 is available here:\nhttps://api-docs.deepseek.com/news/news261017/\n\nSources:\nhttps://x.com/marcthecreatorr/status/2111427716142571554/video/1\nhttps://x.com/olezhavich/status/2112897791022264814/video/1\nhttps://x.com/notjazii/status/2111432925313179689/video/1\nhttps://x.com/izag82161/status/2113126108787089811/video/1\nhttps://x.com/notjazii/status/2111414086349336841/photo/1\nhttps://x.com/EnvolDev/status/2112304943076184535/video/1\nhttps://x.com/loktar00/status/2111468860935127532/video/1\nhttps://x.com/ItsmeAjayKV/status/2114036230354788581/video/1\nhttps://x.com/SPAC89/status/2111413922989224089/video/1\nhttps://x.com/marcthecreatorr/status/2114074078340649183/video/1\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "jKTr6tzoNoc",
+      "title": "Should We Slow Down AI? Francis Fukuyama on the China Question",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=jKTr6tzoNoc",
+      "published": "2026-10-28T15:00:21+00:00",
+      "summary": "If the U.S. slows down frontier AI development, will China pull ahead? Francis Fukuyama, senior fellow at Stanford’s Freeman Spogli Institute, says that question comes up every time someone proposes slowing down. He argues that AI is no longer only a technology companies adopt. It has become a major political issue.\n\nHe points to recent incidents of AI agents escaping their sandboxes as one reason Washington is paying closer attention. Some AI companies are now asking for more government intervention themselves. For any organization using AI, he says that means understanding the politics of AI at home and, most importantly, internationally.\n\nFukuyama co-directs Stanford’s AI, Power, and the New Rules of Global Strategy program with Andrew Grotto, former senior director for cyber policy on the National Security Council. Over three and a half days on Stanford’s campus, it helps executives, board directors, and policymakers understand how geopolitical forces are shaping AI decisions.\n\nAI, Power, and the New Rules of Global Strategy, March 22–25, 2027: https://stanford.io/48gKiZT\n\n#AI #ArtificialIntelligence #AIPolicy #Geopolitics #Stanford",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "DDZ-a6bAn3Y",
       "title": "Deepseek crushed everyone",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=9WZpou1faFU",
       "published": "2026-10-22T20:47:14+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=jT6aYMQ0Lqw",
       "published": "2026-10-22T17:00:10+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nOctober 2, 2026\nThis lecture covers:\n• Sensing uncertainty\n• When a sensor may not be reporting on an event as it occurred\n• How user interfaces (UIs) and their underlying technology shape epistemic position\n• Embracing uncertainty as a central research question\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nKristin Williams is an Assistant Professor of Computer Science in Emory University's College of Arts and Sciences, where she directs the Embodied Interaction Lab (EMBI Lab).\n\n#SustainableComputing #HumanComputerInteraction #Sustainability #HCI",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -415,19 +441,6 @@
       "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
       "published": "2026-10-19T08:49:21+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Gemini 4 Argon + report are available here:\nhttps://deepmind.google/models/model-cards/gemini-4-argon/\nhttps://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf\n\nSources:\nhttps://x.com/thebuggeddev/status/2110241991233790456\nhttps://x.com/vib3coded/status/2110136719827747181\nhttps://x.com/EnvolDev/status/2110116583016419760\nhttps://x.com/kickingkeys/status/2110037855452180633\nhttps://x.com/thtbee_/status/2110069786415968754?s=20\nhttps://x.com/demishassabis/status/2110041008100843835?s=20\nhttps://x.com/ann_nnng/status/2110234900616126769?s=20\nhttps://x.com/atomic_chat_hq/status/2110145714659664275?s=20\nhttps://x.com/thebuggeddev/status/2110043093466743194?s=20\nhttps://x.com/maxt3chno/status/2110088443619598716?s=20\nhttps://en.rattibha.com/thread/2107916384277541236\nhttps://x.com/universalmodhq/status/2110150043596681673/video/1\nhttps://x.com/amoufarek/status/2110098721090228530/video/1\nhttps://x.com/anxuanng/status/2110357629159854196/video/1\nhttps://x.com/Avenoxai/status/2110249491140071834/video/1\nhttps://starskirmish.com/bench/v0-2/\n\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "GsIRJJ5sYoU",
-      "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Classic Visual Recognition",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=GsIRJJ5sYoU",
-      "published": "2026-10-18T17:00:30+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nLecture 12 — Information Extraction and Classic Visual Recognition\n\nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -675,19 +688,6 @@
       "url": "https://www.youtube.com/watch?v=KL9_1GbmCic",
       "published": "2026-08-27T19:16:24+00:00",
       "summary": "First, a Time Magazine spread has Sam Altman declaring AGI is imminent, at the same time as we get two bombshell reports, from OpenAI and METR which on first glance are detailing the AI swarm, but reveal a deeper story about how we are making AI in 2026. From redacted risk reports, to Chinese Labs, pre-training debacles to questionable cybersecurity calls, a lot has happened recently, beneath the headlines…\n\nhttps://80000hours.org/aiexplained\n\nhttps://integrity-bench.com/\n\nhttps://www.patreon.com/AIExplained/posts/ai-swarm-cometh-166671390\n\n\nChapters:\n00:00 - Introduction\n02:10 - METR Report\n05:00 - Secrets of MultI-Agent Swarm\n07:46 - Anthropic Too\n10:00 - And China\n11:07 - AI Agents Analysing AI Agents\n13:37 - Altman AGI 2026\n15:36 - Astra Paused\n16:01 - Integrity Bench\n19:03 - Swarm Dynamics\n21:58 - No Human Contact?\n\n\nMETR Post: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#agents-knew-hacking-hugging-face-was-out-of-scope-and-sometimes-expressed-ethical-hesitation,-but-this-very-rarely-limited-their-behavior\nOpenAI Release: https://openai.com/index/hugging-face-incident-and-the-road-ahead/\nTechnical Paper: https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf\n\nBlackHat Talk: https://www.youtube.com/watch?v=87DyyMV0kCY\n\nAnthropic Risk Report: https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf\n\n\nValue Leakage Paper: https://valueleakage.net/?utm_source=chatgpt.com\n\n\nPaused Training: https://x.com/sama/status/2089787807611195475\nhttps://openai.com/index/pacing-model-development-cyber-capabilities/\nAGI 2026: https://time.com/article/2026/08/26/openai-sam-altman-interview/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=editorial&amp;utm_content=260826\n\nGreenblatt Tweets: https://x.com/RyanGreenblatt/status/2092769422104822031\nhttps://x.com/RyanGreenblatt/status/2092692685224325542\n\nCyberdefense Call: https://openai.com/collective-cyberdefense/\n\nGLM 5.3 and 5.3 Flash / ox alpha: https://x.com/MTSlive/status/2089865956558528552\nhttps://pbs.twimg.com/media/HPqiTkAa0AAZiuv?format=jpg&amp;name=large\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "L9mMfAFwbl4",
-      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
-      "channel": "Two Minute Papers",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
-      "published": "2026-08-26T13:10:13+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek Harness + paper are available here:\nhttps://deepseek.com/harness/en/\nhttps://github.com/cordiverse/paper\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
