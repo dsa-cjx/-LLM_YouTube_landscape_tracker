@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:20:10.621739+00:00",
+  "generated_at": "2026-10-29T22:27:40.071609+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -9,11 +9,11 @@
         15
       ],
       [
-        "Two Minute Papers",
+        "Stanford Online",
         15
       ],
       [
-        "Stanford Online",
+        "Two Minute Papers",
         15
       ],
       [
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "IrgQdsxzRa4",
+      "title": "Two AI bots for spam calls and data privacy",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=IrgQdsxzRa4",
+      "published": "2026-10-29T19:05:33+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "MPKU3WIdThw",
+      "title": "The Biggest Mistake Leaders Make With AI Decisions",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=MPKU3WIdThw",
+      "published": "2026-10-29T15:00:32+00:00",
+      "summary": "What’s the biggest mistake leaders make with AI decisions? Andrew Grotto, co-director of Stanford’s AI, Power, and the New Rules of Global Strategy program, says it’s treating them as technical problems only. Cybersecurity, geopolitics, regulatory policy, and reputational risk all shape those decisions too.\n\nHis example is choosing an AI model. Whether a model comes from the U.S., China, or another country, choosing it can also mean taking on that jurisdiction’s regulations, in addition to your own. Organizations that skip that analysis can end up with blind spots in their regulatory risk.\n\nBefore Stanford, Grotto served as senior director for cyber policy on the National Security Council at the White House. He leads the program with Francis Fukuyama, senior fellow at Stanford’s Freeman Spogli Institute. Over three and a half days on Stanford’s campus, it helps executives, board directors, and policymakers understand how geopolitical forces are shaping AI decisions.\n\nAI, Power, and the New Rules of Global Strategy, March 22–25, 2027: https://stanford.io/3Wa1NbA\n\n#AIStrategy #AIGovernance #Geopolitics #StanfordOnline",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "zhnJo7s91ls",
       "title": "Google \"Carbon\" just won everything...",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=f8uIINtoJCM",
       "published": "2026-10-23T17:03:19+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=fHY0sjAejcA",
       "published": "2026-10-23T16:36:20+00:00",
       "summary": "Check out Jetbrains Air: https://jb.gg/JetBrains-Air\nJunie Lite is free for a limited time!\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -337,19 +363,6 @@
       "url": "https://www.youtube.com/watch?v=jT6aYMQ0Lqw",
       "published": "2026-10-22T17:00:10+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nOctober 2, 2026\nThis lecture covers:\n• Sensing uncertainty\n• When a sensor may not be reporting on an event as it occurred\n• How user interfaces (UIs) and their underlying technology shape epistemic position\n• Embracing uncertainty as a central research question\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nKristin Williams is an Assistant Professor of Computer Science in Emory University's College of Arts and Sciences, where she directs the Embodied Interaction Lab (EMBI Lab).\n\n#SustainableComputing #HumanComputerInteraction #Sustainability #HCI",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "tc92psltcEg",
-      "title": "Sam Altman on What Personal AI Still Needs",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=tc92psltcEg",
-      "published": "2026-10-21T23:13:23+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -415,19 +428,6 @@
       "url": "https://www.youtube.com/watch?v=3Vaj0Oka_t4",
       "published": "2026-10-19T23:10:53+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nTo follow along with the course schedule and syllabus, visit: https://cme295.stanford.edu/syllabus/\n\nChapters:\n00:00:00 Introduction\n00:06:35 RL setup\n00:09:32 Reward design\n00:12:23 Policy gradient\n00:17:12 Derivation of the gradient\n00:23:50 REINFORCE\n00:25:51 Importance sampling ratio\n00:33:22 Challenges of policy gradients\n00:40:34 Proximal Policy Optimization (PPO)\n00:42:49 Value function and advantage\n00:51:16 Policy ratio \n00:53:03 Ratio clipping\n00:57:45 KL Penalty\n00:59:48 Connection with DPO\n01:07:29 Group Relative Policy Optimization (GRPO)\n01:09:42 Comparison of GRPO and PPO\n01:18:25 Limitations of GRPO\n01:22:41 DAPO, Dr. GRPO\n01:25:17 On-Policy Distillation (OPD)\n01:39:32 Self (OPSD) and Multi-Teacher (OPD) variants\n\nAfshine Amidi is an Adjunct Professor at Stanford University.\n\nShervine Amidi is an Adjunct Professor at Stanford University.\n\nFollow the playlist: https://youtube.com/playlist?list=PLakGfbKCei80&amp;si=HF2tNywj7nXIQq8X",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "dG3-D-vDwe8",
-      "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Localization & Filters",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=dG3-D-vDwe8",
-      "published": "2026-10-19T17:00:19+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nLecture 14 — Introduction to Localization and Filtering Theory\n\nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
