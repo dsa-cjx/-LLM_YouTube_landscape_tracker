@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:11:01.398261+00:00",
+  "generated_at": "2026-10-30T21:56:51.486045+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -9,11 +9,11 @@
         15
       ],
       [
-        "Matthew Berman",
+        "Two Minute Papers",
         15
       ],
       [
-        "Two Minute Papers",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,45 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "Y3Y8pSOYOBo",
+      "title": "Stanford Robotics Seminar ENGR319 | Autumn 2026 | Skydio: Autonomy for a Family of Flying Robots",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=Y3Y8pSOYOBo",
+      "published": "2026-10-30T21:00:29+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-engr319-1009\n\nOctober 9, 2026\nThis seminar covers: \n• How Skydio’s autonomy stack enables flying robots to navigate complex environments, track subjects, and execute missions from high-level operator commands\n• The full autonomy stack powering Skydio’s flying robots, spanning both cloud and edge computing\n• The F10 Lightrunner, Skydio’s recently unveiled aircraft with a distinctive asymmetric design\n• How the F10 extends autonomy to long-range fixed-wing flight, including robotic takeoff and landing from MegaDock\n• How these capabilities let a single operator orchestrate multiple drones remotely through a web browser\n• How this brings autonomous robotics to public safety and critical infrastructure applications\n\nFollow along with the seminar schedule: https://stanfordasl.github.io/robotics_seminar/archive/\n\nJuraj Kabzan is the VP of Autonomy at Skydio, where he leads robotics software development for advanced flying robots.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "CWdTBLsbaQs",
+      "title": "OpenAI Claims It Just Did The Impossible",
+      "channel": "Two Minute Papers",
+      "channel_category": "AI Research",
+      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
+      "published": "2026-10-30T15:57:16+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 OpenAI's paper is available here:\nhttps://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf\n\nOur paper with the cherry splash ray tracing simulation at 0:17 https://users.cg.tuwien.ac.at/zsolnai/gfx/adaptive_metropolis/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "xnRaIFEw4dw",
+      "title": "AI FOMO Is Real: Why Leaders Should Be Quick, But Not Hurry",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=xnRaIFEw4dw",
+      "published": "2026-10-30T15:00:08+00:00",
+      "summary": "How should leaders make AI decisions when boards and investors want results now? Andrew Grotto, co-director of Stanford’s AI, Power, and the New Rules of Global Strategy program, says AI FOMO is real, and the pressure on senior executives can lead to hasty decisions with geopolitical and regulatory blind spots.\n\nHis advice borrows from the late UCLA basketball coach John Wooden: organizations need to be quick about adopting AI, but they shouldn’t hurry.\n\nBefore Stanford, Grotto served as senior director for cyber policy on the National Security Council at the White House. He leads the program with Francis Fukuyama, senior fellow at Stanford’s Freeman Spogli Institute. Over three and a half days on Stanford’s campus, it helps executives, board directors, and policymakers understand how geopolitical forces are shaping AI decisions.\n\nAI, Power, and the New Rules of Global Strategy, March 22–25, 2027: https://stanford.io/4i8p868\n\n#AIStrategy #AIGovernance #Geopolitics #StanfordOnline",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "ot_whQ3xyJQ",
       "title": "Stanford Robotics Seminar ENGR319 | Autumn 2026 | Bridging Rigorous Methods with Machine Learning",
@@ -219,7 +258,7 @@
       "channel_category": "Education",
       "url": "https://www.youtube.com/watch?v=fkug1jGSgzU",
       "published": "2026-10-26T16:00:09+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nLecture 18 — EKF SLAM\n\nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
+      "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-ekf-slam\n\nLecture 18 — EKF SLAM\n\nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
       "transcript_status": "error",
       "transcript_language": null,
       "analysis_status": null,
@@ -259,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=bBqP-w6DHFw",
       "published": "2026-10-24T23:22:44+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=5sEVvu4mQ8g",
       "published": "2026-10-24T02:34:15+00:00",
       "summary": "CodeRabbit is FREE for the first 50 users who use code \"MATTHEWCR\" https://coderabbit.link/matthew-berman-003\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://www.kimi.ai/blog/kimi-k3-1-pro",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=vEDeUdZ-jnQ",
       "published": "2026-10-23T21:00:06+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nGuest Lecture — The Robot Operating System (ROS)\n\nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n\nSpeaker: Dr. Benoit Landry, Research Scientist at Google DeepMind\n\nDr. Benoit Landry is a Research Scientist at Google DeepMind. Prior to joining Google DeepMind, he led a machine learning and robotics research team at Apple. Dr. Landry received his Ph.D. in Aeronautics and Astronautics from Stanford University in 2021, where he worked with Professor Marco Pavone, and his Bachelor of Science and Master of Engineering in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology in 2015. His research focuses on machine learning, optimization, and control theory, with particular emphasis on planning and control for autonomous robotic systems. He has been recognized as a Siebel Scholar and received the Stanford Robotics Center Fellowship supported by FANUC. He also co-founded the Stanford Robotics Seminar and helped develop and teach Stanford’s Principles of Robotic Autonomy course.\n\nFull playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -349,7 +388,7 @@
       "channel_category": "Education",
       "url": "https://www.youtube.com/watch?v=IfkeGU4bEJI",
       "published": "2026-10-22T22:00:15+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nThis lecture is from Stanford EE292R AI and Data for Science, and it covers recent advances in video world models, specifically focusing on enhancing temporal consistency and reasoning across long contexts, as well as mitigating auto-regressive drift, and explores the integration of multi-agent dynamics and the development of effective human-centric conditioning and control strategies. \n\nFollow the course schedule: https://aida4sci.stanford.edu/schedule.html#fall-2026\n\nSpeaker: \nGordon Wetzstein, Associate Professor, Electrical Engineering and, by courtesy, Computer Science, at Stanford University\n\n#WorldModels #GenerativeAI #VideoGeneration #SpatialAI #AutonomousAgents",
+      "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-world-agents\n\nThis lecture is from Stanford EE292R AI and Data for Science, and it covers recent advances in video world models, specifically focusing on enhancing temporal consistency and reasoning across long contexts, as well as mitigating auto-regressive drift, and explores the integration of multi-agent dynamics and the development of effective human-centric conditioning and control strategies. \n\nFollow the course schedule: https://aida4sci.stanford.edu/schedule.html#fall-2026\n\nSpeaker: \nGordon Wetzstein, Associate Professor, Electrical Engineering and, by courtesy, Computer Science, at Stanford University\n\n#WorldModels #GenerativeAI #VideoGeneration #SpatialAI #AutonomousAgents",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -402,32 +441,6 @@
       "url": "https://www.youtube.com/watch?v=9y_lJdQmKcY",
       "published": "2026-10-21T17:00:06+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nLecture 17 — EKF Localization\n\nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "dAzTioGQIzQ",
-      "title": "Webinar: Regulating at the Speed of AI with Francis Fukuyama and Nate Persily",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=dAzTioGQIzQ",
-      "published": "2026-10-20T19:23:36+00:00",
-      "summary": "Learn more about about AI, Power and the New Rules of Global Strategy - https://online.stanford.edu/courses/xfsi210-ai-power-and-new-rules-global-strategy\n\nAnxiety about the increasing capabilities of AI systems has reached unprecedented levels in the past few months. Concerns about offensive cyber capabilities led the administration to suspend the deployment of an AI model for the first time. Powerful open models from China raise the spectre of a technology that is widely diffused but poorly controlled. News about models escaping company sandboxes to hack external websites has led many to update their p(doom) levels. Employees of the major AI labs are sounding the alarm about loss of control and existential risks from the newest AI models, and some political actors and technologists are calling for a pause in AI development. The topic of AI governance is, it is fair to say, having its moment.\n\nIn this webinar, Francis Fukuyama, Olivier Nomellini Senior Fellow at Stanford’s Freeman Spogli Institute for International Studies, interviews Nathaniel Persily, James B. McClatchy Professor of Law at Stanford Law School and co-director of the Stanford Law AI Initiative. Their conversation will examine the need for AI governance and the challenges confronting both governments and firms as they try to build in controls to chart a safe AI future.\n\nYou Will Learn:\n- What obstacles stand in the way of effective AI governance\n- How AI regulation and governance differs from other technological settings, such as social media\n- How countries around the world have approached the topic of AI governance and what we can learn from their efforts",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "pSBhRF6j-Zc",
-      "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Parametric Filtering",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=pSBhRF6j-Zc",
-      "published": "2026-10-20T16:00:14+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nLecture 15 — Parametric Filtering (KF, EKF, UKF)\n\nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -662,19 +675,6 @@
       "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
       "published": "2026-09-01T09:04:56+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 GLM 5.3 Flash:\nhttps://z.ai/blog/glm-5.3-flash\n\nSources:\nhttps://x.com/louszbd/status/2092694163104113016\nhttps://x.com/semianalysis_/status/2092623833630998556\nhttps://x.com/skalskip92/status/2092748209802154201\nhttps://x.com/louszbd/status/2093047548550525165\nhttps://x.com/atomic_chat_hq/status/2093433913238552712\nhttps://x.com/holytrinity/status/2094093933584257334\nhttps://x.com/KinasRemek/status/2090081611832295581/video/1\nhttps://x.com/AiXsatoshi/status/2093679264013181119/video/1\nhttps://x.com/AiXsatoshi/status/2093353322921263389/video/1\nhttps://x.com/stevibe/status/2092655031040565252\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "LBiNcdGNgrg",
-      "title": "The Billion Dollar AI Gap Is Collapsing",
-      "channel": "Two Minute Papers",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
-      "published": "2026-08-28T09:44:44+00:00",
-      "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper and Qwen3.8-Flash-Next are available here:\nhttps://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf\nhttps://qwen.ai/blog?id=qwen3.8-flash-next\n\nSources:\nhttps://x.com/analogalok/status/2092697021790708148\nhttps://www.reddit.com/r/unsloth/comments/1vzf6j7/mind_blowing_qwen38flashnext_rtx_3090_128ddr5\nhttps://www.reddit.com/r/LocalLLM/comments/1vz1w00/first_gif_cooked_by_qwen38flashnext\nhttps://x.com/analogalok/status/2092781954529903078/video/1\nhttps://x.com/loktar00/status/2092719895729324224/video/1\n\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
