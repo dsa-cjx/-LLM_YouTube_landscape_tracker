@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:40:14.682865+00:00",
+  "generated_at": "2026-11-03T22:55:42.124339+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -9,15 +9,15 @@
         15
       ],
       [
+        "Matthew Berman",
+        15
+      ],
+      [
         "AI Explained",
         15
       ],
       [
         "Two Minute Papers",
-        15
-      ],
-      [
-        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,45 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "GyjB3GYxEj0",
+      "title": "Stanford EE292R AI and Data for Science | Autumn 2026 | Multimodal Modeling for Precision Medicine",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=GyjB3GYxEj0",
+      "published": "2026-11-03T21:00:04+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-precision-med\n\nThis lecture is from Stanford EE292R AI and Data for Science, and it covers multimodal modeling for precision medicine, specifically focusing on using foundation models for cross-modal data imputation and synthetic data generation, and explores applications in spatial omics, digital pathology, and radiology that support in-silico study of disease mechanisms.\n\nFollow the course schedule: https://aida4sci.stanford.edu/schedule.html#fall-2026\n\nSpeaker: \nOlivier Gevaert is an Associate Professor of Medicine and Biomedical Data Science at Stanford.\n\n#MultimodalAI #PrecisionMedicine #FoundationModels #AIforScience",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "l5kwVWOe0OM",
+      "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | State Machines",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=l5kwVWOe0OM",
+      "published": "2026-11-03T18:00:27+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-state-machines\n\nLecture 23 — State Machines\n\nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "r0cJOa9MZsE",
+      "title": "They did it...",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=r0cJOa9MZsE",
+      "published": "2026-11-03T16:51:59+00:00",
+      "summary": "Check out the NVIDIA RTX Spark Laptop: https://nvda.ws/4BmZphI\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nCheck out what I've built: https://github.com/Forward-Future\nhttps://unfold-lantern-465d.here.now/ \n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://getartcraft.com/",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "9kKEACFMQEM",
       "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Modern Computer Vision",
@@ -259,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=jeUgtyvvkfs",
       "published": "2026-10-27T15:47:35+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=JI3bbZNdyeA",
       "published": "2026-10-27T01:58:24+00:00",
       "summary": "Use Code Matt for $100 in Kylon credits: https://kylon.io/matt1\n\nJoin the Frontier: https://forwardfuture.com/frontier-pass\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://www.anthropic.com/news/s1-sec",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=zuLrbOmj60M",
       "published": "2026-10-26T20:00:23+00:00",
       "summary": "Autonomous systems can't be trusted in the real world until you've found how they fail. In this course overview video for Validation of Safety Critical Systems (AA228V), Stanford's Sydney Katz, Lecturer, and Mykel Kochenderfer, Associate Professor, explain how.\n\nValidation of Safety Critical Systems (AA228V) is open now for winter quarter enrollment: https://stanford.io/AA228V\n\nIn this course, you'll learn to:\n• Use simulation to find failures in autonomous systems before deployment\n• Estimate a system's probability of failure with sampling-based methods such as importance sampling and Markov chain Monte Carlo\n• Specify safety properties with temporal logic and verify them with formal methods such as reachability analysis\n\nCommercial aviation is one of the safest places you can be, and Kochenderfer credits decades of disciplined verification and validation. In this conversation, he and Katz cover why that playbook isn't enough for the next generation of autonomy: today's AI systems have too many variables to test the old way.\n\nBoth Stanford faculty members make the central claim that you have to understand how a system behaves before it goes out into the world. They show how hard it is to specify what you actually want with a wildfire example. A simulated fleet of firefighting drones was rewarded for every grid cell of fire extinguished, so the drones stayed away from the fire, let it burn across the entire map, and then put out as many cells as possible. Keep watching to understand why the objective looked perfectly sensible, but the optimal solution was exactly what no one wanted.\n\nBrowse all available graduate courses: https://stanford.io/Winter-2026\n\n#AISafety #AutonomousSystems #SafetyCriticalSystems",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -415,45 +454,6 @@
       "url": "https://www.youtube.com/watch?v=cfnLXAXTadA",
       "published": "2026-10-23T16:00:05+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nOctober 9, 2026\nThis lecture covers:\n• Improving generative AI chatbots' influence on public mental health as a case study\n• A new way of thinking about \"designing AI for societal good,\" namely \"designing AI as planting seeds\" (of better business models, policy, and politics)\n• Early work that explores this design practice and research agenda\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nQian Yang is an assistant professor in Computing and Information Science at Cornell University and a human-computer interaction (HCI) design researcher. \n\n#AIForGood #ResponsibleAI #ArtificialIntelligence #GenerativeAI #AIEthics",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "IfkeGU4bEJI",
-      "title": "Stanford EE292R AI and Data for Science | Autumn 2026 | From World Models to World Agents",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=IfkeGU4bEJI",
-      "published": "2026-10-22T22:00:15+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-world-agents\n\nThis lecture is from Stanford EE292R AI and Data for Science, and it covers recent advances in video world models, specifically focusing on enhancing temporal consistency and reasoning across long contexts, as well as mitigating auto-regressive drift, and explores the integration of multi-agent dynamics and the development of effective human-centric conditioning and control strategies. \n\nFollow the course schedule: https://aida4sci.stanford.edu/schedule.html#fall-2026\n\nSpeaker: \nGordon Wetzstein, Associate Professor, Electrical Engineering and, by courtesy, Computer Science, at Stanford University\n\n#WorldModels #GenerativeAI #VideoGeneration #SpatialAI #AutonomousAgents",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "9WZpou1faFU",
-      "title": "Sam Altman on AI’s Discovery Era",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=9WZpou1faFU",
-      "published": "2026-10-22T20:47:14+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "jT6aYMQ0Lqw",
-      "title": "Stanford CS547 HCI Seminar | Autumn 2026 | Sensing Uncertainty in Sustainable HCI",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=jT6aYMQ0Lqw",
-      "published": "2026-10-22T17:00:10+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nOctober 2, 2026\nThis lecture covers:\n• Sensing uncertainty\n• When a sensor may not be reporting on an event as it occurred\n• How user interfaces (UIs) and their underlying technology shape epistemic position\n• Embracing uncertainty as a central research question\n\nTo follow along with the seminar schedule, visit: https://hci.stanford.edu/\n\nKristin Williams is an Assistant Professor of Computer Science in Emory University's College of Arts and Sciences, where she directs the Embodied Interaction Lab (EMBI Lab).\n\n#SustainableComputing #HumanComputerInteraction #Sustainability #HCI",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
