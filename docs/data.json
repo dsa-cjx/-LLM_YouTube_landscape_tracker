@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-07T12:30:04.706942+00:00",
+  "generated_at": "2026-11-07T21:28:26.557439+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
@@ -13,7 +13,7 @@
         15
       ],
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "lVbQqjAJpkE",
+      "title": "12 months to the singularity",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=lVbQqjAJpkE",
+      "published": "2026-11-07T17:28:06+00:00",
+      "summary": "Check out IntelliJ IDEA: https://jb.gg/air_ij_2026\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/#our-conclusions-on-risk",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "GJ6PMUm5oTA",
+      "title": "OpenAI's Astra Just Opened The Black Box Of AI",
+      "channel": "Two Minute Papers",
+      "channel_category": "AI Research",
+      "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
+      "published": "2026-11-07T16:24:47+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The Weight Space Programming work is available here:\nhttps://rikiyat.github.io/blog/weight-space-programming/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "0rsms-e5_8s",
       "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Extra Session - Particle Filter SLAM",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=xnRaIFEw4dw",
       "published": "2026-10-30T15:00:08+00:00",
       "summary": "How should leaders make AI decisions when boards and investors want results now? Andrew Grotto, co-director of Stanford’s AI, Power, and the New Rules of Global Strategy program, says AI FOMO is real, and the pressure on senior executives can lead to hasty decisions with geopolitical and regulatory blind spots.\n\nHis advice borrows from the late UCLA basketball coach John Wooden: organizations need to be quick about adopting AI, but they shouldn’t hurry.\n\nBefore Stanford, Grotto served as senior director for cyber policy on the National Security Council at the White House. He leads the program with Francis Fukuyama, senior fellow at Stanford’s Freeman Spogli Institute. Over three and a half days on Stanford’s campus, it helps executives, board directors, and policymakers understand how geopolitical forces are shaping AI decisions.\n\nAI, Power, and the New Rules of Global Strategy, March 22–25, 2027: https://stanford.io/4i8p868\n\n#AIStrategy #AIGovernance #Geopolitics #StanfordOnline",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=ot_whQ3xyJQ",
       "published": "2026-10-29T23:02:38+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-engr319-1002\n\nOctober 2, 2026\nThis seminar covers: \n• Why learning-based controllers struggle with real-world deployment: we can’t guarantee a learned policy is safe, and we can’t efficiently find the rare scenarios where it fails\n• A new approach that closes the loop between synthesis (building safe policies) and falsification (finding where they break)\n• How neural certificates can be formulated as value functions in reinforcement learning, producing control policies with built-in safety and stability guarantees — turning safety into a structural property of the policy rather than a soft penalty\n• An adaptive test-case generation method using Bayesian active learning to discover failure scenarios that are both likely to reveal problems and useful for broader coverage\n• How this method can predict failures from limited hardware demonstrations\n• How it supports scalable, evolving experimental design for system-level testing\n\nFollow along with the seminar schedule: https://stanfordasl.github.io/robotics_seminar/archive/\n\nChuchu Fan is an Associate Professor (pre-tenure) in the Department of Aeronautics and Astronautics (AeroAstro) and the Laboratory for Information and Decision Systems (LIDS) at MIT.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -454,19 +480,6 @@
       "url": "https://www.youtube.com/watch?v=zuLrbOmj60M",
       "published": "2026-10-26T20:00:23+00:00",
       "summary": "Autonomous systems can't be trusted in the real world until you've found how they fail. In this course overview video for Validation of Safety Critical Systems (AA228V), Stanford's Sydney Katz, Lecturer, and Mykel Kochenderfer, Associate Professor, explain how.\n\nValidation of Safety Critical Systems (AA228V) is open now for winter quarter enrollment: https://stanford.io/AA228V\n\nIn this course, you'll learn to:\n• Use simulation to find failures in autonomous systems before deployment\n• Estimate a system's probability of failure with sampling-based methods such as importance sampling and Markov chain Monte Carlo\n• Specify safety properties with temporal logic and verify them with formal methods such as reachability analysis\n\nCommercial aviation is one of the safest places you can be, and Kochenderfer credits decades of disciplined verification and validation. In this conversation, he and Katz cover why that playbook isn't enough for the next generation of autonomy: today's AI systems have too many variables to test the old way.\n\nBoth Stanford faculty members make the central claim that you have to understand how a system behaves before it goes out into the world. They show how hard it is to specify what you actually want with a wildfire example. A simulated fleet of firefighting drones was rewarded for every grid cell of fire extinguished, so the drones stayed away from the fire, let it burn across the entire map, and then put out as many cells as possible. Keep watching to understand why the objective looked perfectly sensible, but the optimal solution was exactly what no one wanted.\n\nBrowse all available graduate courses: https://stanford.io/Winter-2026\n\n#AISafety #AutonomousSystems #SafetyCriticalSystems",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "L18lkQs4PeM",
-      "title": "Kimi K3.1 Passes the Rubik's Cube Test",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=L18lkQs4PeM",
-      "published": "2026-10-25T22:29:29+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -675,19 +688,6 @@
       "url": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
       "published": "2026-09-04T11:37:27+00:00",
       "summary": "Where to start? A new era of cost-efficient AI on a day benchmark-makers got humbled, traders got excited, and AI safety researchers got unnerved. From monitorability losing hold of GPT-6 Astra’s chains of thought to breakthrough discoveries, Fable-mogging and much more…\n\nExclusive Vids ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:53 - vs Fable\n05:27 - most impressive results\n13:06 - bonus comparisons (plus trading)\n18:40 - concerning trend\n21:24 - Cot Control\n\nGPT-6: https://openai.com/index/gpt-6-astra/\nPaper: https://deploymentsafety.openai.com/gpt-6-astra/gpt-6-astra.pdf\n\nLooped Transformers and AGI Milestone: https://www.patreon.com/AIExplained/posts/breakthrough-and-168513408\n\nMessy Rollout: https://x.com/sama/status/2095678759651438887\nMuch More Capable Models Coming: https://x.com/MTSlive/status/2095573400899170592\n‘AGI Era’ https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release\n\nARC-AGI 3: https://x.com/fchollet/status/2095598451115614371\nhttps://x.com/fchollet/status/2095607046129463577\nhttps://arcprize.org/blog/astra\n\nFrontierMath: https://epoch.ai/frontiermath/tiers-1-4/about\nDiscovery: https://x.com/jdlichtman/status/2095660916310483087\n\nFable 5.1: https://www.anthropic.com/claude-fable-and-mythos-5-1\nhttps://science-task-lens.aiex.chatgpt.site/securebio\nAgents Last Exam: https://agents-last-exam.org/\nTerminal Bench Science: https://github.com/harbor-framework/terminal-bench-science#task-coverage\nSRE Bench: https://x.com/ValsAI/status/2087682813743317396\nScreenSpot Pro: https://arxiv.org/pdf/2504.07981\nWeathernext 3: https://www.youtube.com/watch?v=_6jZlnRsXXQ\nDayBreak: https://x.com/fouadmatin/status/2095634888951250983\nAA Index: https://artificialanalysis.ai/evaluations/gdpval-aa\n\nVisual Demos: https://x.com/mattshumer_/status/2095609734845927525\nhttps://x.com/codestantine/status/2095598327115260368\nhttps://x.com/SahilExec/status/2095688272269984016\n\nMonitorability: https://x.com/NeelNanda5/status/2095533397297045716\nhttps://x.com/tomekkorbak/status/2095596848581071020\nhttps://x.com/Marcus_J_W/status/2095623593006686475\nhttps://x.com/MicahCarroll/status/2095603855316996529\nNot Accept Degradation: https://www.nbcnews.com/tech/tech-news/openai-debuts-gpt-6-astra-security-measures-rcna595940\n\nRSI: https://x.com/LiuZuxin/status/2095600499911446697\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "B3LXEW4Pc-w",
-      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
-      "channel": "Two Minute Papers",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
-      "published": "2026-09-03T08:23:37+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Claude Fable 5.1 paper is available here:\nhttps://www.anthropic.com/claude-fable-and-mythos-5-1\nhttps://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20%26%20Claude%20Mythos%205.1%20System%20Card.pdf\n\nSources:\nhttps://x.com/alexalbert__/status/2094860187743986169?s=46\nhttps://x.com/holytrinity/status/2094866061212459130?s=46\nhttps://x.com/holytrinity/status/2094927984217985474?s=46\nhttps://x.com/omedvibecodes/status/2094887840848965845?s=46\nhttps://x.com/loktar00/status/2094951511742632168?s=46\nhttps://x.com/maxt3chno/status/2094798704385380762?s=46\nhttps://x.com/fabianofirmo/status/2094954495646035978?s=46\nhttps://x.com/fabianofirmo/status/2094954495646035978?s=46\nhttps://x.com/Rubzem/status/2094866225960493189?s=20\nhttps://x.com/atomicagent_io/status/2094895071304839400?s=20\nhttps://x.com/do_owne/status/2095054932466422125\nhttps://x.com/holytrinity/status/2095216452433313915\nhttps://x.com/vib3coded/status/2095329598472860011\nhttps://x.com/MaxForAI/status/2095270764979355651\nhttps://x.com/MengTo/status/2095104073590808644\nhttps://x.com/earthtojake/status/2095352925597884465\nhttps://x.com/alexalbert__/status/2094860187743986169\nhttps://x.com/adonis_singh/status/2095158753796497550\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
