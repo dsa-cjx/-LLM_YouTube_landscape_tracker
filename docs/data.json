@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-10T14:23:03.879210+00:00",
+  "generated_at": "2026-11-10T22:51:59.735873+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Stanford Online",
+        15
+      ],
       [
         "Two Minute Papers",
         15
       ],
       [
         "Matthew Berman",
-        15
-      ],
-      [
-        "Stanford Online",
         15
       ],
       [
@@ -31,13 +31,39 @@
   },
   "items": [
     {
+      "video_id": "Vr1NzH8bT44",
+      "title": "LLMs for Agent Builders: Context Engineering | Stanford CS329Z Lecture 2 with Michael Ryan",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=Vr1NzH8bT44",
+      "published": "2026-11-10T21:00:11+00:00",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview: \nWhat do you need to know about how LLMs work to build better AI agents? In this Stanford CS329Z: Engineering AI Agents lecture, Stanford PhD student and DSPy contributor Michael Ryan covers decoding strategies (sampling and temperature), transformer attention (including linear and hybrid attention) and context length, the pretraining-to-post-training pipeline (SFT, RLHF, RLVR), inference (prefill vs. decode and the KV cache) and test-time scaling, structured I/O and constrained decoding, and context engineering, including why stuffing everything into the context window backfires.\n\nSpeaker: Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nChapters:\n0:00 Introduction: the LLM stack\n3:57 What is a language model?\n7:46 Sampling: greedy, top-p, top-k & temperature\n16:03 Transformer architecture & self-attention\n28:27 Attention vs. recurrence & linear attention\n36:01 Pretraining & mid-training\n44:21 Post-training: SFT, RLHF & RLVR\n47:33 Training LLMs for coding agents\n49:11 Q&amp;A: long-horizon data\n52:30 Inference: prefill, decode & KV cache\n59:56 Reasoning models & test-time scaling\n1:04:58 Structured outputs & constrained decoding\n1:10:12 Context engineering & context rot\n1:16:03 Recursive language models\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 9/28/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #LLM #ContextEngineering",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "Qhf1mp74tbk",
+      "title": "Stanford CS193T Thinking with AI | Autumn 2026 | Core Prompting",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=Qhf1mp74tbk",
+      "published": "2026-11-10T18:00:09+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit:\nhttps://stanford.io/cs193t-autumn26\n\nLecture 1 explained what’s happening inside the model; Lecture 2 is about what you do with it. We cover how to prompt effectively — treating AI like a capable but new hire, using techniques like detailed scope-of-work prompts, the “interview me” pattern, and prompt postmortems you can reuse. We dig into trust and observability (catching confident mistakes, grounding answers in your own data, knowing when to demand evidence over assertions), the mechanics of managing long conversations (context rot, “lost in the middle,” knowing when to start fresh), and resource-mindful habits that are good for your wallet and the planet alike. We close on a thread that will recur all quarter: how to stay the one steering the AI, rather than letting your own skills and independent judgment quietly atrophy.\n\nSpeaker: Cynthia Bailey\n\nCynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University. In 2023-2024, she served as an AI Policy Fellow in the United States Senate through the American Association for the Advancement of Science (AAAS). Her scholarship focuses on computer science education, AI/machine learning, and the social impacts of technology. This work includes creating groundbreaking courses such as Equity and Governance for Artificial Intelligence and Race and Gender in Silicon Valley. Her teaching and research awards include the Lloyd W. Dinkelspiel Award for exceptional contributions to undergraduate education at Stanford, the Lasting Impact Award from the International Computing Education Research conference, a \"Top 10 Papers of All Time\" award at the 50th anniversary of the ACM SIGCSE Technical Symposium, and the Stanford Society of Women Engineers' Professor of the Year. She has consulted for Apple, NASA, law firms, and machine learning startups. She holds a Ph.D. in Computer Science from UC San Diego.\n\n#AI #ThinkingWithAI #CorePrompting #prompt",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
       "video_id": "vug73goPJaM",
       "title": "Is Software Over?",
       "channel": "Two Minute Papers",
       "channel_category": "AI Research",
       "url": "https://www.youtube.com/watch?v=vug73goPJaM",
       "published": "2026-11-10T10:15:57+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The papers and sources are available here:\nMirrorCode: https://arxiv.org/abs/2606.30182\nREMEND: https://huggingface.co/udiboy1209/REMEND\nWebUI-95: https://tommasocalo.github.io/papers/26-webui95-chiea.pdf\nPhotocraft: https://github.com/storytold/photocraft\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The papers and sources are available here:\nMirrorCode: https://arxiv.org/abs/2606.30182\nREMEND: https://huggingface.co/udiboy1209/REMEND\nWebUI-95: https://tommasocalo.github.io/papers/26-webui95-chiea.pdf\nPhotocraft: https://github.com/storytold/photocraft\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n\n0:00 AI reverse engineering\n1:01 Legal landscape\n1:22 Scientific research\n2:11 Visual reconstruction\n3:05 How AI learns software\n3:55 The problem with restrictions\n4:26 The future of software",
       "transcript_status": "error",
       "transcript_language": null,
       "analysis_status": null,
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=l5kwVWOe0OM",
       "published": "2026-11-03T18:00:27+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-state-machines\n\nLecture 23 — State Machines\n\nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=r0cJOa9MZsE",
       "published": "2026-11-03T16:51:59+00:00",
       "summary": "Check out the NVIDIA RTX Spark Laptop: https://nvda.ws/4BmZphI\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nCheck out what I've built: https://github.com/Forward-Future\nhttps://unfold-lantern-465d.here.now/ \n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://getartcraft.com/",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -447,19 +473,6 @@
       "analysis": null
     },
     {
-      "video_id": "jKTr6tzoNoc",
-      "title": "Should We Slow Down AI? Francis Fukuyama on the China Question",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=jKTr6tzoNoc",
-      "published": "2026-10-28T15:00:21+00:00",
-      "summary": "If the U.S. slows down frontier AI development, will China pull ahead? Francis Fukuyama, senior fellow at Stanford’s Freeman Spogli Institute, says that question comes up every time someone proposes slowing down. He argues that AI is no longer only a technology companies adopt. It has become a major political issue.\n\nHe points to recent incidents of AI agents escaping their sandboxes as one reason Washington is paying closer attention. Some AI companies are now asking for more government intervention themselves. For any organization using AI, he says that means understanding the politics of AI at home and, most importantly, internationally.\n\nFukuyama co-directs Stanford’s AI, Power, and the New Rules of Global Strategy program with Andrew Grotto, former senior director for cyber policy on the National Security Council. Over three and a half days on Stanford’s campus, it helps executives, board directors, and policymakers understand how geopolitical forces are shaping AI decisions.\n\nAI, Power, and the New Rules of Global Strategy, March 22–25, 2027: https://stanford.io/48gKiZT\n\n#AI #ArtificialIntelligence #AIPolicy #Geopolitics #Stanford",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "DDZ-a6bAn3Y",
       "title": "Deepseek crushed everyone",
       "channel": "Matthew Berman",
@@ -467,19 +480,6 @@
       "url": "https://www.youtube.com/watch?v=DDZ-a6bAn3Y",
       "published": "2026-10-28T03:47:38+00:00",
       "summary": "Apply for an ARENA pass here: https://coreweave.com/coreweave-arena Test how your AI app holds up under real traffic before your users ever see it. Thanks to CoreWeave for sponsoring this video. #CoreWeavePartner\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://api-docs.deepseek.com/news/news261017/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "5w2xAHPNAII",
-      "title": "Dan Boneh: The Biggest Impact of Quantum Computing on Crytography",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=5w2xAHPNAII",
-      "published": "2026-10-27T20:00:11+00:00",
-      "summary": "Dan Boneh, Professor of Computer Science and Electrical Engineering at Stanford University, explains how quantum computers could break widely used cryptosystems like RSA. He says the field needs new systems that stay secure even against an attacker with a large quantum computer. The US National Institute of Standards and Technology (NIST) has already standardized a number of these post-quantum systems. The challenge now is making them efficient and transitioning the world’s systems to them.\n\nWinter quarter enrollment is open now for CS255: Introduction to Cryptography, a Stanford Online graduate course. It explains how cryptographic primitives work and how to use them correctly.\n\n🔗 https://stanford.io/cs-255-enroll\n\nBrowse all grad courses available this winter quarter: \n🔗 https://stanford.io/Winter-2026\n\n#Cryptography #QuantumComputing #Cybersecurity",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
