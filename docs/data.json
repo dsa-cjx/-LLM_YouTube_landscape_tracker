@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-12T14:40:20.358128+00:00",
+  "generated_at": "2026-11-12T23:14:21.924084+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
-      [
-        "Two Minute Papers",
-        15
-      ],
       [
         "Matthew Berman",
         15
       ],
       [
         "Stanford Online",
+        15
+      ],
+      [
+        "Two Minute Papers",
         15
       ],
       [
@@ -30,6 +30,58 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "Sjdvu4nHfDk",
+      "title": "Anthropic Researcher explains how to train LLMs",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=Sjdvu4nHfDk",
+      "published": "2026-11-12T22:09:15+00:00",
+      "summary": "Check out Jeremy on X: https://x.com/jeremyberman\n\nFrontier Pass members saw this video first! https://forwardfuture.com/frontier-pass\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "s0S38lz6O7M",
+      "title": "How AI Agents Use Tools: Function Calling & MCP | Stanford CS329Z Lecture 4 with Diyi Yang",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=s0S38lz6O7M",
+      "published": "2026-11-12T21:00:35+00:00",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview:\nWhy can't LLMs do everything on their own, and how do they learn to use tools? In this Stanford CS329Z: Engineering AI Agents lecture, Stanford professor Diyi Yang covers the “lost in the middle” problem, how LLMs learn to use tools with Toolformer and ToolkenGPT, scaling to thousands of APIs with ToolLLM and Gorilla, the difference between REST APIs, function calling, and the Model Context Protocol (MCP), and how to evaluate tool use with BFCL, ToolBench, and τ-bench, plus common failure modes.\n\nSpeaker: Diyi Yang\n\nDiyi Yang is an assistant professor in the Computer Science Department at Stanford University, also affiliated with the Stanford NLP Group, Stanford HCI Group and Stanford Human Centered AI Institute. Her research focuses on human-centered LLMs and human-AI interaction.  She is a recipient of IEEE “AI 10 to Watch” (2020), Microsoft Research Faculty Fellowship (2021), NSF CAREER Award (2022), and a Sloan Research Fellowship (2024).\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/5/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "G11-Vmw7-PQ",
+      "title": "Cheaper AI can lead to more spending",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=G11-Vmw7-PQ",
+      "published": "2026-11-12T18:01:24+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "PeRJkvzIEts",
+      "title": "Using AI in Research | Stanford CS193T Guest Panel with Mark Algee-Hewitt, Megan Ma & Markus Covert",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=PeRJkvzIEts",
+      "published": "2026-11-12T18:00:24+00:00",
+      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh \n\nHow do Stanford researchers use AI in their own fields? In this Stanford CS193T: Thinking with AI guest panel recording, hosted by Senior Lecturer Cynthia Bailey, guests from three different corners of campus (English, Law, and Bioengineering) share innovative applications of AI in their respective disciplines, what responsible use of AI means in their academic communities, and how they protect the core of what makes them successful from atrophy. Professor Mark Algee-Hewitt leads Stanford's Digital Humanities program, using computational methods to explore language and meaning-making. Megan Ma is the Executive Director of the Stanford Legal Innovation through Frontier Technology (LIFT) Lab, creating AI tools for the practice of law and studying the future of legal education and training under shifting attorney labor market pressures due to AI. Professor Markus Covert is the Chair of the Department of Bioengineering, and for over two decades has pioneered the development of computational models of complex biological processes.\n\nKey questions answered in this lecture recording:\nQ: Should professors use AI to write recommendation letters?\nA: Markus Covert has decided not to write letters with AI; he uses it only to hold and recall information about a student, and asks how AI could raise a letter's quality rather than save time.\n\nQ: Should universities and journals ban AI?\nA: Mark Algee-Hewitt argues blanket bans push people to use AI without saying so. Journals in his field instead require disclosure and define acceptable uses, such as coding with Claude Code but not writing the paper.\n\nQ: How is AI being used to train lawyers?\nA: Megan Ma describes LIFT Lab's open-source deposition simulator, which turns a witness statement into an AI witness with adjustable personalities (combative, evasive, forgetful) so junior attorneys can practice.\n\nQ: What skills should students not lose to AI?\nA: Mark Algee-Hewitt names critical thinking, Megan Ma names judgment built from real experience and storytelling, and Markus Covert names scientific taste, intellectual courage, and curiosity.\n\nQ: How can I use AI to write without losing my own voice?\nA: Markus Covert writes each paragraph himself, then asks Claude for missing citations, the strongest counterarguments, and analogies from other fields, checking every paper himself.\n\nQ: Are rubrics or preference rankings better for evaluating legal AI?\nA: In LIFT Lab's JudgmentBench research, Megan Ma reports that preference rankings far outperformed rubrics because they capture lawyer intuition.\n\nChapters:\n0:00 Introducing the AI in Research panel\n1:00 Mark Algee-Hewitt: digital humanities at scale\n5:09 Style in the Age of AI: do disciplines have style?\n7:05 LLM style transfer: philosophy written as CS\n8:57 Megan Ma: Stanford LIFT Lab and legal AI\n10:40 JudgmentBench: preference rankings vs rubrics\n13:17 AI deposition simulator for training lawyers\n17:55 Markus Covert: whole-cell simulation\n22:36 AI tutors, learning, and the MIT report\n26:14 Panel: building for future AI capabilities\n32:46 Should professors use AI for recommendations?\n42:51 AI transparency and disclosure norms\n54:22 Q&amp;A: skills students shouldn't lose to AI\n1:00:38 Learning with AI vs letting AI do the work\n\nAbout the speakers:\nMark Algee-Hewitt leads Stanford's Digital Humanities program. His work combines critical and quantitative approaches to the analysis of literature. As director of the Stanford Literary Lab, he has led projects on the literature of suspense, the history of racialized language in American literature, and an analysis of the reports of the OECD's anti-bribery convention.\n\nMegan Ma is the Executive Director of the Stanford Legal Innovation through Frontier Technology (LIFT) Lab. Her research focuses on the use and integration of generative AI in legal practice, considering their implications in contexts of human-machine collaboration. She also teaches courses in computational law at the Law School and Department of Computer Science.\n\nMarkus Covert is the Chair of the Department of Bioengineering at Stanford. His research focus is building computational models of complex biological processes, and using these models to guide an experimental program. Biological systems of interest include metabolic, regulatory and signaling networks as well as cell-cell interactions.\n\nHost: Cynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University and the instructor of CS193T.\n\nCourse website: https://web.stanford.edu/class/archive/cs/cs193t/cs193t.1272/\nWatch the full CS193T playlist: https://www.youtube.com/playlist?list=PLDrJO3v_iAZY\n\nRecorded October 13, 2026 in CS193T: Thinking with AI, a Stanford University course hosted by Senior Lecturer Cynthia Bailey.\n\n#AIinResearch #AIinLaw #StanfordOnline",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "gPNiuyYirfw",
       "title": "DeepMind’s AI Just Did The Impossible",
@@ -246,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=I7zvCSGMkoc",
       "published": "2026-11-09T18:00:30+00:00",
       "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh \n\nWhat's happening when you chat with an AI? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey demystifies large language models from the ground up: tokens, neural networks, weights and layers, and the two-stage journey from training to inference that turns raw text into a working chatbot. She introduces the concepts (context windows, transformers, attention) that explain both what makes modern AI so capable and why it still confidently gets things wrong, including hallucination, sycophancy, and the pull to anthropomorphize a fundamentally statistical tool. No coding or technical background required: by the end, you'll have a working mental model for what AI can and can't do.\n\nKey questions answered in this lecture recording:\nQ: What is the definition of AI?\nA: Bailey argues AI is inherently ill-defined: it has meant whatever computers do that amazes us, from arithmetic in the 1950s to chess to today's text and video generation. In CS193T, AI means LLMs and multimodal generative AI.\n\nQ: How does a large language model generate text?\nA: An LLM is a statistical fingerprint of how language is used across huge amounts of text; it repeatedly predicts the next token from your prompt plus the response so far until the reply is finished.\n\nQ: Does ChatGPT learn from my conversations?\nA: Not in the sense of changing its weights: once training ends, the weights are fixed and shared by everyone. A chat seems to adapt because the model responds to what is in your context window.\n\nQ: Why do AI chatbots hallucinate?\nA: Picking the most probable next word produces text that sounds normal, not text that is true. The same ability to generalize to unseen input that makes LLMs powerful means hallucination will always be a risk.\n\nQ: Is 'hallucination' the right word for AI errors?\nA: Bailey notes the term is contested because it anthropomorphizes AI, making a statistical tool seem human. Alternatives include confabulation and fact fabrication, though some of those also come from describing human behavior.\n\nQ: What is a context window in AI?\nA: It is the input the model processes for each prediction, with a maximum size set by the vendor (roughly 200,000 to 10 million tokens at top companies). Bailey says to treat it as a large but finite resource you actively manage.\n\nChapters:\n0:00 Course overview: context engineering\n1:10 Meet instructor Cynthia Bailey\n5:55 What is AI? A moving target\n8:59 LLMs, multimodal and generative AI defined\n12:58 Next-token prediction: fill-in-the-blank demo\n18:16 Inside a neural network: nodes and concepts\n23:16 Weights, parameters and deep learning\n28:58 How AI models are trained\n33:38 Pre-training, data centers and GPUs\n36:58 Fine-tuning and RLHF\n39:31 Inference and student Q&amp;A\n45:38 Why context matters and transformers\n52:25 The context window as a finite resource\n54:58 Explainability, hallucinations, anthropomorphism\n\nAbout the speaker:\nCynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University. In 2023-2024, she served as an AI Policy Fellow in the United States Senate through the American Association for the Advancement of Science (AAAS). Her scholarship focuses on computer science education, AI/machine learning, and the social impacts of technology, including creating courses such as Equity and Governance for Artificial Intelligence and Race and Gender in Silicon Valley. Her teaching and research awards include the Lloyd W. Dinkelspiel Award for exceptional contributions to undergraduate education at Stanford, the Lasting Impact Award from the International Computing Education Research conference, a \"Top 10 Papers of All Time\" award at the 50th anniversary of the ACM SIGCSE Technical Symposium, and the Stanford Society of Women Engineers' Professor of the Year. She has consulted for Apple, NASA, law firms, and machine learning startups. She holds a Ph.D. in Computer Science from UC San Diego.\n\nCourse website: https://web.stanford.edu/class/archive/cs/cs193t/cs193t.1272/\nWatch the full CS193T playlist: https://www.youtube.com/playlist?list=PLDrJO3v_iAZY\n\nRecorded September 22, 2026 in CS193T: Thinking with AI, a Stanford University course taught by Senior Lecturer Cynthia Bailey.\n\n#AI #LargeLanguageModels #StanfordOnline",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -259,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=lVbQqjAJpkE",
       "published": "2026-11-07T17:28:06+00:00",
       "summary": "Check out IntelliJ IDEA: https://jb.gg/air_ij_2026\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/#our-conclusions-on-risk",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
       "published": "2026-11-07T16:24:47+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The Weight Space Programming work is available here:\nhttps://rikiyat.github.io/blog/weight-space-programming/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +337,7 @@
       "url": "https://www.youtube.com/watch?v=0rsms-e5_8s",
       "published": "2026-11-06T17:00:19+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-pf-slam\n\nLecture 22 — Particle Filter SLAM\n\nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -395,19 +447,6 @@
       "analysis": null
     },
     {
-      "video_id": "j09uV1oAuIo",
-      "title": "The most important paper in AI right now",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=j09uV1oAuIo",
-      "published": "2026-11-04T17:09:34+00:00",
-      "summary": "Use Code 'Matt' for $100 in Kylon credits: https://kylon.io/matt2\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://rikiyat.github.io/blog/weight-space-programming/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "GyjB3GYxEj0",
       "title": "Stanford EE292R AI and Data for Science | Autumn 2026 | Multimodal Modeling for Precision Medicine",
       "channel": "Stanford Online",
@@ -434,19 +473,6 @@
       "analysis": null
     },
     {
-      "video_id": "r0cJOa9MZsE",
-      "title": "They did it...",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=r0cJOa9MZsE",
-      "published": "2026-11-03T16:51:59+00:00",
-      "summary": "Check out the NVIDIA RTX Spark Laptop: https://nvda.ws/4BmZphI\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nCheck out what I've built: https://github.com/Forward-Future\nhttps://unfold-lantern-465d.here.now/ \n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://getartcraft.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "9kKEACFMQEM",
       "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Modern Computer Vision",
       "channel": "Stanford Online",
@@ -467,32 +493,6 @@
       "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
       "published": "2026-11-02T17:02:16+00:00",
       "summary": "You know what, by AI standards, it might not have been the craziest week, but that doesn’t mean several headline-worthy things happened - from Altman and Anthropic implying they would release models they can’t control, with behavior they cannot verify, to Gemini 4 Carbon bursting onto the scene, some Amodei rationalization, de-tokenization and more…\n\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\n\nChapters:\n00:00 - Introduction\n00:00 - Introduction\n01:26 - Anthropic Staff Survey\n04:32 - Amodei's Five Rationalisations\n11:43 - Altman: Only Alignment Will Work\n18:41 - Gemini 4 Carbon and Why Models Keep Impressing\n\nAnthropic: The AI expectations gap: https://www.anthropic.com/research/ai-expectations-gap\n\nDario Amodei responds to Nathan Calvin: https://x.com/DarioAmodei/status/2112732230124818891\n\nAnthropic Responsible Scaling Policy v3.0: https://www-cdn.anthropic.com/e670587677525f28df69b59e5fb4c22cc5461a17.pdf\n\nResponsible Scaling Policy v3 discussion: https://www.lesswrong.com/posts/HzKuzrKfaDJvQqmjh/responsible-scaling-policy-v3\n\nAnthropic's core views on AI safety: https://www.anthropic.com/news/core-views-on-ai-safety\n\nNathan Calvin on Anthropic's IPO risk disclosures: https://x.com/_NathanCalvin/status/2114720411413819410/photo/1\n\nOpenAI: Securing frontier model training: https://openai.com/index/securing-our-frontier-model-training-environment/\n\nGoogle: Introducing Gemini 4 Carbon: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\n\nSemiAnalysis: GDPx benchmark: https://x.com/SemiAnalysis_/status/2117075900575477855\n\nThe Information: OpenAI's next flagship and safety issues: https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model\n\nAI Explained: Understanding Models — Impossible, Solved, or Not Needed?: https://www.patreon.com/AIExplained/posts/exclusive-models-172917747\n\nDario Amodei: We Must Pace the Frontier: https://darioamodei.com/post/we-must-pace-the-frontier\n\nDario Amodei: The Adolescence of Technology: https://darioamodei.com/essay/the-adolescence-of-technology\n\nEvan Hubinger on recursive self-improvement risks: https://x.com/EvanHub/status/2097528891846074828\n\nLeo Gao on AI lab employees' shrinking influence: https://x.com/nabla_theta/status/2115922100204810594\n\nJack Clark on superintelligence risks, BBC interview: https://x.com/aleshu_ber/status/2116988191597060409\n\nJack Clark: Import AI: https://jack-clark.net/\n\nDylan Patel's apology to Google over Gemini Carbon: https://x.com/dylan522p/status/2117092550842683671\n\nSemiAnalysis: Gemini Is Cooked but GCP Is Cooking: https://newsletter.semianalysis.com/p/gemini-is-cooked-but-gcp-is-cooking\n\nVivek Natarajan on Gemini Carbon and RSI: https://x.com/vivnat/status/2115497643216707621\n\nAlbert Gu on learning directly from raw data: https://x.com/_albertgu/status/2115502110578290900\n\nGarrison Lovely: Screenshots of Tony Feng's model claims: https://x.com/GarrisonLovely/status/2116226357101199369/photo/1\n\nJason Clinton on worsening cyber threats: https://x.com/JasonDClinton/status/2113325263157395456\n\nJason Clinton: \"We tried to warn the world\": https://x.com/JasonDClinton/status/2113363809629020374\n\nMustafa Suleyman: Don't build conscious superintelligence: https://x.com/mustafasuleyman/status/2116913722878820528\n\nStockfish chess engine: https://en.wikipedia.org/wiki/Stockfish_(chess)\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "6Jo6qO3yFcg",
-      "title": "Dan Boneh: Impact of Quantum Computing on Security",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=6Jo6qO3yFcg",
-      "published": "2026-11-02T17:00:19+00:00",
-      "summary": "Dan Boneh, Professor of Computer Science and Electrical Engineering at Stanford University, explains why quantum computing is a security risk even though a large enough quantum computer doesn’t exist yet. In a “harvest now, decrypt later” attack, an adversary records encrypted internet traffic today and waits. Once a quantum computer is built, they can go back and decrypt it. Boneh says this matters for any information that must stay secret for decades, which is why governments and organizations are under pressure to move to post-quantum encryption now. Modern web browsers and websites already support some post-quantum encryption, but he notes that doesn’t mean all communication is protected yet.\n\nWinter quarter enrollment is open now for CS255: Introduction to Cryptography, a Stanford Online graduate course. It explains how cryptographic primitives work and how to use them correctly.\n\n🔗 https://stanford.io/cs255-intro-crypto\n\nBrowse all grad courses available this winter quarter: \n🔗 https://stanford.io/Winter-2026\n\n#Cryptography #QuantumComputing #Cybersecurity",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "Y3Y8pSOYOBo",
-      "title": "Stanford Robotics Seminar ENGR319 | Autumn 2026 | Skydio: Autonomy for a Family of Flying Robots",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=Y3Y8pSOYOBo",
-      "published": "2026-10-30T21:00:29+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-engr319-1009\n\nOctober 9, 2026\nThis seminar covers: \n• How Skydio’s autonomy stack enables flying robots to navigate complex environments, track subjects, and execute missions from high-level operator commands\n• The full autonomy stack powering Skydio’s flying robots, spanning both cloud and edge computing\n• The F10 Lightrunner, Skydio’s recently unveiled aircraft with a distinctive asymmetric design\n• How the F10 extends autonomy to long-range fixed-wing flight, including robotic takeoff and landing from MegaDock\n• How these capabilities let a single operator orchestrate multiple drones remotely through a web browser\n• How this brings autonomous robotics to public safety and critical infrastructure applications\n\nFollow along with the seminar schedule: https://stanfordasl.github.io/robotics_seminar/archive/\n\nJuraj Kabzan is the VP of Autonomy at Skydio, where he leads robotics software development for advanced flying robots.",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
