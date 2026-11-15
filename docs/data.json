@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:28:15.523537+00:00",
+  "generated_at": "2026-11-15T22:29:53.884897+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "qh5tP6PBZ6U",
+      "title": "How AI Agent Memory Works: MemGPT & Memory Types | Stanford CS329Z Lecture 7 with Michael Ryan",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=qh5tP6PBZ6U",
+      "published": "2026-11-15T21:00:28+00:00",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview: \nWhy do AI agents forget, and how do you give them memory? In this Stanford CS329Z: Engineering AI Agents lecture, Michael Ryan explains the four types of agent memory (working, episodic, semantic, procedural), how to store memories in files, databases, or knowledge graphs, and the main architecture patterns: skill libraries like Voyager, tiered memory like MemGPT, reflective consolidation, and memory maintenance with A-MEM and Mem0. He closes with memory benchmarks and open problems in forgetting, privacy, and over-personalization.\n\nSpeaker Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/14/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "JC_pLC5EX_w",
       "title": "AI Agent Design Patterns: ReAct, CodeAct & More | Stanford CS329Z Lecture 6 with Michael Ryan",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
       "published": "2026-11-10T23:11:36+00:00",
       "summary": "I’ve read the full Fable 5.2 report at 264 pages, the 30 page METR RSI report, and tested Gemini Carbon and Fable 5.2 hundreds of times. There’s too much to cover in one video, but let’s explore everything from how fast AI is accelerating AI, five benchmarks few others will talk about, why Simple Bench got saturated but meta-simple bench might not have, Internal model 4, remote labour automation and much more\n\nhttps://www.assemblyai.com/aiexplained\n\nExclusive Vids($9!): https://www.patreon.com/AIExplained\n\n00:00 - Introduction\n00:49 - how good are Fable 5.2 and Carbon?\n09:01 - smarter, but still missing some common sense\n15:49 - how fast is AI improving itself?\n23:51 - small gains, big consequences\n26:33 - it knows when you're watching\n\n\n\nIntroducing Claude Fable 5.2 and Mythos 5.2: https://www.anthropic.com/claude-fable-and-mythos-5-2\n\nClaude Fable 5.2 and Mythos 5.2 System Card: https://assets.claude.com/27d60918d218125e7504bc7354c4b4626ec56b11.pdf\n\nMETR: AI R&amp;D acceleration at Anthropic: https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/\n\nEpoch AI: Fable 5.2 sets a new capabilities record: https://x.com/EpochAIResearch/status/2119903415363113088\n\nSemiAnalysis: Fable 5.2's coding gains and RSI plateau: https://x.com/SemiAnalysis_/status/2119961452496756926\n\nSemiAnalysis GDPx: https://gdpx.semianalysis.com/\n\nRemote Labor Index: https://www.remotelabor.ai/\n\nRemote Labor Index paper: https://arxiv.org/pdf/2510.26787\n\nGreg Burnham on Fable 5.2's Remote Labor Index score: https://x.com/GregHBurnham/status/2120155251240292619/photo/1\n\nAgents' Last Exam leaderboard: https://agents-last-exam.org/leaderboard\n\nAA-Omniscience: Knowledge and hallucination benchmark: https://artificialanalysis.ai/evaluations/omniscience\n\nExploitGym leaderboard: https://benchlm.ai/benchmarks/exploitgym\n\nExploitGym: Turning vulnerabilities into real attacks: https://arxiv.org/pdf/2605.11086\n\nBenchCAD leaderboard: https://benchcad.com/leaderboard\n\nBenchCAD paper: https://arxiv.org/pdf/2605.10865\n\nOpenAI: Accelerating engineering for the physical world: https://openai.com/index/accelerating-engineering-for-the-physical-world/\n\nGoogle: Gemini 4 Carbon is now available: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/\n\nJustin Lo: MaxxBench tests coding robustness: https://x.com/loresjpg/status/2118880329490637049/photo/1\n\nClaude: Fable 5.2 and Mythos 5.2 capabilities and speed: https://x.com/claudeai/status/2119867117642146270/photo/1\n\nWashington Post: Cathedral researchers got inside Anthropic: https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/\n\nMax Winga: Dario Amodei's testimony on AI extinction risk: https://x.com/maxwinga/status/2119034229983986049/photo/2\n\nJared Kaplan's testimony on Anthropic's commercial structure: https://x.com/_smitop/status/2119870258919969066/photo/2\n\nAnthropic: AI-driven R&amp;D risk disclosure excerpt: https://pbs.twimg.com/media/HWxojYda4AAu5c9?format=jpg&amp;name=900x900\n\nMrinank Sharma's Anthropic resignation letter: https://x.com/MrinankSharma/status/2020881722003583421/photo/1\n\nChris Olah on Pope Leo XIV's encyclical: https://www.anthropic.com/news/chris-olah-pope-leo-encyclical\n\nLessWrong: Claude 3's launch and GPT-4 performance claims: https://www.lesswrong.com/posts/JbE7KynwshwkXPJAJ/anthropic-release-claude-3-claims-gpt-4-performance\n\nAlex Albert: Bringing Leonardo da Vinci's notebooks to life: https://x.com/alexalbert__/status/2119916954337349737\n\nClaude: Watching subagents work inside a project: https://x.com/claudeai/status/2120174853856821549\n\nIntegrityBench: https://integrity-bench.com/\n\nSimpleBench: https://simple-bench.com/\n\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -467,19 +480,6 @@
       "url": "https://www.youtube.com/watch?v=hu1YDJZYGTc",
       "published": "2026-11-05T20:32:08+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "25KIyaeI_Fg",
-      "title": "Stanford CME295 Transformers & LLMs | Autumn 2026 | Lecture 5 -  LLM Systems",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=25KIyaeI_Fg",
-      "published": "2026-11-05T17:00:02+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-cme295-A2026\n\nTo follow along with the course schedule and syllabus, visit: https://cme295.stanford.edu/syllabus/\n\nChapters:\n00:00:00 Introduction\n00:09:12 Flash attention\n00:50:48 Distributed training\n00:54:25 Data parallelism (DP)\n00:55:30 Zero Redundancy Optimizer (ZeRO)\n01:00:29 Tensor parallelism (TP)\n01:02:05 Pipeline parallelism (PP)\n01:04:12 Context parallelism (CP)\n01:06:10 Expert parallelism (EP)\n01:09:52 Inference optimizations\n01:22:49 KV caching\n01:24:30 Paged attention\n01:28:01 Grouped-query attention (GQA)\n01:30:43 Multi-head latent attention (MLA)\n01:32:40 Speculative decoding\n01:45:27 Multi-token prediction (MTP)\n\nAfshine Amidi is an Adjunct Professor at Stanford University.\n\nShervine Amidi is an Adjunct Professor at Stanford University.\n\nFollow the playlist: https://youtube.com/playlist?list=PLakGfbKCei80&amp;si=HF2tNywj7nXIQq8X",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
