@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:51:30.112319+00:00",
+  "generated_at": "2026-11-17T01:36:45.150660+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -9,11 +9,11 @@
         15
       ],
       [
-        "Two Minute Papers",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Two Minute Papers",
         15
       ],
       [
@@ -30,6 +30,58 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "ho00IesajkY",
+      "title": "How AI Agents Work: Connectors, MCP & Agent Safety | Stanford CS193T Lecture 5 with Cynthia Bailey",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=ho00IesajkY",
+      "published": "2026-11-17T00:00:36+00:00",
+      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh \n\nWhat happens when AI stops just writing and starts acting on your behalf? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey explains how AI agents work and why prompt injection gets much worse once AI can take actions. She opens with connectors, the links that let AI read your email, calendar, or files and act on your behalf, and shows that nothing new is happening inside the model: it's the same next-token prediction behind every chatbot, occasionally generating specially structured text that triggers actions. From there she builds the vocabulary for autonomous work: the analyze, act, observe loop every agent runs on, the seven-part \"anatomy\" of a well-specified agent, and professional-grade agentic workflow techniques like \"the elephant and the goldfish.\" The lecture closes by putting on a pessimistic security hat: for any agent you design, what's the worst that could happen, and whose permissions made it possible?\n\nKey questions answered in this lecture recording:\nQ: What is the difference between generative AI and agentic AI?\nA: Bailey says agentic AI focuses on taking actions rather than only generating content, but it runs on the same next-token prediction: the LLM emits structured JSON text that a connector turns into an action.\n\nQ: What is an AI connector?\nA: Connectors are access permissions that plug your AI tool into apps like Gmail or Outlook so it can pull in data or act on your behalf. Enabling one adds tool instructions to the context window, using the Model Context Protocol (MCP).\n\nQ: What should you include when you define an AI agent?\nA: Bailey treats an agent spec as a detailed scope of work with seven parts: goal, context, tools, permissions, memory, actions, and stopping conditions. Stopping conditions matter because agents keep going until told to stop.\n\nQ: What is the elephant and the goldfish method for AI agents?\nA: The elephant is a long interview-me chat that produces a 4 to 6 page scope of work. A fresh, memoryless goldfish reads only that document and reports whether agents could execute it without clarifying questions; repeat until no goldfish has questions.\n\nQ: What does human in the loop mean in AI agents?\nA: It describes where in the agent loop a human is informed and can approve or block progress. Bailey argues the degree of human in the loop is the main difference between plain chat, connectors, and fully autonomous agents.\n\nQ: How do you make AI agents safer?\nA: Bailey urges a \"what's the worst that could happen\" mindset and least privilege access: give agents only the permissions the task needs. She also flags prompt injection and adding human approval before irreversible actions like permanent deletes.\n\nChapters:\n0:00 Intro: connectors, agents, and agent safety\n2:20 What are AI connectors?\n3:21 Email example: generative vs agentic AI\n7:33 How AI tool calls work: next-token JSON\n10:45 Connector instructions in the context window\n16:41 Model Context Protocol (MCP) and MCP servers\n18:05 Seven-part anatomy of an AI agent\n23:34 Analyze, act, observe: the agent loop\n27:38 Human in the loop and stopping conditions\n29:34 The elephant and the goldfish method\n38:22 Running the goldfish test loop\n41:53 Agent safety: what's the worst that could happen?\n53:14 Least privilege access for AI agents\n55:21 Prompt injection via LinkedIn and web search\n\nAbout the speaker:\nCynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University. In 2023-2024, she served as an AI Policy Fellow in the United States Senate through the American Association for the Advancement of Science (AAAS). Her scholarship focuses on computer science education, AI/machine learning, and the social impacts of technology, including creating courses such as Equity and Governance for Artificial Intelligence and Race and Gender in Silicon Valley. Her teaching and research awards include the Lloyd W. Dinkelspiel Award for exceptional contributions to undergraduate education at Stanford, the Lasting Impact Award from the International Computing Education Research conference, a \"Top 10 Papers of All Time\" award at the 50th anniversary of the ACM SIGCSE Technical Symposium, and the Stanford Society of Women Engineers' Professor of the Year. She has consulted for Apple, NASA, law firms, and machine learning startups. She holds a Ph.D. in Computer Science from UC San Diego.\n\nCourse website: https://web.stanford.edu/class/archive/cs/cs193t/cs193t.1272/\nWatch the full CS193T playlist: https://www.youtube.com/playlist?list=PLDrJO3v_iAZY\n\nRecorded October 20, 2026 in CS193T: Thinking with AI, a Stanford University course taught by Senior Lecturer Cynthia Bailey.\n\n#AIAgents #AgenticAI #StanfordOnline",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "TlX_ft_PQIM",
+      "title": "Multi-Agent Systems: When More Agents Help or Hurt | Stanford CS329Z Lecture 8 with Michael Ryan",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=TlX_ft_PQIM",
+      "published": "2026-11-16T21:00:05+00:00",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview:\nAre multi-agent systems better than a single AI agent? Often not. In this Stanford CS329Z: Engineering AI Agents lecture, Michael Ryan explains when to use one agent vs. many, orchestration patterns (orchestrator-worker, swarm, hybrid), how agents communicate through handoffs, message boards, and Google's Agent2Agent (A2A) protocol, coordination tools like task ledgers, shared memory, and git worktrees, and the research on why multi-agent systems fail.\n\nSpeaker: Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/19/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "BdfP8kmAofQ",
+      "title": "Dan Boneh: Cryptography Is Everywhere in Everday Life",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=BdfP8kmAofQ",
+      "published": "2026-11-16T18:00:39+00:00",
+      "summary": "Dan Boneh, Professor of Computer Science and Electrical Engineering at Stanford University, explains that cryptography is everywhere in everyday life. It keeps your text messages private and secures your online financial activity. It also authenticates and encrypts the information that government agencies and financial institutions send to one another. Boneh says that reach, a field used by everyone, is exactly why he loves it.\n\nWinter quarter enrollment is open now for CS255: Introduction to Cryptography, a Stanford Online graduate course. It explains how cryptographic primitives work and how to use them correctly.\n\n🔗 https://stanford.io/cs255-intro-crypto-course\n\nBrowse all grad courses available this winter quarter: \n🔗 https://stanford.io/Winter-2026\n\n#Cryptography #QuantumComputing #Cybersecurity",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "kMdHCyAnNHA",
+      "title": "Box CEO Explains How AI Is Changing Software",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=kMdHCyAnNHA",
+      "published": "2026-11-16T17:42:57+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "qh5tP6PBZ6U",
       "title": "How AI Agent Memory Works: MemGPT & Memory Types | Stanford CS329Z Lecture 7 with Michael Ryan",
@@ -103,6 +155,19 @@
       "url": "https://www.youtube.com/watch?v=3vpnwkePGVQ",
       "published": "2026-11-13T20:14:16+00:00",
       "summary": "Learn more and enroll: https://online.stanford.edu/courses/xfsi210-ai-power-and-new-rules-global-strategy?utm_source=youtube&amp;utm_medium=social&amp;utm_content=FSI-overview\n\nIn this overview of AI, Power, and the New Rules of Global Strategy, academic co-directors Francis Fukuyama and Andy Grotto of Stanford’s Freeman Spogli Institute for International Studies explain why AI decisions are never only about technology.\n\nAI has political, social, and international dimensions that leaders need to understand. Boards and investors are pushing senior executives to figure out their AI strategy, and every choice carries regulatory, reputational, and geopolitical risk. Fukuyama and Grotto built this in-person executive program because nothing else on the market connected geopolitics to the AI decisions organizations actually face.\n\nOver three and a half days on the Stanford campus, you’ll learn how to:\n\nSpot the geopolitical, regulatory, and economic issues behind your AI decisions\nWeigh costs, benefits, and second-order effects\nDo your own research and reach independent, defensible conclusions\n\nSessions cover the digital economy, AI governance and regulation, export controls, semiconductors and energy, U.S.–China competition, and military uses of AI. Speakers include Stanford faculty, Silicon Valley builders, investors, policymakers, and military leaders.\n\nThe program is for board members, C-suite executives, technology and product leaders, government officials, and leaders of international organizations and NGOs. You don’t need a technical background. A prework course, AI Technical Foundations, gives you the technical grounding before you arrive.\n\nMarch 22–25, 2027 | In person at Stanford University\n\n#ArtificialIntelligence #Geopolitics #AIStrategy #ExecutiveEducation #StanfordOnline",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "OT2vep4lYJs",
+      "title": "300+ Million Health Questions a Week: Inside OpenAI's Plan for Healthcare",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=OT2vep4lYJs",
+      "published": "2026-11-13T19:58:06+00:00",
+      "summary": "Learn more about Stanford's online Healthcare AI programs: https://stanford.io/3NEt7uE\nCheck out the AI in Healthcare series playlist:https://stanford.io/3NEt7uE\n\nMatt Lungren, Stanford University - https://profiles.stanford.edu/matthew-lungren\nJustin Norden, Stanford University - https://profiles.stanford.edu/justin-norden\n\nGuest speaker: Ashley Alexander, VP of Health Products at OpenAI\n\nOver 300 million people now ask #ChatGPT health questions every week. In this episode of the Stanford AI in Healthcare Podcast, Ashley Alexander, #OpenAI's head of health products and former Instagram product leader, shares what she's learned in her first year. She covers connecting medical records to ChatGPT, the free ChatGPT for Clinicians, enterprise partnerships with top U.S. health systems, and the proactive AI agents that can prep you for appointments and book your labs. We also dig into why adoption is early outside tech circles, and why the barrier to transforming healthcare is product design and regulation, not model capability.",
       "transcript_status": "error",
       "transcript_language": null,
       "analysis_status": null,
@@ -233,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=psLc-46GqY0",
       "published": "2026-11-11T21:00:17+00:00",
       "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nSelf-paced online Agentic AI course: https://online.stanford.edu/programs/agentic-ai?utm_source=youtube&amp;utm_medium=social&amp;utm_content=cs329z-01-what-are-agentic-systems\n\nLecture Overview:\nHow does retrieval-augmented generation (RAG) work, and do frontier models still need it? In this Stanford CS329Z: Engineering AI Agents lecture, Stanford professor Diyi Yang walks through the full RAG pipeline: chunking and contextual retrieval, RAPTOR and GraphRAG, vector search with HNSW, BM25 vs. dense retrieval (DPR), hybrid search, rerankers and ColBERT, and agentic RAG methods like Self-RAG, CRAG, and Search-R1.\n\nSpeaker: Diyi Yang\n\nDiyi Yang is an assistant professor in the Computer Science Department at Stanford University, also affiliated with the Stanford NLP Group, Stanford HCI Group and Stanford Human Centered AI Institute. Her research focuses on human-centered LLMs and human-AI interaction.  She is a recipient of IEEE “AI 10 to Watch” (2020), Microsoft Research Faculty Fellowship (2021), NSF CAREER Award (2022), and a Sloan Research Fellowship (2024).\n\nChapters:\n0:00 Introduction & course project guidelines\n5:53 Why RAG? Grounding answers in evidence\n8:55 From retriever-reader QA to RAG\n20:22 Q&amp;A: do frontier models still need RAG?\n23:28 Indexing: embeddings & chunking strategies\n29:25 Contextual retrieval & late chunking\n36:27 Hierarchical & graph RAG: RAPTOR, GraphRAG\n40:25 Q&amp;A: GraphRAG & compounding errors\n45:14 Vector search: ANN & HNSW\n48:42 BM25 vs. dense retrieval (DPR)\n55:42 Retrieval metrics & hybrid search\n1:02:34 Bi-encoders, cross-encoders & ColBERT\n1:08:18 Agentic RAG: Self-RAG, CRAG, Search-R1\n1:14:29 RAG failure modes\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 9/30/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#RAG #AIAgents #Stanford",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -246,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=8Ok6ZYILp2Q",
       "published": "2026-11-11T18:00:08+00:00",
       "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh \n\nWhat else is sharing your AI's context window besides your prompt? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey focuses on context, information, and prompt instructions that persist beyond a single chat session: settings, remembered facts, uploaded files, and retrieved web pages. Examples include how to use these tools to reduce sycophancy and \"AI style,\" understanding what your chat history is (and isn't) used for, saving your best prompts as reusable Skills or Gems, and strategic withholding, where the smartest prompt leaves something out. She introduces retrieval-augmented generation (RAG) for grounding AI in your own documents when they would overflow the context window, and the documented ways trust in a RAG store can fail. The lecture closes on a cybersecurity note with prompt injection: why an AI can't always tell your instructions apart from malicious text on the internet.\n\nKey questions answered in this lecture recording:\nQ: Does ChatGPT learn from my conversations?\nA: A released model's weights are frozen, so memories change behavior only through the context window. But a company that sees your chat history could use it to train future models; Stanford's licensed AI tools prohibit that, while personal accounts may not.\n\nQ: What is retrieval-augmented generation (RAG)?\nA: RAG is a user-curated document store, much larger than the context window, that the tool searches to place only relevant documents into the context. Because RAG content gets extra weight, Bailey warns that bad sources can poison results.\n\nQ: What is the adaptive chameleon vs stubborn sloth problem in LLMs?\nA: Citing the paper \"Adaptive Chameleon or Stubborn Sloth,\" Bailey explains that models sometimes accept bad information in your RAG too eagerly and sometimes ignore your sources in favor of training data. Either behavior can help or hurt.\n\nQ: How do I get more honest feedback from ChatGPT or Claude?\nA: Use strategic withholding: ask the AI to evaluate \"this essay,\" not \"my essay,\" or frame your resume as a candidate's, and use a temporary chat so memories don't reveal it's yours.\n\nQ: What is prompt injection?\nA: The system prompt, your prompt, and retrieved web pages are one continuous stream of tokens, so hidden text on a web page can issue instructions the model may obey. The risk grows when AI has connectors to email or files.\n\nQ: Do Claude Skills or Gemini Gems fine-tune the model?\nA: No. Bailey says skills and gems are one more piece of text in the context window, functioning between the system prompt and your prompt, and they do not change the model's weights.\n\nChapters:\n0:00 Managing sources and the context window\n1:06 Saving preferences in ChatGPT\n3:24 Claude's system prompt and custom instructions\n6:53 How AI memory works across chats\n9:44 Importing ChatGPT memories into Gemini\n11:25 Everything that fills the context window\n15:47 Chat privacy: do your chats train AI models?\n18:41 RAG: retrieval-augmented generation\n22:31 Adaptive Chameleon or Stubborn Sloth\n28:43 Saving reusable prompts: Claude Skills, Gems\n36:19 Strategic withholding for candid AI feedback\n44:47 Overriding the system prompt and red teaming\n50:01 Prompt injection from web documents\n53:57 Q&amp;A: connectors and prompt injection defenses\n\nAbout the speaker:\nCynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University. In 2023-2024, she served as an AI Policy Fellow in the United States Senate through the American Association for the Advancement of Science (AAAS). Her scholarship focuses on computer science education, AI/machine learning, and the social impacts of technology, including creating courses such as Equity and Governance for Artificial Intelligence and Race and Gender in Silicon Valley. Her teaching and research awards include the Lloyd W. Dinkelspiel Award for exceptional contributions to undergraduate education at Stanford, the Lasting Impact Award from the International Computing Education Research conference, a \"Top 10 Papers of All Time\" award at the 50th anniversary of the ACM SIGCSE Technical Symposium, and the Stanford Society of Women Engineers' Professor of the Year. She has consulted for Apple, NASA, law firms, and machine learning startups. She holds a Ph.D. in Computer Science from UC San Diego.\n\nCourse website: https://web.stanford.edu/class/archive/cs/cs193t/cs193t.1272/\nWatch the full CS193T playlist: https://www.youtube.com/playlist?list=PLDrJO3v_iAZY\n\nRecorded October 6, 2026 in CS193T: Thinking with AI, a Stanford University course taught by Senior Lecturer Cynthia Bailey.\n\n#RAG #PromptInjection #StanfordOnline",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -259,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=FCmLuTENOp0",
       "published": "2026-11-11T11:00:25+00:00",
       "summary": "Hire Viktor for your team: https://ref.viktor.com/mberman-yt\nUse code MATTHEWBERMAN100 for $100 in credits\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n00:00 Intro\n00:15 NVIDIA CEO Affair\n01:28 Fable 5.2\n04:31 Sponsor\n05:35 Fable 5.2 (Cont.)\n07:46 Gemini 4 Carbon\n09:59 LongCat 2.5\n10:38 Ripple 65B\n11:44 Inkling 2 Small\n12:48 Meta Muse Ember\n13:52 GPT Image 2.6\n14:46 Gemini Omni 1.2\n15:13 Seedream 5.5\n16:06 SWE-2 Flash\n16:48 MiniMax H3 Image\n\nLinks:\nhttps://nvidianews.nvidia.com/news/a-message-to-our-company  \nhttps://www.anthropic.com/claude-fable-and-mythos-5-2  \nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/  \nhttps://huggingface.co/meituan-longcat/LongCat-2.5  \nhttps://www.ricursive.com/ripple  \nhttps://thinkingmachines.ai/news/inkling-2-small/  \nhttps://research.meta.ai/blog/muse-ember  \nhttps://openai.com/index/introducing-images-2-6/  \nhttps://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/  \nhttps://seed.bytedance.com/en/seedream5_5  \nhttps://cognition.com/blog/swe-2-flash  \nhttps://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +337,7 @@
       "url": "https://www.youtube.com/watch?v=ZBJV-hA-tLM",
       "published": "2026-11-11T07:33:33+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +350,7 @@
       "url": "https://www.youtube.com/watch?v=L2acYRMzig8",
       "published": "2026-11-10T23:57:13+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -311,19 +376,6 @@
       "url": "https://www.youtube.com/watch?v=Vr1NzH8bT44",
       "published": "2026-11-10T21:00:11+00:00",
       "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview: \nWhat do you need to know about how LLMs work to build better AI agents? In this Stanford CS329Z: Engineering AI Agents lecture, Stanford PhD student and DSPy contributor Michael Ryan covers decoding strategies (sampling and temperature), transformer attention (including linear and hybrid attention) and context length, the pretraining-to-post-training pipeline (SFT, RLHF, RLVR), inference (prefill vs. decode and the KV cache) and test-time scaling, structured I/O and constrained decoding, and context engineering, including why stuffing everything into the context window backfires.\n\nSpeaker: Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nChapters:\n0:00 Introduction: the LLM stack\n3:57 What is a language model?\n7:46 Sampling: greedy, top-p, top-k & temperature\n16:03 Transformer architecture & self-attention\n28:27 Attention vs. recurrence & linear attention\n36:01 Pretraining & mid-training\n44:21 Post-training: SFT, RLHF & RLVR\n47:33 Training LLMs for coding agents\n49:11 Q&amp;A: long-horizon data\n52:30 Inference: prefill, decode & KV cache\n59:56 Reasoning models & test-time scaling\n1:04:58 Structured outputs & constrained decoding\n1:10:12 Context engineering & context rot\n1:16:03 Recursive language models\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 9/28/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #LLM #ContextEngineering",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "Qhf1mp74tbk",
-      "title": "How to Prompt AI Well: Trust, Evidence & Context Rot | Stanford CS193T Lecture 2 with Cynthia Bailey",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=Qhf1mp74tbk",
-      "published": "2026-11-10T18:00:09+00:00",
-      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh \n\nHow do you get reliable, useful results from AI? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey covers how to prompt effectively, treating AI like a capable but new hire and using techniques like detailed scope-of-work prompts, the \"interview me\" pattern, and prompt postmortems you can reuse. She digs into trust and observability (catching confident mistakes, grounding answers in your own data, knowing when to demand evidence over assertions), the mechanics of managing long conversations (context rot, \"lost in the middle,\" knowing when to start fresh), and resource-mindful habits that are good for your wallet and the planet alike. The lecture closes on a thread that recurs all quarter: how to stay the one steering the AI, rather than letting your own skills and independent judgment quietly atrophy.\n\nKey questions answered in this lecture recording:\nQ: How should I write prompts for ChatGPT or Claude?\nA: Bailey says there is no special style to adopt; write naturally, but be direct, specific and detailed, covering who, what, when, where, how and why plus what success looks like.\n\nQ: What is the interview me prompting technique?\nA: Give the AI a high-level goal and tell it to interview you before starting work (for example, at least ten questions), so it gathers the requirements you might not think to state.\n\nQ: Can I ask an AI chatbot how confident it is in its answer?\nA: No. Bailey explains the model has no access to its own past internal calculations; asking it to rate its confidence or check for bias just starts a new text generation that sounds like an answer.\n\nQ: How do I know if an AI answer is trustworthy?\nA: Ask for evidence, not assertions: request citations and open every one, and search any quote to confirm it was not subtly altered.\n\nQ: Should I start a new chat for every topic?\nA: Yes for new topics: unrelated history dilutes focus and wastes tokens. For the same topic it depends, since long chats can suffer context rot, odd fixations and lost-in-the-middle effects.\n\nQ: How can I avoid losing skills by relying on AI?\nA: Bailey asks the AI to explain what it did so she can do it herself next time, keeps a document of these mini lessons, and urges students to set up an external early-warning check, since you won't notice skills dulling on your own.\n\nChapters:\n0:00 Core prompting skills: lecture overview\n5:08 Prompt writing style and system prompts\n11:19 Assigning a role to the AI\n13:48 Grounding AI with your own examples\n16:57 Prompt like a manager: AI as eager intern\n22:54 Interview-me and prompt postmortem patterns\n27:51 Q&amp;A: does AI use harm the environment?\n31:50 Why AI can't rate its own confidence\n36:56 Ask for evidence, not assertions\n39:56 Observability: making AI work visible\n46:32 Reasoning models and chain of thought\n53:39 Context management: new topic, new chat\n57:17 Context rot, primacy and recency bias\n1:05:05 Resource management and independent voice\n\nAbout the speaker:\nCynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University. In 2023-2024, she served as an AI Policy Fellow in the United States Senate through the American Association for the Advancement of Science (AAAS). Her scholarship focuses on computer science education, AI/machine learning, and the social impacts of technology, including creating courses such as Equity and Governance for Artificial Intelligence and Race and Gender in Silicon Valley. Her teaching and research awards include the Lloyd W. Dinkelspiel Award for exceptional contributions to undergraduate education at Stanford, the Lasting Impact Award from the International Computing Education Research conference, a \"Top 10 Papers of All Time\" award at the 50th anniversary of the ACM SIGCSE Technical Symposium, and the Stanford Society of Women Engineers' Professor of the Year. She has consulted for Apple, NASA, law firms, and machine learning startups. She holds a Ph.D. in Computer Science from UC San Diego.\n\nCourse website: https://web.stanford.edu/class/archive/cs/cs193t/cs193t.1272/\nWatch the full CS193T playlist: https://www.youtube.com/playlist?list=PLDrJO3v_iAZY\n\nRecorded September 29, 2026 in CS193T: Thinking with AI, a Stanford University course taught by Senior Lecturer Cynthia Bailey.\n\n#PromptEngineering #AI #StanfordOnline",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -356,19 +408,6 @@
       "analysis": null
     },
     {
-      "video_id": "DGI4vucR71w",
-      "title": "What Are AI Agents? Agentic Systems Explained | Stanford CS329Z Lecture 1 with Diyi Yang",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=DGI4vucR71w",
-      "published": "2026-11-09T21:00:05+00:00",
-      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z\n\nLecture Overview:\nWhat is an AI agent, and how is it different from an LLM workflow? In the first lecture of Stanford CS329Z: Engineering AI Agents (Fall 2026), Stanford professor Diyi Yang traces the history of agents from the 1973 actor model to ReAct and AutoGPT, breaks down the anatomy of a modern LLM agent (LLM core, planning and reasoning, memory, tools, and environment), and explains why the most powerful agent may not be the most reliable one. She also covers course logistics and the key challenges for agents: reliability, training, safety, and evaluation.\n\nSpeaker: Diyi Yang\n\nDiyi Yang is an assistant professor in the Computer Science Department at Stanford University, also affiliated with the Stanford NLP Group, Stanford HCI Group and Stanford Human Centered AI Institute. Her research focuses on human-centered LLMs and human-AI interaction.  She is a recipient of IEEE “AI 10 to Watch” (2020), Microsoft Research Faculty Fellowship (2021), NSF CAREER Award (2022), and a Sloan Research Fellowship (2024).\n\nChapters:\n0:00 Welcome & instructor introductions\n1:18 Course overview & logistics\n7:40 A short history of AI agents\n14:00 ReAct, BabyAGI & AutoGPT: the agent boom\n19:06 Q&amp;A: Will model capabilities saturate?\n22:05 Anatomy of an LLM agent\n28:19 Planning & reasoning: CoT, ReAct, Reflexion\n36:52 Q&amp;A: ReAct vs. chain of thought\n40:39 Multi-agent debate & orchestration\n43:12 Agent memory: episodic, semantic, procedural\n46:30 Tool use: Toolformer & Gorilla\n53:31 Compound AI systems: workflows vs. agents\n58:41 Tool calls & Model Context Protocol (MCP)\n1:01:05 Key challenges: reliability, safety & privacy\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 9/23/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "0vNyVMDFdkg",
       "title": "Fable 5.2 solved all software...",
       "channel": "Matthew Berman",
@@ -376,19 +415,6 @@
       "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
       "published": "2026-11-09T19:02:56+00:00",
       "summary": "Check out Eight Sleep's Pod 6: https://www.eightsleep.com/matthewberman\nUse code 'MATTHEWBERMAN' for up to $200 off\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nCheck out my tests:\nPhoton Image Editor — https://claude.ai/artifact/WbkND2LEF984GAVpKvdBBs\nQuadrille Spreadsheet — https://claude.ai/artifact/NPxoR5gnxVVsXnyPAkKpYS\nBullet vs Water Balloon — https://claude.ai/artifact/BUvLhCGMEaoqL76Vp2Joru\nConsciousness Proof Attempt — https://claude.ai/artifact/N3zY7tMuVWGcUAyYihS36g\nForward Future Homepage Redesign — https://claude.ai/artifact/A8AgVMoCLuY27QQUwr4J3B\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 Intro\n0:15 Gears of War clone\n2:16 Microsoft Excel\n3:13 Sponsor\n4:25 Excel continued\n4:42 DaVinci Resolve\n6:04 Fall Guys\n8:29 Water balloon physics\n10:33 3D-printed tower\n11:37 Motion graphics\n12:22 LLM explainer\n12:56 House design in Blender\n14:26 Tesla Roadster event\n14:53 European town simulation\n16:06 Tokyo in Unreal Engine\n17:38 Call of Duty-style game\n17:44 Melee on Android\n17:55 Portal\n18:06 Starlane\n18:26 Tidekeeper\n18:43 Dragon Rider\n18:56 Benchmarks\n20:35 My thoughts\n23:05 Pricing",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "I7zvCSGMkoc",
-      "title": "How AI Chatbots Work: LLMs, Tokens & Hallucination | Stanford CS193T Lecture 1 with Cynthia Bailey",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=I7zvCSGMkoc",
-      "published": "2026-11-09T18:00:30+00:00",
-      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh \n\nWhat's happening when you chat with an AI? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey demystifies large language models from the ground up: tokens, neural networks, weights and layers, and the two-stage journey from training to inference that turns raw text into a working chatbot. She introduces the concepts (context windows, transformers, attention) that explain both what makes modern AI so capable and why it still confidently gets things wrong, including hallucination, sycophancy, and the pull to anthropomorphize a fundamentally statistical tool. No coding or technical background required: by the end, you'll have a working mental model for what AI can and can't do.\n\nKey questions answered in this lecture recording:\nQ: What is the definition of AI?\nA: Bailey argues AI is inherently ill-defined: it has meant whatever computers do that amazes us, from arithmetic in the 1950s to chess to today's text and video generation. In CS193T, AI means LLMs and multimodal generative AI.\n\nQ: How does a large language model generate text?\nA: An LLM is a statistical fingerprint of how language is used across huge amounts of text; it repeatedly predicts the next token from your prompt plus the response so far until the reply is finished.\n\nQ: Does ChatGPT learn from my conversations?\nA: Not in the sense of changing its weights: once training ends, the weights are fixed and shared by everyone. A chat seems to adapt because the model responds to what is in your context window.\n\nQ: Why do AI chatbots hallucinate?\nA: Picking the most probable next word produces text that sounds normal, not text that is true. The same ability to generalize to unseen input that makes LLMs powerful means hallucination will always be a risk.\n\nQ: Is 'hallucination' the right word for AI errors?\nA: Bailey notes the term is contested because it anthropomorphizes AI, making a statistical tool seem human. Alternatives include confabulation and fact fabrication, though some of those also come from describing human behavior.\n\nQ: What is a context window in AI?\nA: It is the input the model processes for each prediction, with a maximum size set by the vendor (roughly 200,000 to 10 million tokens at top companies). Bailey says to treat it as a large but finite resource you actively manage.\n\nChapters:\n0:00 Course overview: context engineering\n1:10 Meet instructor Cynthia Bailey\n5:55 What is AI? A moving target\n8:59 LLMs, multimodal and generative AI defined\n12:58 Next-token prediction: fill-in-the-blank demo\n18:16 Inside a neural network: nodes and concepts\n23:16 Weights, parameters and deep learning\n28:58 How AI models are trained\n33:38 Pre-training, data centers and GPUs\n36:58 Fine-tuning and RLHF\n39:31 Inference and student Q&amp;A\n45:38 Why context matters and transformers\n52:25 The context window as a finite resource\n54:58 Explainability, hallucinations, anthropomorphism\n\nAbout the speaker:\nCynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University. In 2023-2024, she served as an AI Policy Fellow in the United States Senate through the American Association for the Advancement of Science (AAAS). Her scholarship focuses on computer science education, AI/machine learning, and the social impacts of technology, including creating courses such as Equity and Governance for Artificial Intelligence and Race and Gender in Silicon Valley. Her teaching and research awards include the Lloyd W. Dinkelspiel Award for exceptional contributions to undergraduate education at Stanford, the Lasting Impact Award from the International Computing Education Research conference, a \"Top 10 Papers of All Time\" award at the 50th anniversary of the ACM SIGCSE Technical Symposium, and the Stanford Society of Women Engineers' Professor of the Year. She has consulted for Apple, NASA, law firms, and machine learning startups. She holds a Ph.D. in Computer Science from UC San Diego.\n\nCourse website: https://web.stanford.edu/class/archive/cs/cs193t/cs193t.1272/\nWatch the full CS193T playlist: https://www.youtube.com/playlist?list=PLDrJO3v_iAZY\n\nRecorded September 22, 2026 in CS193T: Thinking with AI, a Stanford University course taught by Senior Lecturer Cynthia Bailey.\n\n#AI #LargeLanguageModels #StanfordOnline",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -415,19 +441,6 @@
       "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
       "published": "2026-11-07T16:24:47+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The Weight Space Programming work is available here:\nhttps://rikiyat.github.io/blog/weight-space-programming/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "0rsms-e5_8s",
-      "title": "Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Extra Session - Particle Filter SLAM",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=0rsms-e5_8s",
-      "published": "2026-11-06T17:00:19+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-pf-slam\n\nLecture 22 — Particle Filter SLAM\n\nNote: This lecture was recorded as part of the 2019 edition of the course. Course content, structure, assignments, and other materials may have changed since this recording. The course links below point to the most recent edition and may therefore differ from what is presented in the video.\n\nRead the companion textbook, Principles of Robot Autonomy, free online: https://porabook.com\n \nFollow along with the latest course schedule and syllabus: https://stanfordasl.github.io/PoRA-I\n \nSpeaker: Prof. Marco Pavone\n \nDr. Marco Pavone is an Associate Professor of Aeronautics and Astronautics at Stanford University and a Senior Director of Autonomous Vehicle Research at NVIDIA. Prior to joining Stanford, he was a Research Technologist in the Robotics Section at NASA’s Jet Propulsion Laboratory. Dr. Pavone received his Ph.D. in Aeronautics and Astronautics from the Massachusetts Institute of Technology in 2010. His research focuses on the analysis, design, and control of autonomous systems, with particular emphasis on self-driving cars, autonomous aerospace vehicles, and future mobility systems. He has been recognized with numerous awards, including the Presidential Early Career Award for Scientists and Engineers from President Barack Obama, the Office of Naval Research Young Investigator Award, the NSF CAREER Award, the NASA Early Career Faculty Award, the IEEE Kiyo Tomiyasu Award, the CSS Award for Technical Excellence in Aerospace Control, and the Early-Career Spotlight Award from the Robotics Science and Systems Foundation.\n \n Full playlist: https://www.youtube.com/playlist?list=PLR9iNyexfIkk\n \n #StanfordOnline #RobotAutonomy #Robotics #PhysicalAI",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -480,19 +493,6 @@
       "url": "https://www.youtube.com/watch?v=hu1YDJZYGTc",
       "published": "2026-11-05T20:32:08+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "-M62vWrZh54",
-      "title": "Kimi K3.1 weights OUT, open source computer use, SOTA image model, science model, Pika H3: AI NEWS",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=-M62vWrZh54",
-      "published": "2026-11-05T16:51:09+00:00",
-      "summary": "So much open source!!!\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nAlready a member? Claim your Frontier Pass here: https://forwardfuture.com/frontier-pass\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n00:00 Intro\n00:37 Kimi K3.1 Pro\n02:53 NorthCUA\n04:35 Pruna P-H3-Image\n07:14 Sarvam PRISM\n08:23 Hydrogen 1.0\n10:02 Perplexity Embed v2 Context\n10:51 Qwen3.5 4B 3D Coder\n12:17 Pika H3 Flex\n14:19 Apriel Voice 27B\n15:18 DiffuSpace Clover\n16:20 Liquid AI LFM3\n17:35 Baidu Unlimited OCR 2\n18:14 GPT-6.1 Terra\n\nLinks:\nhttps://huggingface.co/moonshotai/Kimi-K3.1-Pro\nhttps://huggingface.co/beipo-ai/NorthCUA-Pro\nhttps://x.com/PrunaAI/status/2117663564487926043\nhttps://huggingface.co/sarvamai/prism\nhttps://blog.deepprinciple.com/introducing-hydrogen-1.0/\nhttps://x.com/perplexitydevs/status/2117373903287050675\nhttps://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder\nhttps://x.com/pika_labs/status/2115860471215788262\nhttps://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview\nhttps://huggingface.co/blog/Diffuspace/clover-35b-a3b-preview\nhttps://www.liquid.ai/blog/lfm3\nhttps://github.com/baidu/Unlimited-OCR\nhttps://x.com/OpenAI/status/2114780711664398349",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
