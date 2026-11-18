@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:09:13.753618+00:00",
+  "generated_at": "2026-11-18T23:54:19.938343+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "7GW-9ug2nvw",
+      "title": "Terminal-Bench: Evaluating AI Agents | Stanford CS329Z Guest Lecture with Alex Shaw & Ryan Marten",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=7GW-9ug2nvw",
+      "published": "2026-11-18T21:00:35+00:00",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview:\nHow do frontier AI labs measure whether agents can do real work? In this Stanford CS329Z: Engineering AI Agents guest lecture, Alex Shaw and Ryan Marten of the Laude Institute, co-creators of Terminal-Bench, explain why evals have become the source of truth for agent software, how Terminal-Bench measures how well agents accomplish hard, real-world tasks in a terminal environment, and how to write tasks, design verifiers, prevent reward hacking, and maintain a benchmark with their open-source framework, Harbor.\n\nSpeakers: Alex Shaw and Ryan Marten\n\nAlex Shaw is a founding Member of Technical Staff at the Laude Institute building the infrastructure for evaluating and training AI agents. He is the co-creator of Terminal-Bench, a benchmark of hard, realistic command-line tasks that frontier labs now report in their model cards, and the creator of Harbor, the open-source framework for building agent evaluations and RL environments.\n\nRyan Marten is a Member of Technical Staff at the Laude Institute building the training data, benchmarks, and infrastructure behind more capable reasoning models and autonomous agents. He helped lead OpenThoughts, the fully open data recipe behind the OpenThinker reasoning models, and Terminal-Bench, which virtually every frontier lab now uses to measure how well agents complete real tasks in a terminal, and contributes to Harbor, the open-source framework for building agent evaluations and RL environments.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/26/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "1S5nJp-qRs8",
+      "title": "Post-Training Techniques: On-Policy Distillation | Afshine & Shervine Amidi",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=1S5nJp-qRs8",
+      "published": "2026-11-18T17:00:12+00:00",
+      "summary": "Browse Stanford's online computational and mathematical engineering graduate courses: https://stanford.io/grad-cme\n\nEnrollment for the winter quarter is open now!\nhttps://stanford.io/Winter-2026\n\nIs making a model bigger still the only way to improve it? Adjunct Professors Afshine Amidi and Shervine Amidi explain how post-training techniques such as finetuning, reinforcement learning, preference optimization, verifier-guided training, and distillation help a model reason better, follow instructions better, solve harder problems, and adapt to specialized domains.\n\nThey then focus on on-policy distillation. In standard distillation, a smaller student model learns from examples produced by a stronger teacher. In on-policy distillation, the student generates its own responses during training and learns from how the teacher evaluates those exact attempts. According to the Amidi brothers, this aligns the learning process with how the model behaves in practice, which matters most for reasoning tasks, where intermediate steps, mistakes, and corrections shape the result.\n\nCME295 is a Stanford graduate course that distills the latest advances in LLMs, explains the core ideas from first principles, and connects them to practical systems. Learn more about this course: https://stanford.io/cme295\n\nAbout the speakers:\nAfshine Amidi and Shervine Amidi are twin brothers and Adjunct Professors at Stanford University. They teach CME295: Transformers & Large Language Models and CME296: Diffusion & Large Vision Models.\n\n#PostTraining #LLMs #StanfordOnline",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "TP4UixmOe-I",
       "title": "Why Do We Need Statisticians in the Age of AI? | Kristin Sainani & Regina Nuzzo",
@@ -128,7 +154,7 @@
       "channel_category": "AI Tools",
       "url": "https://www.youtube.com/watch?v=kMdHCyAnNHA",
       "published": "2026-11-16T17:42:57+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "summary": "I sit down with Box CEO Aaron Levie to discuss how AI is changing enterprise software and making features obsolete before they even launch. We explore how AI agents can build entire business workflows and why access to company data and context matters. Aaron also shares how Box is adapting as each new generation of AI models changes what’s possible.\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": "error",
       "transcript_language": null,
       "analysis_status": null,
@@ -272,20 +298,7 @@
       "url": "https://www.youtube.com/watch?v=G11-Vmw7-PQ",
       "published": "2026-11-12T18:01:24+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "PeRJkvzIEts",
-      "title": "Using AI in Research | Stanford CS193T Guest Panel with Mark Algee-Hewitt, Megan Ma & Markus Covert",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=PeRJkvzIEts",
-      "published": "2026-11-12T18:00:24+00:00",
-      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh \n\nHow do Stanford researchers use AI in their own fields? In this Stanford CS193T: Thinking with AI guest panel recording, hosted by Senior Lecturer Cynthia Bailey, guests from three different corners of campus (English, Law, and Bioengineering) share innovative applications of AI in their respective disciplines, what responsible use of AI means in their academic communities, and how they protect the core of what makes them successful from atrophy. Professor Mark Algee-Hewitt leads Stanford's Digital Humanities program, using computational methods to explore language and meaning-making. Megan Ma is the Executive Director of the Stanford Legal Innovation through Frontier Technology (LIFT) Lab, creating AI tools for the practice of law and studying the future of legal education and training under shifting attorney labor market pressures due to AI. Professor Markus Covert is the Chair of the Department of Bioengineering, and for over two decades has pioneered the development of computational models of complex biological processes.\n\nKey questions answered in this lecture recording:\nQ: Should professors use AI to write recommendation letters?\nA: Markus Covert has decided not to write letters with AI; he uses it only to hold and recall information about a student, and asks how AI could raise a letter's quality rather than save time.\n\nQ: Should universities and journals ban AI?\nA: Mark Algee-Hewitt argues blanket bans push people to use AI without saying so. Journals in his field instead require disclosure and define acceptable uses, such as coding with Claude Code but not writing the paper.\n\nQ: How is AI being used to train lawyers?\nA: Megan Ma describes LIFT Lab's open-source deposition simulator, which turns a witness statement into an AI witness with adjustable personalities (combative, evasive, forgetful) so junior attorneys can practice.\n\nQ: What skills should students not lose to AI?\nA: Mark Algee-Hewitt names critical thinking, Megan Ma names judgment built from real experience and storytelling, and Markus Covert names scientific taste, intellectual courage, and curiosity.\n\nQ: How can I use AI to write without losing my own voice?\nA: Markus Covert writes each paragraph himself, then asks Claude for missing citations, the strongest counterarguments, and analogies from other fields, checking every paper himself.\n\nQ: Are rubrics or preference rankings better for evaluating legal AI?\nA: In LIFT Lab's JudgmentBench research, Megan Ma reports that preference rankings far outperformed rubrics because they capture lawyer intuition.\n\nChapters:\n0:00 Introducing the AI in Research panel\n1:00 Mark Algee-Hewitt: digital humanities at scale\n5:09 Style in the Age of AI: do disciplines have style?\n7:05 LLM style transfer: philosophy written as CS\n8:57 Megan Ma: Stanford LIFT Lab and legal AI\n10:40 JudgmentBench: preference rankings vs rubrics\n13:17 AI deposition simulator for training lawyers\n17:55 Markus Covert: whole-cell simulation\n22:36 AI tutors, learning, and the MIT report\n26:14 Panel: building for future AI capabilities\n32:46 Should professors use AI for recommendations?\n42:51 AI transparency and disclosure norms\n54:22 Q&amp;A: skills students shouldn't lose to AI\n1:00:38 Learning with AI vs letting AI do the work\n\nAbout the speakers:\nMark Algee-Hewitt leads Stanford's Digital Humanities program. His work combines critical and quantitative approaches to the analysis of literature. As director of the Stanford Literary Lab, he has led projects on the literature of suspense, the history of racialized language in American literature, and an analysis of the reports of the OECD's anti-bribery convention.\n\nMegan Ma is the Executive Director of the Stanford Legal Innovation through Frontier Technology (LIFT) Lab. Her research focuses on the use and integration of generative AI in legal practice, considering their implications in contexts of human-machine collaboration. She also teaches courses in computational law at the Law School and Department of Computer Science.\n\nMarkus Covert is the Chair of the Department of Bioengineering at Stanford. His research focus is building computational models of complex biological processes, and using these models to guide an experimental program. Biological systems of interest include metabolic, regulatory and signaling networks as well as cell-cell interactions.\n\nHost: Cynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University and the instructor of CS193T.\n\nCourse website: https://web.stanford.edu/class/archive/cs/cs193t/cs193t.1272/\nWatch the full CS193T playlist: https://www.youtube.com/playlist?list=PLDrJO3v_iAZY\n\nRecorded October 13, 2026 in CS193T: Thinking with AI, a Stanford University course hosted by Senior Lecturer Cynthia Bailey.\n\n#AIinResearch #AIinLaw #StanfordOnline",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -311,19 +324,6 @@
       "url": "https://www.youtube.com/watch?v=TzZmDf60hIQ",
       "published": "2026-11-12T07:50:40+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "_UzK3Eiif5g",
-      "title": "Example of an AI Agent Memory Failure: Lost Instructions | Stanford CS329Z",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=_UzK3Eiif5g",
-      "published": "2026-11-12T04:57:41+00:00",
-      "summary": "Stanford's Diyi Yang explains how an OpenClaw agent deleted a user's emails after context compression dropped the instruction 'confirm before you act.'\n\nWatch the full Stanford CS329Z lecture recording on our channel.\n\n#AIAgents #AgentMemory #AISafety",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
