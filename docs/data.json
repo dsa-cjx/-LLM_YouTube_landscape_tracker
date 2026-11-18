@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-17T15:31:24.072139+00:00",
+  "generated_at": "2026-11-18T00:34:05.075265+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Two Minute Papers",
+        "Stanford Online",
         15
       ],
       [
-        "Stanford Online",
+        "Two Minute Papers",
         15
       ],
       [
@@ -30,6 +30,45 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "TP4UixmOe-I",
+      "title": "Why Do We Need Statisticians in the Age of AI? | Kristin Sainani & Regina Nuzzo",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=TP4UixmOe-I",
+      "published": "2026-11-18T00:00:21+00:00",
+      "summary": "Enrollment is now open!\n\nDemystifying Data: A Modern Approach to Statistical Understanding (SOM-XCHE0033)\n🔗https://stanford.io/som-xche0033\n\nGraduate Winter Quarter\n🔗https://stanford.io/Winter-2026\n\n\nWill AI replace statisticians? Stanford's Kristin Sainani and Regina Nuzzo, two statistics professors and science journalists, say the field is more important than ever. In this conversation, they discuss how large language models (LLMs) can improve statistical practice, why linear models and machine learning have roots in statistics, and why a human needs to stay in the middle of any AI-assisted analysis. Sainani is excited about LLMs helping people who analyze their own data without a statistician. Nuzzo argues that statisticians understand both how machines work and how humans think, which is the point where AI needs oversight.\n\nKey questions answered in this video:\nQ: Do we still need statisticians in the age of AI and LLMs?\nA: Yes. Sainani says LLMs are not ready to take over statisticians' jobs, and Nuzzo says statisticians have a growing role as the link between machines and the people using them.\nQ: How can LLMs improve statistical analysis?\nA: Sainani says people who analyze data on their own, sometimes blindly in Excel, can now get help from an LLM with coding in R, visualizing data, and checking for errors.\nQ: Why does AI still need human oversight?\nA: Sainani notes that AI can make weird, unexpected mistakes, so a person needs to think about and oversee the analysis.\nQ: What do statisticians understand that machines do not?\nA: Nuzzo says machines are good at automation and saving time, but they lack insight into human psychology and what people need. Statisticians understand both how the models are built, trained, and validated and how people interpret them.\n\nChapters:\n0:00 Why do we need statisticians?\n0:11 Can LLMs take over statisticians' jobs?\n0:32 How AI can improve statistical analysis\n0:53 Why humans still need to oversee AI\n1:15 Statistics as the foundation of machine learning\n1:46 The human in the middle of AI\n2:20 Do statisticians still have jobs?\n\nAbout the speakers:\nKristin Sainani is an associate professor at Stanford University and a health and science writer. She holds an MS in statistics and a PhD in epidemiology from Stanford and has taught statistics and writing at Stanford for more than a decade.\n\nRegina Nuzzo is a freelance science writer and professor in Washington, DC. She earned her PhD in Statistics from Stanford and teaches statistics in American Sign Language at Gallaudet University.\n\nTogether, they teach Stanford Online courses and host the podcast Normal Curves.\n\n#Statistics #AI #StanfordOnline",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "e_m99aR7_3Q",
+      "title": "Optimizing AI Agents: Prompts vs. Weights (GEPA, GRPO) | Stanford CS329Z Lecture 9 with Michael Ryan",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=e_m99aR7_3Q",
+      "published": "2026-11-17T21:00:35+00:00",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview:\nShould you optimize your AI agent's prompts or fine-tune its weights? In this Stanford CS329Z: Engineering AI Agents lecture, Michael Ryan, whose prompt-optimization algorithms are used across industry, covers when optimization pays off, context optimization (bootstrapped few-shot, OPRO, MIPROv2, TextGrad, GEPA), weight optimization (SFT on agent rollouts, PPO vs. GRPO, on-policy distillation), agents as optimizers (Darwin Gödel Machine, autoresearch), and a practical guide to choosing between prompts and weights.\n\nSpeaker: Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/21/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "0Uk4uLjuEeY",
+      "title": "Vibe Coding, AI Risk & AI Evaluation | Stanford CS193T Lecture 6 with Cynthia Bailey",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=0Uk4uLjuEeY",
+      "published": "2026-11-17T17:00:03+00:00",
+      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh \n\nOnce AI can take actions on its own, how do you stay in control? In this Stanford CS193T: Thinking with AI lecture, Senior Lecturer Cynthia Bailey previews this week's tools, Claude Code and Codex, with a three-step process for preparing, generating, and reviewing vibe-coded work. Then she looks past launch: why even a carefully built AI tool needs monitoring, how the NIST AI Risk Management Framework structures responsible AI across a product's life cycle, and what Stanford's Responsible AI guidance asks of you. The lecture closes with evaluation: what you are measuring, and why ground truth is harder to pin down than it looks.\n\nKey questions answered in this lecture:\nQ: What is vibe coding?\nA: Bailey describes vibe coding as using English as a programming language with AI tools like Claude Code and Codex. Done professionally (some call it agentic engineering) it follows three steps: prepare a detailed spec with the elephant and goldfish process, hand it to a fresh coding agent, then review the result.\n\nQ: How can I review vibe-coded work if I can't read code?\nA: Bailey recommends starting another fresh 'goldfish' agent in a coding environment, giving it your scope of work and the code, and asking it to act as a severe code reviewer. Frame the code as someone else's work that may not follow the spec, to push the AI away from praise.\n\nQ: Why do AI systems need monitoring after deployment?\nA: Bailey says conditions change after deployment: distribution shift, users changing behavior once they know AI is involved (like students adding prompt-injection notes for an AI autograder), and models that update their weights. Thorough pre-deployment testing on historical data cannot catch these.\n\nQ: What is survivorship bias in evaluating an AI model?\nA: In Bailey's example, an AI predicts which employees to fire after 90 days; the retained ones do well, but there is no data on how the fired ones would have performed. She suggests firing only a random 75% of those flagged so the other 25% provide a counterfactual.\n\nQ: What is the NIST AI Risk Management Framework?\nA: Bailey describes the NIST AI RMF, released in 2023, as guidance rather than a precise standard, built on map, measure, and manage with a culture-focused governance function at the center. She stresses attending to the whole AI lifecycle, including post-deployment and decommissioning data.\n\nQ: What is LLM as a judge in AI evaluation?\nA: Bailey explains that judging hallucinations, tone, or bias at scale is subjective, so a second LLM grades each response from the first. She notes the goldfish code review in vibe coding is an example of this pattern.\n\nChapters:\n0:00 Intro: vibe coding and controlling your AI\n0:55 What is vibe coding?\n3:35 Vibe coding AI out of a job\n7:09 Elephant and goldfish process for vibe coding\n16:32 Why post-deployment monitoring matters\n18:33 Distribution shift and an AI autograder\n24:50 Survivorship bias in AI evaluation\n30:27 NIST AI Risk Management Framework\n40:05 AI product lifecycle and decommissioning data\n43:04 Stanford AI policies and data classification\n46:39 The golden rule for AI and personal data\n51:03 AI evals vs product metrics, LLM as judge\n58:09 Ground truth and datasets of convenience\n1:05:02 Case study: Twitter's image cropping bias\n\nAbout the speaker:\nCynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University. In 2023-2024, she served as an AI Policy Fellow in the United States Senate through the American Association for the Advancement of Science (AAAS). Her scholarship focuses on computer science education, AI/machine learning, and the social impacts of technology, including creating courses such as Equity and Governance for Artificial Intelligence and Race and Gender in Silicon Valley. Her teaching and research awards include the Lloyd W. Dinkelspiel Award for exceptional contributions to undergraduate education at Stanford, the Lasting Impact Award from the International Computing Education Research conference, a \"Top 10 Papers of All Time\" award at the 50th anniversary of the ACM SIGCSE Technical Symposium, and the Stanford Society of Women Engineers' Professor of the Year. She has consulted for Apple, NASA, law firms, and machine learning startups. She holds a Ph.D. in Computer Science from UC San Diego.\n\nCourse website: https://web.stanford.edu/class/archive/cs/cs193t/cs193t.1272/\nWatch the full CS193T playlist: https://www.youtube.com/playlist?list=PLDrJO3v_iAZY\n\nRecorded October 27, 2026 in CS193T: Thinking with AI, a Stanford University course taught by Senior Lecturer Cynthia Bailey.\n\n#VibeCoding #ResponsibleAI #StanfordOnline",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "gl2U4fGTr6g",
       "title": "OpenAI's New Breakthrough Is... Utter Chaos",
@@ -259,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
       "published": "2026-11-12T13:41:41+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The DeepMind paper AlphaProof Code is available here:\nhttps://deepmind.google/blog/introducing-alphaproof-code/\nhttps://deepmind.google/documents/36/Formal_Verification_of_Signal_4.pdf\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=TzZmDf60hIQ",
       "published": "2026-11-12T07:50:40+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=_UzK3Eiif5g",
       "published": "2026-11-12T04:57:41+00:00",
       "summary": "Stanford's Diyi Yang explains how an OpenClaw agent deleted a user's emails after context compression dropped the instruction 'confirm before you act.'\n\nWatch the full Stanford CS329Z lecture recording on our channel.\n\n#AIAgents #AgentMemory #AISafety",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -298,32 +337,6 @@
       "url": "https://www.youtube.com/watch?v=LFzBzzHZESE",
       "published": "2026-11-11T22:52:54+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "psLc-46GqY0",
-      "title": "RAG Explained: From BM25 to Agentic RAG | Stanford CS329Z Lecture 3 with Diyi Yang",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=psLc-46GqY0",
-      "published": "2026-11-11T21:00:17+00:00",
-      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nSelf-paced online Agentic AI course: https://online.stanford.edu/programs/agentic-ai?utm_source=youtube&amp;utm_medium=social&amp;utm_content=cs329z-01-what-are-agentic-systems\n\nLecture Overview:\nHow does retrieval-augmented generation (RAG) work, and do frontier models still need it? In this Stanford CS329Z: Engineering AI Agents lecture, Stanford professor Diyi Yang walks through the full RAG pipeline: chunking and contextual retrieval, RAPTOR and GraphRAG, vector search with HNSW, BM25 vs. dense retrieval (DPR), hybrid search, rerankers and ColBERT, and agentic RAG methods like Self-RAG, CRAG, and Search-R1.\n\nSpeaker: Diyi Yang\n\nDiyi Yang is an assistant professor in the Computer Science Department at Stanford University, also affiliated with the Stanford NLP Group, Stanford HCI Group and Stanford Human Centered AI Institute. Her research focuses on human-centered LLMs and human-AI interaction.  She is a recipient of IEEE “AI 10 to Watch” (2020), Microsoft Research Faculty Fellowship (2021), NSF CAREER Award (2022), and a Sloan Research Fellowship (2024).\n\nChapters:\n0:00 Introduction & course project guidelines\n5:53 Why RAG? Grounding answers in evidence\n8:55 From retriever-reader QA to RAG\n20:22 Q&amp;A: do frontier models still need RAG?\n23:28 Indexing: embeddings & chunking strategies\n29:25 Contextual retrieval & late chunking\n36:27 Hierarchical & graph RAG: RAPTOR, GraphRAG\n40:25 Q&amp;A: GraphRAG & compounding errors\n45:14 Vector search: ANN & HNSW\n48:42 BM25 vs. dense retrieval (DPR)\n55:42 Retrieval metrics & hybrid search\n1:02:34 Bi-encoders, cross-encoders & ColBERT\n1:08:18 Agentic RAG: Self-RAG, CRAG, Search-R1\n1:14:29 RAG failure modes\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 9/30/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#RAG #AIAgents #Stanford",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "8Ok6ZYILp2Q",
-      "title": "AI Memory, RAG & Prompt Injection Explained | Stanford CS193T Lecture 3 with Cynthia Bailey",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=8Ok6ZYILp2Q",
-      "published": "2026-11-11T18:00:08+00:00",
-      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh \n\nWhat else is sharing your AI's context window besides your prompt? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey focuses on context, information, and prompt instructions that persist beyond a single chat session: settings, remembered facts, uploaded files, and retrieved web pages. Examples include how to use these tools to reduce sycophancy and \"AI style,\" understanding what your chat history is (and isn't) used for, saving your best prompts as reusable Skills or Gems, and strategic withholding, where the smartest prompt leaves something out. She introduces retrieval-augmented generation (RAG) for grounding AI in your own documents when they would overflow the context window, and the documented ways trust in a RAG store can fail. The lecture closes on a cybersecurity note with prompt injection: why an AI can't always tell your instructions apart from malicious text on the internet.\n\nKey questions answered in this lecture recording:\nQ: Does ChatGPT learn from my conversations?\nA: A released model's weights are frozen, so memories change behavior only through the context window. But a company that sees your chat history could use it to train future models; Stanford's licensed AI tools prohibit that, while personal accounts may not.\n\nQ: What is retrieval-augmented generation (RAG)?\nA: RAG is a user-curated document store, much larger than the context window, that the tool searches to place only relevant documents into the context. Because RAG content gets extra weight, Bailey warns that bad sources can poison results.\n\nQ: What is the adaptive chameleon vs stubborn sloth problem in LLMs?\nA: Citing the paper \"Adaptive Chameleon or Stubborn Sloth,\" Bailey explains that models sometimes accept bad information in your RAG too eagerly and sometimes ignore your sources in favor of training data. Either behavior can help or hurt.\n\nQ: How do I get more honest feedback from ChatGPT or Claude?\nA: Use strategic withholding: ask the AI to evaluate \"this essay,\" not \"my essay,\" or frame your resume as a candidate's, and use a temporary chat so memories don't reveal it's yours.\n\nQ: What is prompt injection?\nA: The system prompt, your prompt, and retrieved web pages are one continuous stream of tokens, so hidden text on a web page can issue instructions the model may obey. The risk grows when AI has connectors to email or files.\n\nQ: Do Claude Skills or Gemini Gems fine-tune the model?\nA: No. Bailey says skills and gems are one more piece of text in the context window, functioning between the system prompt and your prompt, and they do not change the model's weights.\n\nChapters:\n0:00 Managing sources and the context window\n1:06 Saving preferences in ChatGPT\n3:24 Claude's system prompt and custom instructions\n6:53 How AI memory works across chats\n9:44 Importing ChatGPT memories into Gemini\n11:25 Everything that fills the context window\n15:47 Chat privacy: do your chats train AI models?\n18:41 RAG: retrieval-augmented generation\n22:31 Adaptive Chameleon or Stubborn Sloth\n28:43 Saving reusable prompts: Claude Skills, Gems\n36:19 Strategic withholding for candid AI feedback\n44:47 Overriding the system prompt and red teaming\n50:01 Prompt injection from web documents\n53:57 Q&amp;A: connectors and prompt injection defenses\n\nAbout the speaker:\nCynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University. In 2023-2024, she served as an AI Policy Fellow in the United States Senate through the American Association for the Advancement of Science (AAAS). Her scholarship focuses on computer science education, AI/machine learning, and the social impacts of technology, including creating courses such as Equity and Governance for Artificial Intelligence and Race and Gender in Silicon Valley. Her teaching and research awards include the Lloyd W. Dinkelspiel Award for exceptional contributions to undergraduate education at Stanford, the Lasting Impact Award from the International Computing Education Research conference, a \"Top 10 Papers of All Time\" award at the 50th anniversary of the ACM SIGCSE Technical Symposium, and the Stanford Society of Women Engineers' Professor of the Year. She has consulted for Apple, NASA, law firms, and machine learning startups. She holds a Ph.D. in Computer Science from UC San Diego.\n\nCourse website: https://web.stanford.edu/class/archive/cs/cs193t/cs193t.1272/\nWatch the full CS193T playlist: https://www.youtube.com/playlist?list=PLDrJO3v_iAZY\n\nRecorded October 6, 2026 in CS193T: Thinking with AI, a Stanford University course taught by Senior Lecturer Cynthia Bailey.\n\n#RAG #PromptInjection #StanfordOnline",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -376,19 +389,6 @@
       "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
       "published": "2026-11-10T23:11:36+00:00",
       "summary": "I’ve read the full Fable 5.2 report at 264 pages, the 30 page METR RSI report, and tested Gemini Carbon and Fable 5.2 hundreds of times. There’s too much to cover in one video, but let’s explore everything from how fast AI is accelerating AI, five benchmarks few others will talk about, why Simple Bench got saturated but meta-simple bench might not have, Internal model 4, remote labour automation and much more\n\nhttps://www.assemblyai.com/aiexplained\n\nExclusive Vids($9!): https://www.patreon.com/AIExplained\n\n00:00 - Introduction\n00:49 - how good are Fable 5.2 and Carbon?\n09:01 - smarter, but still missing some common sense\n15:49 - how fast is AI improving itself?\n23:51 - small gains, big consequences\n26:33 - it knows when you're watching\n\n\n\nIntroducing Claude Fable 5.2 and Mythos 5.2: https://www.anthropic.com/claude-fable-and-mythos-5-2\n\nClaude Fable 5.2 and Mythos 5.2 System Card: https://assets.claude.com/27d60918d218125e7504bc7354c4b4626ec56b11.pdf\n\nMETR: AI R&amp;D acceleration at Anthropic: https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/\n\nEpoch AI: Fable 5.2 sets a new capabilities record: https://x.com/EpochAIResearch/status/2119903415363113088\n\nSemiAnalysis: Fable 5.2's coding gains and RSI plateau: https://x.com/SemiAnalysis_/status/2119961452496756926\n\nSemiAnalysis GDPx: https://gdpx.semianalysis.com/\n\nRemote Labor Index: https://www.remotelabor.ai/\n\nRemote Labor Index paper: https://arxiv.org/pdf/2510.26787\n\nGreg Burnham on Fable 5.2's Remote Labor Index score: https://x.com/GregHBurnham/status/2120155251240292619/photo/1\n\nAgents' Last Exam leaderboard: https://agents-last-exam.org/leaderboard\n\nAA-Omniscience: Knowledge and hallucination benchmark: https://artificialanalysis.ai/evaluations/omniscience\n\nExploitGym leaderboard: https://benchlm.ai/benchmarks/exploitgym\n\nExploitGym: Turning vulnerabilities into real attacks: https://arxiv.org/pdf/2605.11086\n\nBenchCAD leaderboard: https://benchcad.com/leaderboard\n\nBenchCAD paper: https://arxiv.org/pdf/2605.10865\n\nOpenAI: Accelerating engineering for the physical world: https://openai.com/index/accelerating-engineering-for-the-physical-world/\n\nGoogle: Gemini 4 Carbon is now available: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/\n\nJustin Lo: MaxxBench tests coding robustness: https://x.com/loresjpg/status/2118880329490637049/photo/1\n\nClaude: Fable 5.2 and Mythos 5.2 capabilities and speed: https://x.com/claudeai/status/2119867117642146270/photo/1\n\nWashington Post: Cathedral researchers got inside Anthropic: https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/\n\nMax Winga: Dario Amodei's testimony on AI extinction risk: https://x.com/maxwinga/status/2119034229983986049/photo/2\n\nJared Kaplan's testimony on Anthropic's commercial structure: https://x.com/_smitop/status/2119870258919969066/photo/2\n\nAnthropic: AI-driven R&amp;D risk disclosure excerpt: https://pbs.twimg.com/media/HWxojYda4AAu5c9?format=jpg&amp;name=900x900\n\nMrinank Sharma's Anthropic resignation letter: https://x.com/MrinankSharma/status/2020881722003583421/photo/1\n\nChris Olah on Pope Leo XIV's encyclical: https://www.anthropic.com/news/chris-olah-pope-leo-encyclical\n\nLessWrong: Claude 3's launch and GPT-4 performance claims: https://www.lesswrong.com/posts/JbE7KynwshwkXPJAJ/anthropic-release-claude-3-claims-gpt-4-performance\n\nAlex Albert: Bringing Leonardo da Vinci's notebooks to life: https://x.com/alexalbert__/status/2119916954337349737\n\nClaude: Watching subagents work inside a project: https://x.com/claudeai/status/2120174853856821549\n\nIntegrityBench: https://integrity-bench.com/\n\nSimpleBench: https://simple-bench.com/\n\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "Vr1NzH8bT44",
-      "title": "LLMs for Agent Builders: Context Engineering | Stanford CS329Z Lecture 2 with Michael Ryan",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=Vr1NzH8bT44",
-      "published": "2026-11-10T21:00:11+00:00",
-      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview: \nWhat do you need to know about how LLMs work to build better AI agents? In this Stanford CS329Z: Engineering AI Agents lecture, Stanford PhD student and DSPy contributor Michael Ryan covers decoding strategies (sampling and temperature), transformer attention (including linear and hybrid attention) and context length, the pretraining-to-post-training pipeline (SFT, RLHF, RLVR), inference (prefill vs. decode and the KV cache) and test-time scaling, structured I/O and constrained decoding, and context engineering, including why stuffing everything into the context window backfires.\n\nSpeaker: Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nChapters:\n0:00 Introduction: the LLM stack\n3:57 What is a language model?\n7:46 Sampling: greedy, top-p, top-k & temperature\n16:03 Transformer architecture & self-attention\n28:27 Attention vs. recurrence & linear attention\n36:01 Pretraining & mid-training\n44:21 Post-training: SFT, RLHF & RLVR\n47:33 Training LLMs for coding agents\n49:11 Q&amp;A: long-horizon data\n52:30 Inference: prefill, decode & KV cache\n59:56 Reasoning models & test-time scaling\n1:04:58 Structured outputs & constrained decoding\n1:10:12 Context engineering & context rot\n1:16:03 Recursive language models\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 9/28/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #LLM #ContextEngineering",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
