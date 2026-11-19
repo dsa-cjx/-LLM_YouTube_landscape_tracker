@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T23:54:19.938343+00:00",
+  "generated_at": "2026-11-19T06:00:20.927908+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "l07K2cdLofM",
+      "title": "AI Costs: Tokens, Energy, Model Choice & API Keys | Stanford CS193T Lecture 7 with Cynthia Bailey",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=l07K2cdLofM",
+      "published": "2026-11-19T00:00:19+00:00",
+      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh \n\nWhat does it cost to use AI in tokens, dollars, electricity, and water? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey reads a real Claude Code usage report line by line, shows how caching saves money by reusing attention-mechanism calculations, and reviews estimates of AI's electricity and water use and how they vary by task and context size. She then covers model selection, including why bigger is not always better once latency compounds across a multi-step agentic workflow, and API keys: what they are, why they matter for billing and security, and a hands-on demonstration of how one leaks. The lecture closes with a current-events look at how the real-world costs of AI became a factor in the 2026 midterm elections.\n\nKey questions answered in this lecture:\nQ: What do the numbers in a Claude Code usage report mean?\nA: Bailey walks through total cost, API duration (time spent waiting on the model, including network transit and data center load), wall-clock time since the session began, and input versus output tokens. Input tokens cover everything the model reads, including the system prompt, settings, and connectors. Output tokens include the model's reasoning.\n\nQ: How does caching reduce the cost of using an AI model?\nA: Much of the context window repeats from prompt to prompt, so a precomputed version is saved instead of being reprocessed. Because the attention calculation is done once and reused, cache reads can be discounted by up to about 90% compared with raw input tokens.\n\nQ: Do unused skills still add to token costs?\nA: Yes. Every enabled skill places its text in the context window on each prompt, so unused skills still add cost. Bailey recommends removing skills an agent does not need and starting a fresh session when you switch tasks.\n\nQ: How much electricity and water does an AI prompt use?\nA: Bailey cites Google's self-reported 2025 figures for a median Gemini text prompt, about 0.26 mL of water and 0.24 Wh of electricity, and notes that public data is limited. She also covers research estimates that image generation costs 20 to 40 times more than text and video 1,000 to 3,000 times more, with reasoning modes averaging about 30 times more.\n\nQ: How should you choose a model for an AI agent?\nA: Bigger is not automatically better, because larger models bring higher latency, and that delay repeats at every step of a multi-agent workflow. A narrow check against an objective rule can suit the smallest, cheapest model, while a guardrail that must interpret policy with nuance calls for a stronger one.\n\nQ: What is an API key, and how can one leak?\nA: An API key works like login credentials for a program, letting it call an AI model and bill the usage to your account, so it deserves the same care as a password. If a key is written into a web page's code, anyone can view the page source, copy it and run up charges, so it must be kept out of public view.\n\nChapters:\n0:00 Introduction and agenda\n2:34 Reading a Claude Code usage report\n5:01 Input and output tokens\n6:33 Prompt caching\n10:07 Skills, plugins and token overhead\n13:20 Electricity and water use of AI\n16:07 Image, video and reasoning multipliers\n18:39 Agent model selection and latency\n21:07 Case study: AI tutor guardrail agents\n26:11 Case study: policy Q&amp;A chatbot\n29:54 What API keys are and who pays\n34:43 Security risk: leaking an API key\n36:45 Demo: how an API key leaks\n42:20 AI data centers in the 2026 elections\n\nAbout the speaker:\nCynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University. In 2023-2024, she served as an AI Policy Fellow in the United States Senate through the American Association for the Advancement of Science (AAAS). Her scholarship focuses on computer science education, AI/machine learning, and the social impacts of technology. This work includes creating groundbreaking courses such as Equity and Governance for Artificial Intelligence and Race and Gender in Silicon Valley. Her teaching and research awards include the Lloyd W. Dinkelspiel Award for exceptional contributions to undergraduate education at Stanford, the Lasting Impact Award from the International Computing Education Research conference, a \"Top 10 Papers of All Time\" award at the 50th anniversary of the ACM SIGCSE Technical Symposium, and the Stanford Society of Women Engineers' Professor of the Year. She has consulted for Apple, NASA, law firms, and machine learning startups. She holds a Ph.D. in Computer Science from UC San Diego.\n\nCourse website: https://web.stanford.edu/class/archive/cs/cs193t/cs193t.1272/\nWatch the full CS193T playlist: https://www.youtube.com/playlist?list=PLDrJO3v_iAZY\n\nRecorded November 10, 2026, in CS193T: Thinking with AI, a Stanford University course taught by Cynthia Bailey.\n\n#AI #LLM #ResponsibleAI",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "7GW-9ug2nvw",
       "title": "Terminal-Bench: Evaluating AI Agents | Stanford CS329Z Guest Lecture with Alex Shaw & Ryan Marten",
@@ -266,25 +279,12 @@
     },
     {
       "video_id": "Sjdvu4nHfDk",
-      "title": "Anthropic Researcher explains how to train LLMs",
+      "title": "Anthropic Researcher Explains How LLMs Are Built and Trained",
       "channel": "Matthew Berman",
       "channel_category": "AI Tools",
       "url": "https://www.youtube.com/watch?v=Sjdvu4nHfDk",
       "published": "2026-11-12T22:09:15+00:00",
       "summary": "Check out Jeremy on X: https://x.com/jeremyberman\n\nFrontier Pass members saw this video first! https://forwardfuture.com/frontier-pass\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "s0S38lz6O7M",
-      "title": "How AI Agents Use Tools: Function Calling & MCP | Stanford CS329Z Lecture 4 with Diyi Yang",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=s0S38lz6O7M",
-      "published": "2026-11-12T21:00:35+00:00",
-      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview:\nWhy can't LLMs do everything on their own, and how do they learn to use tools? In this Stanford CS329Z: Engineering AI Agents lecture, Stanford professor Diyi Yang covers the “lost in the middle” problem, how LLMs learn to use tools with Toolformer and ToolkenGPT, scaling to thousands of APIs with ToolLLM and Gorilla, the difference between REST APIs, function calling, and the Model Context Protocol (MCP), and how to evaluate tool use with BFCL, ToolBench, and τ-bench, plus common failure modes.\n\nSpeaker: Diyi Yang\n\nDiyi Yang is an assistant professor in the Computer Science Department at Stanford University, also affiliated with the Stanford NLP Group, Stanford HCI Group and Stanford Human Centered AI Institute. Her research focuses on human-centered LLMs and human-AI interaction.  She is a recipient of IEEE “AI 10 to Watch” (2020), Microsoft Research Faculty Fellowship (2021), NSF CAREER Award (2022), and a Sloan Research Fellowship (2024).\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/5/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
       "transcript_status": "error",
       "transcript_language": null,
       "analysis_status": null,
