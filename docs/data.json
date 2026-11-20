@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T14:55:27.065869+00:00",
+  "generated_at": "2026-11-20T23:41:35.137340+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -9,11 +9,11 @@
         15
       ],
       [
-        "AI Explained",
+        "Stanford Online",
         15
       ],
       [
-        "Stanford Online",
+        "AI Explained",
         15
       ],
       [
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "BoBe0tepch4",
+      "title": "Six Robots Worked a 24-Hour Shift at a Shanghai Convenience Store",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=BoBe0tepch4",
+      "published": "2026-11-20T22:53:25+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "GPk0nNuc8S0",
+      "title": "Stanford CS547 HCI Seminar | Autumn 2026 | One Developer, Two Decades, and 30 Million Users Later",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=GPk0nNuc8S0",
+      "published": "2026-11-20T19:46:49+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nOctober 16, 2026\nThis lecture covers:\n•  How Python Tutor, a browser-based tool that visualizes code step by step across Python, Java, C, C++, and JavaScript, helps students debug, teachers explain concepts, and programmers prepare for interviews\n•  The design decisions behind turning a one-off prototype into one of the most widely used pieces of academic software, reaching nearly 30 million students and teachers in over 180 countries\n•  The project's three eras: Inception as a grad student side project, Acceleration as a decade of user growth, and Disruption, when generative AI both threatens and may revitalize the project\n\nFollow the seminar schedule here: https://hci.stanford.edu/courses/\n\nAccess the CS547 playlist here: https://www.youtube.com/playlist?list=PLoROMvodv4rMP76_zoOzbTqL69c938yo2\n\n#HumanComputerInteraction #ComputerScienceEducation #Python",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "5eON_8rgKzk",
       "title": "Gemini 4 Neon is ridiculous...",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=qh5tP6PBZ6U",
       "published": "2026-11-15T21:00:28+00:00",
       "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview: \nWhy do AI agents forget, and how do you give them memory? In this Stanford CS329Z: Engineering AI Agents lecture, Michael Ryan explains the four types of agent memory (working, episodic, semantic, procedural), how to store memories in files, databases, or knowledge graphs, and the main architecture patterns: skill libraries like Voyager, tiered memory like MemGPT, reflective consolidation, and memory maintenance with A-MEM and Mem0. He closes with memory benchmarks and open problems in forgetting, privacy, and over-personalization.\n\nSpeaker Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/14/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=JC_pLC5EX_w",
       "published": "2026-11-14T21:00:05+00:00",
       "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nSelf-paced online Agentic AI course: https://online.stanford.edu/programs/agentic-ai?utm_source=youtube&amp;utm_medium=social&amp;utm_content=cs329z-01-what-are-agentic-systems\n\nLecture Overview:\nWhen should you build a workflow instead of an agent, and which design patterns work best? In this Stanford CS329Z: Engineering AI Agents lecture, Michael Ryan covers Anthropic's five workflow patterns, reasoning-and-acting patterns (ReAct, Reflexion, CodeAct, ReWOO), and context-management techniques like event logs, compaction, observation masking, subagents, and skills, ending with a case study of the minimal Pi harness.\n\nSpeaker: Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/12/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -324,19 +350,6 @@
       "url": "https://www.youtube.com/watch?v=q0Q-Hy8TTps",
       "published": "2026-11-13T21:00:26+00:00",
       "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nSelf-paced online Agentic AI course: https://online.stanford.edu/programs/agentic-ai?utm_source=youtube&amp;utm_medium=social&amp;utm_content=cs329z-01-what-are-agentic-systems\n\nLecture Overview:\nWhich framework should you use to build AI agents? In this Stanford CS329Z: Engineering AI Agents lecture, DSPy contributor Michael Ryan live-codes agents in DSPy (signatures, modules, and optimizers) and LangGraph (state, nodes, and edges), then compares open-source agent harnesses like mini-SWE-agent, OpenHands, and Pi, shows durable orchestration with Temporal, and shares best practices for observability and evals.\n\nSpeaker: Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/07/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "3vpnwkePGVQ",
-      "title": "Why AI Decisions Are Geopolitical Decisions | Francis Fukuyama & Andy Grotto, Stanford",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=3vpnwkePGVQ",
-      "published": "2026-11-13T20:14:16+00:00",
-      "summary": "Learn more and enroll: https://online.stanford.edu/courses/xfsi210-ai-power-and-new-rules-global-strategy?utm_source=youtube&amp;utm_medium=social&amp;utm_content=FSI-overview\n\nIn this overview of AI, Power, and the New Rules of Global Strategy, academic co-directors Francis Fukuyama and Andy Grotto of Stanford’s Freeman Spogli Institute for International Studies explain why AI decisions are never only about technology.\n\nAI has political, social, and international dimensions that leaders need to understand. Boards and investors are pushing senior executives to figure out their AI strategy, and every choice carries regulatory, reputational, and geopolitical risk. Fukuyama and Grotto built this in-person executive program because nothing else on the market connected geopolitics to the AI decisions organizations actually face.\n\nOver three and a half days on the Stanford campus, you’ll learn how to:\n\nSpot the geopolitical, regulatory, and economic issues behind your AI decisions\nWeigh costs, benefits, and second-order effects\nDo your own research and reach independent, defensible conclusions\n\nSessions cover the digital economy, AI governance and regulation, export controls, semiconductors and energy, U.S.–China competition, and military uses of AI. Speakers include Stanford faculty, Silicon Valley builders, investors, policymakers, and military leaders.\n\nThe program is for board members, C-suite executives, technology and product leaders, government officials, and leaders of international organizations and NGOs. You don’t need a technical background. A prework course, AI Technical Foundations, gives you the technical grounding before you arrive.\n\nMarch 22–25, 2027 | In person at Stanford University\n\n#ArtificialIntelligence #Geopolitics #AIStrategy #ExecutiveEducation #StanfordOnline",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -493,19 +506,6 @@
       "url": "https://www.youtube.com/watch?v=oW98tLm7suY",
       "published": "2026-11-10T00:56:42+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "0vNyVMDFdkg",
-      "title": "Fable 5.2 solved all software...",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
-      "published": "2026-11-09T19:02:56+00:00",
-      "summary": "Check out Eight Sleep's Pod 6: https://www.eightsleep.com/matthewberman\nUse code 'MATTHEWBERMAN' for up to $200 off\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nCheck out my tests:\nPhoton Image Editor — https://claude.ai/artifact/WbkND2LEF984GAVpKvdBBs\nQuadrille Spreadsheet — https://claude.ai/artifact/NPxoR5gnxVVsXnyPAkKpYS\nBullet vs Water Balloon — https://claude.ai/artifact/BUvLhCGMEaoqL76Vp2Joru\nConsciousness Proof Attempt — https://claude.ai/artifact/N3zY7tMuVWGcUAyYihS36g\nForward Future Homepage Redesign — https://claude.ai/artifact/A8AgVMoCLuY27QQUwr4J3B\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 Intro\n0:15 Gears of War clone\n2:16 Microsoft Excel\n3:13 Sponsor\n4:25 Excel continued\n4:42 DaVinci Resolve\n6:04 Fall Guys\n8:29 Water balloon physics\n10:33 3D-printed tower\n11:37 Motion graphics\n12:22 LLM explainer\n12:56 House design in Blender\n14:26 Tesla Roadster event\n14:53 European town simulation\n16:06 Tokyo in Unreal Engine\n17:38 Call of Duty-style game\n17:44 Melee on Android\n17:55 Portal\n18:06 Starlane\n18:26 Tidekeeper\n18:43 Dragon Rider\n18:56 Benchmarks\n20:35 My thoughts\n23:05 Pricing",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
