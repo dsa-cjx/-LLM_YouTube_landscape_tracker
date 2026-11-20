@@ -1,11 +1,15 @@
 {
-  "generated_at": "2026-11-19T15:38:21.528300+00:00",
+  "generated_at": "2026-11-20T00:19:37.806319+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Two Minute Papers",
+        "Matthew Berman",
+        15
+      ],
+      [
+        "AI Explained",
         15
       ],
       [
@@ -13,11 +17,7 @@
         15
       ],
       [
-        "Matthew Berman",
-        15
-      ],
-      [
-        "AI Explained",
+        "Two Minute Papers",
         15
       ],
       [
@@ -31,13 +31,78 @@
   },
   "items": [
     {
+      "video_id": "2qd2LEXDYpo",
+      "title": "I Gave Hark Pro Three Everyday Tasks",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=2qd2LEXDYpo",
+      "published": "2026-11-19T22:36:08+00:00",
+      "summary": "https://hark.link/mattberman\n\nI gave Hark Pro three jobs and kept my hands off the keyboard. First, it sorted my inbox and flagged receipts over $200. Then it ordered dinner through DoorDash. When I asked for a recap, it put the emails, receipts, and order in one place. It also spotted a double booking on my calendar.\n\nComment Hark and I’ll DM you the link.\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nPaid partnership with Hark.",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "KGA7B_c_S4s",
+      "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
+      "channel": "AI Explained",
+      "channel_category": "AI Analysis",
+      "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
+      "published": "2026-11-19T20:03:10+00:00",
+      "summary": "GPT 6.2 Astra is OpenAI’s best model, so for each of the last 4 years this would have been the only headline. But now Gemini is catching up fast, with 4 Carbon and Neon, and Anthropic are IPO-ing after promising imminent RSI. And even all this isn’t quite the main story, is it? We now have data on what drives model improvement, how close AI is to automating AI, and whether, as Dario Amodei of Anthropic promised, we are witnessing a ‘race to the top’...\n\nhttps://www.assemblyai.com/aiexplained\n\n\nExtra Vids ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:44 - Part 1: Data Dependent Progress\n07:52 - Part 2: Predictable Progress on Aggregate Benchmarks,\n10:27 - How Much Is AI Speeding Up AI Research?\n14:23 - Part 3: Anthropic Promised a Race to the Top\n17:24 - Why Models Are Getting Harder to Monitor\n22:46 - Is OpenAI Now the More Transparent Lab?\n27:50 - Last Word to Anthropic Staff\n\nAnthropic IPO roadshow video (Dario Amodei, Tom Brown): https://ipo.anthropic.com/us/#roadshow-video\n\nGreg Brockman and Sam Altman at the NYT DealBook Summit: https://www.youtube.com/watch?v=J5EA7QeBm8k\n\nPaul Christiano, AI Alignment: What's Working and What's Not (Hinton Lectures 2026): https://www.youtube.com/watch?v=-Ef0ocEoBCs\n\nTao Lin interviewed by Palisade Research: https://www.youtube.com/watch?v=OPZCQk8jF-I\n\nOpenAI report on research acceleration (The jagged frontier): https://openai.com/index/research-acceleration-jagged-frontier/\n\nGPT-6.2 Astra and Sol announcement: https://openai.com/index/introducing-gpt-6-2-astra-sol/\n\nGPT-6.2 Astra and Sol system card (PDF): https://deploymentsafety.openai.com/gpt-6-2-astra-sol/gpt-6-2-astra-sol.pdf\n\nGemini 4 Neon announcement: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\n\nOpenAI paper on chain-of-thought monitorability: https://alignment.openai.com/cot-monitorability-model-lifecycle\n\nMETR assessment of AI R&amp;D acceleration at Anthropic: https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/\n\nChain of Thought Monitorability paper (arXiv): https://arxiv.org/pdf/2507.11473\n\nOpenAI on safety cases for frontier AI training: https://openai.com/index/towards-safety-cases-for-frontier-ai-training/\n\nGemini 4 Argon Safety & Security Report (PDF): https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf\n\nOpenAI on embedded assessments: https://openai.com/index/our-first-phase-of-embedded-assessments/\n\nAnthropic and Accenture on embedded evaluation: https://www.anthropic.com/news/accenture-embedded-evaluation\n\nOpenAI Cyber at the Frontier: https://openai.com/cyber-at-the-frontier/\n\nThe Information on Brockman and OpenAI cyber: https://www.theinformation.com/articles/brockman-pushes-openai-toward-cybersecurity-and-showdown-ai-safety\n\nEpoch Capabilities Index: https://epoch.ai/eci?view=graph&amp;tab=release-date\n\nArtificial Analysis: https://artificialanalysis.ai/#evaluations\n\nVals RSI Index: https://www.vals.ai/benchmarks/rsi_index\n\nSimpleBench: https://simple-bench.com/\n\nIntegrityBench: https://integrity-bench.com/\n\nClaude and protein sequences (Xinming Tu post): https://x.com/TuXinming/status/2122737418864664618\n\nClaude and protein sequences (full write-up): https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/\n\nDrivingBench v2 results (Aditya Ramabadran): https://x.com/a_ramabadran/status/2122797260924923975\n\nBlender demo comparison (Teknium): https://x.com/Teknium/status/2122753724129145188\n\nUpdated time-horizon graph (Benjamin Todd): https://x.com/ben_j_todd/status/2122318704260403562\n\nCapability index trend break (roon): https://x.com/tszzl/status/2122924317935898701\n\nFrontierRSI leaderboard (Kevin Lin): https://x.com/quasicoh/status/2123114502065627580\n\nDario Amodei on the race to the top: https://x.com/DarioAmodei/status/2112732230124818891\n\nDan Hendrycks on AI safety groups and Anthropic: https://x.com/hendrycks/status/2123070133522350176\n\nJason Wolfe on evaluator access at OpenAI: https://x.com/w01fe/status/2122536841677283784\n\nEpoch AI on reasoning steps without chain of thought: https://x.com/EpochAIResearch/status/2122762411287748696\n\nJakub Pachocki on chain-of-thought faithfulness: https://x.com/merettm/status/1945157403315724547\n\nJacob Coxon on the Anthropic roadshow slide: https://x.com/hilbertspaess/status/2121331333654086124\n\nAssemblyAI STT-3.7 (sponsor): https://www.assemblyai.com/blog/introducing-assemblyai-stt-3-7\n\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "nEYuoqqMgyg",
+      "title": "What's going on with GPT-6.2?",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=nEYuoqqMgyg",
+      "published": "2026-11-19T20:02:19+00:00",
+      "summary": "Check out Spacesheep: https://spacesheep.dev/matt\nFirst 1,000 signups get 3 months free\n\nCheck out Scarlet: https://github.com/Forward-Future/scarlet\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/mjackson/status/2122807457697456385  \nhttps://x.com/MrCatid/status/2122784037198827686  \nhttps://x.com/digitalshane_/status/2122841041690677669  \nhttps://x.com/danshipper/status/2122754729012777052  \nhttps://x.com/mattshumer_/status/2122752192226406421  \nhttps://x.com/theo/status/2122757647170703550  \nhttps://x.com/bryanpatricca/status/2122777968569143364  \nhttps://x.com/petergostev/status/2122756490184253576  \nhttps://x.com/DeryaTR_/status/2122758607603442169  \nhttps://x.com/OpenAI/status/2122750124543926515  \nhttps://x.com/theo/status/2122760447103484410  \nhttps://x.com/PaulSolt/status/2123145128248541287  \nhttps://x.com/PaulSolt/status/2122879940848714088  \nhttps://x.com/thsottiaux/status/2122929634916679820  \nhttps://x.com/EnvolDev/status/2122803967272866254  \nhttps://x.com/EnvolDev/status/2120258474831704390  \nhttps://x.com/MengTo/status/2123079701384269871  \nhttps://x.com/MrTacticalX/status/2122806350543774075  \nhttps://x.com/Dimillian/status/2122920777276162489  \nhttps://x.com/EnvolDev/status/2122773694783349144",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "FUj0a5B6bVk",
+      "title": "POV: The diff after I asked Claude to fix my app",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=FUj0a5B6bVk",
+      "published": "2026-11-19T19:47:46+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "Nr-c57iGbCs",
+      "title": "Stanford Online Graduate Information Session: Certificates, Individual Courses & Master’s Degrees",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=Nr-c57iGbCs",
+      "published": "2026-11-19T17:00:39+00:00",
+      "summary": "Graduate courses open for winter enrollment: https://stanford.io/Winter-2026\n\nGraduate certificates and how to apply as a non-degree student: https://stanford.io/grad-courses-certs\n\nBrowse Master's Degrees: https://stanford.io/grad-info-masters\n\nCan working professionals take Stanford graduate-level engineering classes without committing to a full degree? In this Stanford Online information session, Pax Heymeyer, Senior Director of Academic Programs, and Jonathan Nottman, Senior Director of Client Success and Engagement, explain three paths: taking individual graduate courses for credit, earning a graduate certificate, or pursuing a part-time master's degree with the option to study online.\n\nThe Stanford Engineering Center for Global and Online Education traces its history to 1954, when it began as a way for employees of Stanford Research Park companies to study part-time. Professionals with a bachelor's degree can apply as non-degree students for individual courses and graduate certificates.\n\nApplicants submit official transcripts, identification, and a short statement of purpose, but no letters of recommendation. The academic department reviews each application when the student enrolls in a course, and students must earn a B or better to continue. A graduate certificate takes three to four courses, usually within three years, and up to 18 units from non-degree courses can count toward a Stanford master's degree with department approval.\n\nKey questions answered in this session:\nQ: Who can take Stanford graduate courses as a non-degree student?\nA: Professionals with a bachelor's degree who meet department prerequisites and submit official transcripts. No letters of recommendation are required.\nQ: How much time should I plan for each week?\nA: 15 to 25 hours of coursework per week in a 10-week quarter.\nQ: Do I have to take exams in person?\nA: Most exams are taken in person at an approved proctor, such as a testing center or a supervisor, usually within a window of at least 24 hours.\nQ: Can non-degree units count toward a master's degree?\nA: Up to 18 units can transfer to a master's degree with department approval. They cannot be applied to a graduate certificate.\nQ: Are the programs available outside the U.S.?\nA: Yes. They are open to students worldwide.\nQ: Does doing well in these classes help master's admission?\nA: It helps, because it shows graduate-level performance, but it does not guarantee admission.\n\nAbout the speakers:\nPax Heymeyer is Senior Director of Academic Programs at the Stanford Engineering Center for Global and Online Education. Jonathan Nottman is Senior Director of Client Success and Engagement. \n\n#StanfordGraduate #StanfordMasters #GraduateCertificate #OnlineMasters #StanfordEngineering #ProfessionalEducation",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
       "video_id": "Cy7Wz6Z4TWU",
-      "title": "DeepMind Just Did Something Extraordinary For Humanity",
+      "title": "DeepMind Just Released The Best Thing AI Ever Did",
       "channel": "Two Minute Papers",
       "channel_category": "AI Research",
       "url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
       "published": "2026-11-19T09:26:19+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The DeepMind AlphaGenome 2paper is available here:\nhttps://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/\n\nInterview with creator Dr. Pushmeet Kohli:\nhttps://www.youtube.com/watch?v=Wkaw03p3BrM\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The DeepMind AlphaGenome paper is available here:\nhttps://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/\n\nInterview with creator Dr. Pushmeet Kohli:\nhttps://www.youtube.com/watch?v=Wkaw03p3BrM\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "transcript_status": "error",
       "transcript_language": null,
       "analysis_status": null,
@@ -233,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=nU2a2lm6vDE",
       "published": "2026-11-13T21:02:37+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-cme295-A2026\n\nTo follow along with the course schedule and syllabus, visit: https://cme295.stanford.edu/syllabus/\n\nChapters:\n00:00:00 Introduction\n00:08:53 Retrieval-augmented generation (RAG)\n00:17:12 Candidate retrieval (bi-encoder, cross-encoder, BM25)\n00:28:36 Re-ranking\n00:35:16 Retrieval evaluation (NDCG, MRR, precision, recall)\n00:44:31 Tool calling\n01:08:18 Tool selection\n01:12:42 Model context protocol (MCP)\n01:22:53 Harness engineering\n01:24:26 Reason + Act (ReAct)\n01:29:02 Context compaction\n01:31:00 Memory\n01:33:37 Coding agents\n01:38:53 Discussion\n\nAfshine Amidi is an Adjunct Professor at Stanford University.\n\nShervine Amidi is an Adjunct Professor at Stanford University.\n\nFollow the playlist: https://youtube.com/playlist?list=PLakGfbKCei80&amp;si=HF2tNywj7nXIQq8X",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -246,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=q0Q-Hy8TTps",
       "published": "2026-11-13T21:00:26+00:00",
       "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nSelf-paced online Agentic AI course: https://online.stanford.edu/programs/agentic-ai?utm_source=youtube&amp;utm_medium=social&amp;utm_content=cs329z-01-what-are-agentic-systems\n\nLecture Overview:\nWhich framework should you use to build AI agents? In this Stanford CS329Z: Engineering AI Agents lecture, DSPy contributor Michael Ryan live-codes agents in DSPy (signatures, modules, and optimizers) and LangGraph (state, nodes, and edges), then compares open-source agent harnesses like mini-SWE-agent, OpenHands, and Pi, shows durable orchestration with Temporal, and shares best practices for observability and evals.\n\nSpeaker: Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/07/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -259,20 +324,7 @@
       "url": "https://www.youtube.com/watch?v=3vpnwkePGVQ",
       "published": "2026-11-13T20:14:16+00:00",
       "summary": "Learn more and enroll: https://online.stanford.edu/courses/xfsi210-ai-power-and-new-rules-global-strategy?utm_source=youtube&amp;utm_medium=social&amp;utm_content=FSI-overview\n\nIn this overview of AI, Power, and the New Rules of Global Strategy, academic co-directors Francis Fukuyama and Andy Grotto of Stanford’s Freeman Spogli Institute for International Studies explain why AI decisions are never only about technology.\n\nAI has political, social, and international dimensions that leaders need to understand. Boards and investors are pushing senior executives to figure out their AI strategy, and every choice carries regulatory, reputational, and geopolitical risk. Fukuyama and Grotto built this in-person executive program because nothing else on the market connected geopolitics to the AI decisions organizations actually face.\n\nOver three and a half days on the Stanford campus, you’ll learn how to:\n\nSpot the geopolitical, regulatory, and economic issues behind your AI decisions\nWeigh costs, benefits, and second-order effects\nDo your own research and reach independent, defensible conclusions\n\nSessions cover the digital economy, AI governance and regulation, export controls, semiconductors and energy, U.S.–China competition, and military uses of AI. Speakers include Stanford faculty, Silicon Valley builders, investors, policymakers, and military leaders.\n\nThe program is for board members, C-suite executives, technology and product leaders, government officials, and leaders of international organizations and NGOs. You don’t need a technical background. A prework course, AI Technical Foundations, gives you the technical grounding before you arrive.\n\nMarch 22–25, 2027 | In person at Stanford University\n\n#ArtificialIntelligence #Geopolitics #AIStrategy #ExecutiveEducation #StanfordOnline",
-      "transcript_status": "error",
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "OT2vep4lYJs",
-      "title": "300+ Million Health Questions a Week: Inside OpenAI's Plan for Healthcare",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=OT2vep4lYJs",
-      "published": "2026-11-13T19:58:06+00:00",
-      "summary": "Learn more about Stanford's online Healthcare AI programs: https://stanford.io/3NEt7uE\nCheck out the AI in Healthcare series playlist:https://stanford.io/3NEt7uE\n\nMatt Lungren, Stanford University - https://profiles.stanford.edu/matthew-lungren\nJustin Norden, Stanford University - https://profiles.stanford.edu/justin-norden\n\nGuest speaker: Ashley Alexander, VP of Health Products at OpenAI\n\nOver 300 million people now ask #ChatGPT health questions every week. In this episode of the Stanford AI in Healthcare Podcast, Ashley Alexander, #OpenAI's head of health products and former Instagram product leader, shares what she's learned in her first year. She covers connecting medical records to ChatGPT, the free ChatGPT for Clinicians, enterprise partnerships with top U.S. health systems, and the proactive AI agents that can prep you for appointments and book your labs. We also dig into why adoption is early outside tech circles, and why the barrier to transforming healthcare is product design and regulation, not model capability.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +337,7 @@
       "url": "https://www.youtube.com/watch?v=yVaVR2Ywfik",
       "published": "2026-11-13T02:45:18+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -480,45 +532,6 @@
       "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
       "published": "2026-11-06T07:27:02+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nChapters:\n00:00 Intro\n02:40 Why Robots Are Hard\n08:16 The Perfect Data Diet\n16:05 Intelligence Density\n20:13 Building AI Worlds\n22:10 Learning From Failure\n25:41 The Reality Gap\n29:35 Robots Get Injured Too\n31:28 100 Years in Seconds\n35:35 The Popcorn Robot\n37:35 Easy for Humans, Hard for AI\n39:57 Will AI Ever Be Good Enough?\n43:53 Favorite Papers\n44:53 The hardest question\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "_CQ2QEI63o8",
-      "title": "Pika turns images and sound into an editable video",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=_CQ2QEI63o8",
-      "published": "2026-11-06T07:12:53+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "F4i_-wbmhC8",
-      "title": "AI identified Breakout from 17,253 numbers",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=F4i_-wbmhC8",
-      "published": "2026-11-06T00:32:37+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "hu1YDJZYGTc",
-      "title": "A 4B AI model that creates 3D game assets",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=hu1YDJZYGTc",
-      "published": "2026-11-05T20:32:08+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -792,19 +805,6 @@
       "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
       "published": "2026-06-10T18:43:12+00:00",
       "summary": "Fable 5 is out - and it’s good, very good. But beyond the splashy demos, I want to bring you the 20+ nuggets from the 319 page system card, which I read in full, all day, plus benchmarks you may not have noticed. \n\nhttps://assemblyai.com/aiexplained\n\nPlus two worrying trends inside the ‘mind’ of Claude, how OpenAI counter, and the transformer inventor’s warning.\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:06 - Blocks + Better Models\n02:42 - Fable 5 Upgrade over Mythos Preview\n04:49 - ML Acceleration Bombshell\n07:11 - No RSI yet\n07:41 - Bio-capable\n14:51 - Creative Writing … no\n17:23 - Does need bug-checks\n18:57 - OpenAI Response\n19:23 - Benchmark Bonanza\n28:06 - Chain of Thought worrying trend\n\nFable 5 Release: https://www.anthropic.com/news/claude-fable-5-mythos-5\n\nSystem Card: https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\n\nIntelligence Explosion: https://www.patreon.com/posts/anthropic-charts-160231656\n\nAnnotated: https://x.com/Miles_Brundage/status/2064500190523113816/photo/1\n\nOpenAI Counter: https://x.com/thsottiaux/status/2064572118264913923\nhttps://x.com/thsottiaux/status/2043177597434306699\n\nDouble Lifespan: https://darioamodei.com/essay/machines-of-loving-grace\n\nAutomationBench: https://zapier.com/benchmarks\nVending Bench: https://x.com/andonlabs/status/2064429817530085804\nCritPt: https://critpt.com/\nRiemann Bench: https://surgehq.ai/leaderboards/riemann-bench\nGDPVal: https://artificialanalysis.ai/evaluations/gdpval-aa\nBluePrint Bench 2: https://andonlabs.com/evals/blueprint-bench-2\nMCP Atlas: https://labs.scale.com/leaderboard/mcp_atlas\nFutureSim: https://x.com/nikhilchandak29/status/2064676801440358774\n\nRoon Stun Lock: https://x.com/tszzl/status/2064454617568874669\n\nNoam Brown Inference Ceiling: https://x.com/polynoamial/status/2064210146558136827\n\nIsochronic Chart: https://isochronic-passage-chart.netlify.app/#nyc\nRose Tavern: https://claude.ai/public/artifacts/2295bebe-77e6-43e2-ae94-0fe49e9a776b\nRedwall Game: https://redwall-mossflower.surge.sh/\n\nRisk Report: https://www-cdn.anthropic.com/097c63b5fe7dd8b14866e1f15bb1910ec713658a.pdf\n\nTransformer Inventor Warning: https://x.com/tszzl/status/2064563986914554125\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "aJvP3nXWkwM",
-      "title": "New Claude Opus 4.8: 15 Things You May’ve Missed",
-      "channel": "AI Explained",
-      "channel_category": "AI Analysis",
-      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
-      "published": "2026-05-29T15:07:35+00:00",
-      "summary": "The ‘best’ generally available AI model just dropped, but there is plenty I bet you missed about what it is, how it performs, and what the release tells us. 15 highlights from the 244 page system card, plus private testing, leader interview and more.\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:49 - Mythos in Weeks\n01:49 - Adaptive not necessary\n02:26 - Honesty?\n04:37 - Flagging Uncertainty\n04:57 - Benchmarks\n08:54 - Mythos will be even better\n10:30 - Business skillz\n11:15 - Model Welfare\n12:16 - Cyber Comparable\n13:10 - Misalignment Concerns\n16:22 - Meta Inabilities\n17:58 - Code flagging\n18:34 - Go to sleep\n18:50 - Fast Mode\n20:21 - Dynamic Workflows\n\n\nOpus 4.8 Paper: https://cdn.sanity.io/files/4zrzovbb/website/c886650a2e96fc0925c805a1a7ca77314ccbf4a6.pdf\n\nRelease: https://www.anthropic.com/news/claude-opus-4-8\n\nChips: https://www.theinformation.com/articles/anthropic-talks-use-microsofts-ai-chips?rc=sy0ihq\nhttps://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services\nhttps://www.anthropic.com/news/higher-limits-spacex\n\nPatreon Vid: https://www.patreon.com/posts/re-up-anthropics-159289449\n\nGDPVal: https://artificialanalysis.ai/evaluations/omniscience\nhttps://arxiv.org/abs/2510.04374\n\nAmodei Technical Debt: https://www.youtube.com/watch?v=7xco5Qd2Oo8\n\nDynamic Workflows: https://x.com/ClaudeDevs/status/2060044853279617150\nhttps://x.com/_catwu/status/2060054180379689074/photo/1\nhttps://claude.com/blog/introducing-dynamic-workflows-in-claude-code\n\nhttps://simple-bench.com/\n\n\n\nCheck out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
