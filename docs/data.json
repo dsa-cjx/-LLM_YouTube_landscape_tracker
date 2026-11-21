@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-21T14:15:12.183253+00:00",
+  "generated_at": "2026-11-21T22:47:15.941210+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "I0Fasi1-teQ",
+      "title": "I’m Crashing Out About Anthropic",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=I0Fasi1-teQ",
+      "published": "2026-11-21T21:23:31+00:00",
+      "summary": "Try Grok Bot from SpaceXSI, the sponsor of this video: https://tinyurl.com/yc4b4ymz\n\nAnthropic is now a public company. I look at how its warnings about AI risk square with its pitch to Wall Street, why it restricted Claude subscription access through tools like OpenClaw, and what METR found about AI accelerating Anthropic’s own research. I also revisit what Sam Altman and Mustafa Suleyman told me about AI consciousness.\n\nWatch my breakdown of the METR report: https://www.youtube.com/watch?v=lVbQqjAJpkE\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nSources\nAnthropic’s IPO announcement: https://www.anthropic.com/news/ipo-close\nMETR’s assessment of AI R&amp;D acceleration at Anthropic: https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/\nAnthropic on model welfare: https://www.anthropic.com/research/exploring-model-welfare\nDario Amodei on DeepSeek and export controls: https://darioamodei.com/post/on-deepseek-and-export-controls\nBoris Cherny on Claude subscription access through OpenClaw: https://x.com/bcherny/status/2040206440556826908\nEvan Hubinger on AI alignment and risk: https://x.com/EvanHub/status/2097497037956891126",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "uoSynlTDyMs",
       "title": "Stanford CME295 Transformers & LLMs | Autumn 2026 | Lecture 7 - LLM Evaluation",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=BdfP8kmAofQ",
       "published": "2026-11-16T18:00:39+00:00",
       "summary": "Dan Boneh, Professor of Computer Science and Electrical Engineering at Stanford University, explains that cryptography is everywhere in everyday life. It keeps your text messages private and secures your online financial activity. It also authenticates and encrypts the information that government agencies and financial institutions send to one another. Boneh says that reach, a field used by everyone, is exactly why he loves it.\n\nWinter quarter enrollment is open now for CS255: Introduction to Cryptography, a Stanford Online graduate course. It explains how cryptographic primitives work and how to use them correctly.\n\n🔗 https://stanford.io/cs255-intro-crypto-course\n\nBrowse all grad courses available this winter quarter: \n🔗 https://stanford.io/Winter-2026\n\n#Cryptography #QuantumComputing #Cybersecurity",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -493,19 +506,6 @@
       "url": "https://www.youtube.com/watch?v=vug73goPJaM",
       "published": "2026-11-10T10:15:57+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The papers and sources are available here:\nMirrorCode: https://arxiv.org/abs/2606.30182\nREMEND: https://huggingface.co/udiboy1209/REMEND\nWebUI-95: https://tommasocalo.github.io/papers/26-webui95-chiea.pdf\nPhotocraft: https://github.com/storytold/photocraft\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi\n\n0:00 AI reverse engineering\n1:01 Legal landscape\n1:22 Scientific research\n2:11 Visual reconstruction\n3:05 How AI learns software\n3:55 The problem with restrictions\n4:26 The future of software",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "oW98tLm7suY",
-      "title": "Fable 5.2 just solved software",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=oW98tLm7suY",
-      "published": "2026-11-10T00:56:42+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
