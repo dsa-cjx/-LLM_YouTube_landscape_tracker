@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-20T23:41:35.137340+00:00",
+  "generated_at": "2026-11-21T05:44:32.583658+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "uoSynlTDyMs",
+      "title": "Stanford CME295 Transformers & LLMs | Autumn 2026 | Lecture 7 - LLM Evaluation",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=uoSynlTDyMs",
+      "published": "2026-11-21T00:00:37+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-cme295-A2026\n\nTo follow along with the course schedule and syllabus, visit: https://cme295.stanford.edu/syllabus/\n\nChapters:\n00:00:00 Introduction\n00:06:11 Human ratings\n00:08:53 Cohen’s kappa\n00:14:41 Rule-based metrics\n00:17:14 Pass@k\n00:28:55 BLEU, METEOR ROUGE\n00:33:48 LLM-as-a-Judge\n00:38:17 Prompt hillclimbing\n00:41:46 Structured outputs\n00:44:27 Position, verbosity, self-enhancement bias\n00:53:34 Agent evaluation\n01:12:32 Benchmarks with Artificial Analysis\n01:24:05 Benchmaxxing\n01:34:05 Pareto frontier\n01:42:40 Best practices\n\nAfshine Amidi is an Adjunct Professor at Stanford University.\n\nShervine Amidi is an Adjunct Professor at Stanford University.\n\nFollow the playlist: https://youtube.com/playlist?list=PLakGfbKCei80&amp;si=HF2tNywj7nXIQq8X",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "BoBe0tepch4",
       "title": "Six Robots Worked a 24-Hour Shift at a Shanghai Convenience Store",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=kMdHCyAnNHA",
       "published": "2026-11-16T17:42:57+00:00",
       "summary": "I sit down with Box CEO Aaron Levie to discuss how AI is changing enterprise software and making features obsolete before they even launch. We explore how AI agents can build entire business workflows and why access to company data and context matters. Aaron also shares how Box is adapting as each new generation of AI models changes what’s possible.\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -337,19 +350,6 @@
       "url": "https://www.youtube.com/watch?v=nU2a2lm6vDE",
       "published": "2026-11-13T21:02:37+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-cme295-A2026\n\nTo follow along with the course schedule and syllabus, visit: https://cme295.stanford.edu/syllabus/\n\nChapters:\n00:00:00 Introduction\n00:08:53 Retrieval-augmented generation (RAG)\n00:17:12 Candidate retrieval (bi-encoder, cross-encoder, BM25)\n00:28:36 Re-ranking\n00:35:16 Retrieval evaluation (NDCG, MRR, precision, recall)\n00:44:31 Tool calling\n01:08:18 Tool selection\n01:12:42 Model context protocol (MCP)\n01:22:53 Harness engineering\n01:24:26 Reason + Act (ReAct)\n01:29:02 Context compaction\n01:31:00 Memory\n01:33:37 Coding agents\n01:38:53 Discussion\n\nAfshine Amidi is an Adjunct Professor at Stanford University.\n\nShervine Amidi is an Adjunct Professor at Stanford University.\n\nFollow the playlist: https://youtube.com/playlist?list=PLakGfbKCei80&amp;si=HF2tNywj7nXIQq8X",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "q0Q-Hy8TTps",
-      "title": "DSPy vs. LangGraph: AI Agent Frameworks Explained | Stanford CS329Z Lecture 5 with Michael Ryan",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=q0Q-Hy8TTps",
-      "published": "2026-11-13T21:00:26+00:00",
-      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nSelf-paced online Agentic AI course: https://online.stanford.edu/programs/agentic-ai?utm_source=youtube&amp;utm_medium=social&amp;utm_content=cs329z-01-what-are-agentic-systems\n\nLecture Overview:\nWhich framework should you use to build AI agents? In this Stanford CS329Z: Engineering AI Agents lecture, DSPy contributor Michael Ryan live-codes agents in DSPy (signatures, modules, and optimizers) and LangGraph (state, nodes, and edges), then compares open-source agent harnesses like mini-SWE-agent, OpenHands, and Pi, shows durable orchestration with Temporal, and shares best practices for observability and evals.\n\nSpeaker: Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/07/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
