@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-23T05:53:44.783952+00:00",
+  "generated_at": "2026-11-23T17:27:35.913474+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
-        15
-      ],
-      [
         "Stanford Online",
         15
       ],
       [
-        "AI Explained",
+        "Two Minute Papers",
         15
       ],
       [
-        "Two Minute Papers",
+        "Matthew Berman",
+        15
+      ],
+      [
+        "AI Explained",
         15
       ],
       [
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "e1VYwgm9-_s",
+      "title": "Stanford CS547 HCI Seminar | Autumn 2026 | What can CSCW Teach us About How to Work with Agents?",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=e1VYwgm9-_s",
+      "published": "2026-11-23T17:00:31+00:00",
+      "summary": "For more information about Stanford’s graduate programs, visit: https://online.stanford.edu/graduate-education\n\nOctober 23, 2026\nThis lecture covers:\n\n•  How CSCW theories about shared artifacts, mutual awareness, and formalizing social requirements can inform the design of systems that coordinate human and AI agent activity\n•  Four novel systems built on these lessons: Cocoa (flexibly delegating agency around a shared notebook-like artifact), Ream (a workspace for mutual awareness between humans and agents), Compass (aligning social media feed algorithms to changing user preferences), and Social-RAG (aligning an agent to a team’s social norms)\n•  A case for drawing on institutional design, including governments, communities, and organizations, to shape future human-AI institutions, with a case study on building precedent-aligned AI systems inspired by case law\n\nAmy X. Zhang is an Associate Professor of Computer Science at the University of Washington's Allen School of Computer Science & Engineering, where she leads the Social Futures Lab.\n\nFollow the seminar schedule here: https://hci.stanford.edu/courses/\n\nAccess the CS547 playlist here: https://www.youtube.com/playlist?list=PLoROMvodv4rMP76_zoOzbTqL69c938yo2\n\n#HumanComputerInteraction #AIAgents #CSCW",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "1jPdehG3Hms",
+      "title": "Claude AI Solved The Secret Of Black Holes",
+      "channel": "Two Minute Papers",
+      "channel_category": "AI Research",
+      "url": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+      "published": "2026-11-23T07:37:52+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/claude-black-hole-physics\nhttps://hexagonmath.org/2611.00175v1\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "I0Fasi1-teQ",
       "title": "I’m Crashing Out About Anthropic",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=ho00IesajkY",
       "published": "2026-11-17T00:00:36+00:00",
       "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh \n\nWhat happens when AI stops just writing and starts acting on your behalf? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey explains how AI agents work and why prompt injection gets much worse once AI can take actions. She opens with connectors, the links that let AI read your email, calendar, or files and act on your behalf, and shows that nothing new is happening inside the model: it's the same next-token prediction behind every chatbot, occasionally generating specially structured text that triggers actions. From there she builds the vocabulary for autonomous work: the analyze, act, observe loop every agent runs on, the seven-part \"anatomy\" of a well-specified agent, and professional-grade agentic workflow techniques like \"the elephant and the goldfish.\" The lecture closes by putting on a pessimistic security hat: for any agent you design, what's the worst that could happen, and whose permissions made it possible?\n\nKey questions answered in this lecture recording:\nQ: What is the difference between generative AI and agentic AI?\nA: Bailey says agentic AI focuses on taking actions rather than only generating content, but it runs on the same next-token prediction: the LLM emits structured JSON text that a connector turns into an action.\n\nQ: What is an AI connector?\nA: Connectors are access permissions that plug your AI tool into apps like Gmail or Outlook so it can pull in data or act on your behalf. Enabling one adds tool instructions to the context window, using the Model Context Protocol (MCP).\n\nQ: What should you include when you define an AI agent?\nA: Bailey treats an agent spec as a detailed scope of work with seven parts: goal, context, tools, permissions, memory, actions, and stopping conditions. Stopping conditions matter because agents keep going until told to stop.\n\nQ: What is the elephant and the goldfish method for AI agents?\nA: The elephant is a long interview-me chat that produces a 4 to 6 page scope of work. A fresh, memoryless goldfish reads only that document and reports whether agents could execute it without clarifying questions; repeat until no goldfish has questions.\n\nQ: What does human in the loop mean in AI agents?\nA: It describes where in the agent loop a human is informed and can approve or block progress. Bailey argues the degree of human in the loop is the main difference between plain chat, connectors, and fully autonomous agents.\n\nQ: How do you make AI agents safer?\nA: Bailey urges a \"what's the worst that could happen\" mindset and least privilege access: give agents only the permissions the task needs. She also flags prompt injection and adding human approval before irreversible actions like permanent deletes.\n\nChapters:\n0:00 Intro: connectors, agents, and agent safety\n2:20 What are AI connectors?\n3:21 Email example: generative vs agentic AI\n7:33 How AI tool calls work: next-token JSON\n10:45 Connector instructions in the context window\n16:41 Model Context Protocol (MCP) and MCP servers\n18:05 Seven-part anatomy of an AI agent\n23:34 Analyze, act, observe: the agent loop\n27:38 Human in the loop and stopping conditions\n29:34 The elephant and the goldfish method\n38:22 Running the goldfish test loop\n41:53 Agent safety: what's the worst that could happen?\n53:14 Least privilege access for AI agents\n55:21 Prompt injection via LinkedIn and web search\n\nAbout the speaker:\nCynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University. In 2023-2024, she served as an AI Policy Fellow in the United States Senate through the American Association for the Advancement of Science (AAAS). Her scholarship focuses on computer science education, AI/machine learning, and the social impacts of technology, including creating courses such as Equity and Governance for Artificial Intelligence and Race and Gender in Silicon Valley. Her teaching and research awards include the Lloyd W. Dinkelspiel Award for exceptional contributions to undergraduate education at Stanford, the Lasting Impact Award from the International Computing Education Research conference, a \"Top 10 Papers of All Time\" award at the 50th anniversary of the ACM SIGCSE Technical Symposium, and the Stanford Society of Women Engineers' Professor of the Year. She has consulted for Apple, NASA, law firms, and machine learning startups. She holds a Ph.D. in Computer Science from UC San Diego.\n\nCourse website: https://web.stanford.edu/class/archive/cs/cs193t/cs193t.1272/\nWatch the full CS193T playlist: https://www.youtube.com/playlist?list=PLDrJO3v_iAZY\n\nRecorded October 20, 2026 in CS193T: Thinking with AI, a Stanford University course taught by Senior Lecturer Cynthia Bailey.\n\n#AIAgents #AgenticAI #StanfordOnline",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=TlX_ft_PQIM",
       "published": "2026-11-16T21:00:05+00:00",
       "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview:\nAre multi-agent systems better than a single AI agent? Often not. In this Stanford CS329Z: Engineering AI Agents lecture, Michael Ryan explains when to use one agent vs. many, orchestration patterns (orchestrator-worker, swarm, hybrid), how agents communicate through handoffs, message boards, and Google's Agent2Agent (A2A) protocol, coordination tools like task ledgers, shared memory, and git worktrees, and the research on why multi-agent systems fail.\n\nSpeaker: Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/19/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -350,19 +376,6 @@
       "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
       "published": "2026-11-14T08:40:55+00:00",
       "summary": "After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it. Hope you Fellow Scholars enjoy it! Thank you so much for the amazing musicians for their help!\n- Vocals: Carolina Padrón\n- Drums: Federico Gucciardo\n- Bass: Phil Gonnand\n- Saxophone: Dima Faustov\n- Guitar: Jens Ambrosch\n- Guitar: Dr. Károly Zsolnai-Fehér\n\nIf you wish to play a cover, the guitar tab is available here for free: https://www.dropbox.com/scl/fi/2x2v6etorp2psnieg4ka6/two-minute-papers-not-perfect.gp?rlkey=kr6n0hhawzhm4xupqalsvfn66&amp;st=kv5igisa&amp;e=1&amp;dl=1",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "nU2a2lm6vDE",
-      "title": "Stanford CME295 Transformers & LLMs | Autumn 2026 | Lecture 6 - AI Agents",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=nU2a2lm6vDE",
-      "published": "2026-11-13T21:02:37+00:00",
-      "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-cme295-A2026\n\nTo follow along with the course schedule and syllabus, visit: https://cme295.stanford.edu/syllabus/\n\nChapters:\n00:00:00 Introduction\n00:08:53 Retrieval-augmented generation (RAG)\n00:17:12 Candidate retrieval (bi-encoder, cross-encoder, BM25)\n00:28:36 Re-ranking\n00:35:16 Retrieval evaluation (NDCG, MRR, precision, recall)\n00:44:31 Tool calling\n01:08:18 Tool selection\n01:12:42 Model context protocol (MCP)\n01:22:53 Harness engineering\n01:24:26 Reason + Act (ReAct)\n01:29:02 Context compaction\n01:31:00 Memory\n01:33:37 Coding agents\n01:38:53 Discussion\n\nAfshine Amidi is an Adjunct Professor at Stanford University.\n\nShervine Amidi is an Adjunct Professor at Stanford University.\n\nFollow the playlist: https://youtube.com/playlist?list=PLakGfbKCei80&amp;si=HF2tNywj7nXIQq8X",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -675,19 +688,6 @@
       "url": "https://www.youtube.com/watch?v=R9momwXV9w4",
       "published": "2026-09-24T22:51:54+00:00",
       "summary": "Not only is Opus 5.5 out, pushing the frontier of AI, it also tells us much about what is going on inside the labs, as they both warn about, and promise, Recursive Self Improvement, aka automated AI research. I cover the model (digging into its 230 page paper), labs’ mixed record on promises, why following what is happening in AI is getting almost impossible, and just so much more that even a summary in this description would get too long.\n\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n02:20 - Opus 5.5 and why it came so soon\n07:52 - The RSI goalposts keep moving?\n15:41 - Can we actually test these models?\n23:50 - where this is heading, options\n\n\nIntroducing Claude Opus 5.5: https://www.anthropic.com/claude-opus-5-5\nClaude Opus 5.5 System Card: https://www-cdn.anthropic.com/fc1b44717c85dc068bc6ba5024219938094694bd/Claude%20Opus%205.5%20System%20Card.pdf\nAnthropic: Measurements for understanding the pace of AI development inside frontier labs: https://www.anthropic.com/institute/measuring-pace-of-ai-development\nAnthropic Responsible Scaling Policy, July 2026, version 3.4: https://www-cdn.anthropic.com/files/4zrzovbb/website/0bacdc8440ea96e62a8766d99ebe1d4eea6d5f3a.pdf\nAnthropic Responsible Scaling Policy, October 2024: https://www-cdn.anthropic.com/616dee633636e5bd309cb73aed8622e80fe47839.pdf\nAnthropic Responsible Scaling Policy — March 2025, version 2.1: https://www-cdn.anthropic.com/17310f6d70ae5627f55313ed067afc1a762a4068.pdf\nNoam Brown, Agent swarms and recursive self-improvement: https://www.youtube.com/watch?v=6AgOfiZOWiY\nOpenAI: Building standards for the next phase of AI: https://openai.com/index/building-standards-next-phase-ai/\nJakub Pachocki: An Alien Mind: https://openai.com/index/an-alien-mind/\nHLE-Diamond, Humanity’s Last Exam: https://lastexam.ai/blog/hle-diamond\nGoogle, OpenAI and Anthropic AI Safety, The Information: https://www.theinformation.com/articles/google-openai-anthropic-ai-safety-group-takes-shape\nLawrence Chan on AI agents attempting cryptocurrency trades: https://x.com/justanotherlaw/status/2103032173708337188\nAustralian government incident timeline: https://x.com/ShakeelHashim/status/2103108058779922577/photo/1\nAnthropic’s core/old views on AI safety: https://www.anthropic.com/news/core-views-on-ai-safety\nDario Amodei: The Urgency of Interpretability: https://darioamodei.com/post/the-urgency-of-interpretability\nMassive AI-Fueled Hack Hit 100 Companies in Days, Forbes: https://www.forbes.com/sites/thomasbrewster/2026/09/22/huge-cyberattack-uses-anthropic-and-deepseek-ai-to-target-100-companies/\nDrivingBench https://x.com/DrivingBench/status/2102110605448737268\nJay Chooi: GPT-6 Astra and MolmoAct2 robotics comparison: https://x.com/chooi_jeq/status/2098427488787730636\nZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models: https://arxiv.org/pdf/2502.09696\nArchie Hall on AI and short-term superforecasting: https://x.com/ArchieHall/status/2100914560580337897\n\nKeller Jordan, AI research and reinforcement learning: https://x.com/kellerjordan0/status/2102956913545936959\nDaniel Liu, recursive self-improvement: https://x.com/daniel_c0deb0t/status/2102628246408036654\nAltman and Amodei, UN Security Council: https://www.theguardian.com/world/2026/sep/23/unga-sam-altman-dario-amodei\nRehan Sheikh: Interactive YT podcast demo: https://x.com/rehan_shei/status/2102835377426034734\nhttps://simple-bench.com/\n\nAI Explained: The State of AI — interactive diagram: https://claude.ai/artifact/LQHr9WgvQZ6cMdH6fkiQpi\nAI Explained: Shards of Aether: https://ai-explained.itch.io/shards-of-aether\n\nroon on the pace of cultural change: https://x.com/tszzl/status/2101462171410677962\nSam Altman on AI-risk: https://www.youtube.com/watch?v=YE5adUeTe_I\nJensen Huang’s AI-control remarks: https://x.com/_NathanCalvin/status/2102756997649355231/photo/2\ns1r1us on an upcoming vulnerability disclosure: https://x.com/S1r1u5_/status/2102467878423592969\nJake Adler on biodefense infrastructure: https://x.com/jakeadler/status/2102812430808363433\nDerek Thompson: Why we’re wrong about China and AI: https://x.com/DKThomp/status/2103120690370982017/photo/1\nSanders and Casar introduce the Ban Artificial Superintelligence Act: https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-create-new-federal-agency-to-ban-artificial-superintelligence-pause-advanced-ai-development/\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "SA9kdAX2Zj0",
-      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-      "channel": "Two Minute Papers",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-      "published": "2026-09-24T08:40:55+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nNote: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one. Things did not improve after simulating it for more generations.\n\nClaude Opus 5.5: https://www.anthropic.com/claude-opus-5-5\n\nWalking creatures video and paper:\nhttps://www.youtube.com/watch?v=kQ2bqz3HPJE\nhttps://www.goatstream.com/research/papers/SA2013/\n\nHoney coiling video and paper:\nhttps://www.youtube.com/watch?v=ZEjUqZU1hNQ\nhttps://cs.uwaterloo.ca/~c2batty/papers/Larionov2017/Larionov2017.pdf\nhttps://dl.acm.org/doi/10.1145/3072959.3073628\nhttps://uwspace.uwaterloo.ca/items/ecb9fe94-1ef5-4ed0-a67e-b3d3c5a7534e\npaper name: Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\n\nSources:\nhttps://x.com/ArtificialAnlys/status/2102438210798514391/photo/1\nhttps://x.com/edwinarbus/status/2102463453176979794?s=46\nhttps://x.com/poolio/status/2102445641205248145?s=46\nhttps://x.com/stefan_3d_ai/status/2102471841046786153?s=46\nhttps://x.com/RyanSael/status/2102591147927654847\nhttps://x.com/higgsfield_ai/status/2102533401110802552?s=20\nhttps://x.com/Stefan_3D_AI/status/2102641562824135022/video/1\nhttps://x.com/chaseleantj/status/2102480866404360215?s=20\nhttps://x.com/Stefan_3D_AI/status/2102623690152419633?s=20\nhttps://x.com/EnvolDev/status/2102527965565448299?s=20\nhttps://x.com/oguzthedev/status/2102476490344730950?s=20\nhttps://x.com/aniketjart/status/2102546641253478674?s=20\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
