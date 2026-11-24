@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-23T17:27:35.913474+00:00",
+  "generated_at": "2026-11-24T03:49:47.693281+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Matthew Berman",
+        15
+      ],
       [
         "Stanford Online",
         15
       ],
       [
         "Two Minute Papers",
-        15
-      ],
-      [
-        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,45 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "MkeKXJzJo98",
+      "title": "Did AI JUST Solve Mathematics?",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=MkeKXJzJo98",
+      "published": "2026-11-24T02:30:08+00:00",
+      "summary": "Try Grok Bot by SpaceXSI (starts at $30 with X Subscription Premium): https://tinyurl.com/yc4b4ymz\n\nThis video was fully edited by Scarlet, our free and open source AI video editor: https://github.com/Forward-Future/scarlet\n\n3Blue1Brown: https://www.youtube.com/watch?v=zqzk43bSdDI\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "JLcCYvUawsM",
+      "title": "Deep Learning by Prediction: Intro | Stanford CS312 Lecture 1 with Tatsunori Hashimoto & Suhas Kotha",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=JLcCYvUawsM",
+      "published": "2026-11-24T00:00:07+00:00",
+      "summary": "Browse Stanford's online courses in deep learning: https://stanford.io/4zhLWFN\n\nCan you predict the result of a deep learning experiment before you run it? In this Stanford CS312: Deep Learning Alchemy lecture, Assistant Professor Tatsunori Hashimoto and PhD student Suhas Kotha introduce the idea at the heart of the class: prediction as understanding. Hashimoto explains why classical intuitions like the bias-variance tradeoff mislead deep learning practitioners and why the class embraces the alchemy through experiments and prediction quizzes. Kotha then lays out the pre-training setting and the d8 model organism, a 30M-parameter, 8-layer transformer that trains in about ten minutes on one GPU, with a live learning rate sweep and architecture ablations.\n\nKey questions answered in this lecture:\nQ: Why is the bias-variance tradeoff the wrong mental model for deep learning?\nA: Hashimoto says networks with more parameters than data generalize anyway, and even double descent is brittle: with well-tuned hyperparameters and regularization, the curve often looks like a single descent. Classical models lead to nonsensical design choices.\n\nQ: How does Stanford CS312 teach deep learning with prediction quizzes?\nA: In the class, Stanford students run experiments in assignments and then take quizzes asking them to predict the outcome of a held-out experiment, given as a runnable code diff. The goal is to build an internal world model of deep learning, the way science used prediction before it had theory.\n\nQ: Why are CS312 assignments worth 0% of the grade?\nA: Grading heavy assignments penalized students who did not lean on Claude Code, so assignments are ungraded and AI use is permitted. Students are motivated because assignments are quiz prep and are the only way to earn partial credit, up to 75%, by citing their own experiments.\n\nQ: Why study pre-training instead of fine-tuning or RL to learn deep learning?\nA: Suhas Kotha says pre-training has a low-noise validation loss that predicts downstream ability, scaling laws let small runs reflect large ones, and every run starts from random weights, so experiments are reproducible and easy to reason about.\n\nQ: What is the d8 model used in CS312?\nA: A Llama-style 8-layer transformer with about 30 million parameters, trained on about 600 million tokens of web text with a 4096-token vocabulary and 1024-token sequences. One run takes about ten minutes on a single GPU and reaches about 2.93 loss at the default learning rate of 3e-3.\n\nQ: What happens if you remove residual connections or prenorm from a transformer?\nA: In the d8 ablations, removing residuals made essentially nothing train, while attention mattered much more than the MLP. Removing prenorm only looked fatal at the default learning rate; with a 3x lower learning rate, it trained close to the other variants.\n\nChapters:\n0:00 Welcome and course staff introductions\n2:11 Deep learning breaks classical ML intuitions\n7:02 Embracing the alchemy: Rahimi and Shazeer\n8:48 Teaching deep learning with prediction quizzes\n11:57 Why prediction is understanding\n15:07 Assignments: topics, 0% grade, AI use\n20:23 Quizzes, partial credit, and fairness\n26:10 Tutorials, Modal compute, and the waitlist\n30:12 Who this class is for: pros and cons\n34:16 Scoping deep learning down to pre-training\n41:39 The d8 model organism and default run\n48:37 Demo: learning rate sweep and 2.93 loss\n52:31 Sample assignment: ablations and residuals\n1:02:17 In-class sample quiz and answers\n\nAbout the speakers:\nTatsunori Hashimoto is an Assistant Professor of Computer Science at Stanford University and a faculty affiliate of the Stanford Institute for Human-Centered Artificial Intelligence (HAI). His research uses tools from statistics to make machine learning systems more robust and reliable, especially for language. He also teaches CS336: Language Modeling from Scratch. He was a postdoc at Stanford with John Duchi and Percy Liang, earned his PhD at MIT, and studied statistics and math at Harvard.\n\nSuhas Kotha is a Computer Science PhD student at Stanford advised by Percy Liang and Tatsunori Hashimoto, researching language model pre-training, including how to train when compute is abundant relative to data. Suhas co-created CS312: Deep Learning Alchemy and previously studied at Carnegie Mellon University.\n\nCourse website: https://deep-learning-alchemy.github.io/\n\nRecorded September 22, 2026, in CS312: Deep Learning Alchemy, a Stanford University course taught by Tatsunori Hashimoto and Suhas Kotha.\n\n#DeepLearning #MachineLearning #Stanford",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "JNnUGln7C58",
+      "title": "Is Every AI an LLM? AI vs. LLM Explained by Afshine & Shervine Amidi",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=JNnUGln7C58",
+      "published": "2026-11-23T20:00:07+00:00",
+      "summary": "View computational and mathematical engineering courses: \nhttps://stanford.io/grad-cme\n\nStanford Adjunct Professors Afshine & Shervine Amidi explain why every LLM is AI, but not every AI is an LLM.\n\nDo \"AI\" and \"LLM\" mean the same thing? People often use the two terms interchangeably, but they describe different things, and understanding the difference makes every conversation about AI easier to follow.\n\nKeep watching to learn:\n- How AI refers broadly to systems that reason or mimic human intelligence\n- What makes a large language model different: a model that is big in size and in the amount of data it saw during training, and that is great at understanding and generating text and code\n- Why using \"AI\" and \"LLM\" interchangeably is often accurate today, since LLMs are technically a subset of AI and power so many products\n- An example of AI that is not an LLM: a recommendation system\n\nWinter quarter enrollment closes December 6th: \nhttps://stanford.io/Winter-2026\n\n#AI #LLMs",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "e1VYwgm9-_s",
       "title": "Stanford CS547 HCI Seminar | Autumn 2026 | What can CSCW Teach us About How to Work with Agents?",
@@ -259,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=e_m99aR7_3Q",
       "published": "2026-11-17T21:00:35+00:00",
       "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview:\nShould you optimize your AI agent's prompts or fine-tune its weights? In this Stanford CS329Z: Engineering AI Agents lecture, Michael Ryan, whose prompt-optimization algorithms are used across industry, covers when optimization pays off, context optimization (bootstrapped few-shot, OPRO, MIPROv2, TextGrad, GEPA), weight optimization (SFT on agent rollouts, PPO vs. GRPO, on-policy distillation), agents as optimizers (Darwin Gödel Machine, autoresearch), and a practical guide to choosing between prompts and weights.\n\nSpeaker: Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/21/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=0Uk4uLjuEeY",
       "published": "2026-11-17T17:00:03+00:00",
       "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh \n\nOnce AI can take actions on its own, how do you stay in control? In this Stanford CS193T: Thinking with AI lecture, Senior Lecturer Cynthia Bailey previews this week's tools, Claude Code and Codex, with a three-step process for preparing, generating, and reviewing vibe-coded work. Then she looks past launch: why even a carefully built AI tool needs monitoring, how the NIST AI Risk Management Framework structures responsible AI across a product's life cycle, and what Stanford's Responsible AI guidance asks of you. The lecture closes with evaluation: what you are measuring, and why ground truth is harder to pin down than it looks.\n\nKey questions answered in this lecture:\nQ: What is vibe coding?\nA: Bailey describes vibe coding as using English as a programming language with AI tools like Claude Code and Codex. Done professionally (some call it agentic engineering) it follows three steps: prepare a detailed spec with the elephant and goldfish process, hand it to a fresh coding agent, then review the result.\n\nQ: How can I review vibe-coded work if I can't read code?\nA: Bailey recommends starting another fresh 'goldfish' agent in a coding environment, giving it your scope of work and the code, and asking it to act as a severe code reviewer. Frame the code as someone else's work that may not follow the spec, to push the AI away from praise.\n\nQ: Why do AI systems need monitoring after deployment?\nA: Bailey says conditions change after deployment: distribution shift, users changing behavior once they know AI is involved (like students adding prompt-injection notes for an AI autograder), and models that update their weights. Thorough pre-deployment testing on historical data cannot catch these.\n\nQ: What is survivorship bias in evaluating an AI model?\nA: In Bailey's example, an AI predicts which employees to fire after 90 days; the retained ones do well, but there is no data on how the fired ones would have performed. She suggests firing only a random 75% of those flagged so the other 25% provide a counterfactual.\n\nQ: What is the NIST AI Risk Management Framework?\nA: Bailey describes the NIST AI RMF, released in 2023, as guidance rather than a precise standard, built on map, measure, and manage with a culture-focused governance function at the center. She stresses attending to the whole AI lifecycle, including post-deployment and decommissioning data.\n\nQ: What is LLM as a judge in AI evaluation?\nA: Bailey explains that judging hallucinations, tone, or bias at scale is subjective, so a second LLM grades each response from the first. She notes the goldfish code review in vibe coding is an example of this pattern.\n\nChapters:\n0:00 Intro: vibe coding and controlling your AI\n0:55 What is vibe coding?\n3:35 Vibe coding AI out of a job\n7:09 Elephant and goldfish process for vibe coding\n16:32 Why post-deployment monitoring matters\n18:33 Distribution shift and an AI autograder\n24:50 Survivorship bias in AI evaluation\n30:27 NIST AI Risk Management Framework\n40:05 AI product lifecycle and decommissioning data\n43:04 Stanford AI policies and data classification\n46:39 The golden rule for AI and personal data\n51:03 AI evals vs product metrics, LLM as judge\n58:09 Ground truth and datasets of convenience\n1:05:02 Case study: Twitter's image cropping bias\n\nAbout the speaker:\nCynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University. In 2023-2024, she served as an AI Policy Fellow in the United States Senate through the American Association for the Advancement of Science (AAAS). Her scholarship focuses on computer science education, AI/machine learning, and the social impacts of technology, including creating courses such as Equity and Governance for Artificial Intelligence and Race and Gender in Silicon Valley. Her teaching and research awards include the Lloyd W. Dinkelspiel Award for exceptional contributions to undergraduate education at Stanford, the Lasting Impact Award from the International Computing Education Research conference, a \"Top 10 Papers of All Time\" award at the 50th anniversary of the ACM SIGCSE Technical Symposium, and the Stanford Society of Women Engineers' Professor of the Year. She has consulted for Apple, NASA, law firms, and machine learning startups. She holds a Ph.D. in Computer Science from UC San Diego.\n\nCourse website: https://web.stanford.edu/class/archive/cs/cs193t/cs193t.1272/\nWatch the full CS193T playlist: https://www.youtube.com/playlist?list=PLDrJO3v_iAZY\n\nRecorded October 27, 2026 in CS193T: Thinking with AI, a Stanford University course taught by Senior Lecturer Cynthia Bailey.\n\n#VibeCoding #ResponsibleAI #StanfordOnline",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
       "published": "2026-11-17T12:46:24+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The paper is available here:\nhttps://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf\nhttps://openai.com/index/building-scientific-understanding-with-academic-communities/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -337,32 +376,6 @@
       "url": "https://www.youtube.com/watch?v=kMdHCyAnNHA",
       "published": "2026-11-16T17:42:57+00:00",
       "summary": "I sit down with Box CEO Aaron Levie to discuss how AI is changing enterprise software and making features obsolete before they even launch. We explore how AI agents can build entire business workflows and why access to company data and context matters. Aaron also shares how Box is adapting as each new generation of AI models changes what’s possible.\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "qh5tP6PBZ6U",
-      "title": "How AI Agent Memory Works: MemGPT & Memory Types | Stanford CS329Z Lecture 7 with Michael Ryan",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=qh5tP6PBZ6U",
-      "published": "2026-11-15T21:00:28+00:00",
-      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview: \nWhy do AI agents forget, and how do you give them memory? In this Stanford CS329Z: Engineering AI Agents lecture, Michael Ryan explains the four types of agent memory (working, episodic, semantic, procedural), how to store memories in files, databases, or knowledge graphs, and the main architecture patterns: skill libraries like Voyager, tiered memory like MemGPT, reflective consolidation, and memory maintenance with A-MEM and Mem0. He closes with memory benchmarks and open problems in forgetting, privacy, and over-personalization.\n\nSpeaker Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/14/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "JC_pLC5EX_w",
-      "title": "AI Agent Design Patterns: ReAct, CodeAct & More | Stanford CS329Z Lecture 6 with Michael Ryan",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=JC_pLC5EX_w",
-      "published": "2026-11-14T21:00:05+00:00",
-      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nSelf-paced online Agentic AI course: https://online.stanford.edu/programs/agentic-ai?utm_source=youtube&amp;utm_medium=social&amp;utm_content=cs329z-01-what-are-agentic-systems\n\nLecture Overview:\nWhen should you build a workflow instead of an agent, and which design patterns work best? In this Stanford CS329Z: Engineering AI Agents lecture, Michael Ryan covers Anthropic's five workflow patterns, reasoning-and-acting patterns (ReAct, Reflexion, CodeAct, ReWOO), and context-management techniques like event logs, compaction, observation masking, subagents, and skills, ending with a case study of the minimal Pi harness.\n\nSpeaker: Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/12/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -479,19 +492,6 @@
       "channel_category": "AI Tools",
       "url": "https://www.youtube.com/watch?v=ZBJV-hA-tLM",
       "published": "2026-11-11T07:33:33+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "L2acYRMzig8",
-      "title": "AI made Box features obsolete before launch",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=L2acYRMzig8",
-      "published": "2026-11-10T23:57:13+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
