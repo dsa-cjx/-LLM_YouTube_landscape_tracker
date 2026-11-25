@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T01:55:38.227567+00:00",
+  "generated_at": "2026-11-25T16:49:33.830936+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -9,11 +9,11 @@
         15
       ],
       [
-        "Matthew Berman",
+        "Two Minute Papers",
         15
       ],
       [
-        "Two Minute Papers",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,32 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "y2cwbmOy12U",
+      "title": "Better Data for AI Agents: Data Selection & Quality | Stanford CS329Z Lecture 11 with John Yang",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=y2cwbmOy12U",
+      "published": "2026-11-25T16:00:13+00:00",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z\n\nYou have millions of agent trajectories. Which ones should you train on? In this Stanford CS329Z: Engineering AI Agents lecture, John Yang, co-creator of SWE-bench and SWE-smith, explains how to find maximally informative data: filtering and selection strategies for validity and learnability, tiny-but-targeted benchmarks, annotation practices (including how SWE-bench Verified was built), quality assessment and automated checks for coding tasks, curricula for reinforcement learning, building datasets from agent traces (including failed trajectories), and when less but better data beats more data.\n\nKey questions answered in this lecture:\nQ: Should you fine-tune agents only on successful trajectories?\nA: No. Keeping only successes biases data toward what the teacher model can already solve. Failed trajectories, labeled or corrected, improve results.\n\nQ: What makes a reinforcement learning task learnable?\nA: The model should succeed sometimes but not always (for example, 1 to 7 times out of 8 rollouts), so there is a useful learning signal. Re-filter as the model improves.\n\nQ: How was SWE-bench Verified created?\nA: Professional developers annotated about 1,700 SWE-bench tasks for problems like underspecified issues and unfair tests, and the curated result is 500 tasks.\n\nQ: How do you automatically filter coding tasks?\nA: Run the reference solution several times to remove flaky tests, confirm the starting state fails, flag hard-coded expectations, and use an LLM monitor to catch leakage and reward hacking.\n\nQ: Is more data or better data better for agents?\nA: “More better data” is best, but under a fixed compute budget or for a specialist agent, a small curated dataset can match a much larger one.\n\nChapters:\n0:00 Introduction & recap\n5:30 Millions of trajectories: which to keep?\n8:13 The funnel: valid, learnable, selected\n14:33 How SWE-bench Verified was built\n21:53 Automating quality checks: APIGen\n25:07 Filtering coding tasks: flaky tests & leakage\n30:40 Learnable tasks: RL signal & curricula\n39:17 Self-evolving curricula: WebRL\n42:02 Q&amp;A: filtering & contamination\n49:19 Selecting SFT trajectories\n57:29 Masking low-quality actions\n1:01:28 Learning from failed trajectories\n1:06:19 More data vs. better data\n1:12:54 Summary & what's next: evaluation\n\nAbout the speaker:\nJohn Yang is a Computer Science PhD student at Stanford University focused on coding agents. He is a lead creator of SWE-bench, the widely used benchmark for whether language models can resolve real GitHub issues, and of SWE-agent, an open-source agent for autonomous software engineering. He is also first author of SWE-smith, a toolkit that generated 50,000 software engineering training tasks from 128 repositories. He previously studied at Princeton University (MS) and UC Berkeley (BS).\n\nReadings:\n- Yang et al., “SWE-smith: Scaling Data for Software Engineering Agents,” NeurIPS Datasets & Benchmarks (2025)\n- Shankar et al., “Who Validates the Validators? Aligning LLM-Assisted Evaluation with Human Preferences,” UIST (2024)\n\nCourse website: https://cs329z.stanford.edu/\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 11/2/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #TrainingData #Stanford",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "hwWlEuI359w",
+      "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
+      "channel": "Two Minute Papers",
+      "channel_category": "AI Research",
+      "url": "https://www.youtube.com/watch?v=hwWlEuI359w",
+      "published": "2026-11-25T09:54:23+00:00",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The paper is available here:\nhttps://nasqret.github.io/riemann-rev/guide/proof-guide.pdf\nhttps://alpo.ge/remark.pdf\n\nCompression and building in public:\nhttps://x.com/altryne/status/2124585496013926707\nhttps://x.com/slimer48484/status/2124414071349104804\nhttps://riemann.verifytask.cn/\nhttps://pequalnp.com/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "HbgZFwWj4vY",
       "title": "What Data Do AI Agents Need? | Stanford CS329Z Lecture 10 with John Yang",
@@ -272,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
       "published": "2026-11-19T09:26:19+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The DeepMind AlphaGenome paper is available here:\nhttps://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/\n\nInterview with creator Dr. Pushmeet Kohli:\nhttps://www.youtube.com/watch?v=Wkaw03p3BrM\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=l07K2cdLofM",
       "published": "2026-11-19T00:00:19+00:00",
       "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh \n\nWhat does it cost to use AI in tokens, dollars, electricity, and water? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey reads a real Claude Code usage report line by line, shows how caching saves money by reusing attention-mechanism calculations, and reviews estimates of AI's electricity and water use and how they vary by task and context size. She then covers model selection, including why bigger is not always better once latency compounds across a multi-step agentic workflow, and API keys: what they are, why they matter for billing and security, and a hands-on demonstration of how one leaks. The lecture closes with a current-events look at how the real-world costs of AI became a factor in the 2026 midterm elections.\n\nKey questions answered in this lecture:\nQ: What do the numbers in a Claude Code usage report mean?\nA: Bailey walks through total cost, API duration (time spent waiting on the model, including network transit and data center load), wall-clock time since the session began, and input versus output tokens. Input tokens cover everything the model reads, including the system prompt, settings, and connectors. Output tokens include the model's reasoning.\n\nQ: How does caching reduce the cost of using an AI model?\nA: Much of the context window repeats from prompt to prompt, so a precomputed version is saved instead of being reprocessed. Because the attention calculation is done once and reused, cache reads can be discounted by up to about 90% compared with raw input tokens.\n\nQ: Do unused skills still add to token costs?\nA: Yes. Every enabled skill places its text in the context window on each prompt, so unused skills still add cost. Bailey recommends removing skills an agent does not need and starting a fresh session when you switch tasks.\n\nQ: How much electricity and water does an AI prompt use?\nA: Bailey cites Google's self-reported 2025 figures for a median Gemini text prompt, about 0.26 mL of water and 0.24 Wh of electricity, and notes that public data is limited. She also covers research estimates that image generation costs 20 to 40 times more than text and video 1,000 to 3,000 times more, with reasoning modes averaging about 30 times more.\n\nQ: How should you choose a model for an AI agent?\nA: Bigger is not automatically better, because larger models bring higher latency, and that delay repeats at every step of a multi-agent workflow. A narrow check against an objective rule can suit the smallest, cheapest model, while a guardrail that must interpret policy with nuance calls for a stronger one.\n\nQ: What is an API key, and how can one leak?\nA: An API key works like login credentials for a program, letting it call an AI model and bill the usage to your account, so it deserves the same care as a password. If a key is written into a web page's code, anyone can view the page source, copy it and run up charges, so it must be kept out of public view.\n\nChapters:\n0:00 Introduction and agenda\n2:34 Reading a Claude Code usage report\n5:01 Input and output tokens\n6:33 Prompt caching\n10:07 Skills, plugins and token overhead\n13:20 Electricity and water use of AI\n16:07 Image, video and reasoning multipliers\n18:39 Agent model selection and latency\n21:07 Case study: AI tutor guardrail agents\n26:11 Case study: policy Q&amp;A chatbot\n29:54 What API keys are and who pays\n34:43 Security risk: leaking an API key\n36:45 Demo: how an API key leaks\n42:20 AI data centers in the 2026 elections\n\nAbout the speaker:\nCynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University. In 2023-2024, she served as an AI Policy Fellow in the United States Senate through the American Association for the Advancement of Science (AAAS). Her scholarship focuses on computer science education, AI/machine learning, and the social impacts of technology. This work includes creating groundbreaking courses such as Equity and Governance for Artificial Intelligence and Race and Gender in Silicon Valley. Her teaching and research awards include the Lloyd W. Dinkelspiel Award for exceptional contributions to undergraduate education at Stanford, the Lasting Impact Award from the International Computing Education Research conference, a \"Top 10 Papers of All Time\" award at the 50th anniversary of the ACM SIGCSE Technical Symposium, and the Stanford Society of Women Engineers' Professor of the Year. She has consulted for Apple, NASA, law firms, and machine learning startups. She holds a Ph.D. in Computer Science from UC San Diego.\n\nCourse website: https://web.stanford.edu/class/archive/cs/cs193t/cs193t.1272/\nWatch the full CS193T playlist: https://www.youtube.com/playlist?list=PLDrJO3v_iAZY\n\nRecorded November 10, 2026, in CS193T: Thinking with AI, a Stanford University course taught by Cynthia Bailey.\n\n#AI #LLM #ResponsibleAI",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -337,19 +363,6 @@
       "url": "https://www.youtube.com/watch?v=e_m99aR7_3Q",
       "published": "2026-11-17T21:00:35+00:00",
       "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview:\nShould you optimize your AI agent's prompts or fine-tune its weights? In this Stanford CS329Z: Engineering AI Agents lecture, Michael Ryan, whose prompt-optimization algorithms are used across industry, covers when optimization pays off, context optimization (bootstrapped few-shot, OPRO, MIPROv2, TextGrad, GEPA), weight optimization (SFT on agent rollouts, PPO vs. GRPO, on-policy distillation), agents as optimizers (Darwin Gödel Machine, autoresearch), and a practical guide to choosing between prompts and weights.\n\nSpeaker: Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/21/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "0Uk4uLjuEeY",
-      "title": "Vibe Coding, AI Risk & AI Evaluation | Stanford CS193T Lecture 6 with Cynthia Bailey",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=0Uk4uLjuEeY",
-      "published": "2026-11-17T17:00:03+00:00",
-      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh \n\nOnce AI can take actions on its own, how do you stay in control? In this Stanford CS193T: Thinking with AI lecture, Senior Lecturer Cynthia Bailey previews this week's tools, Claude Code and Codex, with a three-step process for preparing, generating, and reviewing vibe-coded work. Then she looks past launch: why even a carefully built AI tool needs monitoring, how the NIST AI Risk Management Framework structures responsible AI across a product's life cycle, and what Stanford's Responsible AI guidance asks of you. The lecture closes with evaluation: what you are measuring, and why ground truth is harder to pin down than it looks.\n\nKey questions answered in this lecture:\nQ: What is vibe coding?\nA: Bailey describes vibe coding as using English as a programming language with AI tools like Claude Code and Codex. Done professionally (some call it agentic engineering) it follows three steps: prepare a detailed spec with the elephant and goldfish process, hand it to a fresh coding agent, then review the result.\n\nQ: How can I review vibe-coded work if I can't read code?\nA: Bailey recommends starting another fresh 'goldfish' agent in a coding environment, giving it your scope of work and the code, and asking it to act as a severe code reviewer. Frame the code as someone else's work that may not follow the spec, to push the AI away from praise.\n\nQ: Why do AI systems need monitoring after deployment?\nA: Bailey says conditions change after deployment: distribution shift, users changing behavior once they know AI is involved (like students adding prompt-injection notes for an AI autograder), and models that update their weights. Thorough pre-deployment testing on historical data cannot catch these.\n\nQ: What is survivorship bias in evaluating an AI model?\nA: In Bailey's example, an AI predicts which employees to fire after 90 days; the retained ones do well, but there is no data on how the fired ones would have performed. She suggests firing only a random 75% of those flagged so the other 25% provide a counterfactual.\n\nQ: What is the NIST AI Risk Management Framework?\nA: Bailey describes the NIST AI RMF, released in 2023, as guidance rather than a precise standard, built on map, measure, and manage with a culture-focused governance function at the center. She stresses attending to the whole AI lifecycle, including post-deployment and decommissioning data.\n\nQ: What is LLM as a judge in AI evaluation?\nA: Bailey explains that judging hallucinations, tone, or bias at scale is subjective, so a second LLM grades each response from the first. She notes the goldfish code review in vibe coding is an example of this pattern.\n\nChapters:\n0:00 Intro: vibe coding and controlling your AI\n0:55 What is vibe coding?\n3:35 Vibe coding AI out of a job\n7:09 Elephant and goldfish process for vibe coding\n16:32 Why post-deployment monitoring matters\n18:33 Distribution shift and an AI autograder\n24:50 Survivorship bias in AI evaluation\n30:27 NIST AI Risk Management Framework\n40:05 AI product lifecycle and decommissioning data\n43:04 Stanford AI policies and data classification\n46:39 The golden rule for AI and personal data\n51:03 AI evals vs product metrics, LLM as judge\n58:09 Ground truth and datasets of convenience\n1:05:02 Case study: Twitter's image cropping bias\n\nAbout the speaker:\nCynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University. In 2023-2024, she served as an AI Policy Fellow in the United States Senate through the American Association for the Advancement of Science (AAAS). Her scholarship focuses on computer science education, AI/machine learning, and the social impacts of technology, including creating courses such as Equity and Governance for Artificial Intelligence and Race and Gender in Silicon Valley. Her teaching and research awards include the Lloyd W. Dinkelspiel Award for exceptional contributions to undergraduate education at Stanford, the Lasting Impact Award from the International Computing Education Research conference, a \"Top 10 Papers of All Time\" award at the 50th anniversary of the ACM SIGCSE Technical Symposium, and the Stanford Society of Women Engineers' Professor of the Year. She has consulted for Apple, NASA, law firms, and machine learning startups. She holds a Ph.D. in Computer Science from UC San Diego.\n\nCourse website: https://web.stanford.edu/class/archive/cs/cs193t/cs193t.1272/\nWatch the full CS193T playlist: https://www.youtube.com/playlist?list=PLDrJO3v_iAZY\n\nRecorded October 27, 2026 in CS193T: Thinking with AI, a Stanford University course taught by Senior Lecturer Cynthia Bailey.\n\n#VibeCoding #ResponsibleAI #StanfordOnline",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -649,19 +662,6 @@
       "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
       "published": "2026-10-07T13:29:33+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nThank you Google DeepMind for the invite.\n\n📝 AlphaGenome Atlas is available here:\nhttps://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/\nhttps://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "ZHVNTTKu9fU",
-      "title": "The Billion Dollar AI Advantage Is Disappearing",
-      "channel": "Two Minute Papers",
-      "channel_category": "AI Research",
-      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-      "published": "2026-10-05T09:53:12+00:00",
-      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Sonnet 5.5: \nhttps://www.anthropic.com/claude-sonnet-5-5\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
