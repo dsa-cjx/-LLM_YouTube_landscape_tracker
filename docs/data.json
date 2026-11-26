@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-26T01:35:30.320854+00:00",
+  "generated_at": "2026-11-26T16:26:16.792324+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
       [
-        "Matthew Berman",
+        "Stanford Online",
         15
       ],
       [
-        "Stanford Online",
+        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "_iVIugwpiUI",
+      "title": "How to Evaluate AI Agents: Benchmark Design | Stanford CS329Z Lecture 12 with John Yang",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=_iVIugwpiUI",
+      "published": "2026-11-26T16:00:09+00:00",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z\n\nWhy are AI agents so hard to evaluate, and what makes a benchmark trustworthy? In this Stanford CS329Z: Engineering AI Agents lecture, John Yang, co-creator of SWE-bench, introduces a 4-tuple framework for agent evaluation (request, environment, stopping criteria, and scorer), how to design each component, the properties of good benchmarks, realistic scaffolding, and the dimensions of agent reliability.\n\nKey questions answered in this lecture:\nQ: Why is it hard to evaluate AI agents?\nA: A model can be overfit to one benchmark and still behave poorly in use. Scores also depend on protocol choices like the harness, turn or cost limits, and temperature, which must be held constant to compare models fairly.\n\nQ: How is an AI agent benchmark structured?\nA: John splits a benchmark into task formulation (the problem statement, environment, and verification) and an evaluation protocol (the harness, number of attempts, how the agent signals it is done, and model settings).\n\nQ: What makes a good AI agent benchmark?\nA: It should be challenging, discriminative, realistic, easy to run, easy to verify, interpretable, and durable. John notes a tension: making tasks harder can make them less natural.\n\nQ: Does the agent harness change benchmark scores?\nA: Yes. Benchmark designers decide whether to require one harness, such as mini-SWE-agent, or allow others, and the same model can score differently depending on the harness.\n\nQ: How do benchmark builders prevent data contamination?\nA: John describes three approaches: a private test split (SWE-bench Pro), freshly human-written tasks (DeepSWE), and a regularly refreshed set of new issues (SWE-bench Live, LiveCodeBench). Each delays contamination rather than ending it.\n\nQ: Why use competitive or Elo-based benchmarks instead of static test sets?\nA: Competitive benchmarks saturate less easily because a model's score depends on its opponents. Static sets become regression tests once models master them. CodeClash applies this idea to agentic coding.\n\nChapters:\n0:00 Introduction: Measuring Agent Progress\n2:39 From Next-Token Prediction to NLP Benchmarks\n10:57 Exam Benchmarks: MMLU to Humanity's Last Exam\n16:52 Chat and Safety Benchmarks: Chatbot Arena\n25:53 Q&amp;A: Responding to Poor Benchmark Results\n27:25 Why Benchmarks Matter and Benchmark Overfitting\n31:15 Q&amp;A: How Models Overfit to Benchmarks\n33:41 Agent Benchmarks: Task Formulation and Protocol\n39:33 Designing Tasks, Environments, and Verification\n45:33 Q&amp;A: Harnesses, Scaffolds, and Reward Hacking\n49:29 Evaluation Protocol: Attempts, Stopping, Budgets\n51:50 Case Studies: Text Games, Web Agents, τ-bench\n1:02:34 Case Studies: Terminal-Bench, OSWorld, CodeClash\n1:10:42 Properties of a Good Agent Benchmark\n\nAbout the speaker:\nJohn Yang is a Computer Science PhD student at Stanford University focused on coding agents. He is a lead creator of SWE-bench, the widely used benchmark for whether language models can resolve real GitHub issues, and of SWE-agent, an open-source agent for autonomous software engineering. He is also first author of SWE-smith, a toolkit that generated 50,000 software engineering training tasks from 128 repositories. He previously studied at Princeton University (MS) and UC Berkeley (BS).\n\nReadings:\n- Zhu et al., “Establishing Best Practices for Building Rigorous Agentic Benchmarks” (2025)\n\nCourse website: https://cs329z.stanford.edu/\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 11/4/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AIEvals #Stanford",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "ngZ1_I_RWS0",
       "title": "This changed my life...",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=2qd2LEXDYpo",
       "published": "2026-11-19T22:36:08+00:00",
       "summary": "https://hark.link/mattberman\n\nI gave Hark Pro three jobs and kept my hands off the keyboard. First, it sorted my inbox and flagged receipts over $200. Then it ordered dinner through DoorDash. When I asked for a recap, it put the emails, receipts, and order in one place. It also spotted a double booking on my calendar.\n\nComment Hark and I’ll DM you the link.\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nPaid partnership with Hark.",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -389,19 +402,6 @@
       "url": "https://www.youtube.com/watch?v=1S5nJp-qRs8",
       "published": "2026-11-18T17:00:12+00:00",
       "summary": "Browse Stanford's online computational and mathematical engineering graduate courses: https://stanford.io/grad-cme\n\nEnrollment for the winter quarter is open now!\nhttps://stanford.io/Winter-2026\n\nIs making a model bigger still the only way to improve it? Adjunct Professors Afshine Amidi and Shervine Amidi explain how post-training techniques such as finetuning, reinforcement learning, preference optimization, verifier-guided training, and distillation help a model reason better, follow instructions better, solve harder problems, and adapt to specialized domains.\n\nThey then focus on on-policy distillation. In standard distillation, a smaller student model learns from examples produced by a stronger teacher. In on-policy distillation, the student generates its own responses during training and learns from how the teacher evaluates those exact attempts. According to the Amidi brothers, this aligns the learning process with how the model behaves in practice, which matters most for reasoning tasks, where intermediate steps, mistakes, and corrections shape the result.\n\nCME295 is a Stanford graduate course that distills the latest advances in LLMs, explains the core ideas from first principles, and connects them to practical systems. Learn more about this course: https://stanford.io/cme295\n\nAbout the speakers:\nAfshine Amidi and Shervine Amidi are twin brothers and Adjunct Professors at Stanford University. They teach CME295: Transformers & Large Language Models and CME296: Diffusion & Large Vision Models.\n\n#PostTraining #LLMs #StanfordOnline",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "TP4UixmOe-I",
-      "title": "Why Do We Need Statisticians in the Age of AI? | Kristin Sainani & Regina Nuzzo",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=TP4UixmOe-I",
-      "published": "2026-11-18T00:00:21+00:00",
-      "summary": "Enrollment is now open!\n\nDemystifying Data: A Modern Approach to Statistical Understanding (SOM-XCHE0033)\n🔗https://stanford.io/som-xche0033\n\nGraduate Winter Quarter\n🔗https://stanford.io/Winter-2026\n\n\nWill AI replace statisticians? Stanford's Kristin Sainani and Regina Nuzzo, two statistics professors and science journalists, say the field is more important than ever. In this conversation, they discuss how large language models (LLMs) can improve statistical practice, why linear models and machine learning have roots in statistics, and why a human needs to stay in the middle of any AI-assisted analysis. Sainani is excited about LLMs helping people who analyze their own data without a statistician. Nuzzo argues that statisticians understand both how machines work and how humans think, which is the point where AI needs oversight.\n\nKey questions answered in this video:\nQ: Do we still need statisticians in the age of AI and LLMs?\nA: Yes. Sainani says LLMs are not ready to take over statisticians' jobs, and Nuzzo says statisticians have a growing role as the link between machines and the people using them.\nQ: How can LLMs improve statistical analysis?\nA: Sainani says people who analyze data on their own, sometimes blindly in Excel, can now get help from an LLM with coding in R, visualizing data, and checking for errors.\nQ: Why does AI still need human oversight?\nA: Sainani notes that AI can make weird, unexpected mistakes, so a person needs to think about and oversee the analysis.\nQ: What do statisticians understand that machines do not?\nA: Nuzzo says machines are good at automation and saving time, but they lack insight into human psychology and what people need. Statisticians understand both how the models are built, trained, and validated and how people interpret them.\n\nChapters:\n0:00 Why do we need statisticians?\n0:11 Can LLMs take over statisticians' jobs?\n0:32 How AI can improve statistical analysis\n0:53 Why humans still need to oversee AI\n1:15 Statistics as the foundation of machine learning\n1:46 The human in the middle of AI\n2:20 Do statisticians still have jobs?\n\nAbout the speakers:\nKristin Sainani is an associate professor at Stanford University and a health and science writer. She holds an MS in statistics and a PhD in epidemiology from Stanford and has taught statistics and writing at Stanford for more than a decade.\n\nRegina Nuzzo is a freelance science writer and professor in Washington, DC. She earned her PhD in Statistics from Stanford and teaches statistics in American Sign Language at Gallaudet University.\n\nTogether, they teach Stanford Online courses and host the podcast Normal Curves.\n\n#Statistics #AI #StanfordOnline",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
