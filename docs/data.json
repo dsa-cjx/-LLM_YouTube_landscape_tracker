@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-25T16:49:33.830936+00:00",
+  "generated_at": "2026-11-26T01:35:30.320854+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Matthew Berman",
+        15
+      ],
       [
         "Stanford Online",
         15
       ],
       [
         "Two Minute Papers",
-        15
-      ],
-      [
-        "Matthew Berman",
         15
       ],
       [
@@ -30,6 +30,58 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "ngZ1_I_RWS0",
+      "title": "This changed my life...",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=ngZ1_I_RWS0",
+      "published": "2026-11-25T23:56:32+00:00",
+      "summary": "Don’t miss this Black Friday Deal! https://eightsleep.com/matthewberman use code MATTHEWBERMAN at checkout",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "nMPyC3s4Q-0",
+      "title": "They're doing what in the arctic?!",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=nMPyC3s4Q-0",
+      "published": "2026-11-25T21:42:34+00:00",
+      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "GaUI0MqNx-Q",
+      "title": "Predicting Seed Variance, Warmup & LR Decay | Stanford CS312 Quiz Review with Suhas Kotha",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=GaUI0MqNx-Q",
+      "published": "2026-11-25T20:00:08+00:00",
+      "summary": "Browse Stanford's online courses in deep learning: https://stanford.io/4zhLWFN\n\nHow much does validation loss move between random seeds, and how long should learning rate warmup and decay last? In this Stanford CS312: Deep Learning Alchemy quiz review, PhD student Suhas Kotha walks through the answers to held-out experiments on the d8 language model, covering run-to-run variance, training loss jitter and batch size, warmup and WSD decay schedules, parameter and gradient norms under weight decay, and scaling-law extrapolation. Each answer comes with instructor sweeps, related papers, and the mental model updates it supports.\n\nKey questions answered in this lecture:\nQ: How much does validation loss vary between random seeds in LLM pretraining?\nA: In this setup the run-to-run standard deviation is about 0.003 validation loss, and varying only the initialization seed or only the data seed gives nearly all of that variance. Differences near 0.003 are noise; something like 0.02 is likely a real improvement.\n\nQ: How does training loss noise change with batch size?\nA: Train-loss jitter scales roughly as 1 over the square root of batch size, because it is dominated by sampling variance of the batch, not the model; it barely changes with learning rate. Validation loss has far less jitter, so it is the cleaner measurement.\n\nQ: How long should the decay phase of a WSD learning rate schedule be?\nA: To get within 0.02 loss of the best schedule, the cooldown needed to be around 20% of training in this setting. Kotha notes these are not fixed constants and depend on what you train on.\n\nQ: How does learning rate warmup affect the optimal learning rate?\nA: Longer warmup raises the optimal learning rate and tolerance to high learning rates: about 1e-3 to 2e-3 with almost no warmup vs closer to 5e-3 with 30% warmup. The best warmup here was 20-30%, far above the 1% default, and it shrinks at longer token horizons, suggesting warmup should be a fixed number of steps.\n\nQ: Why does parameter norm grow during transformer training and what stops it?\nA: With layer norm the loss does not care about weight scale, so gradient updates are mostly orthogonal to the weights and the norm drifts upward. Lower learning rates slow the drift and weight decay pulls it back; only the combination of weight decay and a linear decay schedule made the norm start decreasing.\n\nQ: Can small-model scaling laws predict which method wins at larger scale?\nA: Fitting on D4 through D9 got the ranking right and predicted that dropout, worse at small sizes, would win at larger parameter counts. Kotha warns that a fit that looks good on all points is no guarantee for further extrapolation.\n\nChapters:\n0:00 How the quiz review works: papers vs experiments\n1:40 Q1: Run-to-run std across seeds (0.003)\n4:48 Training loss jitter: train vs validation\n7:30 Q2: Jitter scales as 1/sqrt(batch size)\n10:01 Q3: Skipping warmup and activation norm spikes\n11:48 Q4: How long the WSD decay phase must be\n15:40 Q5: Warmup raises the optimal learning rate\n19:57 Q6: Parameter and gradient norm trajectories\n22:34 Why norms grow: layer norm and weight decay\n24:50 Q7: Extrapolating scaling laws (dropout, LR)\n26:45 QK norm and learning rate at depth 9\n28:13 Q8: One-token perturbation and run variance\n29:50 Assignment 2 preview: NQM and µP\n\nAbout the speaker:\nSuhas Kotha is a Computer Science PhD student at Stanford advised by Percy Liang and Tatsunori Hashimoto, researching language model pre-training, including how to train when compute is abundant relative to data. Suhas co-created CS312: Deep Learning Alchemy and previously studied at Carnegie Mellon University.\n\nCourse website: https://deep-learning-alchemy.github.io/\nWatch the full CS312 playlist: https://www.youtube.com/playlist?list=PLXRTcAYPI4AU\n\nRecorded September 29, 2026, in CS312: Deep Learning Alchemy, a Stanford University course taught by Tatsunori Hashimoto and Suhas Kotha.\n\n#DeepLearning #LLM #Stanford",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "iA0ns69dZGM",
+      "title": "RANKING the BEST AI Models for Coding | TIER LIST",
+      "channel": "Matthew Berman",
+      "channel_category": "AI Tools",
+      "url": "https://www.youtube.com/watch?v=iA0ns69dZGM",
+      "published": "2026-11-25T19:28:41+00:00",
+      "summary": "HUGE Eight Sleep Black Friday Deal $700 OFF! https://www.eightsleep.com/matthewberman\nUse Code: MATTHEWBERMAN\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "y2cwbmOy12U",
       "title": "Better Data for AI Agents: Data Selection & Quality | Stanford CS329Z Lecture 11 with John Yang",
@@ -246,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
       "published": "2026-11-19T20:03:10+00:00",
       "summary": "GPT 6.2 Astra is OpenAI’s best model, so for each of the last 4 years this would have been the only headline. But now Gemini is catching up fast, with 4 Carbon and Neon, and Anthropic are IPO-ing after promising imminent RSI. And even all this isn’t quite the main story, is it? We now have data on what drives model improvement, how close AI is to automating AI, and whether, as Dario Amodei of Anthropic promised, we are witnessing a ‘race to the top’...\n\nhttps://www.assemblyai.com/aiexplained\n\n\nExtra Vids ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:44 - Part 1: Data Dependent Progress\n07:52 - Part 2: Predictable Progress on Aggregate Benchmarks,\n10:27 - How Much Is AI Speeding Up AI Research?\n14:23 - Part 3: Anthropic Promised a Race to the Top\n17:24 - Why Models Are Getting Harder to Monitor\n22:46 - Is OpenAI Now the More Transparent Lab?\n27:50 - Last Word to Anthropic Staff\n\nAnthropic IPO roadshow video (Dario Amodei, Tom Brown): https://ipo.anthropic.com/us/#roadshow-video\n\nGreg Brockman and Sam Altman at the NYT DealBook Summit: https://www.youtube.com/watch?v=J5EA7QeBm8k\n\nPaul Christiano, AI Alignment: What's Working and What's Not (Hinton Lectures 2026): https://www.youtube.com/watch?v=-Ef0ocEoBCs\n\nTao Lin interviewed by Palisade Research: https://www.youtube.com/watch?v=OPZCQk8jF-I\n\nOpenAI report on research acceleration (The jagged frontier): https://openai.com/index/research-acceleration-jagged-frontier/\n\nGPT-6.2 Astra and Sol announcement: https://openai.com/index/introducing-gpt-6-2-astra-sol/\n\nGPT-6.2 Astra and Sol system card (PDF): https://deploymentsafety.openai.com/gpt-6-2-astra-sol/gpt-6-2-astra-sol.pdf\n\nGemini 4 Neon announcement: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\n\nOpenAI paper on chain-of-thought monitorability: https://alignment.openai.com/cot-monitorability-model-lifecycle\n\nMETR assessment of AI R&amp;D acceleration at Anthropic: https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/\n\nChain of Thought Monitorability paper (arXiv): https://arxiv.org/pdf/2507.11473\n\nOpenAI on safety cases for frontier AI training: https://openai.com/index/towards-safety-cases-for-frontier-ai-training/\n\nGemini 4 Argon Safety & Security Report (PDF): https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf\n\nOpenAI on embedded assessments: https://openai.com/index/our-first-phase-of-embedded-assessments/\n\nAnthropic and Accenture on embedded evaluation: https://www.anthropic.com/news/accenture-embedded-evaluation\n\nOpenAI Cyber at the Frontier: https://openai.com/cyber-at-the-frontier/\n\nThe Information on Brockman and OpenAI cyber: https://www.theinformation.com/articles/brockman-pushes-openai-toward-cybersecurity-and-showdown-ai-safety\n\nEpoch Capabilities Index: https://epoch.ai/eci?view=graph&amp;tab=release-date\n\nArtificial Analysis: https://artificialanalysis.ai/#evaluations\n\nVals RSI Index: https://www.vals.ai/benchmarks/rsi_index\n\nSimpleBench: https://simple-bench.com/\n\nIntegrityBench: https://integrity-bench.com/\n\nClaude and protein sequences (Xinming Tu post): https://x.com/TuXinming/status/2122737418864664618\n\nClaude and protein sequences (full write-up): https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/\n\nDrivingBench v2 results (Aditya Ramabadran): https://x.com/a_ramabadran/status/2122797260924923975\n\nBlender demo comparison (Teknium): https://x.com/Teknium/status/2122753724129145188\n\nUpdated time-horizon graph (Benjamin Todd): https://x.com/ben_j_todd/status/2122318704260403562\n\nCapability index trend break (roon): https://x.com/tszzl/status/2122924317935898701\n\nFrontierRSI leaderboard (Kevin Lin): https://x.com/quasicoh/status/2123114502065627580\n\nDario Amodei on the race to the top: https://x.com/DarioAmodei/status/2112732230124818891\n\nDan Hendrycks on AI safety groups and Anthropic: https://x.com/hendrycks/status/2123070133522350176\n\nJason Wolfe on evaluator access at OpenAI: https://x.com/w01fe/status/2122536841677283784\n\nEpoch AI on reasoning steps without chain of thought: https://x.com/EpochAIResearch/status/2122762411287748696\n\nJakub Pachocki on chain-of-thought faithfulness: https://x.com/merettm/status/1945157403315724547\n\nJacob Coxon on the Anthropic roadshow slide: https://x.com/hilbertspaess/status/2121331333654086124\n\nAssemblyAI STT-3.7 (sponsor): https://www.assemblyai.com/blog/introducing-assemblyai-stt-3-7\n\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -259,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=nEYuoqqMgyg",
       "published": "2026-11-19T20:02:19+00:00",
       "summary": "Check out Spacesheep: https://spacesheep.dev/matt\nFirst 1,000 signups get 3 months free\n\nCheck out Scarlet: https://github.com/Forward-Future/scarlet\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/mjackson/status/2122807457697456385  \nhttps://x.com/MrCatid/status/2122784037198827686  \nhttps://x.com/digitalshane_/status/2122841041690677669  \nhttps://x.com/danshipper/status/2122754729012777052  \nhttps://x.com/mattshumer_/status/2122752192226406421  \nhttps://x.com/theo/status/2122757647170703550  \nhttps://x.com/bryanpatricca/status/2122777968569143364  \nhttps://x.com/petergostev/status/2122756490184253576  \nhttps://x.com/DeryaTR_/status/2122758607603442169  \nhttps://x.com/OpenAI/status/2122750124543926515  \nhttps://x.com/theo/status/2122760447103484410  \nhttps://x.com/PaulSolt/status/2123145128248541287  \nhttps://x.com/PaulSolt/status/2122879940848714088  \nhttps://x.com/thsottiaux/status/2122929634916679820  \nhttps://x.com/EnvolDev/status/2122803967272866254  \nhttps://x.com/EnvolDev/status/2120258474831704390  \nhttps://x.com/MengTo/status/2123079701384269871  \nhttps://x.com/MrTacticalX/status/2122806350543774075  \nhttps://x.com/Dimillian/status/2122920777276162489  \nhttps://x.com/EnvolDev/status/2122773694783349144",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=FUj0a5B6bVk",
       "published": "2026-11-19T19:47:46+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +337,7 @@
       "url": "https://www.youtube.com/watch?v=Nr-c57iGbCs",
       "published": "2026-11-19T17:00:39+00:00",
       "summary": "Graduate courses open for winter enrollment: https://stanford.io/Winter-2026\n\nGraduate certificates and how to apply as a non-degree student: https://stanford.io/grad-courses-certs\n\nBrowse Master's Degrees: https://stanford.io/grad-info-masters\n\nCan working professionals take Stanford graduate-level engineering classes without committing to a full degree? In this Stanford Online information session, Pax Heymeyer, Senior Director of Academic Programs, and Jonathan Nottman, Senior Director of Client Success and Engagement, explain three paths: taking individual graduate courses for credit, earning a graduate certificate, or pursuing a part-time master's degree with the option to study online.\n\nThe Stanford Engineering Center for Global and Online Education traces its history to 1954, when it began as a way for employees of Stanford Research Park companies to study part-time. Professionals with a bachelor's degree can apply as non-degree students for individual courses and graduate certificates.\n\nApplicants submit official transcripts, identification, and a short statement of purpose, but no letters of recommendation. The academic department reviews each application when the student enrolls in a course, and students must earn a B or better to continue. A graduate certificate takes three to four courses, usually within three years, and up to 18 units from non-degree courses can count toward a Stanford master's degree with department approval.\n\nKey questions answered in this session:\nQ: Who can take Stanford graduate courses as a non-degree student?\nA: Professionals with a bachelor's degree who meet department prerequisites and submit official transcripts. No letters of recommendation are required.\nQ: How much time should I plan for each week?\nA: 15 to 25 hours of coursework per week in a 10-week quarter.\nQ: Do I have to take exams in person?\nA: Most exams are taken in person at an approved proctor, such as a testing center or a supervisor, usually within a window of at least 24 hours.\nQ: Can non-degree units count toward a master's degree?\nA: Up to 18 units can transfer to a master's degree with department approval. They cannot be applied to a graduate certificate.\nQ: Are the programs available outside the U.S.?\nA: Yes. They are open to students worldwide.\nQ: Does doing well in these classes help master's admission?\nA: It helps, because it shows graduate-level performance, but it does not guarantee admission.\n\nAbout the speakers:\nPax Heymeyer is Senior Director of Academic Programs at the Stanford Engineering Center for Global and Online Education. Jonathan Nottman is Senior Director of Client Success and Engagement. \n\n#StanfordGraduate #StanfordMasters #GraduateCertificate #OnlineMasters #StanfordEngineering #ProfessionalEducation",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -350,19 +402,6 @@
       "url": "https://www.youtube.com/watch?v=TP4UixmOe-I",
       "published": "2026-11-18T00:00:21+00:00",
       "summary": "Enrollment is now open!\n\nDemystifying Data: A Modern Approach to Statistical Understanding (SOM-XCHE0033)\n🔗https://stanford.io/som-xche0033\n\nGraduate Winter Quarter\n🔗https://stanford.io/Winter-2026\n\n\nWill AI replace statisticians? Stanford's Kristin Sainani and Regina Nuzzo, two statistics professors and science journalists, say the field is more important than ever. In this conversation, they discuss how large language models (LLMs) can improve statistical practice, why linear models and machine learning have roots in statistics, and why a human needs to stay in the middle of any AI-assisted analysis. Sainani is excited about LLMs helping people who analyze their own data without a statistician. Nuzzo argues that statisticians understand both how machines work and how humans think, which is the point where AI needs oversight.\n\nKey questions answered in this video:\nQ: Do we still need statisticians in the age of AI and LLMs?\nA: Yes. Sainani says LLMs are not ready to take over statisticians' jobs, and Nuzzo says statisticians have a growing role as the link between machines and the people using them.\nQ: How can LLMs improve statistical analysis?\nA: Sainani says people who analyze data on their own, sometimes blindly in Excel, can now get help from an LLM with coding in R, visualizing data, and checking for errors.\nQ: Why does AI still need human oversight?\nA: Sainani notes that AI can make weird, unexpected mistakes, so a person needs to think about and oversee the analysis.\nQ: What do statisticians understand that machines do not?\nA: Nuzzo says machines are good at automation and saving time, but they lack insight into human psychology and what people need. Statisticians understand both how the models are built, trained, and validated and how people interpret them.\n\nChapters:\n0:00 Why do we need statisticians?\n0:11 Can LLMs take over statisticians' jobs?\n0:32 How AI can improve statistical analysis\n0:53 Why humans still need to oversee AI\n1:15 Statistics as the foundation of machine learning\n1:46 The human in the middle of AI\n2:20 Do statisticians still have jobs?\n\nAbout the speakers:\nKristin Sainani is an associate professor at Stanford University and a health and science writer. She holds an MS in statistics and a PhD in epidemiology from Stanford and has taught statistics and writing at Stanford for more than a decade.\n\nRegina Nuzzo is a freelance science writer and professor in Washington, DC. She earned her PhD in Statistics from Stanford and teaches statistics in American Sign Language at Gallaudet University.\n\nTogether, they teach Stanford Online courses and host the podcast Normal Curves.\n\n#Statistics #AI #StanfordOnline",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "e_m99aR7_3Q",
-      "title": "Optimizing AI Agents: Prompts vs. Weights (GEPA, GRPO) | Stanford CS329Z Lecture 9 with Michael Ryan",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=e_m99aR7_3Q",
-      "published": "2026-11-17T21:00:35+00:00",
-      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview:\nShould you optimize your AI agent's prompts or fine-tune its weights? In this Stanford CS329Z: Engineering AI Agents lecture, Michael Ryan, whose prompt-optimization algorithms are used across industry, covers when optimization pays off, context optimization (bootstrapped few-shot, OPRO, MIPROv2, TextGrad, GEPA), weight optimization (SFT on agent rollouts, PPO vs. GRPO, on-policy distillation), agents as optimizers (Darwin Gödel Machine, autoresearch), and a practical guide to choosing between prompts and weights.\n\nSpeaker: Michael Ryan\n\nMichael Ryan is a CS PhD student at Stanford University developing human-centered, open-source AI systems that augment human intelligence and reflect the plurality of human values. His contributions to the DSPy open-source project enable developers to optimize multi-stage AI systems, and his algorithms are used for automatic AI prompt optimization at Meta, Google, Dropbox, Amazon, and other organizations.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/21/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
@@ -466,45 +505,6 @@
       "channel_category": "AI Tools",
       "url": "https://www.youtube.com/watch?v=TzZmDf60hIQ",
       "published": "2026-11-12T07:50:40+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "LFzBzzHZESE",
-      "title": "AMA with me and the team!",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=LFzBzzHZESE",
-      "published": "2026-11-11T22:52:54+00:00",
-      "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "FCmLuTENOp0",
-      "title": "Gemini Carbon, NVIDIA CEO AFFAIR, Fable 5.2, Meta Muse Ember, GPT Image 2.6, Minimax H3: AI NEWS",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=FCmLuTENOp0",
-      "published": "2026-11-11T11:00:25+00:00",
-      "summary": "Hire Viktor for your team: https://ref.viktor.com/mberman-yt\nUse code MATTHEWBERMAN100 for $100 in credits\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n00:00 Intro\n00:15 NVIDIA CEO Affair\n01:28 Fable 5.2\n04:31 Sponsor\n05:35 Fable 5.2 (Cont.)\n07:46 Gemini 4 Carbon\n09:59 LongCat 2.5\n10:38 Ripple 65B\n11:44 Inkling 2 Small\n12:48 Meta Muse Ember\n13:52 GPT Image 2.6\n14:46 Gemini Omni 1.2\n15:13 Seedream 5.5\n16:06 SWE-2 Flash\n16:48 MiniMax H3 Image\n\nLinks:\nhttps://nvidianews.nvidia.com/news/a-message-to-our-company  \nhttps://www.anthropic.com/claude-fable-and-mythos-5-2  \nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/  \nhttps://huggingface.co/meituan-longcat/LongCat-2.5  \nhttps://www.ricursive.com/ripple  \nhttps://thinkingmachines.ai/news/inkling-2-small/  \nhttps://research.meta.ai/blog/muse-ember  \nhttps://openai.com/index/introducing-images-2-6/  \nhttps://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/  \nhttps://seed.bytedance.com/en/seedream5_5  \nhttps://cognition.com/blog/swe-2-flash  \nhttps://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "ZBJV-hA-tLM",
-      "title": "What software provides when AI bypasses the interface",
-      "channel": "Matthew Berman",
-      "channel_category": "AI Tools",
-      "url": "https://www.youtube.com/watch?v=ZBJV-hA-tLM",
-      "published": "2026-11-11T07:33:33+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
       "transcript_status": null,
       "transcript_language": null,
