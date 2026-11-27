@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T16:26:16.792324+00:00",
+  "generated_at": "2026-11-27T01:30:06.745290+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
@@ -30,6 +30,19 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "wdjnAOrS7f8",
+      "title": "Noisy Quadratic Model, Momentum & Weight Decay | Stanford CS312 Lecture 3 with Tatsunori Hashimoto",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=wdjnAOrS7f8",
+      "published": "2026-11-26T20:00:30+00:00",
+      "summary": "Browse Stanford's online courses in deep learning: https://stanford.io/4zhLWFN\n\nWhy does mini-batch SGD, a weak algorithm by convex optimization standards, work so well for deep learning? In this Stanford CS312: Deep Learning Alchemy lecture, Assistant Professor Tatsunori Hashimoto breaks down the anatomy of an optimizer: learning rate, batch size, preconditioning, momentum, and AdamW. He uses the noisy quadratic model to explain critical batch size and when momentum pays off, then turns to norms and weight decay, showing how layer norm makes weight norms grow and why weight decay mainly controls the effective learning rate. He closes with Hyperball, which projects weights onto a fixed-radius sphere.\n\nKey questions answered in this lecture:\nQ: What is the noisy quadratic model in deep learning optimization?\nA: A diagonalized quadratic loss with gradient noise whose covariance is aligned with the curvature, so each coordinate can be analyzed separately and batching divides the noise variance by the batch size. Hashimoto uses it to analyze plain SGD, momentum and preconditioning, trading convergence rate against steady-state loss.\n\nQ: Why does increasing batch size stop speeding up training?\nA: Larger batches reduce noise and allow bigger learning rates, but the learning rate cannot exceed the stability limit of 2 over the largest curvature. Past that point, extra batches give strongly diminishing returns, which is the critical batch size.\n\nQ: Does momentum help SGD at small batch sizes?\nA: The NQM predicts momentum adds little at small batch sizes, where noise forces small learning rates, and helps mainly at large batch sizes. Experiments agree, and SGD at batch size 1 roughly matched the AdamW training curve for GPT-3 style training.\n\nQ: Why do weight norms grow in transformers and why does it matter?\nA: Layer norms make the loss nearly scale invariant, so gradients lie tangent to the sphere and each step pushes the norm outward until weight decay balances it. Bigger norms shrink the effective step size (learning rate over norm squared), so you lose control of your learning rate.\n\nQ: What does weight decay do in LLM pretraining?\nA: In one-pass training, Hashimoto argues weight decay mainly controls the effective learning rate, not model complexity, and tuning it can act like tuning the learning rate. AdamC makes weight decay scale with the learning rate schedule to keep the norm equilibrium constant.\n\nQ: What is the Hyperball optimizer?\nA: Take a base update such as AdamW or Muon, normalize it, step, then project the weights back onto a ball whose radius is the Frobenius norm at initialization, leaving embeddings, norm gains and the output head unprojected. AdamH and MuonH were consistently better at scale and gave easier hyperparameter transfer.\n\nChapters:\n0:00 Why optimization matters in deep learning\n3:09 Anatomy of SGD: LR, batch, preconditioning\n8:06 Momentum: heavy ball and Nesterov\n11:12 AdamW recap and decoupled weight decay\n13:39 Deep learning vs convex optimizers\n22:03 The noisy quadratic model (NQM)\n27:32 Steady-state loss and critical batch size\n30:40 Momentum: overdamped vs underdamped\n41:33 Momentum helps only at large batch sizes\n45:41 Preconditioning tradeoffs in the NQM\n49:43 Limits of the quadratic mental model\n55:00 Why parameter norms grow: layer norm\n59:28 Norm growth and effective learning rate\n1:08:42 Hyperball: projecting weights to a sphere\n\nAbout the speaker:\nTatsunori Hashimoto is an Assistant Professor of Computer Science at Stanford University and a faculty affiliate of the Stanford Institute for Human-Centered Artificial Intelligence (HAI). His research uses tools from statistics to make machine learning systems more robust and reliable, especially for language. He also teaches CS336: Language Modeling from Scratch. He was a postdoc at Stanford with John Duchi and Percy Liang, earned his PhD at MIT, and studied statistics and math at Harvard.\n\nReadings:\n- Zhang et al. (2019), Which Algorithmic Choices Matter at Which Batch Sizes?: https://arxiv.org/abs/1907.04164\n- Weight decay blog: https://whenwen.github.io/wd_blog/public/weight-decay-part-2.html\n- Hyperball: https://arxiv.org/abs/2606.16899\n\nCourse website: https://deep-learning-alchemy.github.io/\nWatch the full CS312 playlist: https://www.youtube.com/playlist?list=PLXRTcAYPI4AU\n\nRecorded October 1, 2026, in CS312: Deep Learning Alchemy, a Stanford University course taught by Tatsunori Hashimoto and Suhas Kotha.\n\n#DeepLearning #Optimization #MachineLearning",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "_iVIugwpiUI",
       "title": "How to Evaluate AI Agents: Benchmark Design | Stanford CS329Z Lecture 12 with John Yang",
@@ -285,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=5eON_8rgKzk",
       "published": "2026-11-20T02:37:36+00:00",
       "summary": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nCheck out Scarlet: https://github.com/Forward-Future/scarlet\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/ThePrimeagen/status/2123457810369593668\nhttps://x.com/OfficialLoganK/status/2123495001422475660\nhttps://x.com/theo/status/2123237018813779970\nhttps://x.com/sundarpichai/status/2123184309137965524\nhttps://x.com/bijanbowen/status/2123414397980676214\nhttps://x.com/badboyfoxy/status/2123251809183785076\nhttps://x.com/jan_volad/status/2123205954649100424",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -389,19 +402,6 @@
       "url": "https://www.youtube.com/watch?v=7GW-9ug2nvw",
       "published": "2026-11-18T21:00:35+00:00",
       "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview:\nHow do frontier AI labs measure whether agents can do real work? In this Stanford CS329Z: Engineering AI Agents guest lecture, Alex Shaw and Ryan Marten of the Laude Institute, co-creators of Terminal-Bench, explain why evals have become the source of truth for agent software, how Terminal-Bench measures how well agents accomplish hard, real-world tasks in a terminal environment, and how to write tasks, design verifiers, prevent reward hacking, and maintain a benchmark with their open-source framework, Harbor.\n\nSpeakers: Alex Shaw and Ryan Marten\n\nAlex Shaw is a founding Member of Technical Staff at the Laude Institute building the infrastructure for evaluating and training AI agents. He is the co-creator of Terminal-Bench, a benchmark of hard, realistic command-line tasks that frontier labs now report in their model cards, and the creator of Harbor, the open-source framework for building agent evaluations and RL environments.\n\nRyan Marten is a Member of Technical Staff at the Laude Institute building the training data, benchmarks, and infrastructure behind more capable reasoning models and autonomous agents. He helped lead OpenThoughts, the fully open data recipe behind the OpenThinker reasoning models, and Terminal-Bench, which virtually every frontier lab now uses to measure how well agents complete real tasks in a terminal, and contributes to Harbor, the open-source framework for building agent evaluations and RL environments.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/26/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "1S5nJp-qRs8",
-      "title": "Post-Training Techniques: On-Policy Distillation | Afshine & Shervine Amidi",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=1S5nJp-qRs8",
-      "published": "2026-11-18T17:00:12+00:00",
-      "summary": "Browse Stanford's online computational and mathematical engineering graduate courses: https://stanford.io/grad-cme\n\nEnrollment for the winter quarter is open now!\nhttps://stanford.io/Winter-2026\n\nIs making a model bigger still the only way to improve it? Adjunct Professors Afshine Amidi and Shervine Amidi explain how post-training techniques such as finetuning, reinforcement learning, preference optimization, verifier-guided training, and distillation help a model reason better, follow instructions better, solve harder problems, and adapt to specialized domains.\n\nThey then focus on on-policy distillation. In standard distillation, a smaller student model learns from examples produced by a stronger teacher. In on-policy distillation, the student generates its own responses during training and learns from how the teacher evaluates those exact attempts. According to the Amidi brothers, this aligns the learning process with how the model behaves in practice, which matters most for reasoning tasks, where intermediate steps, mistakes, and corrections shape the result.\n\nCME295 is a Stanford graduate course that distills the latest advances in LLMs, explains the core ideas from first principles, and connects them to practical systems. Learn more about this course: https://stanford.io/cme295\n\nAbout the speakers:\nAfshine Amidi and Shervine Amidi are twin brothers and Adjunct Professors at Stanford University. They teach CME295: Transformers & Large Language Models and CME296: Diffusion & Large Vision Models.\n\n#PostTraining #LLMs #StanfordOnline",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
