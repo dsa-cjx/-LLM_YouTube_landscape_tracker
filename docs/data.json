@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-27T16:11:26.162952+00:00",
+  "generated_at": "2026-11-28T01:07:30.067571+00:00",
   "stats": {
     "total_videos": 75,
     "analyzed_videos": 0,
     "channels": [
+      [
+        "Stanford Online",
+        15
+      ],
       [
         "Matthew Berman",
         15
       ],
       [
         "Two Minute Papers",
-        15
-      ],
-      [
-        "Stanford Online",
         15
       ],
       [
@@ -30,6 +30,45 @@
     "importance": []
   },
   "items": [
+    {
+      "video_id": "2tprCux3XqY",
+      "title": "Swipe Right, Swipe Left: Type I vs. Type II Errors Explained by Kristin Sainani & Regina Nuzzo",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=2tprCux3XqY",
+      "published": "2026-11-27T23:00:23+00:00",
+      "summary": "A study calls its result \"statistically significant,\" or a dashboard flags a trend. How do you know it's real and not a false alarm?\n\nIn this clip, Stanford's Kristin Sainani and Regina Nuzzo explain Type I and Type II errors in hypothesis testing with a dating app analogy: a false positive is swiping right on a date who turns out to be a dud, and a false negative is swiping left on someone who would have been your soulmate. \n\nIn Demystifying Data: A Modern Approach to Statistical Understanding, you'll learn to question where data came from, spot bias and error, and evaluate whether a statistical conclusion holds up, using real case studies and plain-language explanations instead of formulas.\n\nEnrollment is now open!\n\nDemystifying Data: A Modern Approach to Statistical Understanding (SOM-XCHE0033)\n🔗https://stanford.io/som-xche0033\n\nGraduate Winter Quarter\n🔗https://stanford.io/Winter-2026\n\nKey questions answered in this video:\nQ: What is a Type I error in statistics?\nA: Nuzzo describes it as a false positive: you reject the null hypothesis when you shouldn't, conclude there is an effect, and publish it, but in fact you're wrong.\n\nQ: What is a Type II error?\nA: A false negative. There is a real effect in your data, but you fail to find it because you don't get a statistically significant result.\n\nQ: How can a dating app help you remember Type I and Type II errors?\nA: A Type I error is like swiping right and going on a date that turns out to be a dud. A Type II error is like swiping left on someone who was your soulmate, so you never meet.\n\nAbout the speakers:\nKristin Sainani is an associate professor at Stanford University and a health and science writer. She holds an MS in statistics and a PhD in epidemiology from Stanford and has taught statistics and writing at Stanford for more than a decade.\n\nRegina Nuzzo is a freelance science writer and professor in Washington, DC. She earned her PhD in Statistics from Stanford and teaches statistics in American Sign Language at Gallaudet University.\n\nTogether, they teach Stanford Online courses and host the podcast Normal Curves.\n\n#Statistics #HypothesisTesting #DataLiteracy",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "bZCbIoeY1fQ",
+      "title": "µP & Muon: Scaling Optimizers to Infinite Width | Stanford CS312 Lecture 4 with Tatsunori Hashimoto",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=bZCbIoeY1fQ",
+      "published": "2026-11-27T20:00:06+00:00",
+      "summary": "Browse Stanford's online courses in deep learning: https://stanford.io/4zhLWFN\n\nWhat should an optimizer do as a model gets wider and wider? In this Stanford CS312: Deep Learning Alchemy lecture, Assistant Professor Tatsunori Hashimoto works through scaling limits and feature learning from first principles. He shows why the neural tangent kernel limit is stable but learns no features, derives µP through abc-parameterization so the optimal learning rate transfers across width, and reframes µP as steepest descent in an operator-norm ball. That view leads to Muon, its Newton-Schulz iteration, evidence that it works at scale, and why its benefit may come from boosting small singular values.\n\nKey questions answered in this lecture:\nQ: What is µP (maximal update parameterization) and why does it matter?\nA: Hashimoto frames µP as picking per-layer output multipliers, initialization scales, and learning rates so a network stays both stable and non-trivial (still learning features) as width goes to infinity. The practical payoff is that the optimal learning rate stays put as you scale width.\n\nQ: Why is the neural tangent kernel limit not useful for deep learning?\nA: With an O(1) learning rate and 1/sqrt(m) output scaling, the weights barely move as width grows, so the network reduces to a regression on fixed gradient features with no feature learning. In the word embedding example, it scores basically 0% on word analogies.\n\nQ: What does alignment mean in µP and which alignment should you assume?\nA: Alignment exponents sit between 1/2 (weights and activations behave like independent random objects) and 1 (fully correlated). Everett et al. measure that alignment starts at 0.5 and rises during training before stabilizing below 1, so Hashimoto says the right choice is not clear.\n\nQ: How does the Muon optimizer work?\nA: For each matrix parameter, Muon takes momentum, then replaces the gradient's singular values with ones (UV transpose), which is steepest descent inside an operator-norm ball. It skips the slow SVD by running a quintic Newton-Schulz iteration made of matmuls, and uses AdamW for scalar parameters.\n\nQ: Why does Muon work so well?\nA: Hashimoto notes Muon's tuned quintic does not converge to 1 but oscillates near it, rapidly pushing small singular values up. Follow-up work finds a power of 1/2 beats the sign and randomized singular values still train well, so the key seems to be boosting small, hard-to-update directions rather than exact orthogonalization.\n\nChapters:\n0:00 Optimizers in the infinite-width limit\n3:44 Simplified MLP model from Everett et al.\n6:09 Two goals: stability and non-triviality\n8:21 Neural tangent kernel: stable but no features\n11:29 abc-parameterization: scale, init, learning rate\n16:27 Activation stability at init and Xavier\n23:26 Gradient stability and SGD vs Adam updates\n27:45 Training dynamics and alignment exponents\n43:17 µP and Tensor Programs: learning rate transfer\n49:33 From µP to Muon: operator norm descent\n54:28 Muon in practice: Newton-Schulz iteration\n59:14 Muon at scale: NanoGPT speedrun and Kimi\n1:01:56 Why Muon works: boosting small singular values\n1:07:22 Takeaways for the optimization unit\n\nAbout the speaker:\nTatsunori Hashimoto is an Assistant Professor of Computer Science at Stanford University and a faculty affiliate of the Stanford Institute for Human-Centered Artificial Intelligence (HAI). His research uses tools from statistics to make machine learning systems more robust and reliable, especially for language. He also teaches CS336: Language Modeling from Scratch. He was a postdoc at Stanford with John Duchi and Percy Liang, earned his PhD at MIT, and studied statistics and math at Harvard.\n\nReadings:\n- Everett et al. (2024), Scaling Exponents Across Parameterizations and Optimizers: https://arxiv.org/abs/2407.05872\n- Tensor Programs V: https://arxiv.org/abs/2203.03466\n- Muon: https://kellerjordan.github.io/posts/muon/\n\nCourse website: https://deep-learning-alchemy.github.io/\nWatch the full CS312 playlist: https://www.youtube.com/playlist?list=PLXRTcAYPI4AU\n\nRecorded October 6, 2026, in CS312: Deep Learning Alchemy, a Stanford University course taught by Tatsunori Hashimoto and Suhas Kotha.\n\n#DeepLearning #Muon #Optimization\"",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
+    {
+      "video_id": "aDHf1r6ZZRA",
+      "title": "Andrew Ng on Building AI Agents | Stanford CS329Z Fireside Chat with Andrew Ng & Diyi Yang",
+      "channel": "Stanford Online",
+      "channel_category": "Education",
+      "url": "https://www.youtube.com/watch?v=aDHf1r6ZZRA",
+      "published": "2026-11-27T16:00:26+00:00",
+      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z\n\nAndrew Ng, founder of DeepLearning.AI, co-founder of Coursera, founding lead of Google Brain, and an Adjunct Professor of Computer Science at Stanford, joins Stanford professor Diyi Yang for a fireside chat in Stanford CS329Z: Engineering AI Agents.\n\nKey questions answered in this fireside chat:\nQ: What separates strong AI agent-building teams from weaker ones, according to Andrew Ng?\nA: A disciplined error analysis and evals-driven development process, plus knowing when to move from quick prototyping to rigorous golden-set and regression testing.\n\nQ: Does Andrew Ng think AI chatbots are good for learning?\nA: Not as currently built. He says chatbots were designed to get work done rather than to help people learn, and that cognitive offloading can hurt learning, citing research showing lower exam scores.\n\nQ: What will humans still do better than AI?\nA: Judgment tasks with no single right answer, such as architecture choices, product priorities, and hiring timing. He says the gap between AI performance on verifiable tasks and on judgment tasks is larger than most people realize.\n\nQ: Does Andrew Ng still write or review code by hand?\nA: Mostly not. He relies on rigorous testing, guardrails, and sandboxing instead. Human review still makes sense for small amounts of high-stakes code, but at scale it becomes a bottleneck.\n\nQ: Will open-weight AI models survive?\nA: He is confident they will, and sees overly restrictive regulation as the biggest risk to them.\n\nQ: Will the AI knowledge gap between early adopters and everyone else last?\nA: He expects technical knowledge to spread quickly. The lasting gap will be in implementing AI inside industries and reorganizing teams to be AI-native, which he expects to take about a decade.\n\nChapters:\n0:00 Introduction\n0:24 Error Analysis, Evals, and Rapid Prototyping\n4:52 Where Agents Fail: Harnesses and Sandboxing\n8:56 Is Building Agents an Elegant Process?\n14:21 Human Advantage: Verifiable vs. Judgment Tasks\n20:28 AI Chatbots, Learning, and Judgment\n28:34 Should Engineers Still Write and Review Code?\n41:29 Concise Code and Token Incentives\n43:36 Academic Research vs. Frontier Lab Resources\n47:29 Audience Q&amp;A: Open-Weight Models and Regulation\n49:40 Audience Q&amp;A: AI Knowledge Gaps in the Workforce\n57:43 Audience Q&amp;A: AI Anxiety and Advice for Scientists\n1:01:16 Audience Q&amp;A: Will Humans Stop Writing Code?\n1:07:47 Audience Q&amp;A: AI in Education\n\nAbout the speakers:\nAndrew Ng is the founder of DeepLearning.AI, co-founder of Coursera, founding lead of Google Brain, and an Adjunct Professor of Computer Science at Stanford University.\n\nDiyi Yang is an assistant professor in the Computer Science Department at Stanford University, affiliated with the Stanford NLP Group, Stanford HCI Group, and the Stanford Institute for Human-Centered AI (HAI). Her research focuses on human-centered LLMs and human-AI interaction. She is a recipient of IEEE “AI 10 to Watch” (2020), a Microsoft Research Faculty Fellowship (2021), an NSF CAREER Award (2022), and a Sloan Research Fellowship (2024).\n\nCourse website: https://cs329z.stanford.edu/\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 11/9/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AndrewNg #AgenticAI #Stanford",
+      "transcript_status": "error",
+      "transcript_language": null,
+      "analysis_status": null,
+      "analysis": null
+    },
     {
       "video_id": "ZGX2NLLLYkY",
       "title": "How Tesla Generates Its Third-Person Reality View",
@@ -201,7 +240,7 @@
     },
     {
       "video_id": "MkeKXJzJo98",
-      "title": "Did AI JUST Solve Mathematics?",
+      "title": "Claude Just Solved Mathematics (and people are freaking out…)",
       "channel": "Matthew Berman",
       "channel_category": "AI Tools",
       "url": "https://www.youtube.com/watch?v=MkeKXJzJo98",
@@ -259,7 +298,7 @@
       "url": "https://www.youtube.com/watch?v=1jPdehG3Hms",
       "published": "2026-11-23T07:37:52+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/claude-black-hole-physics\nhttps://hexagonmath.org/2611.00175v1\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -272,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=I0Fasi1-teQ",
       "published": "2026-11-21T21:23:31+00:00",
       "summary": "Try Grok Bot from SpaceXSI, the sponsor of this video: https://tinyurl.com/yc4b4ymz\n\nAnthropic is now a public company. I look at how its warnings about AI risk square with its pitch to Wall Street, why it restricted Claude subscription access through tools like OpenClaw, and what METR found about AI accelerating Anthropic’s own research. I also revisit what Sam Altman and Mustafa Suleyman told me about AI consciousness.\n\nWatch my breakdown of the METR report: https://www.youtube.com/watch?v=lVbQqjAJpkE\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nSources\nAnthropic’s IPO announcement: https://www.anthropic.com/news/ipo-close\nMETR’s assessment of AI R&amp;D acceleration at Anthropic: https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/\nAnthropic on model welfare: https://www.anthropic.com/research/exploring-model-welfare\nDario Amodei on DeepSeek and export controls: https://darioamodei.com/post/on-deepseek-and-export-controls\nBoris Cherny on Claude subscription access through OpenClaw: https://x.com/bcherny/status/2040206440556826908\nEvan Hubinger on AI alignment and risk: https://x.com/EvanHub/status/2097497037956891126",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -285,7 +324,7 @@
       "url": "https://www.youtube.com/watch?v=uoSynlTDyMs",
       "published": "2026-11-21T00:00:37+00:00",
       "summary": "For more information about Stanford’s graduate programs, visit: \nhttps://stanford.io/grad-ed-cme295-A2026\n\nTo follow along with the course schedule and syllabus, visit: https://cme295.stanford.edu/syllabus/\n\nChapters:\n00:00:00 Introduction\n00:06:11 Human ratings\n00:08:53 Cohen’s kappa\n00:14:41 Rule-based metrics\n00:17:14 Pass@k\n00:28:55 BLEU, METEOR ROUGE\n00:33:48 LLM-as-a-Judge\n00:38:17 Prompt hillclimbing\n00:41:46 Structured outputs\n00:44:27 Position, verbosity, self-enhancement bias\n00:53:34 Agent evaluation\n01:12:32 Benchmarks with Artificial Analysis\n01:24:05 Benchmaxxing\n01:34:05 Pareto frontier\n01:42:40 Best practices\n\nAfshine Amidi is an Adjunct Professor at Stanford University.\n\nShervine Amidi is an Adjunct Professor at Stanford University.\n\nFollow the playlist: https://youtube.com/playlist?list=PLakGfbKCei80&amp;si=HF2tNywj7nXIQq8X",
-      "transcript_status": "error",
+      "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
       "analysis": null
@@ -382,19 +421,6 @@
       "analysis": null
     },
     {
-      "video_id": "Nr-c57iGbCs",
-      "title": "Stanford Online Graduate Information Session: Certificates, Individual Courses & Master’s Degrees",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=Nr-c57iGbCs",
-      "published": "2026-11-19T17:00:39+00:00",
-      "summary": "Graduate courses open for winter enrollment: https://stanford.io/Winter-2026\n\nGraduate certificates and how to apply as a non-degree student: https://stanford.io/grad-courses-certs\n\nBrowse Master's Degrees: https://stanford.io/grad-info-masters\n\nCan working professionals take Stanford graduate-level engineering classes without committing to a full degree? In this Stanford Online information session, Pax Heymeyer, Senior Director of Academic Programs, and Jonathan Nottman, Senior Director of Client Success and Engagement, explain three paths: taking individual graduate courses for credit, earning a graduate certificate, or pursuing a part-time master's degree with the option to study online.\n\nThe Stanford Engineering Center for Global and Online Education traces its history to 1954, when it began as a way for employees of Stanford Research Park companies to study part-time. Professionals with a bachelor's degree can apply as non-degree students for individual courses and graduate certificates.\n\nApplicants submit official transcripts, identification, and a short statement of purpose, but no letters of recommendation. The academic department reviews each application when the student enrolls in a course, and students must earn a B or better to continue. A graduate certificate takes three to four courses, usually within three years, and up to 18 units from non-degree courses can count toward a Stanford master's degree with department approval.\n\nKey questions answered in this session:\nQ: Who can take Stanford graduate courses as a non-degree student?\nA: Professionals with a bachelor's degree who meet department prerequisites and submit official transcripts. No letters of recommendation are required.\nQ: How much time should I plan for each week?\nA: 15 to 25 hours of coursework per week in a 10-week quarter.\nQ: Do I have to take exams in person?\nA: Most exams are taken in person at an approved proctor, such as a testing center or a supervisor, usually within a window of at least 24 hours.\nQ: Can non-degree units count toward a master's degree?\nA: Up to 18 units can transfer to a master's degree with department approval. They cannot be applied to a graduate certificate.\nQ: Are the programs available outside the U.S.?\nA: Yes. They are open to students worldwide.\nQ: Does doing well in these classes help master's admission?\nA: It helps, because it shows graduate-level performance, but it does not guarantee admission.\n\nAbout the speakers:\nPax Heymeyer is Senior Director of Academic Programs at the Stanford Engineering Center for Global and Online Education. Jonathan Nottman is Senior Director of Client Success and Engagement. \n\n#StanfordGraduate #StanfordMasters #GraduateCertificate #OnlineMasters #StanfordEngineering #ProfessionalEducation",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
       "video_id": "Cy7Wz6Z4TWU",
       "title": "DeepMind Just Released The Best Thing AI Ever Did",
       "channel": "Two Minute Papers",
@@ -402,32 +428,6 @@
       "url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
       "published": "2026-11-19T09:26:19+00:00",
       "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The DeepMind AlphaGenome paper is available here:\nhttps://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/\n\nInterview with creator Dr. Pushmeet Kohli:\nhttps://www.youtube.com/watch?v=Wkaw03p3BrM\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "l07K2cdLofM",
-      "title": "AI Costs: Tokens, Energy, Model Choice & API Keys | Stanford CS193T Lecture 7 with Cynthia Bailey",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=l07K2cdLofM",
-      "published": "2026-11-19T00:00:19+00:00",
-      "summary": "Explore AI courses and programs from Stanford Online: https://stanford.io/4BYTekh \n\nWhat does it cost to use AI in tokens, dollars, electricity, and water? In this Stanford CS193T: Thinking with AI lecture recording, Senior Lecturer Cynthia Bailey reads a real Claude Code usage report line by line, shows how caching saves money by reusing attention-mechanism calculations, and reviews estimates of AI's electricity and water use and how they vary by task and context size. She then covers model selection, including why bigger is not always better once latency compounds across a multi-step agentic workflow, and API keys: what they are, why they matter for billing and security, and a hands-on demonstration of how one leaks. The lecture closes with a current-events look at how the real-world costs of AI became a factor in the 2026 midterm elections.\n\nKey questions answered in this lecture:\nQ: What do the numbers in a Claude Code usage report mean?\nA: Bailey walks through total cost, API duration (time spent waiting on the model, including network transit and data center load), wall-clock time since the session began, and input versus output tokens. Input tokens cover everything the model reads, including the system prompt, settings, and connectors. Output tokens include the model's reasoning.\n\nQ: How does caching reduce the cost of using an AI model?\nA: Much of the context window repeats from prompt to prompt, so a precomputed version is saved instead of being reprocessed. Because the attention calculation is done once and reused, cache reads can be discounted by up to about 90% compared with raw input tokens.\n\nQ: Do unused skills still add to token costs?\nA: Yes. Every enabled skill places its text in the context window on each prompt, so unused skills still add cost. Bailey recommends removing skills an agent does not need and starting a fresh session when you switch tasks.\n\nQ: How much electricity and water does an AI prompt use?\nA: Bailey cites Google's self-reported 2025 figures for a median Gemini text prompt, about 0.26 mL of water and 0.24 Wh of electricity, and notes that public data is limited. She also covers research estimates that image generation costs 20 to 40 times more than text and video 1,000 to 3,000 times more, with reasoning modes averaging about 30 times more.\n\nQ: How should you choose a model for an AI agent?\nA: Bigger is not automatically better, because larger models bring higher latency, and that delay repeats at every step of a multi-agent workflow. A narrow check against an objective rule can suit the smallest, cheapest model, while a guardrail that must interpret policy with nuance calls for a stronger one.\n\nQ: What is an API key, and how can one leak?\nA: An API key works like login credentials for a program, letting it call an AI model and bill the usage to your account, so it deserves the same care as a password. If a key is written into a web page's code, anyone can view the page source, copy it and run up charges, so it must be kept out of public view.\n\nChapters:\n0:00 Introduction and agenda\n2:34 Reading a Claude Code usage report\n5:01 Input and output tokens\n6:33 Prompt caching\n10:07 Skills, plugins and token overhead\n13:20 Electricity and water use of AI\n16:07 Image, video and reasoning multipliers\n18:39 Agent model selection and latency\n21:07 Case study: AI tutor guardrail agents\n26:11 Case study: policy Q&amp;A chatbot\n29:54 What API keys are and who pays\n34:43 Security risk: leaking an API key\n36:45 Demo: how an API key leaks\n42:20 AI data centers in the 2026 elections\n\nAbout the speaker:\nCynthia Bailey is a Senior Lecturer in the Computer Science Department at Stanford University. In 2023-2024, she served as an AI Policy Fellow in the United States Senate through the American Association for the Advancement of Science (AAAS). Her scholarship focuses on computer science education, AI/machine learning, and the social impacts of technology. This work includes creating groundbreaking courses such as Equity and Governance for Artificial Intelligence and Race and Gender in Silicon Valley. Her teaching and research awards include the Lloyd W. Dinkelspiel Award for exceptional contributions to undergraduate education at Stanford, the Lasting Impact Award from the International Computing Education Research conference, a \"Top 10 Papers of All Time\" award at the 50th anniversary of the ACM SIGCSE Technical Symposium, and the Stanford Society of Women Engineers' Professor of the Year. She has consulted for Apple, NASA, law firms, and machine learning startups. She holds a Ph.D. in Computer Science from UC San Diego.\n\nCourse website: https://web.stanford.edu/class/archive/cs/cs193t/cs193t.1272/\nWatch the full CS193T playlist: https://www.youtube.com/playlist?list=PLDrJO3v_iAZY\n\nRecorded November 10, 2026, in CS193T: Thinking with AI, a Stanford University course taught by Cynthia Bailey.\n\n#AI #LLM #ResponsibleAI",
-      "transcript_status": null,
-      "transcript_language": null,
-      "analysis_status": null,
-      "analysis": null
-    },
-    {
-      "video_id": "7GW-9ug2nvw",
-      "title": "Terminal-Bench: Evaluating AI Agents | Stanford CS329Z Guest Lecture with Alex Shaw & Ryan Marten",
-      "channel": "Stanford Online",
-      "channel_category": "Education",
-      "url": "https://www.youtube.com/watch?v=7GW-9ug2nvw",
-      "published": "2026-11-18T21:00:35+00:00",
-      "summary": "Browse Stanford's online courses in Agentic AI: https://stanford.io/4AIRb2z \n\nLecture Overview:\nHow do frontier AI labs measure whether agents can do real work? In this Stanford CS329Z: Engineering AI Agents guest lecture, Alex Shaw and Ryan Marten of the Laude Institute, co-creators of Terminal-Bench, explain why evals have become the source of truth for agent software, how Terminal-Bench measures how well agents accomplish hard, real-world tasks in a terminal environment, and how to write tasks, design verifiers, prevent reward hacking, and maintain a benchmark with their open-source framework, Harbor.\n\nSpeakers: Alex Shaw and Ryan Marten\n\nAlex Shaw is a founding Member of Technical Staff at the Laude Institute building the infrastructure for evaluating and training AI agents. He is the co-creator of Terminal-Bench, a benchmark of hard, realistic command-line tasks that frontier labs now report in their model cards, and the creator of Harbor, the open-source framework for building agent evaluations and RL environments.\n\nRyan Marten is a Member of Technical Staff at the Laude Institute building the training data, benchmarks, and infrastructure behind more capable reasoning models and autonomous agents. He helped lead OpenThoughts, the fully open data recipe behind the OpenThinker reasoning models, and Terminal-Bench, which virtually every frontier lab now uses to measure how well agents complete real tasks in a terminal, and contributes to Harbor, the open-source framework for building agent evaluations and RL environments.\n\nCourse website: https://cs329z.stanford.edu/\n\nWatch the full CS329Z playlist: https://youtube.com/playlist?list=PLPRcF5HR02_U&amp;si=3Z4OYphngcmQ0GIy\n\nRecorded 10/26/2026 in CS329Z: Engineering AI Agents, a graduate course at Stanford University taught by Diyi Yang, Michael Ryan, and John Yang.\n\n#AIAgents #AgenticAI #Stanford",
       "transcript_status": null,
       "transcript_language": null,
       "analysis_status": null,
